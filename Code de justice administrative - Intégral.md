@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-04-21
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -8403,15 +8403,14 @@ Papeete : Polynésie française ;
 
 Nouvelle-Calédonie : Nouvelle-Calédonie.
 
+Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
+celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
 _Cité par_:
 
@@ -8423,13 +8422,17 @@ _Cité par_:
   - Arrêté du 1er décembre 2011 (Ab)
   - Code de justice administrative - art. R776-16 (VD)
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 12 () JORF 21 avril 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R4 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R221-4
@@ -8913,9 +8916,8 @@ Le vice-président du Conseil d'Etat ordonnance les dépenses des tribunaux admi
 d'appel.
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut
-également être donnée aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un
-corps de catégorie A pour signer les ordonnances de paiement, de virement, de délégation, les pièces justificatives de
-dépenses et les ordres de recettes.
+être également donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général
+appartenant à un corps de catégorie A.
 
 **Liens relatifs à cet article**
 
@@ -8927,9 +8929,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 13 () JORF 21 avril 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R222-12
@@ -9247,6 +9253,27 @@ _Cite_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R17 (M)
+
+
+###### Article R222-21-1
+
+Le président du tribunal administratif de Paris peut déléguer au vice-président de ce tribunal les attributions qu'il tient
+des dispositions figurant aux titres IV et V du livre III, au titre II du livre VI, au titre VI du livre VII et au titre II
+du livre IX du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 14 () JORF 21 avril 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R222-22
@@ -14421,6 +14448,26 @@ _Cité par_:
   - Code de justice administrative - art. R522-11 (V)
   - Code de justice administrative. - art. R551-4 (V)
   - Code de justice administrative. - art. R551-8 (V)
+
+
+###### Article R522-8-1
+
+Par dérogation aux dispositions du titre V du livre III du présent code, le juge des référés qui entend décliner la
+compétence de la juridiction rejette les conclusions dont il est saisi par voie d'ordonnance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 1 () JORF 21 avril 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R522-9

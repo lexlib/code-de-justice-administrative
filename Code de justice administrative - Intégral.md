@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-08-03
+Version Consolidée au 2001-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -8443,59 +8443,59 @@ _Modifié par_:
 
 Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
 
-Amiens : trois chambres ;
+Amiens : 3 chambres ;
 
-Bastia : deux chambres ;
+Bastia : 2 chambres ;
 
-Besançon : deux chambres ;
+Besançon : 2 chambres ;
 
-Bordeaux : trois chambres ;
+Bordeaux : 4 chambres ;
 
-Caen : deux chambres ;
+Caen : 2 chambres ;
 
-Cergy-Pontoise : cinq chambres ;
+Cergy-Pontoise : 5 chambres ;
 
-Châlons-en-Champagne : deux chambres ;
+Châlons-en-Champagne : 2 chambres ;
 
-Clermont-Ferrand : deux chambres ;
+Clermont-Ferrand : 2 chambres ;
 
-Dijon : trois chambres ;
+Dijon : 3 chambres ;
 
-Grenoble : cinq chambres ;
+Grenoble : 5 chambres ;
 
-Lille : cinq chambres ;
+Lille : 6 chambres ;
 
-Limoges : deux chambres ;
+Limoges : 2 chambres ;
 
-Lyon : six chambres ;
+Lyon : 7 chambres ;
 
-Marseille : sept chambres ;
+Marseille : 8 chambres ;
 
-Melun : cinq chambres ;
+Melun : 5 chambres ;
 
-Montpellier : quatre chambres ;
+Montpellier : 5 chambres ;
 
-Nancy : deux chambres ;
+Nancy : 2 chambres ;
 
-Nantes : quatre chambres ;
+Nantes : 4 chambres ;
 
-Nice : cinq chambres ;
+Nice : 6 chambres ;
 
-Orléans : trois chambres ;
+Orléans : 3 chambres ;
 
-Pau : deux chambres ;
+Pau : 2 chambres ;
 
-Poitiers : trois chambres ;
+Poitiers : 3 chambres ;
 
-Rennes : cinq chambres ;
+Rennes : 5 chambres ;
 
-Rouen : trois chambres ;
+Rouen : 3 chambres ;
 
-Strasbourg : quatre chambres ;
+Strasbourg : 4 chambres ;
 
-Toulouse : quatre chambres ;
+Toulouse : 4 chambres ;
 
-Versailles : six chambres.
+Versailles : 7 chambres.
 
 **Liens relatifs à cet article**
 
@@ -8507,14 +8507,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
-_Modifié par_:
-
-  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V) JORF 28 juillet 2000 en vigueur le 1er janvier 2001
-
 _Cité par_:
 
   - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
   - Code de justice administrative - art. R222-17 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-690 du 31 juillet 2001 - art. 1 () JORF 1er août 2001 en vigueur le 1er septembre 2001
 
 _Anciens textes_:
 
@@ -8544,8 +8544,8 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-Le tribunal administratif de Paris comprend treize chambres réparties en sections. Il est présidé par un président classé au
-7e échelon de son grade.
+Le tribunal administratif de Paris comprend quatorze chambres réparties en sections. Il est présidé par un président classé
+au 7e échelon de son grade.
 
 **Liens relatifs à cet article**
 
@@ -8556,6 +8556,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-690 du 31 juillet 2001 - art. 2 () JORF 1er août 2001 en vigueur le 1er septembre 2001
 
 _Cité par_:
 
@@ -8614,9 +8618,11 @@ _Anciens textes_:
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Paris : cinq chambres ;
+Paris : 5 chambres ;
 
-Bordeaux, Douai, Lyon, Marseille, Nancy et Nantes : trois chambres.
+Bordeaux et Lyon : 4 chambres ;
+
+Douai, Marseille, Nancy et Nantes : 3 chambres.
 
 **Liens relatifs à cet article**
 
@@ -8627,6 +8633,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-690 du 31 juillet 2001 - art. 3 () JORF 1er août 2001 en vigueur le 1er septembre 2001
 
 _Anciens textes_:
 
@@ -9354,12 +9364,9 @@ La chambre siège en formation de jugement sous la présidence de son président
 magistrat désigné à cet effet par le président de la cour et ayant au moins le grade de président. Elle comprend, outre le
 président :
 
-1° Deux magistrats affectés à la chambre, désignés en suivant l'ordre du tableau parmi les magistrats présents ;
+1° Un magistrat affecté à la chambre, désigné en suivant l'ordre du tableau parmi les magistrats présents ;
 
-2° Un magistrat affecté à une autre chambre, désigné en suivant l'ordre du tableau parmi les magistrats présents autres que
-les présidents de chambre ;
-
-3° Le magistrat rapporteur.
+2° Le magistrat rapporteur.
 
 **Liens relatifs à cet article**
 
@@ -9369,7 +9376,7 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -9381,16 +9388,21 @@ _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R27 (M)
 
+_Modifié par_:
+
+  - Décret n°2001-710 2001-08-03 art. 2 JORF 3 août 2001 en vigueur le 1er septembre 2001
+
 
 ###### Article R222-27
 
-Lorsqu'elle doit statuer sur des appels dirigés contre des ordonnances ou contre des jugements rendus par un juge statuant
-seul, ou en cas d'absence ou d'empêchement de certains de ses membres, la chambre peut siéger en formation de jugement avec
-trois membres seulement.
+Lorsque la nature ou la difficulté de l'affaire le justifie et sans préjudice des dispositions de l'article R. 222-29, le
+président de la chambre peut proposer au président de la cour que la chambre siégeant en formation de jugement comprenne,
+outre les magistrats mentionnés à l'article précédent :
 
-Elle est alors présidée par son président ou, à défaut, par le magistrat désigné en application du premier alinéa de
-l'article R. 222-26 et comprend, en outre, un magistrat affecté à la chambre désigné en suivant l'ordre du tableau parmi les
-magistrats présents, et le magistrat rapporteur.
+1° Un autre magistrat affecté à la chambre, désigné en suivant l'ordre du tableau parmi les magistrats présents ;
+
+2° Un magistrat affecté à une autre chambre, désigné en suivant l'ordre du tableau parmi les magistrats présents autres que
+les présidents de chambre.
 
 **Liens relatifs à cet article**
 
@@ -9398,9 +9410,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2001-710 2001-08-03 art. 2 JORF 3 août 2001 en vigueur le 1er septembre 2001
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cite_:
 
@@ -9458,12 +9474,14 @@ _Anciens textes_:
 ###### Article R222-30
 
 La cour administrative d'appel en formation plénière est présidée par le président de la cour ou, à défaut, par le président
-de chambre le plus ancien dans ses fonctions. Elle comprend, en outre, le magistrat rapporteur et cinq autres membres, dont,
-d'une part, les présidents de chambre de la cour, d'autre part, des magistrats désignés en suivant l'ordre du tableau parmi
-les magistrats présents.
+de chambre le plus ancien dans ses fonctions. Elle comprend en outre :
 
-Un président de chambre absent ou empêché est remplacé par un magistrat de la même chambre, ayant au moins le grade de
-président, désigné en suivant l'ordre du tableau.
+1° Les présidents de chambre de la cour, remplacés en cas d'absence ou d'empêchement par un magistrat de la même chambre,
+ayant au moins le grade de président, désigné en suivant l'ordre du tableau ;
+
+2° Le magistrat rapporteur ;
+
+3° S'il y a lieu, un magistrat départageur ayant le grade de président, désigné en suivant l'ordre du tableau.
 
 **Liens relatifs à cet article**
 
@@ -9471,9 +9489,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2001-710 2001-08-03 art. 2 JORF 3 août 2001 en vigueur le 1er septembre 2001
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -9482,34 +9504,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R29 (M)
-
-
-###### Article R222-31
-
-En cas d'absence ou d'empêchement de certains de ses membres, la cour administrative d'appel peut siéger en formation
-plénière avec cinq membres seulement, désignés de la manière indiquée à l'article R. 222-30.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-_Cite_:
-
-  - Code de justice administrative. - art. R222-30 (M)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R30 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001 en vigueur le 1er septembre 2001
 
 
 ###### Article R222-32
@@ -9537,8 +9531,8 @@ _Cite_:
 ###### Article R223-1
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Basse-Terre, de
-Cayenne, de Fort-de-France et de Saint-Pierre. Il est assisté d'un magistrat ayant le grade de président. Ces tribunaux
-peuvent avoir des membres communs.
+Cayenne, de Fort-de-France et de Saint-Pierre. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces
+tribunaux peuvent avoir des membres communs.
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mamoudzou et de
 Saint-Denis. Ces tribunaux peuvent avoir des membres communs.
@@ -9552,6 +9546,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-690 du 31 juillet 2001 - art. 4 () JORF 1er août 2001 en vigueur le 1er septembre 2001
 
 _Anciens textes_:
 
@@ -18541,6 +18539,9 @@ _Anciens textes_:
 
 ###### Article R751-5
 
+Lorsque la décision rendue relève de la cour administrative d'appel, la notification reproduit les dispositions de l'article
+R. 811-7.
+
 Lorsque la décision rendue relève du contrôle du juge de cassation, la notification comporte les mentions prévues à l'article
 R. 821-4.
 
@@ -18568,6 +18569,10 @@ _Cite_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R213 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001 en vigueur le 1er septembre 2001
 
 
 ###### Article R751-6
@@ -19959,6 +19964,9 @@ d'indemnisation des rapatriés ;
 6° Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
 situé dans le ressort de la cour et frappé d'appel devant celle-ci.
 
+Lorsque la notification de la décision rendue en premier ressort ne comporte pas l'information prévue au premier alinéa de
+l'article R. 751-5, le requérant est invité à régulariser sa requête dans les conditions fixées à l'article R. 612-1.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -19980,14 +19988,15 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative. - art. R431-2 (V)
+  - Code de justice administrative. - art. R612-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001 en vigueur le 1er septembre 2001
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R116 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 5 JORF 3 août 2001
 
 
 ###### Article R811-8

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -43,236 +43,238 @@ Version Consolidée au 2004-01-01
         - [Chapitre V : Dispositions particulières à la Polynésie française (art. L225-1 à L225-3)](#40)
           - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete. (art. L225-2)](#41)
           - [Section 2 : La saisine pour avis du tribunal administratif de Papeete. (art. L225-3)](#42)
-        - [Chapitre VII : Les assistants de justice (art. L227-1)](#43)
-      - [Titre III : Dispositions statutaires (art. L231-1 à L236-3)](#44)
-        - [Chapitre Ier : Dispositions générales (art. L231-1 à L231-9)](#45)
-        - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel (art. L232-1 à L232-5)](#46)
-          - [Section 1 : Dispositions générales (art. L232-1 à L232-4)](#47)
-          - [Section 2 : Désignation des membres du Conseil supérieur (art. L232-4-1)](#48)
-          - [Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel (art. L232-5)](#49)
-        - [Chapitre III : Nomination et recrutement (art. L233-1 à L233-9)](#50)
-          - [Section 1 : Dispositions générales (art. L233-1 à L233-2)](#51)
-          - [Section 2 : Nomination au tour extérieur (art. L233-3 à L233-4)](#52)
-          - [Section 3 : Recrutement après détachement (art. L233-5)](#53)
-          - [Section 4 : Recrutement complémentaire (art. L233-6)](#54)
-          - [Section 5 : Maintien en surnombre (art. L233-7 à L233-8)](#55)
-          - [Section 6 : Fin de fonctions (art. L233-9)](#56)
-        - [Chapitre IV : Avancement (art. L234-1 à L234-5)](#57)
-        - [Chapitre VI : Discipline (art. L236-1 à L236-3)](#58)
-    - [Livre III : La compétence (art. L311-1 à L331-1)](#59)
-      - [Titre Ier : La compétence de premier ressort (art. L311-1 à L311-6)](#60)
-        - [Chapitre Ier : La compétence en raison de la matière (art. L311-1 à L311-6)](#61)
-      - [Titre II : La compétence d'appel (art. L321-1 à L321-2)](#62)
-        - [Chapitre Ier : La compétence en raison de la matière (art. L321-1 à L321-2)](#63)
-      - [Titre III : Le Conseil d'Etat juge de cassation (art. L331-1)](#64)
-    - [Livre V : Le référé (art. L511-1 à L555-1)](#65)
-      - [Titre Ier : Le juge des référés (art. L511-1 à L511-2)](#66)
-      - [Titre II : Le juge des référés statuant en urgence (art. L521-1 à L523-1)](#67)
-        - [Chapitre Ier : Pouvoirs (art. L521-1 à L521-4)](#68)
-        - [Chapitre II : Procédure (art. L522-1 à L522-3)](#69)
-        - [Chapitre III : Voies de recours (art. L523-1)](#70)
-      - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-1)](#71)
-        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-2)](#72)
-        - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-2)](#73)
-        - [Chapitre III : Le référé en matière de communication audiovisuelle (art. L553-1)](#74)
-        - [Chapitre IV : Les régimes spéciaux de suspension (art. L554-1 à L554-12)](#75)
-          - [Section 1 : La suspension sur déféré (art. L554-1 à L554-9)](#76)
-          - [Section 2 : La suspension en matière d'urbanisme et de protection de la nature ou de l'environnement (art. L554-10 à L554-12)](#77)
-        - [Chapitre V : Dispositions diverses (art. L555-1)](#78)
-    - [Livre VII : Le jugement (art. L721-1 à L776-2)](#79)
-      - [Titre II : L'abstention et la récusation (art. L721-1)](#80)
-      - [Titre IV : La décision (art. L741-1 à L741-3)](#81)
-        - [Chapitre Ier : Dispositions générales (art. L741-1 à L741-3)](#82)
-          - [Section 6 : Dispositions diverses (art. L741-1 à L741-3)](#83)
-      - [Titre VI : Les frais et dépens (art. L761-1)](#84)
-      - [Titre VII : Dispositions spéciales (art. L774-1 à L776-2)](#85)
-        - [Chapitre IV : Les contraventions de grande voirie (art. L774-1 à L774-9)](#86)
-        - [Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière. (art. L776-1 à L776-2)](#87)
-    - [Livre VIII : Les voies de recours (art. L811-1 à L822-1)](#88)
-      - [Titre Ier : L'appel (art. L811-1)](#89)
-      - [Titre II : Le recours en cassation (art. L821-1 à L822-1)](#90)
-        - [Chapitre Ier : Dispositions générales (art. L821-1 à L821-2)](#91)
-        - [Chapitre II : Procédure d'admission (art. L822-1)](#92)
-    - [Livre IX : L'exécution des décisions (art. L911-1 à L911-10)](#93)
-      - [Titre Ier : Principes (art. L911-1 à L911-10)](#94)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R112-1 à R931-9)](#95)
-    - [Livre Ier : Le Conseil d'Etat (art. R112-1 à R137-4)](#96)
-      - [Titre Ier : Attributions (art. R112-1 à R113-4)](#97)
-        - [Chapitre II : Attributions en matière administrative et législative (art. R112-1)](#98)
-        - [Chapitre III : L'avis sur une question de droit (art. R113-1 à R113-4)](#99)
-      - [Titre II : Organisation et fonctionnement (art. R121-1 à R123-26)](#100)
-        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-15)](#101)
-          - [Section 1 : Organisation (art. R121-1 à R121-14)](#102)
-          - [Section 2 : Les conseillers d'Etat en service extraordinaire (art. R121-15)](#103)
-        - [Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses (art. R122-1 à R122-32)](#104)
-          - [Section 1 : Organisation (art. R122-1 à R122-10)](#105)
-          - [Section 2 : Les formations de jugement (art. R122-11 à R122-25)](#106)
-          - [Section 3 : Le secrétariat de la section du contentieux (art. R122-26 à R122-29)](#107)
-          - [Section 4 : Les assistants de justice (art. R122-30 à R122-32)](#108)
-        - [Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives (art. R123-1 à R123-26)](#109)
-          - [Section 1 : Les sections administratives (art. R123-2 à R123-11)](#110)
-          - [Section 2 : L'assemblée générale (art. R123-12 à R123-20)](#111)
-          - [Section 3 : La commission permanente (art. R123-21 à R123-23)](#112)
-          - [Section 4 : Dispositions communes (art. R123-24 à R123-26)](#113)
-      - [Titre III : Dispositions statutaires (art. R*131-1 à R137-4)](#114)
-        - [Chapitre Ier : Dispositions générales (art. R*131-1 à R*131-2)](#115)
-        - [Chapitre II : La commission consultative (art. R132-1 à R132-3)](#116)
-        - [Chapitre III : Nominations (art. R*133-1 à R*133-9)](#117)
-          - [Section 1 : Dispositions générales (art. R*133-1 à R*133-2)](#118)
-          - [Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel (art. R*133-3 à R*133-9)](#119)
-        - [Chapitre IV : Avancement (art. R*134-1 à R*134-8)](#120)
-        - [Chapitre V : Positions (art. R*135-1 à R*135-11)](#121)
-        - [Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général (art. R137-1 à R137-4)](#122)
-    - [Livre II : Les tribunaux administratifs et les cours administratives d'appel (art. R212-1 à R237-2)](#123)
-      - [Titre Ier : Attributions (art. R212-1 à R212-4)](#124)
-        - [Chapitre II : Attributions administratives (art. R212-1 à R212-4)](#125)
-      - [Titre II : Organisation et fonctionnement (art. R221-1 à R227-10)](#126)
-        - [Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel (art. R221-1 à R221-8)](#127)
-          - [Section 1 : Dispositions communes (art. R221-1 à R221-2)](#128)
-          - [Section 2 : Organisation des tribunaux administratifs (art. R221-3 à R221-6)](#129)
-          - [Section 3 : Organisation des cours administratives d'appel (art. R221-7 à R221-8)](#130)
-        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-32)](#131)
-          - [Section 1 : Dispositions communes (art. R222-1 à R222-12)](#132)
-          - [Section 2 : Fonctionnement des tribunaux administratifs (art. R222-13 à R222-24)](#133)
-          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-32)](#134)
-        - [Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon. (art. R223-1 à R223-4)](#135)
-        - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie (art. R224-1 à R224-12)](#136)
-          - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie (art. R224-3 à R224-6)](#137)
-          - [Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie (art. R224-7 à R224-9)](#138)
-          - [Section 3 : La nature juridique d'une disposition d'une loi du pays de la Nouvelle-Calédonie (art. R224-10 à R224-12)](#139)
-        - [Chapitre V : Dispositions particulières à la Polynésie française (art. R225-1 à R225-8)](#140)
-          - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete. (art. R225-2 à R225-5)](#141)
-          - [Section 2 : La saisine pour avis du tribunal administratif de Papeete. (art. R225-6 à R225-8)](#142)
-        - [Chapitre VI : Les greffes (art. R226-1 à R226-13)](#143)
-          - [Section 1 : Dispositions communes aux greffes des tribunaux administratifs et cours administratives d'appel (art. R226-1 à R226-6)](#144)
-            - [Sous-section 1 : Dispositions relatives au personnel (art. R226-1 à R226-4)](#145)
-            - [Sous-section 2 : Dispositions relatives au fonctionnement (art. R226-5 à R226-6)](#146)
-          - [Section 2 : Dispositions particulières à certains greffes (art. R226-7 à R226-13)](#147)
-            - [Sous-section 1 : Règles particulières au greffe du tribunal administratif de Paris et à la cour administrative d'appel de Paris. (art. R226-7)](#148)
-            - [Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de Papeete, de Mamoudzou et de la Nouvelle-Calédonie. (art. R226-8 à R226-12)](#149)
-            - [Sous-section 3 : Règles particulières au greffe du tribunal administratif de Saint-Pierre-et-Miquelon (art. R226-13)](#150)
-        - [Chapitre VII : Les assistants de justice (art. R227-1 à R227-10)](#151)
-      - [Titre III : Dispositions statutaires (art. R231-1 à R237-2)](#152)
-        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-4)](#153)
-        - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel (art. R232-1 à R232-29)](#154)
-          - [Section 2 : Désignation des membres du Conseil supérieur (art. R232-1 à R232-18)](#155)
-          - [Section 3 : Fonctionnement du Conseil supérieur (art. R232-19 à R232-26)](#156)
-          - [Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel (art. R232-27 à R232-29)](#157)
-        - [Chapitre III : Nomination et recrutement (art. R233-1 à R233-13)](#158)
-          - [Section 1 : Dispositions générales (art. R233-1 à R233-3)](#159)
-          - [Section 2 : Nomination au tour extérieur (art. R233-4 à R233-6)](#160)
-          - [Section 3 : Recrutement après détachement (art. R233-7)](#161)
-          - [Section 4 : Recrutement complémentaire (art. R233-8 à R233-12)](#162)
-          - [Section 6 : Fin de fonctions (art. R233-13)](#163)
-        - [Chapitre IV : Avancement (art. R234-1 à R234-7)](#164)
-        - [Chapitre V : Positions (art. R235-1 à R235-2)](#165)
-        - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#166)
-    - [Livre III : La compétence (art. R311-1 à R351-9)](#167)
-      - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-17)](#168)
-        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-3)](#169)
-        - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-17)](#170)
-          - [Section 1 : Principes (art. R312-1 à R312-5)](#171)
-          - [Section 2 : Exceptions (art. R312-6 à R312-17)](#172)
-      - [Titre II : La compétence d'appel (art. R321-1 à R322-3)](#173)
-        - [Chapitre Ier : La compétence en raison de la matière (art. R321-1 à R321-2)](#174)
-        - [Chapitre II : La compétence territoriale des cours administratives d'appel (art. R322-1 à R322-3)](#175)
-      - [Titre IV : La connexité (art. R341-1 à R344-3)](#176)
-        - [Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort du Conseil d'Etat (art. R341-1 à R341-4)](#177)
-        - [Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs (art. R342-1 à R342-3)](#178)
-        - [Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat (art. R343-1 à R343-4)](#179)
-        - [Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel (art. R344-1 à R344-3)](#180)
-      - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-9)](#181)
-    - [Livre IV : L'introduction de l'instance de premier ressort (art. R411-1 à R441-1)](#182)
-      - [Titre Ier : La requête introductive d'instance (art. R411-1 à R413-6)](#183)
-        - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-7)](#184)
-        - [Chapitre II : Pièces jointes ou productions (art. R412-1 à R412-3)](#185)
-        - [Chapitre III : Dépôt de la requête (art. R413-1 à R413-6)](#186)
-      - [Titre II : Les délais (art. R421-1 à R421-7)](#187)
-      - [Titre III : La représentation des parties (art. R431-1 à R432-4)](#188)
-        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10)](#189)
-        - [Chapitre II : La représentation des parties devant le Conseil d'Etat (art. R432-1 à R432-4)](#190)
-      - [Titre IV : L'aide juridictionnelle (art. R441-1)](#191)
-    - [Livre V : Le référé (art. R522-1 à R554-1)](#192)
-      - [Titre II : Le juge des référés statuant en urgence (art. R522-1 à R523-3)](#193)
-        - [Chapitre II : Procédure (art. R522-1 à R522-14)](#194)
-        - [Chapitre III : Voies de recours (art. R523-1 à R523-3)](#195)
-      - [Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction (art. R531-1 à R533-3)](#196)
-        - [Chapitre Ier : Le constat (art. R531-1)](#197)
-        - [Chapitre II : Le référé instruction (art. R532-1 à R532-2)](#198)
-        - [Chapitre III : Voies de recours (art. R533-1 à R533-3)](#199)
-      - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#200)
-        - [Chapitre unique. (art. R541-1 à R541-6)](#201)
-      - [Titre V : Dispositions particulières à certains contentieux (art. R551-1 à R554-1)](#202)
-        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-4)](#203)
-        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#204)
-    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#205)
-      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#206)
-        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-30)](#207)
-          - [Section 1 : Dispositions générales (art. R611-1 à R611-8)](#208)
-          - [Section 2 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15)](#209)
-          - [Section 3 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#210)
-          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-30)](#211)
-        - [Chapitre II : La demande de régularisation et la mise en demeure (art. R612-1 à R612-6)](#212)
-        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#213)
-          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#214)
-          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#215)
-      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#216)
-        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#217)
-          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6)](#218)
-          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8)](#219)
-          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#220)
-          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#221)
-        - [Chapitre II : La visite des lieux (art. R622-1)](#222)
-        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#223)
-          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#224)
-          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#225)
-          - [Section 3 : Frais de l'enquête (art. R623-8)](#226)
-        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#227)
-        - [Chapitre V : Les autres mesures d'instruction (art. R625-1)](#228)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#229)
-      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#230)
-        - [Chapitre Ier : La demande incidente (art. R631-1)](#231)
-        - [Chapitre II : L'intervention (art. R632-1)](#232)
-        - [Chapitre III : L'inscription de faux (art. R633-1)](#233)
-        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#234)
-        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#235)
-        - [Chapitre VI : Le désistement (art. R636-1)](#236)
-    - [Livre VII : Le jugement (art. R711-1 à R776-20)](#237)
-      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-1)](#238)
-        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-3)](#239)
-        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1)](#240)
-      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#241)
-      - [Titre III : La tenue de l'audience. (art. R731-1 à R731-4)](#242)
-      - [Titre IV : La décision (art. R741-1 à R742-6)](#243)
-        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-12)](#244)
-          - [Section 1 : Le prononcé de la décision (art. R741-1)](#245)
-          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#246)
-          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#247)
-          - [Section 4 : La rectification des erreurs matérielles devant le tribunal administratif (art. R741-11)](#248)
-          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#249)
-        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#250)
-      - [Titre V : La notification de la décision (art. R751-1 à R751-12)](#251)
-      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#252)
-      - [Titre VII : Dispositions spéciales (art. R771-1 à R776-20)](#253)
-        - [Chapitre Ier : La saisine du Tribunal des conflits (art. R771-1 à R771-2)](#254)
-        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#255)
-        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#256)
-        - [Chapitre 5 : Le contentieux des édifices menacant ruine. (art. R775-1)](#257)
-        - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#258)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#259)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#260)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#261)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#262)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#263)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#264)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#265)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#266)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#267)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#268)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#269)
-      - [Titre Ier : Principes (art. R911-1)](#270)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#271)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#272)
+        - [Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna (art. L225-4)](#43)
+        - [Chapitre VII : Les assistants de justice (art. L227-1)](#44)
+      - [Titre III : Dispositions statutaires (art. L231-1 à L236-3)](#45)
+        - [Chapitre Ier : Dispositions générales (art. L231-1 à L231-9)](#46)
+        - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel (art. L232-1 à L232-5)](#47)
+          - [Section 1 : Dispositions générales (art. L232-1 à L232-4)](#48)
+          - [Section 2 : Désignation des membres du Conseil supérieur (art. L232-4-1)](#49)
+          - [Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel (art. L232-5)](#50)
+        - [Chapitre III : Nomination et recrutement (art. L233-1 à L233-9)](#51)
+          - [Section 1 : Dispositions générales (art. L233-1 à L233-2)](#52)
+          - [Section 2 : Nomination au tour extérieur (art. L233-3 à L233-4)](#53)
+          - [Section 3 : Recrutement après détachement (art. L233-5)](#54)
+          - [Section 4 : Recrutement complémentaire (art. L233-6)](#55)
+          - [Section 5 : Maintien en surnombre (art. L233-7 à L233-8)](#56)
+          - [Section 6 : Fin de fonctions (art. L233-9)](#57)
+        - [Chapitre IV : Avancement (art. L234-1 à L234-5)](#58)
+        - [Chapitre VI : Discipline (art. L236-1 à L236-3)](#59)
+    - [Livre III : La compétence (art. L311-1 à L331-1)](#60)
+      - [Titre Ier : La compétence de premier ressort (art. L311-1 à L311-6)](#61)
+        - [Chapitre Ier : La compétence en raison de la matière (art. L311-1 à L311-6)](#62)
+      - [Titre II : La compétence d'appel (art. L321-1 à L321-2)](#63)
+        - [Chapitre Ier : La compétence en raison de la matière (art. L321-1 à L321-2)](#64)
+      - [Titre III : Le Conseil d'Etat juge de cassation (art. L331-1)](#65)
+    - [Livre V : Le référé (art. L511-1 à L555-1)](#66)
+      - [Titre Ier : Le juge des référés (art. L511-1 à L511-2)](#67)
+      - [Titre II : Le juge des référés statuant en urgence (art. L521-1 à L523-1)](#68)
+        - [Chapitre Ier : Pouvoirs (art. L521-1 à L521-4)](#69)
+        - [Chapitre II : Procédure (art. L522-1 à L522-3)](#70)
+        - [Chapitre III : Voies de recours (art. L523-1)](#71)
+      - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-1)](#72)
+        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-2)](#73)
+        - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-2)](#74)
+        - [Chapitre III : Le référé en matière de communication audiovisuelle (art. L553-1)](#75)
+        - [Chapitre IV : Les régimes spéciaux de suspension (art. L554-1 à L554-12)](#76)
+          - [Section 1 : La suspension sur déféré (art. L554-1 à L554-9)](#77)
+          - [Section 2 : La suspension en matière d'urbanisme et de protection de la nature ou de l'environnement (art. L554-10 à L554-12)](#78)
+        - [Chapitre V : Dispositions diverses (art. L555-1)](#79)
+    - [Livre VII : Le jugement (art. L721-1 à L776-2)](#80)
+      - [Titre II : L'abstention et la récusation (art. L721-1)](#81)
+      - [Titre IV : La décision (art. L741-1 à L741-3)](#82)
+        - [Chapitre Ier : Dispositions générales (art. L741-1 à L741-3)](#83)
+          - [Section 6 : Dispositions diverses (art. L741-1 à L741-3)](#84)
+      - [Titre VI : Les frais et dépens (art. L761-1)](#85)
+      - [Titre VII : Dispositions spéciales (art. L774-1 à L776-2)](#86)
+        - [Chapitre IV : Les contraventions de grande voirie (art. L774-1 à L774-10)](#87)
+        - [Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière. (art. L776-1 à L776-2)](#88)
+    - [Livre VIII : Les voies de recours (art. L811-1 à L822-1)](#89)
+      - [Titre Ier : L'appel (art. L811-1)](#90)
+      - [Titre II : Le recours en cassation (art. L821-1 à L822-1)](#91)
+        - [Chapitre Ier : Dispositions générales (art. L821-1 à L821-2)](#92)
+        - [Chapitre II : Procédure d'admission (art. L822-1)](#93)
+    - [Livre IX : L'exécution des décisions (art. L911-1 à L911-10)](#94)
+      - [Titre Ier : Principes (art. L911-1 à L911-10)](#95)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R112-1 à R931-9)](#96)
+    - [Livre Ier : Le Conseil d'Etat (art. R112-1 à R137-4)](#97)
+      - [Titre Ier : Attributions (art. R112-1 à R113-4)](#98)
+        - [Chapitre II : Attributions en matière administrative et législative (art. R112-1)](#99)
+        - [Chapitre III : L'avis sur une question de droit (art. R113-1 à R113-4)](#100)
+      - [Titre II : Organisation et fonctionnement (art. R121-1 à R123-26)](#101)
+        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-15)](#102)
+          - [Section 1 : Organisation (art. R121-1 à R121-14)](#103)
+          - [Section 2 : Les conseillers d'Etat en service extraordinaire (art. R121-15)](#104)
+        - [Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses (art. R122-1 à R122-32)](#105)
+          - [Section 1 : Organisation (art. R122-1 à R122-10)](#106)
+          - [Section 2 : Les formations de jugement (art. R122-11 à R122-25)](#107)
+          - [Section 3 : Le secrétariat de la section du contentieux (art. R122-26 à R122-29)](#108)
+          - [Section 4 : Les assistants de justice (art. R122-30 à R122-32)](#109)
+        - [Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives (art. R123-1 à R123-26)](#110)
+          - [Section 1 : Les sections administratives (art. R123-2 à R123-11)](#111)
+          - [Section 2 : L'assemblée générale (art. R123-12 à R123-20)](#112)
+          - [Section 3 : La commission permanente (art. R123-21 à R123-23)](#113)
+          - [Section 4 : Dispositions communes (art. R123-24 à R123-26)](#114)
+      - [Titre III : Dispositions statutaires (art. R*131-1 à R137-4)](#115)
+        - [Chapitre Ier : Dispositions générales (art. R*131-1 à R*131-2)](#116)
+        - [Chapitre II : La commission consultative (art. R132-1 à R132-3)](#117)
+        - [Chapitre III : Nominations (art. R*133-1 à R*133-9)](#118)
+          - [Section 1 : Dispositions générales (art. R*133-1 à R*133-2)](#119)
+          - [Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel (art. R*133-3 à R*133-9)](#120)
+        - [Chapitre IV : Avancement (art. R*134-1 à R*134-8)](#121)
+        - [Chapitre V : Positions (art. R*135-1 à R*135-11)](#122)
+        - [Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général (art. R137-1 à R137-4)](#123)
+    - [Livre II : Les tribunaux administratifs et les cours administratives d'appel (art. R212-1 à R237-2)](#124)
+      - [Titre Ier : Attributions (art. R212-1 à R212-4)](#125)
+        - [Chapitre II : Attributions administratives (art. R212-1 à R212-4)](#126)
+      - [Titre II : Organisation et fonctionnement (art. R221-1 à R227-10)](#127)
+        - [Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel (art. R221-1 à R221-8)](#128)
+          - [Section 1 : Dispositions communes (art. R221-1 à R221-2)](#129)
+          - [Section 2 : Organisation des tribunaux administratifs (art. R221-3 à R221-6)](#130)
+          - [Section 3 : Organisation des cours administratives d'appel (art. R221-7 à R221-8)](#131)
+        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-32)](#132)
+          - [Section 1 : Dispositions communes (art. R222-1 à R222-12)](#133)
+          - [Section 2 : Fonctionnement des tribunaux administratifs (art. R222-13 à R222-24)](#134)
+          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-32)](#135)
+        - [Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon. (art. R223-1 à R223-4)](#136)
+        - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie (art. R224-1 à R224-12)](#137)
+          - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie (art. R224-3 à R224-6)](#138)
+          - [Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie (art. R224-7 à R224-9)](#139)
+          - [Section 3 : La nature juridique d'une disposition d'une loi du pays de la Nouvelle-Calédonie (art. R224-10 à R224-12)](#140)
+        - [Chapitre V : Dispositions particulières à la Polynésie française (art. R225-1 à R225-8)](#141)
+          - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete. (art. R225-2 à R225-5)](#142)
+          - [Section 2 : La saisine pour avis du tribunal administratif de Papeete. (art. R225-6 à R225-8)](#143)
+        - [Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna (art. R225-9 à R225-12)](#144)
+        - [Chapitre VI : Les greffes (art. R226-1 à R226-13)](#145)
+          - [Section 1 : Dispositions communes aux greffes des tribunaux administratifs et cours administratives d'appel (art. R226-1 à R226-6)](#146)
+            - [Sous-section 1 : Dispositions relatives au personnel (art. R226-1 à R226-4)](#147)
+            - [Sous-section 2 : Dispositions relatives au fonctionnement (art. R226-5 à R226-6)](#148)
+          - [Section 2 : Dispositions particulières à certains greffes (art. R226-7 à R226-13)](#149)
+            - [Sous-section 1 : Règles particulières au greffe du tribunal administratif de Paris et à la cour administrative d'appel de Paris. (art. R226-7)](#150)
+            - [Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de Papeete, de Mamoudzou et de la Nouvelle-Calédonie. (art. R226-8 à R226-12)](#151)
+            - [Sous-section 3 : Règles particulières au greffe du tribunal administratif de Saint-Pierre-et-Miquelon (art. R226-13)](#152)
+        - [Chapitre VII : Les assistants de justice (art. R227-1 à R227-10)](#153)
+      - [Titre III : Dispositions statutaires (art. R231-1 à R237-2)](#154)
+        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-4)](#155)
+        - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel (art. R232-1 à R232-29)](#156)
+          - [Section 2 : Désignation des membres du Conseil supérieur (art. R232-1 à R232-18)](#157)
+          - [Section 3 : Fonctionnement du Conseil supérieur (art. R232-19 à R232-26)](#158)
+          - [Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel (art. R232-27 à R232-29)](#159)
+        - [Chapitre III : Nomination et recrutement (art. R233-1 à R233-13)](#160)
+          - [Section 1 : Dispositions générales (art. R233-1 à R233-3)](#161)
+          - [Section 2 : Nomination au tour extérieur (art. R233-4 à R233-6)](#162)
+          - [Section 3 : Recrutement après détachement (art. R233-7)](#163)
+          - [Section 4 : Recrutement complémentaire (art. R233-8 à R233-12)](#164)
+          - [Section 6 : Fin de fonctions (art. R233-13)](#165)
+        - [Chapitre IV : Avancement (art. R234-1 à R234-7)](#166)
+        - [Chapitre V : Positions (art. R235-1 à R235-2)](#167)
+        - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#168)
+    - [Livre III : La compétence (art. R311-1 à R351-9)](#169)
+      - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-17)](#170)
+        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-3)](#171)
+        - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-17)](#172)
+          - [Section 1 : Principes (art. R312-1 à R312-5)](#173)
+          - [Section 2 : Exceptions (art. R312-6 à R312-17)](#174)
+      - [Titre II : La compétence d'appel (art. R321-1 à R322-3)](#175)
+        - [Chapitre Ier : La compétence en raison de la matière (art. R321-1 à R321-2)](#176)
+        - [Chapitre II : La compétence territoriale des cours administratives d'appel (art. R322-1 à R322-3)](#177)
+      - [Titre IV : La connexité (art. R341-1 à R344-3)](#178)
+        - [Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort du Conseil d'Etat (art. R341-1 à R341-4)](#179)
+        - [Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs (art. R342-1 à R342-3)](#180)
+        - [Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat (art. R343-1 à R343-4)](#181)
+        - [Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel (art. R344-1 à R344-3)](#182)
+      - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-9)](#183)
+    - [Livre IV : L'introduction de l'instance de premier ressort (art. R411-1 à R441-1)](#184)
+      - [Titre Ier : La requête introductive d'instance (art. R411-1 à R413-6)](#185)
+        - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-7)](#186)
+        - [Chapitre II : Pièces jointes ou productions (art. R412-1 à R412-3)](#187)
+        - [Chapitre III : Dépôt de la requête (art. R413-1 à R413-6)](#188)
+      - [Titre II : Les délais (art. R421-1 à R421-7)](#189)
+      - [Titre III : La représentation des parties (art. R431-1 à R432-4)](#190)
+        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10)](#191)
+        - [Chapitre II : La représentation des parties devant le Conseil d'Etat (art. R432-1 à R432-4)](#192)
+      - [Titre IV : L'aide juridictionnelle (art. R441-1)](#193)
+    - [Livre V : Le référé (art. R522-1 à R554-1)](#194)
+      - [Titre II : Le juge des référés statuant en urgence (art. R522-1 à R523-3)](#195)
+        - [Chapitre II : Procédure (art. R522-1 à R522-14)](#196)
+        - [Chapitre III : Voies de recours (art. R523-1 à R523-3)](#197)
+      - [Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction (art. R531-1 à R533-3)](#198)
+        - [Chapitre Ier : Le constat (art. R531-1)](#199)
+        - [Chapitre II : Le référé instruction (art. R532-1 à R532-2)](#200)
+        - [Chapitre III : Voies de recours (art. R533-1 à R533-3)](#201)
+      - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#202)
+        - [Chapitre unique. (art. R541-1 à R541-6)](#203)
+      - [Titre V : Dispositions particulières à certains contentieux (art. R551-1 à R554-1)](#204)
+        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-4)](#205)
+        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#206)
+    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#207)
+      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#208)
+        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-30)](#209)
+          - [Section 1 : Dispositions générales (art. R611-1 à R611-8)](#210)
+          - [Section 2 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#211)
+          - [Section 3 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#212)
+          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-30)](#213)
+        - [Chapitre II : La demande de régularisation et la mise en demeure (art. R612-1 à R612-6)](#214)
+        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#215)
+          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#216)
+          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#217)
+      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#218)
+        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#219)
+          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6)](#220)
+          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8)](#221)
+          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#222)
+          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#223)
+        - [Chapitre II : La visite des lieux (art. R622-1)](#224)
+        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#225)
+          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#226)
+          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#227)
+          - [Section 3 : Frais de l'enquête (art. R623-8)](#228)
+        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#229)
+        - [Chapitre V : Les autres mesures d'instruction (art. R625-1)](#230)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#231)
+      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#232)
+        - [Chapitre Ier : La demande incidente (art. R631-1)](#233)
+        - [Chapitre II : L'intervention (art. R632-1)](#234)
+        - [Chapitre III : L'inscription de faux (art. R633-1)](#235)
+        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#236)
+        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#237)
+        - [Chapitre VI : Le désistement (art. R636-1)](#238)
+    - [Livre VII : Le jugement (art. R711-1 à R776-20)](#239)
+      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-1)](#240)
+        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-3)](#241)
+        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1)](#242)
+      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#243)
+      - [Titre III : La tenue de l'audience. (art. R731-1 à R731-4)](#244)
+      - [Titre IV : La décision (art. R741-1 à R742-6)](#245)
+        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-12)](#246)
+          - [Section 1 : Le prononcé de la décision (art. R741-1)](#247)
+          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#248)
+          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#249)
+          - [Section 4 : La rectification des erreurs matérielles devant le tribunal administratif (art. R741-11)](#250)
+          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#251)
+        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#252)
+      - [Titre V : La notification de la décision (art. R751-1 à R751-12)](#253)
+      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#254)
+      - [Titre VII : Dispositions spéciales (art. R771-1 à R776-20)](#255)
+        - [Chapitre Ier : La saisine du Tribunal des conflits (art. R771-1 à R771-2)](#256)
+        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#257)
+        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#258)
+        - [Chapitre 5 : Le contentieux des édifices menacant ruine. (art. R775-1)](#259)
+        - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#260)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#261)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#262)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#263)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#264)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#265)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#266)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#267)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#268)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#269)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#270)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#271)
+      - [Titre Ier : Principes (art. R911-1)](#272)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#273)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#274)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -1865,7 +1867,26 @@ _Cité par_:
   - Code de justice administrative. - art. R225-6 (M)
 
 
-#### Chapitre VII : Les assistants de justice<a id=43></a>
+#### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna<a id=43></a>
+
+###### Article L225-4
+
+Dans les îles Wallis et Futuna, le tribunal administratif peut valablement délibérer en se complétant, en cas d'absence ou
+d'empêchement d'un de ses membres, par l'adjonction d'un magistrat de l'ordre judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 4 () JORF 27 septembre 2003 en vigueur le 1er février 2004
+
+
+#### Chapitre VII : Les assistants de justice<a id=44></a>
 
 ###### Article L227-1
 
@@ -1900,9 +1921,9 @@ _Cité par_:
   - Code de justice administrative - art. R227-1 (V)
 
 
-### Titre III : Dispositions statutaires<a id=44></a>
+### Titre III : Dispositions statutaires<a id=45></a>
 
-#### Chapitre Ier : Dispositions générales<a id=45></a>
+#### Chapitre Ier : Dispositions générales<a id=46></a>
 
 ###### Article L231-1
 
@@ -2103,9 +2124,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel<a id=46></a>
+#### Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel<a id=47></a>
 
-##### Section 1 : Dispositions générales<a id=47></a>
+##### Section 1 : Dispositions générales<a id=48></a>
 
 ###### Article L232-1
 
@@ -2241,7 +2262,7 @@ _Cite_:
   - Code de justice administrative - art. L232-1 (V)
 
 
-##### Section 2 : Désignation des membres du Conseil supérieur<a id=48></a>
+##### Section 2 : Désignation des membres du Conseil supérieur<a id=49></a>
 
 ###### Article L232-4-1
 
@@ -2264,7 +2285,7 @@ _Abrogé par_:
   - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 
-##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel<a id=49></a>
+##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel<a id=50></a>
 
 ###### Article L232-5
 
@@ -2297,9 +2318,9 @@ _Cité par_:
   - Code de justice administrative - art. R232-28 (VD)
 
 
-#### Chapitre III : Nomination et recrutement<a id=50></a>
+#### Chapitre III : Nomination et recrutement<a id=51></a>
 
-##### Section 1 : Dispositions générales<a id=51></a>
+##### Section 1 : Dispositions générales<a id=52></a>
 
 ###### Article L233-1
 
@@ -2352,7 +2373,7 @@ _Cite_:
   - Code de justice administrative. - art. L233-6 (M)
 
 
-##### Section 2 : Nomination au tour extérieur<a id=52></a>
+##### Section 2 : Nomination au tour extérieur<a id=53></a>
 
 ###### Article L233-3
 
@@ -2420,7 +2441,7 @@ _Cité par_:
   - Code de justice administrative. - art. R233-5 (V)
 
 
-##### Section 3 : Recrutement après détachement<a id=53></a>
+##### Section 3 : Recrutement après détachement<a id=54></a>
 
 ###### Article L233-5
 
@@ -2454,7 +2475,7 @@ _Cite_:
   - Code de justice administrative. - art. L233-4 (M)
 
 
-##### Section 4 : Recrutement complémentaire<a id=54></a>
+##### Section 4 : Recrutement complémentaire<a id=55></a>
 
 ###### Article L233-6
 
@@ -2500,7 +2521,7 @@ _Cité par_:
   - Code de justice administrative. - art. L233-2 (M)
 
 
-##### Section 5 : Maintien en surnombre<a id=55></a>
+##### Section 5 : Maintien en surnombre<a id=56></a>
 
 ###### Article L233-7
 
@@ -2544,7 +2565,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L63 (V)
 
 
-##### Section 6 : Fin de fonctions<a id=56></a>
+##### Section 6 : Fin de fonctions<a id=57></a>
 
 ###### Article L233-9
 
@@ -2577,7 +2598,7 @@ _Cité par_:
   - Code de justice administrative - art. R233-13 (M)
 
 
-#### Chapitre IV : Avancement<a id=57></a>
+#### Chapitre IV : Avancement<a id=58></a>
 
 ###### Article L234-1
 
@@ -2680,7 +2701,7 @@ _Cité par_:
   - Code de justice administrative. - art. R234-5 (V)
 
 
-#### Chapitre VI : Discipline<a id=58></a>
+#### Chapitre VI : Discipline<a id=59></a>
 
 ###### Article L236-1
 
@@ -2736,11 +2757,11 @@ _Cite_:
   - Code de justice administrative. - art. L231-3 (V)
 
 
-## Livre III : La compétence<a id=59></a>
+## Livre III : La compétence<a id=60></a>
 
-### Titre Ier : La compétence de premier ressort<a id=60></a>
+### Titre Ier : La compétence de premier ressort<a id=61></a>
 
-#### Chapitre Ier : La compétence en raison de la matière<a id=61></a>
+#### Chapitre Ier : La compétence en raison de la matière<a id=62></a>
 
 ###### Article L311-1
 
@@ -2962,9 +2983,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L432-1 (V)
 
 
-### Titre II : La compétence d'appel<a id=62></a>
+### Titre II : La compétence d'appel<a id=63></a>
 
-#### Chapitre Ier : La compétence en raison de la matière<a id=63></a>
+#### Chapitre Ier : La compétence en raison de la matière<a id=64></a>
 
 ###### Article L321-1
 
@@ -3002,7 +3023,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre III : Le Conseil d'Etat juge de cassation<a id=64></a>
+### Titre III : Le Conseil d'Etat juge de cassation<a id=65></a>
 
 ###### Article L331-1
 
@@ -3022,9 +3043,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-## Livre V : Le référé<a id=65></a>
+## Livre V : Le référé<a id=66></a>
 
-### Titre Ier : Le juge des référés<a id=66></a>
+### Titre Ier : Le juge des référés<a id=67></a>
 
 ###### Article L511-1
 
@@ -3080,9 +3101,9 @@ _Cité par_:
   - Code de justice administrative - art. R742-5 (VD)
 
 
-### Titre II : Le juge des référés statuant en urgence<a id=67></a>
+### Titre II : Le juge des référés statuant en urgence<a id=68></a>
 
-#### Chapitre Ier : Pouvoirs<a id=68></a>
+#### Chapitre Ier : Pouvoirs<a id=69></a>
 
 ###### Article L521-1
 
@@ -3235,7 +3256,7 @@ _Cité par_:
   - Code de justice administrative - art. R822-5 (V)
 
 
-#### Chapitre II : Procédure<a id=69></a>
+#### Chapitre II : Procédure<a id=70></a>
 
 ###### Article L522-1
 
@@ -3304,7 +3325,7 @@ _Cité par_:
   - Code de justice administrative - art. R822-5 (V)
 
 
-#### Chapitre III : Voies de recours<a id=70></a>
+#### Chapitre III : Voies de recours<a id=71></a>
 
 ###### Article L523-1
 
@@ -3338,9 +3359,9 @@ _Cite_:
   - Code de justice administrative - art. L522-3 (V)
 
 
-### Titre V : Dispositions diverses et particulières à certains contentieux<a id=71></a>
+### Titre V : Dispositions diverses et particulières à certains contentieux<a id=72></a>
 
-#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=72></a>
+#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=73></a>
 
 ###### Article L551-1
 
@@ -3470,7 +3491,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. L23 (M)
 
 
-#### Chapitre II : Le référé en matière fiscale<a id=73></a>
+#### Chapitre II : Le référé en matière fiscale<a id=74></a>
 
 ###### Article L552-1
 
@@ -3564,7 +3585,7 @@ _Cité par_:
   - Code de justice administrative. - art. R611-23 (V)
 
 
-#### Chapitre III : Le référé en matière de communication audiovisuelle<a id=74></a>
+#### Chapitre III : Le référé en matière de communication audiovisuelle<a id=75></a>
 
 ###### Article L553-1
 
@@ -3602,9 +3623,9 @@ _Créé par_:
   - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
 
 
-#### Chapitre IV : Les régimes spéciaux de suspension<a id=75></a>
+#### Chapitre IV : Les régimes spéciaux de suspension<a id=76></a>
 
-##### Section 1 : La suspension sur déféré<a id=76></a>
+##### Section 1 : La suspension sur déféré<a id=77></a>
 
 ###### Article L554-1
 
@@ -3955,7 +3976,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. L26 (Ab)
 
 
-##### Section 2 : La suspension en matière d'urbanisme et de protection de la nature ou de l'environnement<a id=77></a>
+##### Section 2 : La suspension en matière d'urbanisme et de protection de la nature ou de l'environnement<a id=78></a>
 
 ###### Article L554-10
 
@@ -4056,7 +4077,7 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code de l'environnement - art. L123-12 (V)
 
 
-#### Chapitre V : Dispositions diverses<a id=78></a>
+#### Chapitre V : Dispositions diverses<a id=79></a>
 
 ###### Article L555-1
 
@@ -4076,9 +4097,9 @@ _Créé par_:
   - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
 
 
-## Livre VII : Le jugement<a id=79></a>
+## Livre VII : Le jugement<a id=80></a>
 
-### Titre II : L'abstention et la récusation<a id=80></a>
+### Titre II : L'abstention et la récusation<a id=81></a>
 
 ###### Article L721-1
 
@@ -4107,11 +4128,11 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. L5 (Ab)
 
 
-### Titre IV : La décision<a id=81></a>
+### Titre IV : La décision<a id=82></a>
 
-#### Chapitre Ier : Dispositions générales<a id=82></a>
+#### Chapitre Ier : Dispositions générales<a id=83></a>
 
-##### Section 6 : Dispositions diverses<a id=83></a>
+##### Section 6 : Dispositions diverses<a id=84></a>
 
 ###### Article L741-1
 
@@ -4186,7 +4207,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours administratives d'appel L7 al. 2 et 3
 
 
-### Titre VI : Les frais et dépens<a id=84></a>
+### Titre VI : Les frais et dépens<a id=85></a>
 
 ###### Article L761-1
 
@@ -4216,9 +4237,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. L8-1 (Ab)
 
 
-### Titre VII : Dispositions spéciales<a id=85></a>
+### Titre VII : Dispositions spéciales<a id=86></a>
 
-#### Chapitre IV : Les contraventions de grande voirie<a id=86></a>
+#### Chapitre IV : Les contraventions de grande voirie<a id=87></a>
 
 ###### Article L774-1
 
@@ -4472,7 +4493,35 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. L21-1 (Ab)
 
 
-#### Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière.<a id=87></a>
+###### Article L774-10
+
+Pour l'application des articles L. 774-1 à L. 774-8 dans les îles Wallis et Futuna : 
+
+1° A l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " administrateur supérieur " ; 
+
+2° Le délai de quinze jours prévu à l'article L. 774-2 est porté à un mois ; 
+
+3° Le délai d'appel de deux mois prévu à l'article L. 774-7 est porté à trois mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 4 () JORF 27 septembre 2003 en vigueur le 1er février 2004
+
+_Cite_:
+
+  - Code de justice administrative - art. L774-1 (V)
+  - Code de justice administrative - art. L774-2 (V)
+  - Code de justice administrative - art. L774-7 (V)
+
+
+#### Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière.<a id=88></a>
 
 ###### Article L776-1
 
@@ -4585,9 +4634,9 @@ _Cité par_:
   - Code de justice administrative. - art. R776-1 (V)
 
 
-## Livre VIII : Les voies de recours<a id=88></a>
+## Livre VIII : Les voies de recours<a id=89></a>
 
-### Titre Ier : L'appel<a id=89></a>
+### Titre Ier : L'appel<a id=90></a>
 
 ###### Article L811-1
 
@@ -4602,9 +4651,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre II : Le recours en cassation<a id=90></a>
+### Titre II : Le recours en cassation<a id=91></a>
 
-#### Chapitre Ier : Dispositions générales<a id=91></a>
+#### Chapitre Ier : Dispositions générales<a id=92></a>
 
 ###### Article L821-1
 
@@ -4646,7 +4695,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre II : Procédure d'admission<a id=92></a>
+#### Chapitre II : Procédure d'admission<a id=93></a>
 
 ###### Article L822-1
 
@@ -4669,9 +4718,9 @@ _Cité par_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-## Livre IX : L'exécution des décisions<a id=93></a>
+## Livre IX : L'exécution des décisions<a id=94></a>
 
-### Titre Ier : Principes<a id=94></a>
+### Titre Ier : Principes<a id=95></a>
 
 ###### Article L911-1
 
@@ -4981,13 +5030,13 @@ _Cite_:
   - Code des juridictions financières - art. L313-12 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=95></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=96></a>
 
-## Livre Ier : Le Conseil d'Etat<a id=96></a>
+## Livre Ier : Le Conseil d'Etat<a id=97></a>
 
-### Titre Ier : Attributions<a id=97></a>
+### Titre Ier : Attributions<a id=98></a>
 
-#### Chapitre II : Attributions en matière administrative et législative<a id=98></a>
+#### Chapitre II : Attributions en matière administrative et législative<a id=99></a>
 
 ###### Article R112-1
 
@@ -5013,7 +5062,7 @@ _Cité par_:
   - Code de justice administrative - art. R112-1-1 (V)
 
 
-#### Chapitre III : L'avis sur une question de droit<a id=99></a>
+#### Chapitre III : L'avis sur une question de droit<a id=100></a>
 
 ###### Article R113-1
 
@@ -5132,11 +5181,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Organisation et fonctionnement<a id=100></a>
+### Titre II : Organisation et fonctionnement<a id=101></a>
 
-#### Chapitre Ier : Dispositions générales<a id=101></a>
+#### Chapitre Ier : Dispositions générales<a id=102></a>
 
-##### Section 1 : Organisation<a id=102></a>
+##### Section 1 : Organisation<a id=103></a>
 
 ###### Article R121-1
 
@@ -5471,7 +5520,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : Les conseillers d'Etat en service extraordinaire<a id=103></a>
+##### Section 2 : Les conseillers d'Etat en service extraordinaire<a id=104></a>
 
 ###### Article R121-15
 
@@ -5494,9 +5543,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses<a id=104></a>
+#### Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses<a id=105></a>
 
-##### Section 1 : Organisation<a id=105></a>
+##### Section 1 : Organisation<a id=106></a>
 
 ###### Article R122-1
 
@@ -5777,7 +5826,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : Les formations de jugement<a id=106></a>
+##### Section 2 : Les formations de jugement<a id=107></a>
 
 ###### Article R122-11
 
@@ -6282,7 +6331,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 3 : Le secrétariat de la section du contentieux<a id=107></a>
+##### Section 3 : Le secrétariat de la section du contentieux<a id=108></a>
 
 ###### Article R122-26
 
@@ -6368,7 +6417,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 4 : Les assistants de justice<a id=108></a>
+##### Section 4 : Les assistants de justice<a id=109></a>
 
 ###### Article R122-30
 
@@ -6440,7 +6489,7 @@ _Cite_:
   - Code de justice administrative - art. R227-4 (V)
 
 
-#### Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives<a id=109></a>
+#### Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives<a id=110></a>
 
 ###### Article R123-1
 
@@ -6462,7 +6511,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 1 : Les sections administratives<a id=110></a>
+##### Section 1 : Les sections administratives<a id=111></a>
 
 ###### Article R123-2
 
@@ -6772,7 +6821,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : L'assemblée générale<a id=111></a>
+##### Section 2 : L'assemblée générale<a id=112></a>
 
 ###### Article R123-12
 
@@ -7034,7 +7083,7 @@ _Cite_:
   - Code de justice administrative. - art. R123-21 (V)
 
 
-##### Section 3 : La commission permanente<a id=112></a>
+##### Section 3 : La commission permanente<a id=113></a>
 
 ###### Article R123-21
 
@@ -7141,7 +7190,7 @@ _Cite_:
   - Code de justice administrative - art. R123-8 (V)
 
 
-##### Section 4 : Dispositions communes<a id=113></a>
+##### Section 4 : Dispositions communes<a id=114></a>
 
 ###### Article R123-24
 
@@ -7213,9 +7262,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre III : Dispositions statutaires<a id=114></a>
+### Titre III : Dispositions statutaires<a id=115></a>
 
-#### Chapitre Ier : Dispositions générales<a id=115></a>
+#### Chapitre Ier : Dispositions générales<a id=116></a>
 
 ###### Article R*131-1
 
@@ -7262,7 +7311,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : La commission consultative<a id=116></a>
+#### Chapitre II : La commission consultative<a id=117></a>
 
 ###### Article R132-1
 
@@ -7337,9 +7386,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Nominations<a id=117></a>
+#### Chapitre III : Nominations<a id=118></a>
 
-##### Section 1 : Dispositions générales<a id=118></a>
+##### Section 1 : Dispositions générales<a id=119></a>
 
 ###### Article R*133-1
 
@@ -7404,7 +7453,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel<a id=119></a>
+##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel<a id=120></a>
 
 ###### Article R*133-3
 
@@ -7604,7 +7653,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre IV : Avancement<a id=120></a>
+#### Chapitre IV : Avancement<a id=121></a>
 
 ###### Article R*134-1
 
@@ -7834,7 +7883,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Positions<a id=121></a>
+#### Chapitre V : Positions<a id=122></a>
 
 ###### Article R*135-1
 
@@ -8196,7 +8245,7 @@ _Cité par_:
   - Code de justice administrative - art. R*135-8 (V)
 
 
-#### Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général<a id=122></a>
+#### Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général<a id=123></a>
 
 ###### Article R137-1
 
@@ -8303,11 +8352,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre II : Les tribunaux administratifs et les cours administratives d'appel<a id=123></a>
+## Livre II : Les tribunaux administratifs et les cours administratives d'appel<a id=124></a>
 
-### Titre Ier : Attributions<a id=124></a>
+### Titre Ier : Attributions<a id=125></a>
 
-#### Chapitre II : Attributions administratives<a id=125></a>
+#### Chapitre II : Attributions administratives<a id=126></a>
 
 ###### Article R212-1
 
@@ -8387,8 +8436,8 @@ _Anciens textes_:
 ###### Article R212-4
 
 Les attributions des préfets mentionnées aux articles R. 212-1 et R. 212-3 sont exercées, en Polynésie française et en
-Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, par le représentant du Gouvernement et, dans les Terres
-antarctiques et australes, par l'administrateur supérieur.
+Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, par le représentant de l'Etat et, à Wallis-et-Futuna et dans les
+Terres australes et antarctiques françaises, par l'administrateur supérieur.
 
 **Liens relatifs à cet article**
 
@@ -8400,17 +8449,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
-_Cite_:
+_Modifié par_:
 
-  - Code de justice administrative. - art. R212-1 (V)
-  - Code de justice administrative. - art. R212-3 (V)
+  - Décret n°2004-2 2004-01-02 art. 2 4° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 
-### Titre II : Organisation et fonctionnement<a id=126></a>
+### Titre II : Organisation et fonctionnement<a id=127></a>
 
-#### Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel<a id=127></a>
+#### Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel<a id=128></a>
 
-##### Section 1 : Dispositions communes<a id=128></a>
+##### Section 1 : Dispositions communes<a id=129></a>
 
 ###### Article R221-1
 
@@ -8457,7 +8505,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R3 (Ab)
 
 
-##### Section 2 : Organisation des tribunaux administratifs<a id=129></a>
+##### Section 2 : Organisation des tribunaux administratifs<a id=130></a>
 
 ###### Article R221-3
 
@@ -8533,7 +8581,9 @@ Saint-Pierre : Saint-Pierre-et-Miquelon ;
 
 Papeete : Polynésie française ;
 
-Nouvelle-Calédonie : Nouvelle-Calédonie.
+Nouvelle-Calédonie : Nouvelle-Calédonie ;
+
+Mata-Utu : îles Wallis et Futuna.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
 celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle.
@@ -8554,13 +8604,13 @@ _Cité par_:
   - Arrêté du 1er décembre 2011 (Ab)
   - Code de justice administrative - art. R776-16 (VD)
 
-_Modifié par_:
-
-  - Décret n°2002-547 du 19 avril 2002 - art. 12 () JORF 21 avril 2002
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 1° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Anciens textes_:
 
@@ -8700,7 +8750,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R6 (M)
 
 
-##### Section 3 : Organisation des cours administratives d'appel<a id=130></a>
+##### Section 3 : Organisation des cours administratives d'appel<a id=131></a>
 
 ###### Article R221-7
 
@@ -8719,17 +8769,14 @@ Nancy : ressorts des tribunaux administratifs de Besançon, Châlons-en-Champagn
 
 Nantes : ressorts des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
 
-Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, Versailles, Nouvelle-Calédonie et Papeete.
+Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, Versailles, Nouvelle-Calédonie, Mata-Utu et
+Papeete.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V) JORF 28 juillet 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -8738,6 +8785,10 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 2° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Anciens textes_:
 
@@ -8773,9 +8824,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R8 (M)
 
 
-#### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel<a id=131></a>
+#### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel<a id=132></a>
 
-##### Section 1 : Dispositions communes<a id=132></a>
+##### Section 1 : Dispositions communes<a id=133></a>
 
 ###### Article R222-1
 
@@ -9102,7 +9153,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : Fonctionnement des tribunaux administratifs<a id=133></a>
+##### Section 2 : Fonctionnement des tribunaux administratifs<a id=134></a>
 
 ###### Article R222-13
 
@@ -9516,7 +9567,7 @@ _Cité par_:
   - Code de justice administrative. - art. R222-32 (M)
 
 
-##### Section 3 : Fonctionnement des cours administratives d'appel<a id=134></a>
+##### Section 3 : Fonctionnement des cours administratives d'appel<a id=135></a>
 
 ###### Article R222-25
 
@@ -9729,7 +9780,7 @@ _Cite_:
   - Code de justice administrative - art. R222-23 (V)
 
 
-#### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.<a id=135></a>
+#### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.<a id=136></a>
 
 ###### Article R223-1
 
@@ -9831,7 +9882,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R22 (M)
 
 
-#### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie<a id=136></a>
+#### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie<a id=137></a>
 
 ###### Article R224-1
 
@@ -9876,7 +9927,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R252 (Ab)
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie<a id=137></a>
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie<a id=138></a>
 
 ###### Article R224-3
 
@@ -9986,7 +10037,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie<a id=138></a>
+##### Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie<a id=139></a>
 
 ###### Article R224-7
 
@@ -10055,7 +10106,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 3 : La nature juridique d'une disposition d'une loi du pays de la Nouvelle-Calédonie<a id=139></a>
+##### Section 3 : La nature juridique d'une disposition d'une loi du pays de la Nouvelle-Calédonie<a id=140></a>
 
 ###### Article R224-10
 
@@ -10131,7 +10182,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Dispositions particulières à la Polynésie française<a id=140></a>
+#### Chapitre V : Dispositions particulières à la Polynésie française<a id=141></a>
 
 ###### Article R225-1
 
@@ -10153,7 +10204,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R25 (M)
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete.<a id=141></a>
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete.<a id=142></a>
 
 ###### Article R225-2
 
@@ -10262,7 +10313,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 2 : La saisine pour avis du tribunal administratif de Papeete.<a id=142></a>
+##### Section 2 : La saisine pour avis du tribunal administratif de Papeete.<a id=143></a>
 
 ###### Article R225-6
 
@@ -10330,11 +10381,127 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre VI : Les greffes<a id=143></a>
+#### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna<a id=144></a>
 
-##### Section 1 : Dispositions communes aux greffes des tribunaux administratifs et cours administratives d'appel<a id=144></a>
+###### Article R225-9
 
-##### Sous-section 1 : Dispositions relatives au personnel<a id=145></a>
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mata-Utu et de
+Nouvelle-Calédonie. Ces tribunaux peuvent avoir des membres communs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Créé par_:
+
+  - Décret n°2004-2 2004-01-02 art. 1 I, art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+  - Décret n°2004-2 du 2 janvier 2004 - art. 1 (V) JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+
+###### Article R225-10
+
+Les fonctions de commissaire du Gouvernement auprès des tribunaux administratifs de Mata-Utu et de Nouvelle-Calédonie sont
+assurées par le ou les mêmes magistrats.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Créé par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+
+###### Article R225-11
+
+Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal de Mata-Utu est choisi parmi les magistrats en fonction
+dans le ressort.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Créé par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+_Cité par_:
+
+  - Code de justice administrative. - art. R225-12 (V)
+
+
+###### Article R225-12
+
+Le magistrat mentionné à l'article R. 225-11 est désigné chaque année, dans la première quinzaine du mois de décembre, par le
+premier président de la cour d'appel. Un membre suppléant est désigné dans les mêmes conditions. Ce dernier peut être choisi
+parmi les magistrats en fonction en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Créé par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+_Cité par_:
+
+  - Décret n°2004-2 du 2 janvier 2004 - art. 4 (V)
+
+_Cite_:
+
+  - Code de justice administrative. - art. R225-11 (V)
+
+
+#### Chapitre VI : Les greffes<a id=145></a>
+
+##### Section 1 : Dispositions communes aux greffes des tribunaux administratifs et cours administratives d'appel<a id=146></a>
+
+##### Sous-section 1 : Dispositions relatives au personnel<a id=147></a>
 
 ###### Article R226-1
 
@@ -10431,7 +10598,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R34 (M)
 
 
-##### Sous-section 2 : Dispositions relatives au fonctionnement<a id=146></a>
+##### Sous-section 2 : Dispositions relatives au fonctionnement<a id=148></a>
 
 ###### Article R226-5
 
@@ -10484,9 +10651,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R36 (Ab)
 
 
-##### Section 2 : Dispositions particulières à certains greffes<a id=147></a>
+##### Section 2 : Dispositions particulières à certains greffes<a id=149></a>
 
-##### Sous-section 1 : Règles particulières au greffe du tribunal administratif de Paris et à la cour administrative d'appel de Paris.<a id=148></a>
+##### Sous-section 1 : Règles particulières au greffe du tribunal administratif de Paris et à la cour administrative d'appel de Paris.<a id=150></a>
 
 ###### Article R226-7
 
@@ -10518,12 +10685,12 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R45 (Ab)
 
 
-##### Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de Papeete, de Mamoudzou et de la Nouvelle-Calédonie.<a id=149></a>
+##### Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de Papeete, de Mamoudzou et de la Nouvelle-Calédonie.<a id=151></a>
 
 ###### Article R226-8
 
-Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie
-appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
+Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
+Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
@@ -10531,9 +10698,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Anciens textes_:
 
@@ -10604,7 +10771,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R43 (M)
 
 
-##### Sous-section 3 : Règles particulières au greffe du tribunal administratif de Saint-Pierre-et-Miquelon<a id=150></a>
+##### Sous-section 3 : Règles particulières au greffe du tribunal administratif de Saint-Pierre-et-Miquelon<a id=152></a>
 
 ###### Article R226-13
 
@@ -10626,7 +10793,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R44 (Ab)
 
 
-#### Chapitre VII : Les assistants de justice<a id=151></a>
+#### Chapitre VII : Les assistants de justice<a id=153></a>
 
 ###### Article R227-1
 
@@ -10878,9 +11045,9 @@ _Cité par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre III : Dispositions statutaires<a id=152></a>
+### Titre III : Dispositions statutaires<a id=154></a>
 
-#### Chapitre Ier : Dispositions générales<a id=153></a>
+#### Chapitre Ier : Dispositions générales<a id=155></a>
 
 ###### Article R231-1
 
@@ -10986,9 +11153,9 @@ _Cite_:
   - Code de justice administrative - art. L112-5
 
 
-#### Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel<a id=154></a>
+#### Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel<a id=156></a>
 
-##### Section 2 : Désignation des membres du Conseil supérieur<a id=155></a>
+##### Section 2 : Désignation des membres du Conseil supérieur<a id=157></a>
 
 ###### Article R232-1
 
@@ -11453,7 +11620,7 @@ _Cite_:
   - Code de justice administrative. - art. L232-2 (M)
 
 
-##### Section 3 : Fonctionnement du Conseil supérieur<a id=156></a>
+##### Section 3 : Fonctionnement du Conseil supérieur<a id=158></a>
 
 ###### Article R232-19
 
@@ -11644,7 +11811,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel<a id=157></a>
+##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel<a id=159></a>
 
 ###### Article R232-27
 
@@ -11749,9 +11916,9 @@ _Cite_:
   - Code de justice administrative. - art. R232-28 (M)
 
 
-#### Chapitre III : Nomination et recrutement<a id=158></a>
+#### Chapitre III : Nomination et recrutement<a id=160></a>
 
-##### Section 1 : Dispositions générales<a id=159></a>
+##### Section 1 : Dispositions générales<a id=161></a>
 
 ###### Article R233-1
 
@@ -11848,7 +12015,7 @@ _Abrogé par_:
   - Décret n°2017-451 du 30 mars 2017 - art. 3
 
 
-##### Section 2 : Nomination au tour extérieur<a id=160></a>
+##### Section 2 : Nomination au tour extérieur<a id=162></a>
 
 ###### Article R233-4
 
@@ -11924,7 +12091,7 @@ _Cité par_:
   - Code de justice administrative - art. R233-14 (V)
 
 
-##### Section 3 : Recrutement après détachement<a id=161></a>
+##### Section 3 : Recrutement après détachement<a id=163></a>
 
 ###### Article R233-7
 
@@ -11945,7 +12112,7 @@ _Cité par_:
   - Code de justice administrative - art. R234-3 (V)
 
 
-##### Section 4 : Recrutement complémentaire<a id=162></a>
+##### Section 4 : Recrutement complémentaire<a id=164></a>
 
 ###### Article R233-8
 
@@ -12114,7 +12281,7 @@ _Cite_:
   - Code de justice administrative. - art. R233-6 (M)
 
 
-##### Section 6 : Fin de fonctions<a id=163></a>
+##### Section 6 : Fin de fonctions<a id=165></a>
 
 ###### Article R233-13
 
@@ -12141,7 +12308,7 @@ _Cite_:
   - Code de justice administrative - art. L233-9 (Ab)
 
 
-#### Chapitre IV : Avancement<a id=164></a>
+#### Chapitre IV : Avancement<a id=166></a>
 
 ###### Article R234-1
 
@@ -12312,7 +12479,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Positions<a id=165></a>
+#### Chapitre V : Positions<a id=167></a>
 
 ###### Article R235-1
 
@@ -12366,7 +12533,7 @@ _Cité par_:
   - Code de justice administrative. - art. R235-1 (M)
 
 
-#### Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général<a id=166></a>
+#### Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général<a id=168></a>
 
 ###### Article R237-1
 
@@ -12406,11 +12573,11 @@ _Cite_:
   - Code de justice administrative. - art. R231-1 (V)
 
 
-## Livre III : La compétence<a id=167></a>
+## Livre III : La compétence<a id=169></a>
 
-### Titre Ier : La compétence de premier ressort<a id=168></a>
+### Titre Ier : La compétence de premier ressort<a id=170></a>
 
-#### Chapitre Ier : La compétence en raison de la matière<a id=169></a>
+#### Chapitre Ier : La compétence en raison de la matière<a id=171></a>
 
 ###### Article R311-1
 
@@ -12433,8 +12600,7 @@ tribunal administratif ;
 6° Des litiges d'ordre administratif nés hors des territoires soumis à la juridiction d'un tribunal administratif ou d'un
 conseil du contentieux administratif ;
 
-7° Des litiges d'ordre administratif, autres que ceux relevant du contentieux local, nés dans le territoire des îles Wallis-
-et-Futuna ;
+7° Abrogé ;
 
 8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
@@ -12462,13 +12628,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Modifié par_:
-
-  - Décret n°2002-1326 du 29 octobre 2002 - art. 9 () JORF 6 novembre 2002
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 6° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -12558,9 +12724,9 @@ _Cite_:
   - Code de justice administrative - art. R311-1
 
 
-#### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=170></a>
+#### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=172></a>
 
-##### Section 1 : Principes<a id=171></a>
+##### Section 1 : Principes<a id=173></a>
 
 ###### Article R312-1
 
@@ -12701,7 +12867,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R61 (Ab)
 
 
-##### Section 2 : Exceptions<a id=172></a>
+##### Section 2 : Exceptions<a id=174></a>
 
 ###### Article R312-6
 
@@ -13060,9 +13226,9 @@ _Cite_:
   - Code de justice administrative. - art. R311-2 (V)
 
 
-### Titre II : La compétence d'appel<a id=173></a>
+### Titre II : La compétence d'appel<a id=175></a>
 
-#### Chapitre Ier : La compétence en raison de la matière<a id=174></a>
+#### Chapitre Ier : La compétence en raison de la matière<a id=176></a>
 
 ###### Article R321-1
 
@@ -13104,7 +13270,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : La compétence territoriale des cours administratives d'appel<a id=175></a>
+#### Chapitre II : La compétence territoriale des cours administratives d'appel<a id=177></a>
 
 ###### Article R322-1
 
@@ -13180,9 +13346,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R64 (Ab)
 
 
-### Titre IV : La connexité<a id=176></a>
+### Titre IV : La connexité<a id=178></a>
 
-#### Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort du Conseil d'Etat<a id=177></a>
+#### Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort du Conseil d'Etat<a id=179></a>
 
 ###### Article R341-1
 
@@ -13282,7 +13448,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R69 (Ab)
 
 
-#### Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs<a id=178></a>
+#### Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs<a id=180></a>
 
 ###### Article R342-1
 
@@ -13363,7 +13529,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R72 (Ab)
 
 
-#### Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat<a id=179></a>
+#### Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat<a id=181></a>
 
 ###### Article R343-1
 
@@ -13463,7 +13629,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R76 (Ab)
 
 
-#### Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel<a id=180></a>
+#### Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel<a id=182></a>
 
 ###### Article R344-1
 
@@ -13543,7 +13709,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R79 (Ab)
 
 
-### Titre V : Le règlement des questions de compétence<a id=181></a>
+### Titre V : Le règlement des questions de compétence<a id=183></a>
 
 ###### Article R351-1
 
@@ -13832,11 +13998,11 @@ _Cite_:
   - Code de justice administrative. - art. R351-6 (M)
 
 
-## Livre IV : L'introduction de l'instance de premier ressort<a id=182></a>
+## Livre IV : L'introduction de l'instance de premier ressort<a id=184></a>
 
-### Titre Ier : La requête introductive d'instance<a id=183></a>
+### Titre Ier : La requête introductive d'instance<a id=185></a>
 
-#### Chapitre Ier : Présentation de la requête<a id=184></a>
+#### Chapitre Ier : Présentation de la requête<a id=186></a>
 
 ###### Article R411-1
 
@@ -14025,7 +14191,7 @@ _Anciens textes_:
   - Code de l'urbanisme R600-3
 
 
-#### Chapitre II : Pièces jointes ou productions<a id=185></a>
+#### Chapitre II : Pièces jointes ou productions<a id=187></a>
 
 ###### Article R412-1
 
@@ -14122,7 +14288,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Dépôt de la requête<a id=186></a>
+#### Chapitre III : Dépôt de la requête<a id=188></a>
 
 ###### Article R413-1
 
@@ -14272,7 +14438,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R101 (Ab)
 
 
-### Titre II : Les délais<a id=187></a>
+### Titre II : Les délais<a id=189></a>
 
 ###### Article R421-1
 
@@ -14426,8 +14592,8 @@ _Anciens textes_:
 
 ###### Article R421-6
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie le délai de recours de deux mois prévu
-à l'article R. 421-1 est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie le délai de recours de
+deux mois prévu à l'article R. 421-1 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -14438,6 +14604,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -14460,8 +14630,8 @@ de deux mois prévu à l'article R. 421-1.
 Toutefois, ne bénéficient pas de ces délais supplémentaires les requérants qui usent de la faculté prévue par les lois
 spéciales de déposer leurs requêtes à la préfecture ou à la sous-préfecture.
 
-Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, les
-délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
+Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
+Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
 
 **Liens relatifs à cet article**
 
@@ -14478,6 +14648,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
 _Cité par_:
 
   - Décret n°2018-101 du 16 février 2018 - art. 3 (V)
@@ -14489,9 +14663,9 @@ _Cite_:
   - Nouveau code de procédure civile 643, 644
 
 
-### Titre III : La représentation des parties<a id=188></a>
+### Titre III : La représentation des parties<a id=190></a>
 
-#### Chapitre Ier : La représentation des parties devant le tribunal administratif<a id=189></a>
+#### Chapitre Ier : La représentation des parties devant le tribunal administratif<a id=191></a>
 
 ###### Article R431-1
 
@@ -14825,6 +14999,16 @@ Devant le tribunal administratif de Mamoudzou, les recours, les mémoires en dé
 au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par le représentant du
 Gouvernement ou son délégué.
 
+Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en défense et les mémoires en intervention présentés
+au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur
+ou son délégué.
+
+**Nota:**
+
+NOTA : L'article 7 du décret 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+
+L'article 6 du décret 82-390 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -14840,6 +15024,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 7° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
 _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
@@ -14852,7 +15040,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R115 (M)
 
 
-#### Chapitre II : La représentation des parties devant le Conseil d'Etat<a id=190></a>
+#### Chapitre II : La représentation des parties devant le Conseil d'Etat<a id=192></a>
 
 ###### Article R432-1
 
@@ -14974,7 +15162,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2331-5 (V)
 
 
-### Titre IV : L'aide juridictionnelle<a id=191></a>
+### Titre IV : L'aide juridictionnelle<a id=193></a>
 
 ###### Article R441-1
 
@@ -15000,11 +15188,11 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R112 (M)
 
 
-## Livre V : Le référé<a id=192></a>
+## Livre V : Le référé<a id=194></a>
 
-### Titre II : Le juge des référés statuant en urgence<a id=193></a>
+### Titre II : Le juge des référés statuant en urgence<a id=195></a>
 
-#### Chapitre II : Procédure<a id=194></a>
+#### Chapitre II : Procédure<a id=196></a>
 
 ###### Article R522-1
 
@@ -15416,7 +15604,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Voies de recours<a id=195></a>
+#### Chapitre III : Voies de recours<a id=197></a>
 
 ###### Article R523-1
 
@@ -15495,9 +15683,9 @@ _Cite_:
   - Code de justice administrative - art. L521-2 (V)
 
 
-### Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction<a id=196></a>
+### Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction<a id=198></a>
 
-#### Chapitre Ier : Le constat<a id=197></a>
+#### Chapitre Ier : Le constat<a id=199></a>
 
 ###### Article R531-1
 
@@ -15542,7 +15730,7 @@ _Cite_:
   - Code de justice administrative. - art. R832-3 (M)
 
 
-#### Chapitre II : Le référé instruction<a id=198></a>
+#### Chapitre II : Le référé instruction<a id=200></a>
 
 ###### Article R532-1
 
@@ -15607,7 +15795,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-23 (M)
 
 
-#### Chapitre III : Voies de recours<a id=199></a>
+#### Chapitre III : Voies de recours<a id=201></a>
 
 ###### Article R533-1
 
@@ -15691,9 +15879,9 @@ _Cite_:
   - Code de justice administrative - art. R532-1 (V)
 
 
-### Titre IV : Le juge des référés accordant une provision<a id=200></a>
+### Titre IV : Le juge des référés accordant une provision<a id=202></a>
 
-#### Chapitre unique.<a id=201></a>
+#### Chapitre unique.<a id=203></a>
 
 ###### Article R541-1
 
@@ -15844,9 +16032,9 @@ _Cité par_:
   - Code de justice administrative - art. R811-16 (V)
 
 
-### Titre V : Dispositions particulières à certains contentieux<a id=202></a>
+### Titre V : Dispositions particulières à certains contentieux<a id=204></a>
 
-#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=203></a>
+#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=205></a>
 
 ###### Article R551-1
 
@@ -15949,7 +16137,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre IV : Les régimes spéciaux de suspension<a id=204></a>
+#### Chapitre IV : Les régimes spéciaux de suspension<a id=206></a>
 
 ###### Article R554-1
 
@@ -15975,13 +16163,13 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre VI : L'instruction<a id=205></a>
+## Livre VI : L'instruction<a id=207></a>
 
-### Titre Ier : La procédure ordinaire<a id=206></a>
+### Titre Ier : La procédure ordinaire<a id=208></a>
 
-#### Chapitre Ier : La communication de la requête et des mémoires<a id=207></a>
+#### Chapitre Ier : La communication de la requête et des mémoires<a id=209></a>
 
-##### Section 1 : Dispositions générales<a id=208></a>
+##### Section 1 : Dispositions générales<a id=210></a>
 
 ###### Article R611-1
 
@@ -16274,7 +16462,7 @@ _Cité par_:
   - Code de justice administrative. - art. R511-3 (MMN)
 
 
-##### Section 2 : Dispositions applicables devant les tribunaux administratifs<a id=209></a>
+##### Section 2 : Dispositions applicables devant les tribunaux administratifs<a id=211></a>
 
 ###### Article R611-9
 
@@ -16456,7 +16644,33 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R144 (M)
 
 
-##### Section 3 : Dispositions applicables devant les cours administratives d'appel<a id=210></a>
+###### Article R611-15-1
+
+Devant le tribunal administratif de Mata-Utu, les demandes présentées contre une décision ou une délibération prise au nom ou
+pour le compte de l'Etat ou du territoire des îles Wallis et Futuna, et les demandes présentées contre l'Etat ou le
+territoire des îles Wallis et Futuna et mettant en cause leur responsabilité, sont communiquées par le tribunal administratif
+à l'administrateur supérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Créé par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 8° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R144 (M)
+
+
+##### Section 3 : Dispositions applicables devant les cours administratives d'appel<a id=212></a>
 
 ###### Article R611-16
 
@@ -16559,7 +16773,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R148 (M)
 
 
-##### Section 4 : Dispositions applicables devant le Conseil d'Etat<a id=211></a>
+##### Section 4 : Dispositions applicables devant le Conseil d'Etat<a id=213></a>
 
 ###### Article R611-20
 
@@ -16885,7 +17099,7 @@ _Cite_:
   - Code de justice administrative. - art. R611-27 (V)
 
 
-#### Chapitre II : La demande de régularisation et la mise en demeure<a id=212></a>
+#### Chapitre II : La demande de régularisation et la mise en demeure<a id=214></a>
 
 ###### Article R612-1
 
@@ -17034,6 +17248,9 @@ tribunal administratif au haut-commissaire si elle concerne une administration d
 Devant le tribunal administratif de Mamoudzou, la mise en demeure est adressée par le président du tribunal administratif au
 représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
 
+Devant le tribunal administratif de Mata-Utu, la mise en demeure est adressée à l'administrateur supérieur si elle concerne
+une administration de l'Etat ou du territoire des îles Wallis et Futuna.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -17043,6 +17260,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 9° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Anciens textes_:
 
@@ -17099,9 +17320,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R153 (M)
 
 
-#### Chapitre III : La clôture de l'instruction<a id=213></a>
+#### Chapitre III : La clôture de l'instruction<a id=215></a>
 
-##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=214></a>
+##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=216></a>
 
 ###### Article R613-1
 
@@ -17110,8 +17331,8 @@ close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun reco
 
 Les lettres recommandées avec demande d'avis de réception portant notification de cette ordonnance sont envoyées à toutes les
 parties en cause quinze jours au moins avant la date de la clôture fixée par l'ordonnance. Devant les tribunaux
-administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai de notification est porté à un mois et
-l'ordonnance peut être notifiée par voie administrative.
+administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois
+et l'ordonnance peut être notifiée par voie administrative.
 
 **Liens relatifs à cet article**
 
@@ -17119,9 +17340,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -17235,7 +17456,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R157 (M)
 
 
-##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=215></a>
+##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=217></a>
 
 ###### Article R613-5
 
@@ -17257,9 +17478,9 @@ _Cité par_:
   - Décret n°2016-1480 du 2 novembre 2016 - art. 32 (VD)
 
 
-### Titre II : Les différents moyens d'investigation<a id=216></a>
+### Titre II : Les différents moyens d'investigation<a id=218></a>
 
-#### Chapitre Ier : L'expertise<a id=217></a>
+#### Chapitre Ier : L'expertise<a id=219></a>
 
 ###### Article R621-1
 
@@ -17290,7 +17511,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R158 (Ab)
 
 
-##### Section 1 : Nombre et désignation des experts<a id=218></a>
+##### Section 1 : Nombre et désignation des experts<a id=220></a>
 
 ###### Article R621-2
 
@@ -17437,7 +17658,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R163 (Ab)
 
 
-##### Section 2 : Opérations d'expertise<a id=219></a>
+##### Section 2 : Opérations d'expertise<a id=221></a>
 
 ###### Article R621-7
 
@@ -17446,9 +17667,9 @@ est adressé quatre jours au moins à l'avance, par lettre recommandée.
 
 Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le président du tribunal fixe par
-ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels cet avis est porté à
-leur connaissance.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le président du tribunal
+fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels cet avis est
+porté à leur connaissance.
 
 **Liens relatifs à cet article**
 
@@ -17459,6 +17680,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Anciens textes_:
 
@@ -17485,7 +17710,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R165 (Ab)
 
 
-##### Section 3 : Rapport d'expertise<a id=220></a>
+##### Section 3 : Rapport d'expertise<a id=222></a>
 
 ###### Article R621-9
 
@@ -17540,7 +17765,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R167 (Ab)
 
 
-##### Section 4 : Frais d'expertise<a id=221></a>
+##### Section 4 : Frais d'expertise<a id=223></a>
 
 ###### Article R621-11
 
@@ -17695,7 +17920,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R170 (Ab)
 
 
-#### Chapitre II : La visite des lieux<a id=222></a>
+#### Chapitre II : La visite des lieux<a id=224></a>
 
 ###### Article R622-1
 
@@ -17727,9 +17952,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R171 (M)
 
 
-#### Chapitre III : L'enquête<a id=223></a>
+#### Chapitre III : L'enquête<a id=225></a>
 
-##### Section 1 : Procédure de l'enquête<a id=224></a>
+##### Section 1 : Procédure de l'enquête<a id=226></a>
 
 ###### Article R623-1
 
@@ -17855,7 +18080,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R176 (Ab)
 
 
-##### Section 2 : Procès-verbal de l'enquête<a id=225></a>
+##### Section 2 : Procès-verbal de l'enquête<a id=227></a>
 
 ###### Article R623-6
 
@@ -17906,7 +18131,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R178 (Ab)
 
 
-##### Section 3 : Frais de l'enquête<a id=226></a>
+##### Section 3 : Frais de l'enquête<a id=228></a>
 
 ###### Article R623-8
 
@@ -17932,7 +18157,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R179 (Ab)
 
 
-#### Chapitre IV : Les vérifications d'écritures<a id=227></a>
+#### Chapitre IV : Les vérifications d'écritures<a id=229></a>
 
 ###### Article R624-1
 
@@ -17978,7 +18203,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R181 (Ab)
 
 
-#### Chapitre V : Les autres mesures d'instruction<a id=228></a>
+#### Chapitre V : Les autres mesures d'instruction<a id=230></a>
 
 ###### Article R625-1
 
@@ -18005,7 +18230,7 @@ _Cite_:
   - Code de justice administrative. - art. R531-1 (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=229></a>
+#### Chapitre VI : Dispositions diverses<a id=231></a>
 
 ###### Article R626-1
 
@@ -18099,9 +18324,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R185 (Ab)
 
 
-### Titre III : Les incidents de l'instruction<a id=230></a>
+### Titre III : Les incidents de l'instruction<a id=232></a>
 
-#### Chapitre Ier : La demande incidente<a id=231></a>
+#### Chapitre Ier : La demande incidente<a id=233></a>
 
 ###### Article R631-1
 
@@ -18125,7 +18350,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : L'intervention<a id=232></a>
+#### Chapitre II : L'intervention<a id=234></a>
 
 ###### Article R632-1
 
@@ -18153,7 +18378,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : L'inscription de faux<a id=233></a>
+#### Chapitre III : L'inscription de faux<a id=235></a>
 
 ###### Article R633-1
 
@@ -18181,7 +18406,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=234></a>
+#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=236></a>
 
 ###### Article R634-1
 
@@ -18224,7 +18449,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Le désaveu<a id=235></a>
+#### Chapitre V : Le désaveu<a id=237></a>
 
 ###### Article R635-1
 
@@ -18289,7 +18514,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre VI : Le désistement<a id=236></a>
+#### Chapitre VI : Le désistement<a id=238></a>
 
 ###### Article R636-1
 
@@ -18318,11 +18543,11 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R189 (Ab)
 
 
-## Livre VII : Le jugement<a id=237></a>
+## Livre VII : Le jugement<a id=239></a>
 
-### Titre Ier : L'inscription au rôle<a id=238></a>
+### Titre Ier : L'inscription au rôle<a id=240></a>
 
-#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=239></a>
+#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=241></a>
 
 ###### Article R711-1
 
@@ -18356,8 +18581,8 @@ Dans les deux cas, l'avertissement est donné sept jours au moins avant l'audien
 être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis
 d'audience.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai de sept jours est porté à dix
-jours.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours
+est porté à dix jours.
 
 **Liens relatifs à cet article**
 
@@ -18365,9 +18590,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -18413,7 +18638,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R192 (Ab)
 
 
-#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=240></a>
+#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=242></a>
 
 ###### Article R712-1
 
@@ -18446,7 +18671,7 @@ _Cité par_:
   - Code de justice administrative - art. R122-24 (V)
 
 
-### Titre II : L'abstention et la récusation<a id=241></a>
+### Titre II : L'abstention et la récusation<a id=243></a>
 
 ###### Article R721-1
 
@@ -18624,7 +18849,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R194 (Ab)
 
 
-### Titre III : La tenue de l'audience.<a id=242></a>
+### Titre III : La tenue de l'audience.<a id=244></a>
 
 ###### Article R731-1
 
@@ -18736,11 +18961,11 @@ _Cité par_:
   - Code de justice administrative - art. R773-28 (V)
 
 
-### Titre IV : La décision<a id=243></a>
+### Titre IV : La décision<a id=245></a>
 
-#### Chapitre Ier : Dispositions générales<a id=244></a>
+#### Chapitre Ier : Dispositions générales<a id=246></a>
 
-##### Section 1 : Le prononcé de la décision<a id=245></a>
+##### Section 1 : Le prononcé de la décision<a id=247></a>
 
 ###### Article R741-1
 
@@ -18754,7 +18979,7 @@ _Codifié par_:
   - Décret n°2000-389 2000-05-04
 
 
-##### Section 2 : Les mentions obligatoires de la décision<a id=246></a>
+##### Section 2 : Les mentions obligatoires de la décision<a id=248></a>
 
 ###### Article R741-2
 
@@ -18926,7 +19151,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R203 (Ab)
 
 
-##### Section 3 : La minute de la décision<a id=247></a>
+##### Section 3 : La minute de la décision<a id=249></a>
 
 ###### Article R741-7
 
@@ -19029,7 +19254,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R206 (Ab)
 
 
-##### Section 4 : La rectification des erreurs matérielles devant le tribunal administratif<a id=248></a>
+##### Section 4 : La rectification des erreurs matérielles devant le tribunal administratif<a id=250></a>
 
 ###### Article R741-11
 
@@ -19064,7 +19289,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R205 (M)
 
 
-##### Section 5 : L'amende pour recours abusif<a id=249></a>
+##### Section 5 : L'amende pour recours abusif<a id=251></a>
 
 ###### Article R741-12
 
@@ -19095,7 +19320,7 @@ _Cité par_:
   - Code de la santé publique - art. R4234-33 (V)
 
 
-#### Chapitre II : Dispositions propres aux ordonnances<a id=250></a>
+#### Chapitre II : Dispositions propres aux ordonnances<a id=252></a>
 
 ###### Article R742-1
 
@@ -19202,7 +19427,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre V : La notification de la décision<a id=251></a>
+### Titre V : La notification de la décision<a id=253></a>
 
 ###### Article R751-1
 
@@ -19427,19 +19652,21 @@ commissaire.
 
 Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au représentant du gouvernement.
 
+Devant le tribunal administratif de Mata-Utu, l'expédition est adressée à l'administrateur supérieur.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Modifié par_:
-
-  - Décret n°2003-616 du 4 juillet 2003 - art. 3 () JORF 5 juillet 2003 en vigueur le 1er septembre 2003
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 10° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -19538,7 +19765,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre VI : Les frais et dépens<a id=252></a>
+### Titre VI : Les frais et dépens<a id=254></a>
 
 ###### Article R761-1
 
@@ -19676,9 +19903,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R221 (M)
 
 
-### Titre VII : Dispositions spéciales<a id=253></a>
+### Titre VII : Dispositions spéciales<a id=255></a>
 
-#### Chapitre Ier : La saisine du Tribunal des conflits<a id=254></a>
+#### Chapitre Ier : La saisine du Tribunal des conflits<a id=256></a>
 
 ###### Article R771-1
 
@@ -19743,7 +19970,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=255></a>
+#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=257></a>
 
 ###### Article R772-1
 
@@ -19826,10 +20053,10 @@ _Anciens textes_:
 
 ###### Article R772-4
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, les requêtes en matière fiscale dont le contentieux
-ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret du 5 août 1881 modifié et
-des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le tribunal administratif dans
-les formes prévues dans le présent code.
+Devant les tribunaux administratifs de Papeete, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière fiscale dont le
+contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret du 5 août 1881
+modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le tribunal
+administratif dans les formes prévues dans le présent code.
 
 Devant le tribunal administratif de Mamoudzou, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires
 ou assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites
@@ -19850,12 +20077,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 11° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R233 (M)
 
 
-#### Chapitre III : Le contentieux des élections<a id=256></a>
+#### Chapitre III : Le contentieux des élections<a id=258></a>
 
 ###### Article R773-1
 
@@ -19922,8 +20153,8 @@ _Anciens textes_:
 En matière électorale, les requêtes au Conseil d'Etat peuvent être déposées à la préfecture ou à la sous-préfecture du
 domicile du requérant.
 
-En Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, les requêtes peuvent être déposées auprès des services
-du haut-commissaire ou du représentant du Gouvernement.
+En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte, les requêtes peuvent être déposées auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -19938,6 +20169,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 12° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 
 ###### Article R773-5
@@ -19989,7 +20224,7 @@ _Cité par_:
   - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
-#### Chapitre 5 : Le contentieux des édifices menacant ruine.<a id=257></a>
+#### Chapitre 5 : Le contentieux des édifices menacant ruine.<a id=259></a>
 
 ###### Article R775-1
 
@@ -20015,7 +20250,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241 (Ab)
 
 
-#### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière<a id=258></a>
+#### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière<a id=260></a>
 
 ###### Article R776-1
 
@@ -20577,9 +20812,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-20 (Ab)
 
 
-## Livre VIII : Les voies de recours.<a id=259></a>
+## Livre VIII : Les voies de recours.<a id=261></a>
 
-### Titre Ier : L'appel<a id=260></a>
+### Titre Ier : L'appel<a id=262></a>
 
 ###### Article R811-1
 
@@ -20688,7 +20923,8 @@ _Anciens textes_:
 
 ###### Article R811-4
 
-A Mayotte, en Polynésie française et en Nouvelle-Calédonie, le délai d'appel de deux mois est porté à trois mois.
+A Mayotte, en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, le délai d'appel de deux mois est
+porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -20704,6 +20940,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 13° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+_Abrogé par_:
+
+  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
+
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R229 (M)
@@ -20715,8 +20959,8 @@ Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouv
 délais normalement impartis.
 
 Toutefois, ne bénéficient pas de ce délai supplémentaire ceux qui, en matière électorale, déposent leur requête à la
-préfecture ou à la sous-préfecture ou, en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, auprès des
-services du délégué du gouvernement.
+préfecture ou à la sous-préfecture ou, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à
+Mayotte, auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -20733,6 +20977,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 14° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
 _Cité par_:
 
   - Code de justice administrative - art. R821-2 (V)
@@ -20740,10 +20988,6 @@ _Cité par_:
   - Code de justice administrative - art. R832-4 (V)
   - Code de justice administrative - art. R833-2 (V)
   - Code électoral - art. R12 (V)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 643, 644
 
 
 ###### Article R811-6
@@ -21176,9 +21420,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=261></a>
+### Titre II : Le recours en cassation<a id=263></a>
 
-#### Chapitre Ier : Dispositions générales<a id=262></a>
+#### Chapitre Ier : Dispositions générales<a id=264></a>
 
 ###### Article R821-1
 
@@ -21326,7 +21570,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=263></a>
+#### Chapitre II : Procédure d'admission<a id=265></a>
 
 ###### Article R822-1
 
@@ -21485,9 +21729,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=264></a>
+### Titre III : Autres voies de recours<a id=266></a>
 
-#### Chapitre Ier : L'opposition<a id=265></a>
+#### Chapitre Ier : L'opposition<a id=267></a>
 
 ###### Article R831-1
 
@@ -21618,7 +21862,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=266></a>
+#### Chapitre II : La tierce opposition<a id=268></a>
 
 ###### Article R832-1
 
@@ -21672,8 +21916,8 @@ _Anciens textes_:
 
 ###### Article R832-3
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai pour former tierce opposition
-est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai pour former
+tierce opposition est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -21684,6 +21928,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -21732,7 +21980,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=267></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=269></a>
 
 ###### Article R833-1
 
@@ -21787,7 +22035,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=268></a>
+#### Chapitre IV : Le recours en révision<a id=270></a>
 
 ###### Article R834-1
 
@@ -21877,9 +22125,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=269></a>
+## Livre IX : L'exécution des décisions<a id=271></a>
 
-### Titre Ier : Principes<a id=270></a>
+### Titre Ier : Principes<a id=272></a>
 
 ###### Article R911-1
 
@@ -21902,7 +22150,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=271></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=273></a>
 
 ###### Article R921-1
 
@@ -22131,7 +22379,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=272></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=274></a>
 
 ###### Article R931-1
 

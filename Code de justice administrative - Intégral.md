@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-07-05
+Version Consolidée au 2003-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -172,7 +172,7 @@ Version Consolidée au 2003-07-05
         - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#169)
     - [Livre III : La compétence (art. R311-1 à R351-9)](#170)
       - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-17)](#171)
-        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-2)](#172)
+        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-3)](#172)
         - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-17)](#173)
           - [Section 1 : Principes (art. R312-1 à R312-5)](#174)
           - [Section 2 : Exceptions (art. R312-6 à R312-17)](#175)
@@ -8737,21 +8737,17 @@ Rouen : trois chambres ;
 
 Saint-Denis : deux chambres ;
 
-Strasbourg : quatre chambres ;
+Strasbourg : cinq chambres ;
 
 Toulouse : quatre chambres ;
 
-Versailles : sept chambres.
+Versailles : huit chambres.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
 _Cité par_:
 
@@ -8760,7 +8756,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1083 du 7 août 2002 - art. 1 () JORF 11 août 2002 en vigueur le 1er septembre 2002
+  - Décret n°2003-653 du 16 juillet 2003 - art. 2 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Anciens textes_:
 
@@ -8790,8 +8790,8 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-Le tribunal administratif de Paris comprend seize chambres réparties en sections. Il est présidé par un président classé au
-7e échelon de son grade.
+Le tribunal administratif de Paris comprend dix-sept chambres regroupées en sections. Il est présidé par un président classé
+au 7e échelon de son grade.
 
 **Liens relatifs à cet article**
 
@@ -8799,13 +8799,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-1083 du 7 août 2002 - art. 2 () JORF 11 août 2002 en vigueur le 1er septembre 2002
+  - Décret n°2003-653 du 16 juillet 2003 - art. 3 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -8864,9 +8864,9 @@ _Anciens textes_:
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Paris : cinq chambres ;
+Bordeaux, Lyon, Marseille et Paris : cinq chambres ;
 
-Bordeaux, Lyon, Marseille et Nantes : quatre chambres ;
+Nantes : quatre chambres ;
 
 Douai et Nancy : trois chambres.
 
@@ -8876,13 +8876,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-1083 du 7 août 2002 - art. 3 () JORF 11 août 2002 en vigueur le 1er septembre 2002
+  - Décret n°2003-653 du 16 juillet 2003 - art. 4 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Anciens textes_:
 
@@ -9226,8 +9226,9 @@ premier conseiller statue en audience publique et après audition du commissaire
 
 1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de construire ;
 
-2° Sur les litiges relatifs à la situation individuelle des agents publics, à l'exception de ceux concernant l'entrée au
-service, la discipline et la sortie du service ;
+2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou agents de l'Etat et des autres personnes ou
+collectivités publiques, ainsi que des agents ou employés de la Banque de France, à l'exception de ceux concernant l'entrée
+au service, la discipline et la sortie du service ;
 
 3° Sur les litiges en matière de pensions, d'aide personnalisée au logement, de communication de documents administratifs, de
 service national ;
@@ -9252,9 +9253,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
 
 _Cité par_:
 
@@ -12629,6 +12630,48 @@ _Cite_:
   - Code de justice administrative - art. R311-1
 
 
+###### Article R311-3
+
+Par dérogation aux dispositions du 5° de l'article R. 311-1, les recours contre les décisions prises par le directeur
+départemental du travail sur le fondement des articles L. 433-2 et L. 435-4 du code du travail (1) sont portés, quels que
+soient le nombre et l'implantation des établissements en cause, devant le tribunal administratif.
+
+**Nota:**
+
+(1) les articles de l'ancien code du travail ont été renumérotés  en  L. 2122-1, L. 2324-5, L. 2324-6, L. 2324-7, L. 2324-9,
+L. 2324-11,    L. 2324-12, L. 2324-13, L. 2324-23 pour l'article L. 433-2 et dans les articles L. 2327-2, L. 2327-3, L.
+2327-4, L. 2327-5, L. 2327-6, L. 2327-7, L. 2327-9, L. 2327-11, L. 2327-12, L. 2327-13, L. 2327-14,  L. 2327-15, L. 2327-16,
+L. 2327-17, L. 2327-18, L. 2327-19, pour l'article L. 435-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2003-543 du 24 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Abrogé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 1
+
+_Cité par_:
+
+  - Décret n°2015-165 du 12 février 2015 - art. 4 (V)
+  - Décret n°2015-268 du 10 mars 2015 (V)
+  - Code de justice administrative - art. R312-10 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R311-1
+
+
 #### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=173></a>
 
 ##### Section 1 : Principes<a id=174></a>
@@ -12903,15 +12946,26 @@ litige, soit le lieu d'exercice de la profession.
 Si, pour ces mêmes catégories de litiges, la décision contestée a un caractère réglementaire et ne s'applique que dans le
 ressort d'un seul tribunal administratif, ce tribunal administratif est compétent pour connaître du litige.
 
+Par dérogation aux dispositions du premier alinéa, les recours mentionnés à l'article R. 311-3 sont portés devant le tribunal
+administratif dans le ressort duquel se situe le siège de l'entreprise.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2003-543 du 24 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Cite_:
+
+  - Code de justice administrative. - art. R311-3 (V)
 
 _Anciens textes_:
 
@@ -14690,7 +14744,8 @@ Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas
 
 2° Aux litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ;
 
-3° Aux litiges d'ordre individuel concernant les agents publics ;
+3° Aux litiges d'ordre individuel concernant les fonctionnaires ou agents de l'Etat et des autres personnes ou collectivités
+publiques ainsi que les agents ou employés de la Banque de France ;
 
 4° Aux litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et
 d'indemnisation des rapatriés ;
@@ -14705,9 +14760,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -14720,10 +14779,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R109 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 5 JORF 3 août 2001
 
 
 ###### Article R431-4
@@ -19480,8 +19535,9 @@ Sauf lorsqu'elle concerne une décision prise en application du titre II du livr
 que la requête d'appel ou le pourvoi en cassation doit justifier de l'acquittement du droit de timbre prévu à l'article L.
 411-1 ou de ce que le requérant remplit les conditions permettant de bénéficier de l'aide juridictionnelle.
 
-Lorsque la décision rendue relève de la cour administrative d'appel, la notification reproduit les dispositions de l'article
-R. 811-7.
+Lorsque la décision rendue relève de la cour administrative d'appel et, sauf lorsqu'une disposition particulière a prévu une
+dispense de ministère d'avocat en appel, la notification mentionne que l'appel ne peut être présenté que par l'un des
+mandataires mentionnés à l'article R. 431-2.
 
 Lorsque la décision est rendue en dernier ressort, la notification mentionne, s'il y a lieu, que le pourvoi en cassation
 devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
@@ -19492,13 +19548,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-547 du 19 avril 2002 - art. 11 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
 
 _Cité par_:
 
@@ -19510,6 +19562,7 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative. - art. L411-1 (M)
+  - Code de justice administrative. - art. R431-2 (V)
 
 _Anciens textes_:
 
@@ -19563,12 +19616,12 @@ _Anciens textes_:
 ###### Article R751-8
 
 Lorsque la notification d'une décision du tribunal administratif ou de la cour administrative d'appel doit être faite à
-l'Etat, et sauf lorsque la décision statue sur une demande présentée, en application du code général des collectivités
-territoriales, par le préfet, l'expédition doit dans tous les cas être adressée au ministre dont relève l'administration
-intéressée au litige.
+l'Etat, l'expédition est adressée au ministre dont relève l'administration intéressée au litige. Copie de la décision est
+adressée au préfet ainsi que, s'il y a lieu, à l'autorité qui assure la défense de l'Etat devant la juridiction.
 
-Une copie est également transmise au préfet ainsi que, s'il y a lieu, à l'autorité qui assure la défense de l'Etat devant la
-juridiction, lorsque la décision n'a pas à lui être notifiée.
+Toutefois, lorsque la décision est rendue sur une demande présentée, en application du code général des collectivités
+territoriales, par le préfet ou lorsqu'elle émane d'un tribunal administratif statuant dans l'une des matières mentionnées à
+l'article R. 811-10-1, la notification est adressée au préfet. Copie de la décision est alors adressée au ministre intéressé.
 
 Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, l'expédition est adressée dans tous les cas au haut-
 commissaire.
@@ -19581,13 +19634,21 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2003-616 du 4 juillet 2003 - art. 3 () JORF 5 juillet 2003 en vigueur le 1er septembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
   - Code de justice administrative - art. R*771-9 (VD)
+
+_Cite_:
+
+  - Code de justice administrative. - art. R811-10-1 (M)
 
 _Anciens textes_:
 
@@ -19936,7 +19997,7 @@ _Anciens textes_:
 
 ###### Article R772-3
 
-Les requêtes mentionnées au présent chapitre sont dispensées du ministère d'avocat tant en première instance qu'en appel.
+Les requêtes mentionnées au présent chapitre sont dispensées de ministère d'avocat en première instance. 
 
 Le recours peut être déposé soit au greffe de la cour administrative d'appel, soit à la préfecture, soit à la sous-
 préfecture ; dans ce dernier cas, il est fait application des dispositions de l'article R. 413-2.
@@ -19947,13 +20008,17 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cite_:
 
-  - Code de justice administrative. - art. R413-2 (V)
+  - Code de justice administrative - art. R413-2 (V)
 
 _Anciens textes_:
 
@@ -20909,24 +20974,23 @@ _Anciens textes_:
 
 ###### Article R811-7
 
-Les appels ainsi que les mémoires déposés devant la cour administrative d'appel doivent être présentés à peine
-d'irrecevabilité par l'un des mandataires mentionnés à l'article R. 431-2.
+Les appels ainsi que les mémoires déposés devant la cour administrative d'appel doivent être présentés, à peine
+d'irrecevabilité, par l'un des mandataires mentionnés à l'article R. 431-2.
+
+Lorsque la notification de la décision soumise à la cour administrative d'appel ne comporte pas la mention prévue au
+troisième alinéa de l'article R. 751-5, le requérant est invité par la cour à régulariser sa requête dans les conditions
+fixées aux articles R. 612-1 et R. 612-2.
 
 Toutefois, sont dispensés de ministère d'avocat :
 
-1° Les requêtes dirigées contre les décisions des tribunaux administratifs statuant sur les recours pour excès de pouvoir ;
+1° Les requêtes dirigées contre les décisions des tribunaux administratifs statuant sur les recours pour excès de pouvoir
+formés par les fonctionnaires ou agents de l'Etat et des autres personnes ou collectivités publiques, ainsi que par les
+agents ou employés de la Banque de France contre les actes relatifs à leur situation personnelle ;
 
-2° Les litiges en matière d'élections ;
+2° Les litiges en matière de contraventions de grande voirie mentionnés à l'article L. 774-8.
 
-3° Les litiges en matière de contraventions de grande voirie ;
-
-4° Les litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ;
-
-5° Les litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et
-d'indemnisation des rapatriés ;
-
-6° Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
-situé dans le ressort de la cour et frappé d'appel devant celle-ci.
+Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
+situé dans le ressort de la cour et frappé d'appel devant celle-ci sont également dispensées de ministère d'avocat.
 
 **Liens relatifs à cet article**
 
@@ -20934,13 +20998,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-547 du 19 avril 2002 - art. 10 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -20952,7 +21016,9 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de justice administrative. - art. L774-8 (V)
   - Code de justice administrative. - art. R431-2 (V)
+  - Code de justice administrative. - art. R612-1 (M)
 
 _Anciens textes_:
 
@@ -20961,7 +21027,8 @@ _Anciens textes_:
 
 ###### Article R811-8
 
-En cas de dispense, les parties peuvent agir et se présenter elles-mêmes. Elles peuvent aussi se faire représenter :
+Lorsqu'une disposition spéciale a prévu une dispense d'avocat en appel, les parties peuvent agir et se présenter elles-mêmes.
+Elles peuvent aussi se faire représenter :
 
 1° Par l'un des mandataires mentionnés à l'article R. 431-2 ;
 
@@ -20972,20 +21039,24 @@ L. 252-5 dudit code sont réunies et selon les modalités prévues par les artic
 
 _Cite_:
 
-  - Code rural L252-1, L252-5, R252-21 à R252-29
   - Code de justice administrative. - art. R431-2 (V)
+  - Code rural L252-1, L252-5, R252-21 à R252-29
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R116 (M)
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R116 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R811-9

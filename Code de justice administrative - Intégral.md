@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-09-01
+Version Consolidée au 2004-09-04
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -13106,19 +13106,29 @@ Les litiges relatifs aux décisions individuelles prises à l'encontre de person
 l'exercice de leurs pouvoirs de police relèvent de la compétence du tribunal administratif du lieu de résidence des personnes
 faisant l'objet des décisions attaquées à la date desdites décisions.
 
+Toutefois, cette dérogation aux dispositions de l'article R. 312-1 n'est pas applicable aux litiges relatifs aux décisions
+ministérielles prononçant l'expulsion d'un ressortissant étranger, fixant le pays de renvoi de celui-ci ou assignant à
+résidence l'étranger qui a fait l'objet d'une décision ministérielle d'expulsion ainsi qu'aux décisions ministérielles
+assignant à résidence un étranger ayant fait l'objet d'une décision d'interdiction du territoire prononcée par une
+juridiction judiciaire et qui ne peut déférer à cette mesure.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2004-934 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
 
 _Cité par_:
 
   - Décret n°2004-934 du 2 septembre 2004 - art. 2 (V)
+
+_Cite_:
+
+  - Code de justice administrative. - art. R312-1 (V)
 
 _Anciens textes_:
 

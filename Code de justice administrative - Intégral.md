@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-11-27
+Version Consolidée au 2003-12-20
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -4349,8 +4349,8 @@ _Anciens textes_:
 
 ###### Article L774-2
 
-Dans les dix jours qui suivent la rédaction d'un procès-verbal de contravention, et son affirmation quand elle est exigée, le
-préfet fait faire au contrevenant notification de la copie du procès-verbal ainsi que de l'affirmation.
+Dans les dix jours qui suivent la rédaction d'un procès-verbal de contravention, le préfet fait faire au contrevenant
+notification de la copie du procès-verbal .
 
 La notification est faite dans la forme administrative, mais elle peut également être effectuée par lettre recommandée avec
 demande d'avis de réception.
@@ -4368,6 +4368,10 @@ _Codifié par_:
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 7 () JORF 20 décembre 2003
+
 _Cité par_:
 
   - Code de justice administrative - art. L774-10 (V)
@@ -4376,10 +4380,6 @@ _Cité par_:
   - Code de justice administrative - art. L774-6 (VD)
   - Code de justice administrative - art. L774-9 (V)
   - Code de justice administrative. - art. L774-12 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de justice administrative 774-9
 
 _Anciens textes_:
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-06-05
+Version Consolidée au 2004-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -3443,8 +3443,8 @@ _Cite_:
 ###### Article L551-1
 
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics et des conventions de
-délégation de service public.
+de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des contrats de partenariat
+et des conventions de délégation de service public.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
 par ce manquement, ainsi que le représentant de l'Etat dans le département dans le cas où le contrat est conclu ou doit être
@@ -3486,13 +3486,9 @@ _Codifié par_:
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-597 du 30 juin 2000 - art. 25 (M)
+  - Ordonnance 2004-559 2004-06-17 art. 27 1° JORF 19 juin 2004
 
 _Anciens textes_:
 
@@ -3776,6 +3772,11 @@ d'un délai d'un mois à compter de la réception, si le juge des référés n'a
 Il en va de même pour les actes des collectivités visés aux articles L. 3132-1 et L. 4142-1 du code général des collectivités
 territoriales.
 
+**Nota:**
+
+Ordonnance 2004-559 du 17 juin 2004 art. 27 2° : A l'article L. 554-2 du code de justice administrative, sont ajoutés les
+mots ", des contrats de partenariat " après les mots " marchés publics ".
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -3783,16 +3784,9 @@ _Codifié par_:
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-597 2000-06-30 art. 1, 13 et 16 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2131-6 (M)
-  - Code général des collectivités territoriales - art. L3132-1 (M)
-  - Code général des collectivités territoriales - art. L4142-1 (M)
+  - Ordonnance 2004-559 2004-06-17 art. 27 2° JORF 19 juin 2004
 
 _Anciens textes_:
 
@@ -3881,15 +3875,16 @@ _Anciens textes_:
 La décision de suspension en matière de marchés des établissements publics de santé obéit aux règles définies à l'article L.
 6145-6 du code de la santé publique ci-après reproduit :
 
-" Art. L. 6145-6. - Les marchés des établissements publics de santé sont exécutoires dès leur réception par le représentant
-de l'Etat. Celui-ci défère au tribunal administratif, dans les deux mois suivant cette réception, les décisions qu'il estime
-illégales. Il informe sans délai le président du conseil d'administration et lui communique toute précision sur les
-illégalités invoquées. Il peut assortir son recours d'une demande de suspension. Il est fait droit à cette demande si l'un
-des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à la légalité de l'acte
-attaqué.
+Art. L. 6145-6. - Les marchés et les contrats de partenariats des établissements publics de santé sont exécutoires dès leur
+réception par le représentant de l'Etat. Celui-ci défère au tribunal administratif, dans les deux mois suivant cette
+réception, les décisions qu'il estime illégales. Il informe sans délai le président du conseil d'administration et lui
+communique toute précision sur les illégalités invoquées. Il peut assortir son recours d'une demande de suspension. Il est
+fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux
+quant à la légalité de l'acte attaqué.
 
-Toutefois, les marchés passés sans formalité préalable en raison de leur montant sont dispensés de l'obligation de
-transmission au représentant de l'Etat prévue au premier alinéa. Ces marchés sont exécutoires dès leur conclusion. "
+Toutefois, les marchés et les contrats de partenariat passés sans formalité préalable en raison de leur montant sont
+dispensés de l'obligation de transmission au représentant de l'Etat prévue au premier alinéa. Ces marchés et les contrats de
+partenariat sont exécutoires dès leur conclusion.
 
 **Liens relatifs à cet article**
 
@@ -3900,7 +3895,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 11 () JORF 12 décembre 2001
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 21 () JORF 19 juin 2004
 
 _Cite_:
 

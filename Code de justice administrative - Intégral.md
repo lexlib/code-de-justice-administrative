@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-09-01
+Version Consolidée au 2003-11-27
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -4596,7 +4596,7 @@ du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étranger
 quarante-huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours
 lorsqu'il est notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
 
-Le président ou son délégué statue dans un délai de quarante-huit heures à compter de sa saisine. Il peut se transporter au
+Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au
 siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35
 bis de la présente ordonnance.
 
@@ -4624,7 +4624,17 @@ pas suspensif.
 
 A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le
 président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même
-décret fixe les conditions d'application de cette disposition. "
+décret fixe les conditions d'application de cette disposition".
+
+**Nota:**
+
+NOTA : L'article 7 du décret 2004-789 du 29 juillet 2004 dispose :
+
+"La date mentionnée au dernier alinéa de l'article 22 bis de l'ordonnance du 2 novembre 1945 susvisée est fixée au 1er
+janvier 2005".
+
+NOTA : L'article 22 bis de l'ordonnance 45-2658 du 2 novembre 1945 est abrogé par l'ordonnance 2004-1248 (art. 4) sous
+certaines réserves.
 
 **Liens relatifs à cet article**
 
@@ -4637,6 +4647,10 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 34 () JORF 27 novembre 2003
 
 _Cité par_:
 

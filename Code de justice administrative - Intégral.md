@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-04-21
+Version Consolidée au 2002-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -162,7 +162,7 @@ Version Consolidée au 2002-04-21
         - [Chapitre IV : Avancement (art. R234-1 à R234-7)](#159)
         - [Chapitre V : Positions (art. R235-1 à R235-2)](#160)
         - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#161)
-    - [Livre III : La compétence (art. R311-1 à R351-7)](#162)
+    - [Livre III : La compétence (art. R311-1 à R351-9)](#162)
       - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-17)](#163)
         - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-2)](#164)
         - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-17)](#165)
@@ -176,7 +176,7 @@ Version Consolidée au 2002-04-21
         - [Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs (art. R342-1 à R342-3)](#173)
         - [Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat (art. R343-1 à R343-4)](#174)
         - [Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel (art. R344-1 à R344-3)](#175)
-      - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-7)](#176)
+      - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-9)](#176)
     - [Livre IV : L'introduction de l'instance de premier ressort (art. R411-1 à R441-1)](#177)
       - [Titre Ier : La requête introductive d'instance (art. R411-1 à R413-6)](#178)
         - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-7)](#179)
@@ -5774,8 +5774,9 @@ Les présidents de sous-sections peuvent, par ordonnance :
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les requêtes irrecevables pour défaut de ministère d'avocat ou entachées d'une irrecevabilité manifeste non
-susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, pour défaut
+d'acquittement du droit de timbre prévu à l'article L. 411-1, ainsi que celles qui sont entachées d'une irrecevabilité
+manifeste non susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -5796,13 +5797,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2001-562 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
+  - Décret n°2002-547 du 19 avril 2002 - art. 9 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -5819,6 +5820,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de justice administrative. - art. L411-1 (M)
   - Code de justice administrative. - art. L761-1 (V)
 
 
@@ -8669,8 +8671,9 @@ Paris et les présidents de formation de jugement des tribunaux et des cours peu
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les requêtes irrecevables pour défaut de ministère d'avocat ou entachées d'une irrecevabilité manifeste non
-susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, pour défaut
+d'acquittement du droit de timbre prévu à l'article L. 411-1, ainsi que celles qui sont entachées d'une irrecevabilité
+manifeste non susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -8692,6 +8695,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 9 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 _Cité par_:
 
   - Code de justice administrative - art. R*771-8 (VD)
@@ -8711,15 +8718,12 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de justice administrative. - art. L411-1 (M)
   - Code de justice administrative. - art. L761-1 (V)
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. L9 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001
 
 
 ###### Article R222-2
@@ -11937,15 +11941,28 @@ _Anciens textes_:
 Sauf en matière de marchés, contrats ou concessions, la compétence territoriale ne peut faire l'objet de dérogations, même
 par voie d'élection de domicile ou d'accords entre les parties.
 
+Lorsqu'il n'a pas été fait application de la procédure de renvoi prévue à l'article R. 351-3 et que le moyen tiré de
+l'incompétence territoriale du tribunal administratif n'a pas été invoqué par les parties avant la clôture de l'instruction
+de première instance, ce moyen ne peut plus être ultérieurement soulevé par les parties ou relevé d'office par le juge
+d'appel ou de cassation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 5 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Cite_:
+
+  - Code de justice administrative. - art. R351-3 (M)
 
 _Anciens textes_:
 
@@ -11995,9 +12012,10 @@ _Anciens textes_:
 
 ###### Article R312-5
 
-Lorsqu'un tribunal administratif est saisi d'un litige relevant de sa compétence et dans lequel un de ses membres est en
-cause, l'affaire est renvoyée par le président à un autre tribunal administratif désigné par le président de la section du
-contentieux du Conseil d'Etat.
+Lorsque le président d'un tribunal administratif saisi d'un litige relevant de sa compétence constate qu'un des membres du
+tribunal est en cause ou estime qu'il existe une autre raison objective de mettre en cause l'impartialité du tribunal, il
+transmet le dossier au président de la section du contentieux du Conseil d'Etat qui en attribue le jugement à la juridiction
+qu'il désigne.
 
 **Liens relatifs à cet article**
 
@@ -12005,9 +12023,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 6 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -12462,9 +12484,10 @@ _Anciens textes_:
 
 ###### Article R322-3
 
-Lorsqu'une cour administrative d'appel est saisie d'un litige relevant de sa compétence et dans lequel un de ses membres est
-en cause, l'affaire est renvoyée par le président à une autre cour administrative d'appel désignée par le président de la
-section du contentieux du Conseil d'Etat.
+Lorsque le président d'une cour administrative d'appel saisie d'un litige relevant de sa compétence constate qu'un des
+membres de la cour est en cause ou estime qu'il existe une autre raison objective de mettre en cause l'impartialité de la
+cour, il transmet le dossier au président de la section du contentieux du Conseil d'Etat qui en attribue le jugement à la
+juridiction qu'il désigne.
 
 **Liens relatifs à cet article**
 
@@ -12472,13 +12495,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2002-547 du 19 avril 2002 - art. 6 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -12914,9 +12937,12 @@ _Anciens textes_:
 ###### Article R351-3
 
 Lorsqu'une cour administrative d'appel ou un tribunal administratif est saisi de conclusions qu'il estime relever de la
-compétence d'une juridiction administrative autre que le Conseil d'Etat, son président transmet sans délai le dossier au
-président de la section du contentieux du Conseil d'Etat qui règle la question de compétence et attribue le jugement de tout
-ou partie de l'affaire à la juridiction qu'il déclare compétente.
+compétence d'une juridiction administrative autre que le Conseil d'Etat, son président, ou le magistrat qu'il délègue,
+transmet sans délai le dossier à la juridiction qu'il estime compétente.
+
+Toutefois, en cas de difficultés particulières, il peut transmettre sans délai le dossier au président de la section du
+contentieux du Conseil d'Etat qui règle la question de compétence et attribue le jugement de tout ou partie de l'affaire à la
+juridiction qu'il déclare compétente.
 
 **Liens relatifs à cet article**
 
@@ -12924,9 +12950,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 1 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -12996,13 +13026,22 @@ _Codifié par_:
 ###### Article R351-6
 
 Les décisions du président de la section du contentieux du Conseil d'Etat et des présidents des cours administratives d'appel
-et des tribunaux administratifs prises en application des articles R. 341-2, R. 341-3, R. 342-2, R. 343-2, R. 343-3 R. 344-2
-et R. 344-3 à R. 351-3 sont notifiées sans délai aux parties. Elles sont prises par ordonnance non motivée et ne sont
-susceptibles d'aucun recours. Elles n'ont pas l'autorité de chose jugée.
+et des tribunaux administratifs prises en application des articles R. 312-5, R. 322-3, R. 341-2, R. 341-3, R. 342-2, R.
+343-2, R. 343-3, R. 344-2, R. 344-3 à R. 351-3, du deuxième alinéa de l'article R. 351-6, de l'article R. 351-8 sont
+notifiées sans délai aux parties. Elles sont prises par ordonnance non motivée et ne sont susceptibles d'aucun recours. Elles
+n'ont pas l'autorité de chose jugée.
 
-La juridiction déclarée compétente par le président de la section du contentieux du Conseil d'Etat en application des
-dispositions des articles R. 342-3 et R. 344-3 à R. 351-3 ne peut décliner sa compétence, sauf pour soulever l'incompétence
-de la juridiction administrative.
+Lorsque le président de la cour administrative d'appel ou du tribunal administratif, auquel un dossier a été transmis en
+application du premier alinéa de l'article R. 351-3, estime que cette juridiction n'est pas compétente, il transmet le
+dossier, dans le délai de trois mois suivant la réception de celui-ci, au président de la section du contentieux du Conseil
+d'Etat, qui règle la question de compétence et attribue le jugement de tout ou partie de l'affaire à la juridiction qu'il
+déclare compétente.
+
+Lorsque le président d'une juridiction administrative autre qu'une cour administrative d'appel ou un tribunal administratif,
+à laquelle un dossier a été transmis en application du premier alinéa de l'article R. 351-3, estime que cette juridiction
+n'est pas compétente, il transmet le dossier, dans le délai de trois mois suivant la réception de celui-ci, au président de
+la section du contentieux du Conseil d'Etat, qui règle la question de compétence et attribue le jugement de tout ou partie de
+l'affaire à la juridiction qu'il déclare compétente.
 
 **Liens relatifs à cet article**
 
@@ -13010,9 +13049,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 2 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -13024,13 +13067,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative R341-2, R341-3, R342-2, R343-2, R343-3, R344-3 à R351-3, R342-3
+  - Code de justice administrative R312-5, R322-3, R341-2, R341-3, R342-2, R343-2, R343-3, R344-2, R344-3 à R351-3, R351-6, R351-8
+  - Code de justice administrative. - art. R312-5 (M)
+  - Code de justice administrative. - art. R322-3 (M)
   - Code de justice administrative. - art. R341-2 (V)
   - Code de justice administrative. - art. R341-3 (V)
   - Code de justice administrative. - art. R342-2 (V)
-  - Code de justice administrative. - art. R342-3 (V)
   - Code de justice administrative. - art. R343-2 (V)
   - Code de justice administrative. - art. R343-3 (V)
+  - Code de justice administrative. - art. R344-2 (V)
+  - Code de justice administrative. - art. R351-8 (V)
 
 _Anciens textes_:
 
@@ -13060,6 +13106,62 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R85 (Ab)
+
+
+###### Article R351-8
+
+Lorsque des considérations de bonne administration de la justice l'imposent, le président de la section du contentieux du
+Conseil d'Etat, de sa propre initiative ou sur la demande d'un président de tribunal administratif ou de cour administrative
+d'appel, attribue, par une ordonnance motivée qui n'est pas susceptible de recours, le jugement d'une ou plusieurs affaires à
+la juridiction qu'il désigne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 1 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Cité par_:
+
+  - Code de justice administrative - art. R351-6 (VD)
+  - Code de justice administrative - art. R77-10-3 (V)
+  - Code de justice administrative - art. R77-12-3 (V)
+
+
+###### Article R351-9
+
+Lorsqu'une juridiction à laquelle une affaire a été transmise en application du premier alinéa de l'article R. 351-3 n'a pas
+eu recours aux dispositions du deuxième alinéa de l'article R. 351-6 ou lorsqu'elle a été déclarée compétente par le
+président de la section du contentieux du Conseil d'Etat, sa compétence ne peut plus être remise en cause ni par elle-même,
+ni par les parties, ni d'office par le juge d'appel ou de cassation, sauf à soulever l'incompétence de la juridiction
+administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 4 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Cite_:
+
+  - Code de justice administrative. - art. R351-3 (M)
+  - Code de justice administrative. - art. R351-6 (M)
 
 
 ## Livre IV : L'introduction de l'instance de premier ressort<a id=177></a>
@@ -16155,7 +16257,11 @@ _Cite_:
 
 Lorsque des conclusions sont entachées d'une irrecevabilité susceptible d'être couverte après l'expiration du délai de
 recours, la juridiction ne peut les rejeter en relevant d'office cette irrecevabilité qu'après avoir invité leur auteur à les
-régulariser.
+régulariser. 
+
+Toutefois, la juridiction d'appel ou de cassation peut rejeter de telles conclusions sans demande de régularisation préalable
+pour les cas d'irrecevabilité tirés de la méconnaissance d'une obligation mentionnée dans la notification de la décision
+attaquée conformément à l'article R. 751-5. 
 
 La demande de régularisation mentionne que, à défaut de régularisation, les conclusions pourront être rejetées comme
 irrecevables dès l'expiration du délai imparti qui, sauf urgence, ne peut être inférieur à quinze jours. La demande de
@@ -16167,9 +16273,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 10 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -16183,7 +16293,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R611-7 (V)
+  - Code de justice administrative - art. R611-7 (V)
+  - Code de justice administrative - art. R751-5 (V)
 
 _Anciens textes_:
 
@@ -18577,11 +18688,18 @@ _Anciens textes_:
 
 ###### Article R751-5
 
+La notification de la décision mentionne que copie de la décision doit être jointe à la requête d'appel ou au pourvoi en
+cassation.
+
+Sauf lorsqu'elle concerne une décision prise en application du titre II du livre V du présent code, la notification mentionne
+que la requête d'appel ou le pourvoi en cassation doit justifier de l'acquittement du droit de timbre prévu à l'article L.
+411-1 ou de ce que le requérant remplit les conditions permettant de bénéficier de l'aide juridictionnelle.
+
 Lorsque la décision rendue relève de la cour administrative d'appel, la notification reproduit les dispositions de l'article
 R. 811-7.
 
-Lorsque la décision rendue relève du contrôle du juge de cassation, la notification comporte les mentions prévues à l'article
-R. 821-4.
+Lorsque la décision est rendue en dernier ressort, la notification mentionne, s'il y a lieu, que le pourvoi en cassation
+devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
 
 **Liens relatifs à cet article**
 
@@ -18593,6 +18711,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 11 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 _Cité par_:
 
   - Décret n°2011-1202 du 28 septembre 2011 - art. 18 (Ab)
@@ -18602,15 +18724,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R821-4 (M)
+  - Code de justice administrative. - art. L411-1 (M)
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R213 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001 en vigueur le 1er septembre 2001
 
 
 ###### Article R751-6
@@ -20002,39 +20120,35 @@ d'indemnisation des rapatriés ;
 6° Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
 situé dans le ressort de la cour et frappé d'appel devant celle-ci.
 
-Lorsque la notification de la décision rendue en premier ressort ne comporte pas l'information prévue au premier alinéa de
-l'article R. 751-5, le requérant est invité à régulariser sa requête dans les conditions fixées à l'article R. 612-1.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Cite_:
+**Liens**:
 
-  - Code de justice administrative. - art. R431-2 (V)
-  - Code de justice administrative. - art. R612-1 (M)
+  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+
+_Modifié par_:
+
+  - Décret n°2002-547 du 19 avril 2002 - art. 10 () JORF 21 avril 2002 en vigueur le 1er juin 2002
 
 _Cité par_:
 
+  - Décret n°2018-928 du 29 octobre 2018 - art. 16 (V)
   - Code de justice administrative. - art. R612-2 (Ab)
   - Code de justice administrative. - art. R751-5 (M)
   - Code de justice administrative. - art. R921-4 (V)
-  - Décret n°2018-928 du 29 octobre 2018 - art. 16 (V)
   - Livre des procédures fiscales - art. R*200-17 (Ab)
+
+_Cite_:
+
+  - Code de justice administrative. - art. R431-2 (V)
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R116 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001 en vigueur le 1er septembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
 
 ###### Article R811-8
@@ -20384,46 +20498,6 @@ _Codifié par_:
 _Cité par_:
 
   - Code de justice administrative. - art. R612-2 (Ab)
-
-
-###### Article R821-4
-
-La notification d'une décision rendue en dernier ressort mentionne, s'il y a lieu, que le pourvoi en cassation devant le
-Conseil d'Etat contre cette décision ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de
-cassation. Lorsque la notification ne comporte pas cette mention, le requérant est invité par le Conseil d'Etat à régulariser
-son pourvoi dans les conditions fixées aux articles R. 612-1 et R. 612-2.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 57-8 (M)
-  - Code des tribunaux administratifs et des cours adm - art. R232 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-562 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
-
-_Abrogé par_:
-
-  - Décret n°2002-547 du 19 avril 2002 - art. 10 () JORF 21 avril 2002 en vigueur le 1er juin 2002
-
-_Cite_:
-
-  - Code de justice administrative. - art. R612-1 (M)
-  - Code de justice administrative. - art. R612-2 (M)
-
-_Cité par_:
-
-  - Code de justice administrative. - art. R751-5 (M)
 
 
 ###### Article R821-5

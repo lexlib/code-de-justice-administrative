@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-06-30
+Version Consolidée au 2001-07-13
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -34,7 +34,7 @@ Version Consolidée au 2001-06-30
         - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. L222-1 à L222-5)](#31)
           - [Section 1 : Dispositions communes (art. L222-1 à L222-2)](#32)
           - [Section 3 : Fonctionnement des cours administratives d'appel (art. L222-3 à L222-5)](#33)
-        - [Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon. (art. L223-1)](#34)
+        - [Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon. (art. L223-1 à L223-2)](#34)
         - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie (art. L224-1 à L224-5)](#35)
           - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie (art. L224-3)](#36)
           - [Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie (art. L224-4)](#37)
@@ -1598,6 +1598,39 @@ _Codifié par_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours administratives d'appel L2-2 al. 1er
+
+
+###### Article L223-2
+
+La procédure de saisine pour avis du tribunal administratif de Mamoudzou par le président du conseil général de Mayotte est
+régie par les dispositions de l'article L. 3552-7 du code général des collectivités territoriales ci-après reproduit :
+
+"Art. L. 3552-7. - Le président du conseil général peut saisir le tribunal administratif de Mamoudzou d'une demande d'avis
+portant sur l'interprétation du statut de Mayotte ou sur l'applicabilité dans cette collectivité d'un texte législatif ou
+réglementaire.
+
+"En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat.
+
+"Le présent article est applicable sous réserve des dispositions du 7° de l'article L. 3571-1".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 71 () JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3552-7 (V)
 
 
 #### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie<a id=35></a>

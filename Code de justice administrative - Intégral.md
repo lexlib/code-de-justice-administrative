@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-06-19
+Version Consolidée au 2004-07-02
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -1298,7 +1298,8 @@ _Codifié par_:
 
 Lorsque la participation d'un membre du Conseil d'Etat soit à une commission à caractère juridictionnel ou administratif,
 soit à un jury de concours ou d'examen est prévue, l'autorité chargée de la désignation peut porter son choix sur un membre
-honoraire de rang au moins égal, après avis du vice-président du Conseil d'Etat.
+honoraire de rang au moins égal ou un membre étant ou ayant été placé en service extraordinaire, après avis du vice-président
+du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1310,6 +1311,10 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 36 () JORF 2 juillet 2004
 
 _Cité par_:
 

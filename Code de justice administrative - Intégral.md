@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-12-21
+Version Consolidée au 2003-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2162,13 +2162,15 @@ Conseil d'Etat et comprend en outre :
 4° Le directeur chargé au ministère de la justice des services judiciaires ;
 
 5° Cinq représentants des membres du corps, élus au scrutin de liste parmi l'ensemble des membres du corps des tribunaux
-administratifs et cours administratives d'appel. Ces listes peuvent être incomplètes ;
+administratifs et cours administratives d'appel et des agents détachés depuis plus de deux ans dans ledit corps. Ces listes
+peuvent être incomplètes ;
 
 6° Trois personnalités qui n'exercent pas de mandat électif nommées, pour une durée de trois ans non renouvelable,
 respectivement par le Président de la République, le président de l'Assemblée nationale et le président du Sénat.
 
 Le mandat des représentants des membres des tribunaux administratifs et cours administratives d'appel est d'une durée de
-trois ans. Il est renouvelable une seule fois.
+trois ans. Il est renouvelable une seule fois. Toutefois, les agents détachés élus au conseil supérieur démissionnent
+d'office de leur mandat dès que leur détachement prend fin.
 
 **Liens relatifs à cet article**
 
@@ -2181,6 +2183,10 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 54 (V) JORF 10 septembre 2002 en vigueur le 1er janvier 2003
 
 _Cité par_:
 

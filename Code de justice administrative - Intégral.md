@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -4689,60 +4689,45 @@ _Anciens textes_:
 ###### Article L776-1
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les arrêtés
-préfectoraux de reconduite à la frontière obéissent, sous réserve des dispositions de l'article 40 de l'ordonnance n° 45-2658
-du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, aux règles définies par l'article
-22 bis de cette ordonnance, ci-après reproduit :
+préfectoraux de reconduite à la frontière obéissent, sous réserve des dispositions articles L. 514-1 et L. 532-1 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, aux règles définies par les articles L. 512-2 à L. 512-5 du même
+code, ci-après reproduits :
 
-" Art. 22 bis. - I. - L'étranger qui fait l'objet d'un arrêté préfectoral de reconduite à la frontière peut, dans les
-quarante-huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours
-lorsqu'il est notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
+" Art. L. 512-2 : L'étranger qui fait l'objet d'un arrêté préfectoral de reconduite à la frontière peut, dans les quarante-
+huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours lorsqu'il est
+notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
 
 Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au
-siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35
-bis de la présente ordonnance.
+siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application du titre V du
+présent livre.
 
 L'étranger peut demander au président du tribunal ou à son délégué le concours d'un interprète et la communication du dossier
 contenant les pièces sur la base desquelles la décision attaquée a été prise.
 
 L'audience est publique. Elle se déroule sans conclusions du commissaire du gouvernement, en présence de l'intéressé, sauf si
 celui-ci, dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au
-président ou à son délégué qu'il lui en soit désigné un d'office.
+président ou à son délégué qu'il lui en soit désigné un d'office".
 
-II. - Les dispositions de l'article 35 bis de la présente ordonnance peuvent être appliquées dès l'intervention de l'arrêté
-de reconduite à la frontière.
+"Art. L. 512-3 : Les dispositions du titre V du présent livre peuvent être appliquées dès l'intervention de l'arrêté de
+reconduite à la frontière.
 
 Cet arrêté ne peut être exécuté avant l'expiration d'un délai de quarante-huit heures suivant sa notification lorsque
 l'arrêté est notifié par voie administrative ou de sept jours lorsqu'il est notifié par voie postale ou, si le président du
-tribunal administratif ou son délégué est saisi, avant qu'il n'ait statué.
+tribunal administratif ou son délégué est saisi, avant qu'il n'ait  statué".
 
-III. - Si l'arrêté de reconduite à la frontière est annulé, il est immédiatement mis fin aux mesures de surveillance prévues
-à l'article 35 bis et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que le préfet ait à nouveau
-statué sur son cas.
+"Art. L. 512-4 : Si l'arrêté de reconduite à la frontière est annulé, il est immédiatement mis fin aux mesures de
+surveillance prévues au titre V du présent livre et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce
+que le préfet ait à nouveau statué sur son cas".
 
-IV. - Le jugement du président du tribunal administratif ou de son délégué est susceptible d'appel dans un délai d'un mois
-devant le président de la section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui. Cet appel n'est
-pas suspensif.
+"Art. L. 512-5 : Le jugement du président du tribunal administratif ou de son délégué est susceptible d'appel dans un délai
+d'un mois devant le président de la section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui. Cet
+appel n'est pas suspensif.
 
 A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le
 président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même
 décret fixe les conditions d'application de cette disposition".
 
-**Nota:**
-
-NOTA : L'article 7 du décret 2004-789 du 29 juillet 2004 dispose :
-
-"La date mentionnée au dernier alinéa de l'article 22 bis de l'ordonnance du 2 novembre 1945 susvisée est fixée au 1er
-janvier 2005".
-
-NOTA : L'article 22 bis de l'ordonnance 45-2658 du 2 novembre 1945 est abrogé par l'ordonnance 2004-1248 (art. 4) sous
-certaines réserves.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 40, art. 22 bis, art. 35 bis
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 40 (M)
 
 _Codifié par_:
 
@@ -4751,7 +4736,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1119 du 26 novembre 2003 - art. 34 () JORF 27 novembre 2003
+  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
 
 _Cité par_:
 
@@ -4767,14 +4752,13 @@ _Anciens textes_:
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les décisions fixant
 le pays de renvoi qui accompagnent les arrêtés préfectoraux de reconduite à la frontière obéissent aux règles définies par
-l'article 27 ter de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en
-France, ci-après reproduit :
+l'article L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, ci-après reproduit :
 
-" Art. 27 ter. - La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
+"Art. L. 513-3 : La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
 
-Le recours contentieux contre cette décision n'est suspensif d'exécution, dans les conditions prévues au II de l'article 22
-bis, que s'il est présenté au président du tribunal administratif en même temps que le recours contre l'arrêté de reconduite
-à la frontière que la décision fixant le pays de renvoi vise à exécuter. "
+Le recours contentieux contre cette décision n'est suspensif d'exécution, dans les conditions prévues au second alinéa de
+l'article L. 512-3, que s'il est présenté au président du tribunal administratif en même temps que le recours contre l'arrêté
+de reconduite à la frontière que la décision fixant le pays de renvoi vise à exécuter".
 
 **Liens relatifs à cet article**
 
@@ -4782,15 +4766,14 @@ _Anciens textes_:
 
   - Ordonnance 45-2658 1945-11-02 art. 27 ter
 
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 27 ter, 22 bis
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 bis (M)
-
 _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
 
 _Cité par_:
 
@@ -6080,26 +6063,16 @@ _Cite_:
 
 ###### Article R122-13
 
-Lorsqu'il statue en application des articles 22 bis et 27 ter de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux
-conditions d'entrée et de séjour des étrangers en France, le président de la section du contentieux, ou son délégué, peut
-statuer par ordonnance dans les cas prévus à l'article précédent.
+Lorsqu'il statue en application des articles L. 512-2 à L. 512-5 et L. 513-3 du code de l'entrée et du séjour des étrangers
+et du droit d'asile, le président de la section du contentieux, ou son délégué, peut statuer par ordonnance dans les cas
+prévus à l'article précédent. 
 
 Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation
-du jugement attaqué.
+du jugement attaqué. 
 
 Ces dispositions sont applicables aux appels enregistrés avant le 1er janvier 2005.
 
-**Nota:**
-
-NOTA : Une partie des dispositions de l'ordonnance 45-2658 du 2 novembre 1945 a été intégrée dans le code de l'entrée et du
-séjour des étrangers et du droit d'asile.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 22 bis, art. 27 ter
-  - Code de justice administrative. - art. R122-12 (M)
 
 _Codifié par_:
 
@@ -6107,7 +6080,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-789 du 29 juillet 2004 - art. 8 () JORF 3 août 2004
+  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+
+_Abrogé par_:
+
+  - Décret n°2019-82 du 7 février 2019 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
 
 
 ###### Article R122-14
@@ -9961,26 +9943,15 @@ _Cite_:
 
 ###### Article R222-33
 
-Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application de l'article 22 bis ou du second
-alinéa de l'article 27 ter de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des
-étrangers en France, la décision est rendue par le président de la cour ou le magistrat qu'il délègue.
+Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application des articles L. 512-2 à L. 512-5
+ou L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, la décision est rendue par le président de la
+cour ou le magistrat qu'il délègue.
 
 Le président ou le magistrat qu'il délègue peut statuer par ordonnance dans les cas prévus à l'article R. 222-1. Il peut,
 dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation de la
 décision attaquée.
 
-**Nota:**
-
-NOTA : Une partie des dispositions de l'ordonnance 45-2658 du 2 novembre 1945 a été intégrée dans le code de l'entrée et du
-séjour des étrangers et du droit d'asile.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 27 ter
-  - Code de justice administrative 22 bis, R222-1
-  - Code de justice administrative. - art. R222-1 (M)
 
 _Codifié par_:
 
@@ -9990,9 +9961,15 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-789 2004-07-29 art. 11 : champ d'application
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-789 du 29 juillet 2004 - art. 9 () JORF 3 août 2004
+  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-5, L513-3
+  - Code de justice administrative. - art. R222-1 (M)
 
 _Cité par_:
 
@@ -17156,15 +17133,10 @@ sursis à exécution de la décision juridictionnelle attaquée.
 Il est de quinze jours lorsque le pourvoi en cassation est dirigé contre une décision prise par le juge des référés en
 application du livre V, sauf s'il s'agit des procédures visées aux articles L. 552-1 et L. 552-2.
 
-Il est de deux mois lorsqu'il est fait appel d'un jugement rendu en application des articles 22 bis et 27 ter de l'ordonnance
-n° 45-2658 du 2 novembre 1945 modifiée relative aux conditions d'entrée et de séjour des étrangers en France.
+Il est de deux mois lorsqu'il est fait appel d'un jugement rendu en application des articles L. 512-2 à L. 512-5 et L. 513-3
+du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 22 bis, art. 27 ter
-  - Code de justice administrative L5522-1 L552-2
 
 _Anciens textes_:
 
@@ -17174,13 +17146,20 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Modifié par_:
-
-  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-5, L513-3
+  - Code de justice administrative. - art. L552-1 (V)
+  - Code de justice administrative. - art. L552-2 (M)
 
 
 ###### Article R611-24

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-07-10
+Version Consolidée au 2004-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -8006,7 +8006,7 @@ une autre fonction publique dans laquelle ils sont délégués.
 
 Les membres du Conseil d'Etat peuvent être mis en position de détachement de longue durée dans les cas prévus à l'article 14
 du décret n° 85-986 du 16 septembre 1985. Sauf pour accomplir la période de mobilité instituée par le décret n° 99-602 du 15
-juillet 1999 portant application au Conseil d'Etat de la mobilité instituée par le décret du 21 mars 1997, ils ne peuvent
+juillet 1999 portant application au Conseil d'Etat de la mobilité instituée par le décret du 16 juillet 2004, ils ne peuvent
 être délégués ou détachés que s'ils comptent au moins quatre années de services au Conseil. Si, avant l'expiration de ce
 délai, un membre du Conseil d'Etat est nommé dans un emploi, il est rayé des cadres.
 
@@ -8019,8 +8019,8 @@ _Anciens textes_:
 _Cite_:
 
   - Décret n°85-986 du 16 septembre 1985 - art. 14 (M)
-  - Décret n°97-274 1997-03-21
   - Décret n°99-602 1999-07-15
+  - Décret n°2004-708 2004-07-16
 
 _Codifié par_:
 
@@ -8029,6 +8029,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
 
 
 ###### Article R*135-2
@@ -12623,16 +12627,12 @@ _Cite_:
 ###### Article R235-2
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel satisfont à l'obligation de mobilité
-dans les conditions définies par le décret n° 97-274 du 21 mars 1997. A la fin de la période au cours de laquelle ils ont
-accompli la mobilité, ils sont réintégrés de droit et au besoin en surnombre dans leur corps d'origine. Chacun d'eux doit
+dans les conditions définies par le décret n° 2004-708 du 16 juillet 2004. A la fin de la période au cours de laquelle ils
+ont accompli la mobilité, ils sont réintégrés de droit et au besoin en surnombre dans leur corps d'origine. Chacun d'eux doit
 retrouver, s'il le demande, une affectation dans la juridiction à laquelle il était précédemment affecté lorsqu'une vacance y
 est ouverte à la fin de sa période de mobilité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°97-274 1997-03-21
 
 _Codifié par_:
 
@@ -12641,6 +12641,14 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Cite_:
+
+  - Décret n°2004-708 2004-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
 
 _Cité par_:
 

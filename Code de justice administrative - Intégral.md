@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-12-28
+Version Consolidée au 2004-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -5837,9 +5837,8 @@ Les présidents de sous-sections peuvent, par ordonnance :
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, pour défaut
-d'acquittement du droit de timbre prévu à l'article L. 411-1, ainsi que celles qui sont entachées d'une irrecevabilité
-manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, ainsi que
+celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -5862,7 +5861,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-547 du 19 avril 2002 - art. 9 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+  - Décret n°2003-1257 du 26 décembre 2003 - art. 3 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
 
 **Liens**:
 
@@ -5883,7 +5882,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. L411-1 (M)
   - Code de justice administrative. - art. L761-1 (V)
 
 
@@ -8816,9 +8814,8 @@ Paris et les présidents de formation de jugement des tribunaux et des cours peu
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, pour défaut
-d'acquittement du droit de timbre prévu à l'article L. 411-1, ainsi que celles qui sont entachées d'une irrecevabilité
-manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, ainsi que
+celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -8840,7 +8837,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-543 du 24 juin 2003 - art. 3 () JORF 25 juin 2003
+  - Décret n°2003-1257 du 26 décembre 2003 - art. 3 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -8861,7 +8862,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. L411-1 (M)
   - Code de justice administrative. - art. L761-1 (V)
 
 _Anciens textes_:
@@ -13912,41 +13912,6 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R145-23 (V)
 
 
-###### Article R411-2
-
-Lorsque la formalité prévue à l'article 1089 B du code général des impôts est requise et n'a pas été respectée, la requête
-est irrecevable.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1089 B
-
-_Cité par_:
-
-  - Décret n°91-1266 du 19 décembre 1991 - art. 50 (V)
-  - Décret n°2011-1202 du 28 septembre 2011 - art. 18 (Ab)
-  - Code de justice administrative. - art. R612-2 (M)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 326 quater (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Abrogé par_:
-
-  - Décret n°2003-1257 du 26 décembre 2003 - art. 2 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R87-1 (Ab)
-
-
 ###### Article R411-3
 
 Les requêtes doivent, à peine d'irrecevabilité, être accompagnées de copies, en nombre égal à celui des autres parties en
@@ -17023,16 +16988,16 @@ _Anciens textes_:
 
 ###### Article R612-2
 
-S'agissant des irrecevabilités prévues aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3,
-la demande de régularisation peut prendre la forme de la mise en demeure.
+S'agissant des irrecevabilités prévues aux articles R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, la demande
+de régularisation peut prendre la forme de la mise en demeure.
 
 A l'expiration du délai, qui ne peut être inférieur à un mois, fixé dans une mise en demeure par le président de la formation
 de jugement ou, au Conseil d'Etat, par le président de la sous-section chargée de l'instruction, les irrecevabilités prévues
-aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, ne sont plus susceptibles d'être
-couvertes en cours d'instance. La mise en demeure le mentionne.
+aux articles R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3 ne sont plus susceptibles d'être couvertes en cours
+d'instance. La mise en demeure le mentionne.
 
-Dans les cas prévus aux articles R. 411-2, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, le délai prévu à l'alinéa précédent est
-interrompu par une demande d'aide juridictionnelle.
+Dans les cas prévus aux articles R. 431-2, R. 432-1, R. 811-7 et R. 821-3, le délai prévu à l'alinéa précédent est interrompu
+par une demande d'aide juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -17042,15 +17007,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-562 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+  - Décret n°2003-1257 du 26 décembre 2003 - art. 4 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Abrogé par_:
+
+  - Décret n°2006-1708 du 23 décembre 2006 - art. 11 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code de justice administrative. - art. R411-2 (Ab)
   - Code de justice administrative. - art. R411-3 (V)
   - Code de justice administrative. - art. R412-1 (M)
   - Code de justice administrative. - art. R431-2 (V)

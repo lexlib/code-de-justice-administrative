@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2916,7 +2916,8 @@ dispositions des articles 1089 B et 1090 A du code général des impôts, ci-apr
 
 " Art. 1089 B. - Les actes des secrétariats des juridictions judiciaires et administratives ne sont pas soumis au droit
 d'enregistrement ni au droit de timbre, ni à toute autre taxe prévue par le présent code à l'exception d'un droit de timbre
-de 100 F par requête enregistrée auprès des tribunaux administratifs, des cours administratives d'appel et du Conseil d'Etat.
+de 15 euros par requête enregistrée auprès des tribunaux administratifs, des cours administratives d'appel et du Conseil
+d'Etat.
 
 Les requêtes engagées contre une décision de refus de visa sont dispensées du droit de timbre.
 
@@ -2939,6 +2940,14 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 _Cité par_:
 
@@ -3493,11 +3502,11 @@ Le référé à l'égard des mesures conservatoires prises par le comptable à d
 garanties suffisantes obéit aux règles définies par le 4e alinéa de l'article L. 277 du livre des procédures fiscales ci-
 après reproduit :
 
-" Art. L. 277, alinéa 4. - Lorsque le comptable a notifié un avis à un tiers détenteur ou a fait procéder à une saisie en
-application de l'alinéa précédent, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279
-et L. 279 A, de prononcer la limitation ou l'abandon de ces mesures si elles comportent des conséquences difficilement
-réparables. Les dispositions des troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, le
-tribunal d'appel étant, selon le cas, le tribunal administratif ou le tribunal de grande instance. "
+" Art. L. 277, alinéa 4. - Lorsque le comptable a fait procéder à une saisie conservatoire en application de l'alinéa
+précédent, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer
+la limitation ou l'abandon de cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des
+troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le
+cas, le tribunal administratif ou le tribunal de grande instance. "
 
 **Liens relatifs à cet article**
 
@@ -3514,9 +3523,9 @@ _Codifié par_:
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -9023,7 +9032,7 @@ _Anciens textes_:
 
 ###### Article R222-14
 
-Les dispositions du 7° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 50 000 F.
+Les dispositions du 7° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 8000 euros.
 
 **Liens relatifs à cet article**
 
@@ -9031,9 +9040,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 
@@ -18254,7 +18267,7 @@ _Anciens textes_:
 
 ###### Article R741-12
 
-Le juge peut infliger à l'auteur d'une requête qu'il estime abusive une amende dont le montant ne peut excéder 20 000 F.
+Le juge peut infliger à l'auteur d'une requête qu'il estime abusive une amende dont le montant ne peut excéder 3 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -18267,9 +18280,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Cité par_:
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-06-08
+Version Consolidée au 2002-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -8441,59 +8441,61 @@ _Anciens textes_:
 
 Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
 
-Amiens : 3 chambres ;
+Amiens : quatre chambres ;
 
-Bastia : 2 chambres ;
+Bastia : deux chambres ;
 
-Besançon : 2 chambres ;
+Besançon : deux chambres ;
 
-Bordeaux : 4 chambres ;
+Bordeaux : quatre chambres ;
 
-Caen : 2 chambres ;
+Caen : deux chambres ;
 
-Cergy-Pontoise : 5 chambres ;
+Cergy-Pontoise : six chambres ;
 
-Châlons-en-Champagne : 2 chambres ;
+Châlons-en-Champagne : trois chambres ;
 
-Clermont-Ferrand : 2 chambres ;
+Clermont-Ferrand : deux chambres ;
 
-Dijon : 3 chambres ;
+Dijon : trois chambres ;
 
-Grenoble : 5 chambres ;
+Grenoble : cinq chambres ;
 
-Lille : 6 chambres ;
+Lille : six chambres ;
 
-Limoges : 2 chambres ;
+Limoges : deux chambres ;
 
-Lyon : 7 chambres ;
+Lyon : sept chambres ;
 
-Marseille : 8 chambres ;
+Marseille : huit chambres ;
 
-Melun : 5 chambres ;
+Melun : six chambres ;
 
-Montpellier : 5 chambres ;
+Montpellier : six chambres ;
 
-Nancy : 2 chambres ;
+Nancy : deux chambres ;
 
-Nantes : 4 chambres ;
+Nantes : cinq chambres ;
 
-Nice : 6 chambres ;
+Nice : sept chambres ;
 
-Orléans : 3 chambres ;
+Orléans : trois chambres ;
 
-Pau : 2 chambres ;
+Pau : deux chambres ;
 
-Poitiers : 3 chambres ;
+Poitiers : trois chambres ;
 
-Rennes : 5 chambres ;
+Rennes : cinq chambres ;
 
-Rouen : 3 chambres ;
+Rouen : trois chambres ;
 
-Strasbourg : 4 chambres ;
+Saint-Denis : deux chambres ;
 
-Toulouse : 4 chambres ;
+Strasbourg : quatre chambres ;
 
-Versailles : 7 chambres.
+Toulouse : quatre chambres ;
+
+Versailles : sept chambres.
 
 **Liens relatifs à cet article**
 
@@ -8512,7 +8514,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2001-690 du 31 juillet 2001 - art. 1 () JORF 1er août 2001 en vigueur le 1er septembre 2001
+  - Décret n°2002-1083 du 7 août 2002 - art. 1 () JORF 11 août 2002 en vigueur le 1er septembre 2002
 
 _Anciens textes_:
 
@@ -8542,8 +8544,8 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-Le tribunal administratif de Paris comprend quatorze chambres réparties en sections. Il est présidé par un président classé
-au 7e échelon de son grade.
+Le tribunal administratif de Paris comprend seize chambres réparties en sections. Il est présidé par un président classé au
+7e échelon de son grade.
 
 **Liens relatifs à cet article**
 
@@ -8557,7 +8559,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-690 du 31 juillet 2001 - art. 2 () JORF 1er août 2001 en vigueur le 1er septembre 2001
+  - Décret n°2002-1083 du 7 août 2002 - art. 2 () JORF 11 août 2002 en vigueur le 1er septembre 2002
 
 _Cité par_:
 
@@ -8616,11 +8618,11 @@ _Anciens textes_:
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Paris : 5 chambres ;
+Paris : cinq chambres ;
 
-Bordeaux et Lyon : 4 chambres ;
+Bordeaux, Lyon, Marseille et Nantes : quatre chambres ;
 
-Douai, Marseille, Nancy et Nantes : 3 chambres.
+Douai et Nancy : trois chambres.
 
 **Liens relatifs à cet article**
 
@@ -8634,7 +8636,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-690 du 31 juillet 2001 - art. 3 () JORF 1er août 2001 en vigueur le 1er septembre 2001
+  - Décret n°2002-1083 du 7 août 2002 - art. 3 () JORF 11 août 2002 en vigueur le 1er septembre 2002
 
 _Anciens textes_:
 
@@ -9562,7 +9564,8 @@ Cayenne, de Fort-de-France et de Saint-Pierre. Il est assisté d'un ou plusieurs
 tribunaux peuvent avoir des membres communs.
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mamoudzou et de
-Saint-Denis. Ces tribunaux peuvent avoir des membres communs.
+Saint-Denis. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres
+communs.
 
 **Liens relatifs à cet article**
 
@@ -9570,13 +9573,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 _Modifié par_:
 
-  - Décret n°2001-690 du 31 juillet 2001 - art. 4 () JORF 1er août 2001 en vigueur le 1er septembre 2001
+  - Décret n°2002-1083 du 7 août 2002 - art. 4 () JORF 11 août 2002 en vigueur le 1er septembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 _Anciens textes_:
 

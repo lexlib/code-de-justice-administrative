@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-08-04
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -5680,8 +5680,11 @@ _Codifié par_:
 
 ###### Article R121-13
 
-Les fonctionnaires et agents des services du Conseil d'Etat sont nommés dans leurs fonctions par le vice-président du Conseil
-d'Etat, sur la proposition du secrétaire général.
+Le vice-président du Conseil d'Etat prend, sur proposition du secrétaire général, les actes relatifs à la gestion et à
+l'administration des agents du Conseil d'Etat, à l'exclusion des arrêtés d'ouverture de concours, des arrêtés relatifs à
+l'ouverture des examens professionnels pour les corps de catégorie A, des nominations dans un corps, des titularisations, des
+décisions entraînant la cessation définitive de fonctions, des mises en position hors cadres et des sanctions disciplinaires
+des troisième et quatrième groupes définies à l'article 66 de la loi n° 84-16 du 11 janvier 1984.
 
 **Liens relatifs à cet article**
 
@@ -5689,13 +5692,17 @@ _Anciens textes_:
 
   - Ordonnance n°45-1708 du 31 juillet 1945 - art. 20 (Ab)
 
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 66 (V)
+
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2005-912 du 28 juillet 2005 - art. 1 () JORF 4 août 2005
 
 _Cité par_:
 

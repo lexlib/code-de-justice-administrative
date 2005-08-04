@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-08-04
+Version Consolidée au 2005-08-05
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -15097,7 +15097,7 @@ Les parties peuvent également se faire représenter :
 
 2° Par une association agréée au titre des articles L. 141-1, L. 611-1, L. 621-1 et L. 631-1 du code de l'environnement, dès
 lors que les conditions prévues aux articles L. 142-3, L. 611-4, L. 621-4 et L. 631-4 dudit code sont réunies et selon les
-modalités prévues par les articles R. 252-21 à R. 252-29 dudit code.
+modalités prévues par les articles R. 142-1 à R. 142-9 dudit code.
 
 **Liens relatifs à cet article**
 
@@ -15108,6 +15108,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
 
 _Cité par_:
 
@@ -15125,7 +15129,7 @@ _Cite_:
   - Code de l'environnement - art. L621-4 (V)
   - Code de l'environnement - art. L631-1 (V)
   - Code de l'environnement - art. L631-4 (V)
-  - Code de l'environnement L141-1, L611-1, L621-1, L631-1, L142-3, L611-4, L621-4, L631-4, R252-21 à R252-29
+  - Code de l'environnement L141-1, L611-1, L621-1, L631-1, L142-3, L611-4, L621-4, L631-4, R142-1 à R142-9
 
 _Anciens textes_:
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-08-11
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -241,7 +241,7 @@ Version Consolidée au 2005-08-05
         - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#238)
         - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#239)
         - [Chapitre VI : Le désistement (art. R636-1)](#240)
-    - [Livre VII : Le jugement (art. R711-1 à R777-1)](#241)
+    - [Livre VII : Le jugement (art. R711-1 à R781-3)](#241)
       - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-1)](#242)
         - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-3)](#243)
         - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1)](#244)
@@ -264,20 +264,21 @@ Version Consolidée au 2005-08-05
         - [Chapitre 5 : Le contentieux des édifices menacant ruine. (art. R775-1)](#261)
         - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#262)
         - [Chapitre 7 : Dispositions relatives à un référendum local. (art. R777-1)](#263)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#264)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#265)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#266)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#267)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#268)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#269)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#270)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#271)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#272)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#273)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#274)
-      - [Titre Ier : Principes (art. R911-1)](#275)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#276)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#277)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#264)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#265)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#266)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#267)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#268)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#269)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#270)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#271)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#272)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#273)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#274)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#275)
+      - [Titre Ier : Principes (art. R911-1)](#276)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#277)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#278)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -21301,9 +21302,66 @@ _Nouveaux textes_:
   - Code de justice administrative - art. R777-2 (VD)
 
 
-## Livre VIII : Les voies de recours.<a id=264></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=264></a>
 
-### Titre Ier : L'appel<a id=265></a>
+###### Article R781-1
+
+Lorsque, en application de l'article L. 781-1, un moyen de communication audiovisuelle est mis en oeuvre pour la tenue d'une
+audience, le président du tribunal dans lequel siège la formation de jugement peut désigner le greffier en chef, un greffier
+ou un autre agent du greffe de ce tribunal en qualité de greffier d'audience adjoint ; dans ce cas, la minute de la décision
+est signée par ce dernier en lieu et place du greffier d'audience. Le président peut, en outre, décider que les expéditions
+de la décision seront signées et délivrées par le greffier en chef du tribunal dans lequel siège la formation de jugement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
+
+_Cite_:
+
+  - Code de justice administrative - art. L781-1 (V)
+
+
+###### Article R781-2
+
+Les prises de vue et de son sont assurées par des agents du greffe ou, à défaut et sauf lorsque l'audience se tient hors la
+présence du public, par tous autres agents publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
+
+
+###### Article R781-3
+
+Les caractéristiques techniques des moyens de communication audiovisuelle utilisés doivent assurer une retransmission fidèle,
+loyale et confidentielle à l'égard des tiers. Elles sont définies par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
+
+
+## Livre VIII : Les voies de recours.<a id=265></a>
+
+### Titre Ier : L'appel<a id=266></a>
 
 ###### Article R811-1
 
@@ -21963,9 +22021,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=266></a>
+### Titre II : Le recours en cassation<a id=267></a>
 
-#### Chapitre Ier : Dispositions générales<a id=267></a>
+#### Chapitre Ier : Dispositions générales<a id=268></a>
 
 ###### Article R821-1
 
@@ -22117,7 +22175,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=268></a>
+#### Chapitre II : Procédure d'admission<a id=269></a>
 
 ###### Article R822-1
 
@@ -22276,9 +22334,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=269></a>
+### Titre III : Autres voies de recours<a id=270></a>
 
-#### Chapitre Ier : L'opposition<a id=270></a>
+#### Chapitre Ier : L'opposition<a id=271></a>
 
 ###### Article R831-1
 
@@ -22409,7 +22467,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=271></a>
+#### Chapitre II : La tierce opposition<a id=272></a>
 
 ###### Article R832-1
 
@@ -22527,7 +22585,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=272></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=273></a>
 
 ###### Article R833-1
 
@@ -22582,7 +22640,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=273></a>
+#### Chapitre IV : Le recours en révision<a id=274></a>
 
 ###### Article R834-1
 
@@ -22672,9 +22730,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=274></a>
+## Livre IX : L'exécution des décisions<a id=275></a>
 
-### Titre Ier : Principes<a id=275></a>
+### Titre Ier : Principes<a id=276></a>
 
 ###### Article R911-1
 
@@ -22697,7 +22755,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=276></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=277></a>
 
 ###### Article R921-1
 
@@ -22927,7 +22985,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=277></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=278></a>
 
 ###### Article R931-1
 

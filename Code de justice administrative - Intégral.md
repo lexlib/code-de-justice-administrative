@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-10-22
+Version Consolidée au 2005-12-13
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -264,7 +264,7 @@ Version Consolidée au 2005-10-22
         - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#261)
         - [Chapitre 5 : Le contentieux des édifices menacant ruine. (art. R775-1)](#262)
         - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#263)
-        - [Chapitre 7 : Dispositions relatives à un référendum local. (art. R777-1)](#264)
+        - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#264)
       - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#265)
     - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#266)
       - [Titre Ier : L'appel (art. R811-1 à R811-19)](#267)
@@ -21290,19 +21290,20 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-20 (Ab)
 
 
-#### Chapitre 7 : Dispositions relatives à un référendum local.<a id=264></a>
+#### Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=264></a>
 
 ###### Article R777-1
 
 Le jugement des requêtes relatives à l'établissement de la liste des partis ou groupements habilités à participer à la
-campagne en vue d'un référendum local est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du code
-général des collectivités territoriales ci-après reproduites :
+campagne en vue d'un référendum local ou d'une consultation des électeurs par les autorités d'une collectivité territoriale,
+est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du code général des collectivités territoriales ci-
+après reproduites : 
 
-"Art. R. 1112-3, cinquième alinéa. - Toute personne inscrite sur les listes électorales dans le ressort de la collectivité
+" Art.R. 1112-3, cinquième alinéa.-Toute personne inscrite sur les listes électorales dans le ressort de la collectivité
 territoriale ayant décidé le référendum ainsi que tout groupe, parti ou groupement politique ayant déposé une demande
 d'habilitation peut, dans les vingt-quatre heures qui suivent la publication de la liste, saisir le tribunal administratif
-compétent. Le tribunal statue en premier et dernier ressort dans les trois jours suivant le dépôt de la requête. S'il
-l'estime fondée, le tribunal procède à la réformation de l'arrêté."
+compétent. Le tribunal statue en premier et dernier ressort dans les trois jours suivant le dépôt de la requête.S'il l'estime
+fondée, le tribunal procède à la réformation de l'arrêté. "
 
 **Liens relatifs à cet article**
 
@@ -21310,13 +21311,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-433 du 4 mai 2005 - art. 3 () JORF 8 mai 2005
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. R1112-3 (M)
+  - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=265></a>

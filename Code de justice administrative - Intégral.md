@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-16
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2917,8 +2917,8 @@ _Modifié par_:
 
 Le Conseil d'Etat connaît, en premier et dernier ressort, des recours de pleine juridiction qui lui sont attribués en vertu :
 
-1° De l'article L. 310-18 du code des assurances contre les décisions de sanction prises par la commission de contrôle des
-assurances ;
+1° De l'article L. 310-18 du code des assurances contre les décisions de sanction prises par l'Autorité de contrôle des
+assurances et des mutuelles ;
 
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre les décisions de sanction prises par le
 ministre chargé du logement ;
@@ -2971,8 +2971,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 1er août 2003
-  - Loi n°2005-516 du 20 mai 2005 - art. 6 () JORF 21 mai 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L311-5

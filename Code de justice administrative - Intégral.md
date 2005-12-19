@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-20
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -101,7 +101,7 @@ Version Consolidée au 2005-12-16
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R112-1 à R931-9)](#98)
     - [Livre Ier : Le Conseil d'Etat (art. R112-1 à R137-4)](#99)
       - [Titre Ier : Attributions (art. R112-1 à R113-4)](#100)
-        - [Chapitre II : Attributions en matière administrative et législative (art. R112-1)](#101)
+        - [Chapitre II : Attributions en matière administrative et législative (art. R112-1 à R112-3)](#101)
         - [Chapitre III : L'avis sur une question de droit (art. R113-1 à R113-4)](#102)
       - [Titre II : Organisation et fonctionnement (art. R121-1 à R123-26)](#103)
         - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-15)](#104)
@@ -247,7 +247,7 @@ Version Consolidée au 2005-12-16
         - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-3)](#244)
         - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1)](#245)
       - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#246)
-      - [Titre III : La tenue de l'audience. (art. R731-1 à R731-4)](#247)
+      - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R731-9)](#247)
       - [Titre IV : La décision (art. R741-1 à R742-6)](#248)
         - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-12)](#249)
           - [Section 1 : Le prononcé de la décision (art. R741-1)](#250)
@@ -5255,6 +5255,44 @@ _Cité par_:
   - Code de justice administrative - art. R112-1-1 (V)
 
 
+###### Article R112-2
+
+Saisi par toute partie qui fait état de la durée excessive d'une procédure engagée devant un tribunal administratif ou une
+cour administrative d'appel, le chef de la mission permanente d'inspection des juridictions administratives a la faculté de
+faire des recommandations visant à remédier à cette situation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+
+
+###### Article R112-3
+
+Le chef de la mission permanente d'inspection des juridictions administratives est destinataire des décisions administratives
+ou juridictionnelles allouant une indemnité en réparation du préjudice causé par une durée excessive de procédure devant les
+juridictions administratives.
+
+Il avise le président du tribunal administratif ou de la cour administrative d'appel dont le fonctionnement a été mis en
+cause. Il peut faire des recommandations visant à remédier à cette situation et saisir l'autorité compétente de toute
+proposition de mesure en ce sens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+
+
 #### Chapitre III : L'avis sur une question de droit<a id=102></a>
 
 ###### Article R113-1
@@ -5871,8 +5909,8 @@ _Codifié par_:
 
 ###### Article R122-5
 
-Les commissaires du gouvernement sont désignés par décret pris sur proposition du garde des sceaux, ministre de la justice.
-Le vice-président du Conseil d'Etat et le président de la section du contentieux sont appelés à faire les présentations.
+Les commissaires du Gouvernement sont désignés par arrêté du vice-président du Conseil d'Etat pris sur proposition du
+président de la section du contentieux.
 
 Les commissaires du gouvernement ne peuvent exercer leurs fonctions pendant une durée totale supérieure à dix années. En cas
 de nécessité de service, ces fonctions peuvent cependant être prolongées dans la limite d'un an, par arrêté du vice-
@@ -5887,6 +5925,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 2 () JORF 20 décembre 2005
 
 _Cité par_:
 
@@ -9303,8 +9345,7 @@ _Anciens textes_:
 ###### Article R222-9
 
 Le président fait connaître au Conseil supérieur des tribunaux administratifs et des cours administratives d'appel son avis
-sur la désignation du ou des premiers conseillers ou conseillers devant être chargés des fonctions de commissaire du
-gouvernement près la juridiction qu'il préside et sur l'avancement des membres de celle-ci.
+sur l'avancement des membres de la juridiction qu'il préside.
 
 Il formule ses propositions sur la nomination et l'avancement du personnel des greffes affecté à son tribunal.
 
@@ -9313,6 +9354,10 @@ Il formule ses propositions sur la nomination et l'avancement du personnel des g
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 3 () JORF 20 décembre 2005
 
 _Anciens textes_:
 
@@ -9758,8 +9803,9 @@ _Anciens textes_:
 ###### Article R222-23
 
 Dans chaque tribunal administratif, selon ses besoins, un ou plusieurs premiers conseillers ou conseillers sont chargés, par
-décret pris sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel, d'exercer
-les fonctions de commissaire du gouvernement.
+arrêté du vice-président du Conseil d'Etat pris sur proposition du président de la juridiction et après avis conforme du
+Conseil supérieur des tribunaux administratifs et des cours administratives d'appel, d'exercer les fonctions de commissaire
+du Gouvernement.
 
 Lorsque le fonctionnement du tribunal administratif l'exige, un premier conseiller ou conseiller qui exerce les fonctions de
 commissaire du gouvernement peut être rapporteur dans les affaires sur lesquelles il n'est pas ou n'a pas été appelé à
@@ -9775,6 +9821,10 @@ _Cité par_:
 
   - Décret n°2000-605 du 29 juin 2000 - art. 2 (V)
   - Code de justice administrative - art. R222-32 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 4 () JORF 20 décembre 2005
 
 _Anciens textes_:
 
@@ -16639,12 +16689,12 @@ _Anciens textes_:
 
 Les décisions prises pour l'instruction des affaires sont notifiées aux parties, en même temps que les copies, produites en
 exécution des articles R. 411-3 et suivants et de l'article R. 412-2, des requêtes, mémoires et pièces déposés au greffe. La
-notification peut être effectuée au moyen de lettres simples.
+notification peut être effectuée au moyen de lettres simples. 
 
-Toutefois, les notifications de la requête, du mémoire en défense, des demandes de régularisation, des mises en demeure, des
-ordonnances de clôture, des avis d'audience, des mesures d'instruction prises en application des articles R. 621-1 à R. 626-3
-ainsi que l'information prévue à l'article R. 611-7 sont obligatoirement effectuées au moyen de lettres recommandées avec
-demande d'avis de réception.
+Toutefois, il est procédé aux notifications de la requête, des demandes de régularisation, des mises en demeure, des
+ordonnances de clôture, des décisions de recourir à l'une des mesures d'instruction prévues aux articles R. 621-1 à R. 626-3
+ainsi qu'à l'information prévue à l'article R. 611-7 au moyen de lettres remises contre signature ou de tout autre dispositif
+permettant d'attester la date de réception. 
 
 Les notifications des requêtes et mémoires mentionnent qu'en cas d'inobservation du délai imparti pour produire en
 application de l'article R. 611-10 ou de l'article R. 611-17, l'instruction pourra, sans mise en demeure préalable, être
@@ -16668,23 +16718,23 @@ _Cité par_:
   - Code de la santé publique - art. R4126-12 (V)
   - Code de la sécurité sociale. - art. R145-25 (V)
 
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 9 () JORF 20 décembre 2005
+
 _Cite_:
 
-  - Code de justice administrative R412-2, R621-1 à R626-3, R611-7, R611-10, R611-17, R613-1, R613-2
-  - Code de justice administrative. - art. R412-2 (V)
-  - Code de justice administrative. - art. R611-10 (V)
-  - Code de justice administrative. - art. R611-17 (V)
-  - Code de justice administrative. - art. R611-7 (V)
-  - Code de justice administrative. - art. R613-1 (M)
-  - Code de justice administrative. - art. R613-2 (V)
+  - Code de justice administrative - art. R411-3 (V)
+  - Code de justice administrative - art. R412-2 (V)
+  - Code de justice administrative - art. R611-10 (V)
+  - Code de justice administrative - art. R611-17 (V)
+  - Code de justice administrative - art. R611-7 (V)
+  - Code de justice administrative - art. R613-1 (V)
+  - Code de justice administrative - art. R621-1 (V)
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R139 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R611-4
@@ -17404,48 +17454,10 @@ _Cité par_:
   - Code de justice administrative. - art. R611-30 (V)
 
 
-###### Article R611-28
-
-Dans les affaires concernant les particuliers ou les personnes morales autres que l'Etat et nécessitant le ministère d'un
-avocat au Conseil d'Etat, le président de la sous-section fait connaître à celui-ci, par ordonnance, les personnes à qui la
-requête doit être communiquée ainsi que le délai qui leur est imparti pour produire leurs observations ; l'avocat notifie
-aussitôt soit par lettre recommandée avec demande d'avis de réception, soit par exploit d'huissier, cette ordonnance ainsi
-que la requête aux personnes ainsi désignées.
-
-Il en est de même pour les communications d'avocat à avocat.
-
-L'avocat est réputé s'être désisté purement et simplement de la requête s'il ne justifie pas avoir fait toutes diligences
-dans le délai qui lui est imparti par l'ordonnance du président de la sous-section. Si l'avocat ne peut atteindre les
-personnes désignées dans cette ordonnance, il le fait connaître au président de la sous-section qui prend toutes mesures
-nécessaires au vu des justifications produites.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 53-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2005-1586 du 19 décembre 2005 - art. 10 () JORF 20 décembre 2005
-
-_Cité par_:
-
-  - Code de justice administrative. - art. R611-29 (M)
-
-
 ###### Article R611-29
 
-Dans les cas autres que ceux qui sont mentionnés à l'article R. 611-28, la communication des requêtes, mémoires et autres
-actes est faite dans les conditions prévues aux articles R. 611-1 à R. 611-6.
+La communication des requêtes, mémoires et autres actes est faite dans les conditions prévues aux articles R. 611-1 à R.
+611-6.
 
 **Liens relatifs à cet article**
 
@@ -17461,10 +17473,13 @@ _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 6 (V)
 
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 10 () JORF 20 décembre 2005
+
 _Cite_:
 
-  - Code de justice administrative R611-28, R611-1 à R611-6
-  - Code de justice administrative. - art. R611-28 (Ab)
+  - Code de justice administrative - art. R611-1 (V)
 
 
 ###### Article R611-30
@@ -17725,20 +17740,16 @@ _Anciens textes_:
 Le président de la formation de jugement peut, par une ordonnance, fixer la date à partir de laquelle l'instruction sera
 close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours.
 
-Les lettres recommandées avec demande d'avis de réception portant notification de cette ordonnance sont envoyées à toutes les
-parties en cause quinze jours au moins avant la date de la clôture fixée par l'ordonnance. Devant les tribunaux
-administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois
-et l'ordonnance peut être notifiée par voie administrative.
+Les lettres remises contre signature portant notification de cette ordonnance ou tous autres dispositifs permettant
+d'attester la date de réception de ladite ordonnance sont envoyés à toutes les parties en cause quinze jours au moins avant
+la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de
+Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie administrative.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 _Cité par_:
 
@@ -17753,6 +17764,10 @@ _Cité par_:
   - Code de la santé publique - art. R4126-16 (V)
   - Code de la santé publique - art. R4234-33 (V)
   - Code de la sécurité sociale. - art. R145-27 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 9 () JORF 20 décembre 2005
 
 _Anciens textes_:
 
@@ -18970,8 +18985,8 @@ _Anciens textes_:
 
 ###### Article R711-2
 
-Toute partie est avertie, par une notification faite conformément aux articles R. 611-3 ou R. 611-4, du jour où l'affaire
-sera appelée à l'audience.
+Toute partie est avertie, par une notification faite par lettre recommandée avec demande d'avis de réception ou par la voie
+administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience.
 
 Dans les deux cas, l'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut
 être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis
@@ -18986,10 +19001,6 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Modifié par_:
-
-  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
-
 _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 6 (V)
@@ -19000,6 +19011,14 @@ _Cité par_:
   - Code de justice administrative - art. R621-8-1 (V)
   - Code de justice administrative - art. R776-11 (V)
   - Code de justice administrative. - art. R775-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 9 () JORF 20 décembre 2005
+
+_Cite_:
+
+  - Code de justice administrative. - art. R611-4 (V)
 
 _Anciens textes_:
 
@@ -19245,7 +19264,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R194 (Ab)
 
 
-### Titre III : La tenue de l'audience.<a id=247></a>
+### Titre III : La tenue de l'audience et le délibéré<a id=247></a>
 
 ###### Article R731-1
 
@@ -19259,6 +19278,10 @@ Les membres de la juridiction disposent des mêmes pouvoirs sur les lieux où il
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
 
 _Cité par_:
 
@@ -19284,6 +19307,10 @@ préjudice des poursuites pénales ou disciplinaires qui pourraient être exerc�
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
 
 _Cité par_:
 
@@ -19313,6 +19340,14 @@ Le commissaire du gouvernement prononce ensuite ses conclusions.
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
+
+_Transféré par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 _Cité par_:
 
@@ -19352,9 +19387,138 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
+
 _Cité par_:
 
   - Code de justice administrative - art. R773-28 (V)
+
+
+###### Article R731-5
+
+Postérieurement au prononcé des conclusions du commissaire du Gouvernement, toute partie à l'instance peut adresser au
+président de la formation de jugement une note en délibéré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+
+_Transféré par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+_Nouveaux textes_:
+
+  - Code de justice administrative. - art. R731-3 (M)
+  - Code de justice administrative. - art. R731-3 (V)
+
+_Anciens textes_:
+
+  - Code de justice administrative. - art. R731-9 (T)
+
+
+###### Article R731-6
+
+La décision est délibérée hors la présence des parties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 4 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+
+###### Article R731-7
+
+Le commissaire du Gouvernement assiste au délibéré. Il n'y prend pas part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 4 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+
+###### Article R731-8
+
+Peuvent aussi être autorisés à assister au délibéré, outre les membres de la juridiction et leurs collaborateurs, les juges,
+avocats stagiaires, professeurs des universités et maîtres de conférences accomplissant auprès de celle-ci un stage ou admis,
+à titre exceptionnel, à suivre ses travaux, qu'ils soient de nationalité française ou étrangère.
+
+Le chef de la juridiction, après avis du président de la formation de jugement ou, au Conseil d'Etat, le président de la
+formation de jugement délivre l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+
+_Transféré par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+_Nouveaux textes_:
+
+  - Code de justice administrative. - art. R731-4 (M)
+  - Code de justice administrative. - art. R731-4 (V)
+
+
+###### Article R731-9
+
+Les personnes qui, à un titre quelconque, participent ou assistent au délibéré sont soumises à l'obligation d'en respecter le
+secret, sous les sanctions prévues par l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 2000-05-04
+
+_Créé par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+
+_Transféré par_:
+
+  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
+
+_Nouveaux textes_:
+
+  - Code de justice administrative. - art. R731-5 (M)
+  - Code de justice administrative. - art. R731-5 (V)
 
 
 ### Titre IV : La décision<a id=248></a>
@@ -19365,14 +19529,17 @@ _Cité par_:
 
 ###### Article R741-1
 
-Après délibéré hors la présence des parties, et réserve faite des dispositions applicables aux ordonnances, la décision est
-prononcée en audience publique.
+Réserve faite des dispositions applicables aux ordonnances, la décision est prononcée en audience publique.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
+
+_Modifié par_:
+
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 7 () JORF 20 décembre 2005
 
 
 ##### Section 2 : Les mentions obligatoires de la décision<a id=251></a>
@@ -19389,6 +19556,8 @@ Mention y est faite que le rapporteur et le commissaire du gouvernement et, s'il
 défenseurs ainsi que toute personne entendue sur décision du président en vertu du deuxième alinéa de l'article R. 731-3 ont
 été entendus.
 
+Mention est également faite de la production d'une note en délibéré.
+
 La décision fait apparaître la date de l'audience et la date à laquelle elle a été prononcée.
 
 **Liens relatifs à cet article**
@@ -19404,7 +19573,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-911 du 28 juillet 2005 - art. 8 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+  - Décret n°2005-1586 du 19 décembre 2005 - art. 8 () JORF 20 décembre 2005
 
 _Cité par_:
 

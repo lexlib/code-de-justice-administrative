@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-04-06
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2941,7 +2941,8 @@ financiers à l'encontre des prestataires de service d'investissement agréés ;
 
 7° De l'article L. 623-3 du code monétaire et financier ;
 
-8° Des articles L. 3634-2, L. 3634-3 et L. 3634-4 du code de la santé publique ;
+8° De l'article L. 3634-4 du code de la santé publique contre les décisions de sanction de l'Agence française de lutte contre
+le dopage ;
 
 9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions de sanction prises par la Commission de
 régulation de l'énergie.
@@ -2959,8 +2960,6 @@ _Cite_:
   - Code des postes et des communications électronique - art. L36-11 (M)
   - Code des postes et des communications électronique - art. L5-3 (V)
   - Code monétaire et financier - art. L623-3 (Ab)
-  - Code de la santé publique - art. L3634-2 (M)
-  - Code de la santé publique - art. L3634-3 (M)
   - Code de la santé publique - art. L3634-4 (M)
   - Code de la sécurité sociale. - art. L951-10 (M)
   - Code des assurances - art. L310-18 (M)
@@ -2975,7 +2974,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+  - Loi n°2006-405 du 5 avril 2006 - art. 20 () JORF 6 avril 2006
 
 
 ###### Article L311-5

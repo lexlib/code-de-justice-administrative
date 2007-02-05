@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-06
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2478,10 +2478,14 @@ _Cite_:
 
 ###### Article L233-3
 
-Pour trois membres du corps recrutés parmi les anciens élèves de l'Ecole nationale d'administration au grade de conseiller,
-une nomination est prononcée au bénéfice des fonctionnaires civils ou militaires de l'Etat ou des fonctionnaires de la
-fonction publique territoriale appartenant à un corps de catégorie A ou de même niveau de recrutement justifiant, au 31
-décembre de l'année considérée, d'au moins dix ans de services publics ou des magistrats de l'ordre judiciaire.
+Pour deux membres du corps recrutés parmi les anciens élèves de l'Ecole nationale d'administration au grade de conseiller,
+une nomination est prononcée au bénéfice :
+
+1° De fonctionnaires civils ou militaires de l'Etat ou de fonctionnaires de la fonction publique territoriale ou de la
+fonction publique hospitalière qui justifient, au 31 décembre de l'année considérée, d'au moins dix ans de services publics
+effectifs dans un corps ou cadre d'emplois de catégorie A ou sur un emploi de catégorie A ou assimilé ;
+
+2° De magistrats de l'ordre judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -2494,6 +2498,10 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
 
 _Cité par_:
 
@@ -2508,28 +2516,40 @@ _Cité par_:
 ###### Article L233-4
 
 Pour sept conseillers promus au grade de premier conseiller, une nomination est prononcée, à condition qu'ils justifient d'au
-moins huit ans de services effectifs dans un ou plusieurs des corps ci-après, au bénéfice :
+moins huit ans de services effectifs dans un ou plusieurs des corps ou cadres d'emplois ci-après, au bénéfice :
 
 1° De fonctionnaires de l'un des corps recrutés par la voie de l'Ecole nationale d'administration ;
 
-2° De fonctionnaires appartenant à un autre corps de catégorie A, titulaires de l'un des diplômes exigés pour se présenter au
-concours externe d'entrée à l'Ecole nationale d'administration ainsi que d'un grade terminant au moins à l'indice brut 966 ;
+2° De fonctionnaires appartenant à un autre corps de catégorie A ou cadre d'emplois de même niveau, titulaires de l'un des
+diplômes exigés pour se présenter au concours externe d'entrée à l'Ecole nationale d'administration ainsi que d'un grade et
+d'un échelon déterminés par décret en Conseil d'Etat ;
 
 3° De magistrats de l'ordre judiciaire ;
 
 4° De professeurs et maîtres de conférences titulaires des universités ;
 
-5° D'administrateurs territoriaux.
+5° D'administrateurs territoriaux ;
 
-Pour bénéficier de cette nomination, les membres des corps soumis à l'obligation statutaire de mobilité doivent avoir
-satisfait à cette obligation.
+6° De personnels de direction des établissements de santé et autres établissements mentionnés aux 1°, 2° et 3° de l'article 2
+de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.
+
+Pour bénéficier de cette nomination, les membres des corps ou cadres d'emplois soumis à l'obligation statutaire de mobilité
+doivent avoir satisfait à cette obligation.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-33 1986-01-09 art. 2
 
 _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
 
 _Cité par_:
 
@@ -2546,16 +2566,16 @@ _Cité par_:
 
 ###### Article L233-5
 
-Les magistrats de l'ordre judiciaire, les professeurs et maîtres de conférences titulaires des universités et les
-fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration peuvent être détachés, aux
-grades de conseiller ou de premier conseiller, dans le corps des tribunaux administratifs et cours administratives d'appel.
-Ils ne peuvent être intégrés qu'au terme de trois années de services effectifs en détachement dans ce corps et s'ils
-satisfont aux conditions prévues aux articles L. 233-3 et L. 233-4 pour l'accès au grade dont il s'agit.
+Les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration, les magistrats de
+l'ordre judiciaire, les professeurs et maîtres de conférences titulaires des universités, les administrateurs des assemblées
+parlementaires, les administrateurs des postes et télécommunications et les fonctionnaires civils ou militaires de l'Etat, de
+la fonction publique territoriale ou de la fonction publique hospitalière appartenant à des corps ou à des cadres d'emplois
+de niveau équivalent à celui des tribunaux administratifs et des cours administratives d'appel peuvent être détachés dans ce
+dernier corps, aux grades de conseiller ou de premier conseiller. Ils ne peuvent être intégrés qu'au terme de trois années de
+services effectifs en détachement dans ce corps et s'ils satisfont aux conditions prévues aux articles L. 233-3 et L. 233-4
+pour l'accès au grade dont il s'agit.
 
 Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motifs disciplinaires.
-
-Ces dispositions sont également applicables aux fonctionnaires appartenant à des corps de la fonction publique territoriale
-de même niveau de recrutement dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2563,6 +2583,10 @@ _Codifié par_:
 
   - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
 
 _Cité par_:
 
@@ -2580,7 +2604,7 @@ _Cite_:
 
 ###### Article L233-6
 
-Jusqu'au 31 décembre 2007, il peut être procédé au recrutement complémentaire de conseillers par voie de concours.
+Jusqu'au 31 décembre 2015, il peut être procédé au recrutement complémentaire de conseillers par voie de concours.
 
 Le nombre de postes pourvus au titre de recrutement complémentaire ne peut excéder trois fois le nombre de postes offerts
 chaque année dans le corps des tribunaux administratifs et des cours administratives d'appel aux élèves sortant de l'Ecole
@@ -2588,9 +2612,9 @@ nationale d'administration et aux candidats au tour extérieur.
 
 Le concours est ouvert :
 
-1° Aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps de la catégorie A ou assimilé et
-justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans effectifs dans la
-catégorie A ;
+1° Aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps ou cadre d'emplois de la catégorie
+A ou assimilé et justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans
+effectifs dans la catégorie A ;
 
 2° Aux magistrats de l'ordre judiciaire ;
 
@@ -2610,7 +2634,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 56 () JORF 10 septembre 2002
+  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
 
 _Cité par_:
 

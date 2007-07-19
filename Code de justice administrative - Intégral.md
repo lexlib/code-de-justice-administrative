@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-06-16
+Version Consolidée au 2007-07-20
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -9279,7 +9279,7 @@ Bordeaux : cinq chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : huit chambres ;
+Cergy-Pontoise : dix chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -9297,7 +9297,7 @@ Lyon : sept chambres ;
 
 Marseille : huit chambres ;
 
-Melun : six chambres ;
+Melun : sept chambres ;
 
 Montpellier : sept chambres ;
 
@@ -9323,7 +9323,7 @@ Strasbourg : cinq chambres ;
 
 Toulouse : cinq chambres ;
 
-Versailles : neuf chambres ;
+Versailles : dix chambres ;
 
 Saint-Denis : deux chambres.
 
@@ -9340,7 +9340,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-903 du 19 juillet 2006 - art. 3 () JORF 21 juillet 2006
+  - Décret n°2007-1113 du 18 juillet 2007 - art. 1 () JORF 20 juillet 2007
 
 _Anciens textes_:
 
@@ -9442,9 +9442,15 @@ _Anciens textes_:
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Bordeaux, Lyon, Marseille et Paris : six chambres ;
+Paris : huit chambres ;
 
-Nancy, Nantes et Versailles : quatre chambres ;
+Marseille : sept chambres ;
+
+Bordeaux et Lyon : six chambres ;
+
+Versailles : cinq chambres ;
+
+Nancy et Nantes : quatre chambres ;
 
 Douai : trois chambres.
 
@@ -9456,7 +9462,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-961 du 9 août 2005 - art. 2 () JORF 10 août 2005 en vigueur le 1er septembre 2005
+  - Décret n°2007-1113 du 18 juillet 2007 - art. 2 () JORF 20 juillet 2007
 
 _Anciens textes_:
 

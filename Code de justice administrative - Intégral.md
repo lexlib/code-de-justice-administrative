@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-09-06
+Version Consolidée au 2007-09-14
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -12808,14 +12808,18 @@ _Abrogé par_:
 
 Chaque année, le vice-président du Conseil d'Etat détermine le nombre des emplois dans les grades de conseiller et de premier
 conseiller à pourvoir en application des articles L. 233-3 et L. 233-4. Il fixe la date limite du dépôt des candidatures.
-Celles-ci lui sont adressées par les intéressés.
+Celles-ci lui sont adressées par les intéressés. 
 
 L'avis de recrutement est publié au Journal officiel de la République française un mois au moins avant la date de clôture des
-inscriptions.
+inscriptions. 
 
 Le dossier administratif des candidats est envoyé par l'autorité dont relèvent les intéressés au secrétaire général du
 Conseil d'Etat. Cette autorité doit indiquer si le candidat réunit les conditions d'ancienneté de services définies par les
-articles L. 233-3 et L. 233-4, ainsi que son classement hiérarchique et son niveau d'emploi.
+articles L. 233-3 et L. 233-4, ainsi que son classement hiérarchique et son niveau d'emploi. 
+
+Les candidats à un emploi de premier conseiller au titre du 2° de l'article L. 233-4 doivent être titulaires d'un grade
+terminant au moins à l'indice brut 821 et être classés à un échelon doté d'un indice brut au moins égal à celui du premier
+échelon du grade de premier conseiller.
 
 **Liens relatifs à cet article**
 
@@ -12823,14 +12827,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2007-1345 du 13 septembre 2007 - art. 1 () JORF 14 septembre 2007
 
 _Cite_:
 
-  - Code de justice administrative. - art. L233-3 (M)
-  - Code de justice administrative. - art. L233-4 (M)
+  - Code de justice administrative - art. L233-3 (V)
 
 
 ###### Article R233-5
@@ -12886,7 +12889,9 @@ _Cité par_:
 
 Les magistrats et fonctionnaires détachés dans le corps des tribunaux administratifs et des cours administratives d'appel le
 sont à grade équivalent et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils
-détenaient dans leur corps d'origine. Ils concourent pour l'avancement de grade et d'échelon avec les membres du corps.
+détenaient dans leur corps d'origine. Ils conservent l'ancienneté d'échelon acquise dans leur grade ou classe d'origine dans
+les conditions prévues aux troisième et quatrième alinéas de l'article R. 233-1. Ils concourent pour l'avancement de grade et
+d'échelon avec les membres du corps.
 
 **Liens relatifs à cet article**
 
@@ -12896,11 +12901,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1706 du 28 décembre 2005 - art. 3 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2007-1345 du 13 septembre 2007 - art. 2 () JORF 14 septembre 2007
 
 _Cité par_:
 
   - Code de justice administrative - art. R234-3 (V)
+
+_Cite_:
+
+  - Code de justice administrative. - art. R233-1 (M)
 
 
 ##### Section 4 : Recrutement complémentaire<a id=168></a>
@@ -13046,6 +13055,14 @@ _Cité par_:
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel recrutés au titre de la présente
 section sont nommés et titularisés au 1er échelon du grade de conseiller.
 
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel qui justifient d'une ou de plusieurs
+activités professionnelles antérieures dans des fonctions normalement exercées à temps complet, en qualité d'agent public
+d'un niveau équivalent à la catégorie A, de cadre au sens de la convention collective dont ils relevaient, d'avocat au
+Conseil d'Etat et à la Cour de cassation, d'avocat, d'avoué, de notaire ou d'huissier de justice, sont classés au grade de
+conseiller à un échelon déterminé sur la base des durées fixées pour chaque avancement d'échelon à l'article R. 234-1, en
+prenant en compte une partie de la durée de cette ou ces activités professionnelles. La durée retenue pour le classement, qui
+ne peut excéder sept années, est prise en compte à hauteur de la moitié.
+
 Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans les conditions fixées à
 l'article R. 233-6.
 
@@ -13055,13 +13072,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2007-1345 du 13 septembre 2007 - art. 3 () JORF 14 septembre 2007
 
 _Cité par_:
 
@@ -13070,6 +13083,7 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative. - art. R233-6 (M)
+  - Code de justice administrative. - art. R234-1 (M)
 
 
 ##### Section 6 : Fin de fonctions<a id=169></a>

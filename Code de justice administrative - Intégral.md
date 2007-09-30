@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-09-14
+Version Consolidée au 2007-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -9815,7 +9815,7 @@ Le président du tribunal administratif ou le magistrat qu'il désigne à cette 
 premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du commissaire
 du gouvernement :
 
-1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de construire ;
+1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L. 421-4 du code de l'urbanisme ;
 
 2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou agents de l'Etat et des autres personnes ou
 collectivités publiques, ainsi que des agents ou employés de la Banque de France, à l'exception de ceux concernant l'entrée
@@ -9848,7 +9848,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
@@ -9868,6 +9868,7 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative. - art. R222-14 (M)
+  - Code de l'urbanisme - art. L421-4 (M)
 
 _Anciens textes_:
 
@@ -13747,9 +13748,9 @@ _Anciens textes_:
 ###### Article R312-7
 
 Les litiges relatifs aux déclarations d'utilité publique, au domaine public, aux affectations d'immeubles, au remembrement, à
-l'urbanisme et à l'habitation, au permis de construire, au classement des monuments et des sites et, de manière générale, aux
-décisions concernant des immeubles relèvent de la compétence du tribunal administratif dans le ressort duquel se trouvent les
-immeubles faisant l'objet du litige.
+l'urbanisme et à l'habitation, au permis de construire, d'aménager ou de démolir, au classement des monuments et des sites
+et, de manière générale, aux décisions concernant des immeubles relèvent de la compétence du tribunal administratif dans le
+ressort duquel se trouvent les immeubles faisant l'objet du litige.
 
 Il en est de même des litiges en matière de réquisition qui relèvent, si la réquisition porte sur un bien mobilier ou
 immobilier, du tribunal administratif dans le ressort duquel se trouvait ce bien au moment de la réquisition.
@@ -13760,9 +13761,9 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
@@ -15005,22 +15006,28 @@ _Anciens textes_:
 ###### Article R411-7
 
 La présentation des requêtes dirigées contre un document d'urbanisme ou une décision relative à l'occupation ou l'utilisation
-du sol est régie par les dispositions de l'article R. 600-1 du code de l'urbanisme ci-après reproduit :
+du sol est régie par les dispositions de l'article R. 600-1 du code de l'urbanisme ci-après reproduit : 
 
-" Art. R. 600-1. - En cas de déféré du préfet ou de recours contentieux à l'encontre d'un document d'urbanisme ou d'une
-décision relative à l'occupation ou l'utilisation du sol régie par le présent code, le préfet ou l'auteur du recours est
-tenu, à peine d'irrecevabilité, de notifier son recours à l'auteur de la décision et, s'il y a lieu, au titulaire de
+" Art.R. 600-1.-En cas de déféré du préfet ou de recours contentieux à l'encontre d'un certificat d'urbanisme, d'une décision
+de non-opposition à une déclaration préalable ou d'un permis de construire, d'aménager ou de démolir, le préfet ou l'auteur
+du recours est tenu, à peine d'irrecevabilité, de notifier son recours à l'auteur de la décision et au titulaire de
 l'autorisation. Cette notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à
-l'annulation ou à la réformation d'une décision juridictionnelle concernant un document d'urbanisme ou une décision relative
-à l'occupation ou l'utilisation du sol. L'auteur d'un recours administratif est également tenu de le notifier à peine
-d'irrecevabilité du recours contentieux qu'il pourrait intenter ultérieurement en cas de rejet du recours administratif.
+l'annulation ou à la réformation d'une décision juridictionnelle concernant un certificat d'urbanisme, une décision de non-
+opposition à une déclaration préalable ou un permis de construire, d'aménager ou de démolir. L'auteur d'un recours
+administratif est également tenu de le notifier à peine d'irrecevabilité du recours contentieux qu'il pourrait intenter
+ultérieurement en cas de rejet du recours administratif. 
 
 La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
-quinze jours francs à compter du dépôt du déféré ou du recours.
+quinze jours francs à compter du dépôt du déféré ou du recours. 
 
-La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation, est réputée accomplie
+La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
 à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
-lettre recommandée auprès des services postaux. "
+lettre recommandée auprès des services postaux.
+
+**Nota:**
+
+L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
+du 5 janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -15028,9 +15035,17 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
+_Modifié par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 12 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+_Abrogé par_:
+
+  - Décret n°2013-879 du 1er octobre 2013 - art. 2
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - PILOTE_SUIVEUR: Code de l'urbanisme - art. R*600-1
 
 _Cite_:
 
@@ -16431,8 +16446,8 @@ _Cite_:
 ###### Article R522-14
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension de l'exécution d'une décision accordant un
-permis de construire ou d'une mesure de police est transmise sans délai au procureur de la République près le tribunal de
-grande instance territorialement compétent.
+permis de construire, d'aménager ou de démolir ou d'une mesure de police est transmise sans délai au procureur de la
+République près le tribunal de grande instance territorialement compétent.
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension d'un acte constituant une pièce justificative du
 paiement de dépenses publiques est transmise sans délai au trésorier-payeur général du département dans lequel a son siège
@@ -16441,8 +16456,13 @@ l'autorité qui a pris l'acte en cause.
 Les mêmes règles s'appliquent à l'ordonnance qui modifie ou met fin à la suspension.
 
 Il est pareillement transmis copie de la décision par laquelle le Conseil d'Etat prononce la cassation d'une ordonnance du
-juge des référés ayant ordonné la suspension d'une décision accordant un permis de construire, d'une mesure de police ou d'un
-acte constituant une pièce justificative du paiement de dépenses publiques.
+juge des référés ayant ordonné la suspension d'une décision accordant un permis de construire, d'aménager ou de démolir,
+d'une mesure de police ou d'un acte constituant une pièce justificative du paiement de dépenses publiques.
+
+**Nota:**
+
+L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
+du 5 janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -16450,13 +16470,13 @@ _Codifié par_:
 
   - Décret n°2000-389 2000-05-04
 
-_Créé par_:
-
-  - Décret n°2000-1115 du 22 novembre 2000 - art. 1 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 #### Chapitre III : Voies de recours<a id=201></a>
@@ -20755,9 +20775,9 @@ _Codifié par_:
 
 ###### Article R751-10
 
-Copie du jugement par lequel le tribunal administratif prononce l'annulation d'une décision accordant un permis de construire
-ou d'une mesure de police est transmise sans délai au procureur de la République près le tribunal de grande instance
-territorialement compétent.
+Copie du jugement par lequel le tribunal administratif prononce l'annulation d'une décision accordant un permis de
+construire, d'aménager ou de démolir ou d'une mesure de police est transmise sans délai au procureur de la République près le
+tribunal de grande instance territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -20769,6 +20789,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+_Modifié par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R122 (Ab)
@@ -20777,8 +20801,8 @@ _Anciens textes_:
 ###### Article R751-11
 
 Copie des décisions d'appel qui annulent ou réforment un jugement par lequel un tribunal administratif s'est prononcé sur un
-recours pour excès de pouvoir dirigé contre un permis de construire ou une mesure de police est transmise sans délai au
-procureur de la République près le tribunal de grande instance territorialement compétent.
+recours pour excès de pouvoir dirigé contre un permis de construire, d'aménager ou de démolir ou une mesure de police est
+transmise sans délai au procureur de la République près le tribunal de grande instance territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -20793,6 +20817,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+_Modifié par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R751-12

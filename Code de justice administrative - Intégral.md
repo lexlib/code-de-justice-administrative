@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-12-09
+Version Consolidée au 2007-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 2007-12-09
         - [Chapitre III : Voies de recours (art. L523-1)](#70)
       - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-1)](#71)
         - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-2)](#72)
-        - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-2)](#73)
+        - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-3)](#73)
         - [Chapitre III : Le référé en matière de communication audiovisuelle (art. L553-1)](#74)
         - [Chapitre IV : Les régimes spéciaux de suspension (art. L554-1 à L554-12)](#75)
           - [Section 1 : La suspension sur déféré (art. L554-1 à L554-9)](#76)
@@ -3932,6 +3932,25 @@ _Cité par_:
 
   - Code de justice administrative - art. L211-2 (V)
   - Code de justice administrative. - art. R611-23 (V)
+
+
+###### Article L552-3
+
+Les référés prévus en cas de mise en oeuvre de la procédure de flagrance fiscale mentionnée à l'article L. 16-0 BA du livre
+des procédures fiscales ou à la suite de saisies conservatoires effectuées en vertu de l'article L. 252 B du même livre
+obéissent aux règles définies respectivement aux articles L. 201 A et L. 201 B du même livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L16-0 BA
+  - Livre des procédures fiscales - art. L201 A
+  - Livre des procédures fiscales - art. L252 B
 
 
 #### Chapitre III : Le référé en matière de communication audiovisuelle<a id=74></a>

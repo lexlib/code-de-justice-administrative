@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-07-30
+Version Consolidée au 2008-08-03
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -65,20 +65,20 @@ Version Consolidée au 2008-07-30
       - [Titre II : La compétence d'appel (art. L321-1 à L321-2)](#62)
         - [Chapitre Ier : La compétence en raison de la matière (art. L321-1 à L321-2)](#63)
       - [Titre III : Le Conseil d'Etat juge de cassation (art. L331-1)](#64)
-    - [Livre V : Le référé (art. L511-1 à L555-1)](#65)
+    - [Livre V : Le référé (art. L511-1 à L555-2)](#65)
       - [Titre Ier : Le juge des référés (art. L511-1 à L511-2)](#66)
       - [Titre II : Le juge des référés statuant en urgence (art. L521-1 à L523-1)](#67)
         - [Chapitre Ier : Pouvoirs (art. L521-1 à L521-4)](#68)
         - [Chapitre II : Procédure (art. L522-1 à L522-3)](#69)
         - [Chapitre III : Voies de recours (art. L523-1)](#70)
-      - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-1)](#71)
+      - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-2)](#71)
         - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-2)](#72)
         - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-3)](#73)
         - [Chapitre III : Le référé en matière de communication audiovisuelle (art. L553-1)](#74)
         - [Chapitre IV : Les régimes spéciaux de suspension (art. L554-1 à L554-12)](#75)
           - [Section 1 : La suspension sur déféré (art. L554-1 à L554-9)](#76)
           - [Section 2 : La suspension en matière d'urbanisme et de protection de la nature ou de l'environnement (art. L554-10 à L554-12)](#77)
-        - [Chapitre V : Dispositions diverses (art. L555-1)](#78)
+        - [Chapitre V : Dispositions diverses (art. L555-1 à L555-2)](#78)
     - [Livre VII : Le jugement (art. L721-1 à L781-1)](#79)
       - [Titre II : L'abstention et la récusation (art. L721-1)](#80)
       - [Titre III : La tenue de l'audience (art. L731-1)](#81)
@@ -4477,6 +4477,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+
+
+###### Article L555-2
+
+La levée du caractère suspensif d'une opposition à un titre exécutoire pris en application de certaines mesures de
+consignation prévues par le code de l'environnement est décidée par le président du tribunal administratif ou le magistrat
+qu'il délègue, statuant en référé. Elle est régie, selon le cas, par le II de l'article L. 162-14, le III de l'article L.
+514-1 et l'article L. 541-3 dudit code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-757 du 1er août 2008 - art. 3
+
+_Cite_:
+
+  - Code de l'environnement - art. L162-14
+  - Code de l'environnement - art. L514-1
+  - Code de l'environnement - art. L541-3
 
 
 ## Livre VII : Le jugement<a id=79></a>

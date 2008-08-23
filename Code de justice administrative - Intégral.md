@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-08-23
+Version Consolidée au 2008-08-24
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -274,26 +274,24 @@ Version Consolidée au 2008-08-23
         - [Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français. (art. R775-1 à R775-10)](#271)
         - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#272)
         - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#273)
-        - [Chapitre 9 : Le contentieux du stationnement des résidences mobiles des gens du voyage (art. R779-1 à R779-8)](#274)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#274)
           - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#275)
-        - [Chapitre IX : Autres dispositions (art.  à R779-9)](#276)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art.  à R779-8)](#277)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#278)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#279)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#280)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#281)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#282)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#283)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#284)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#285)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#286)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#287)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#288)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#289)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#290)
-      - [Titre Ier : Principes (art. R911-1)](#291)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#292)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#293)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#276)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#277)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#278)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#279)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#280)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#281)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#282)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#283)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#284)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#285)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#286)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#287)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#288)
+      - [Titre Ier : Principes (art. R911-1)](#289)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#290)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#291)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -9121,90 +9119,92 @@ _Anciens textes_:
 
 ###### Article R221-3
 
-Le siège et le ressort des tribunaux administratifs sont fixés comme suit :
+Le siège et le ressort des tribunaux administratifs sont fixés comme suit : 
 
-Amiens : Aisne, Oise, Somme ;
+Amiens : Aisne, Oise, Somme ; 
 
-Bastia : Corse-du-Sud, Haute-Corse ;
+Bastia : Corse-du-Sud, Haute-Corse ; 
 
-Besançon : Doubs, Jura, Haute-Saône, Territoire de Belfort ;
+Besançon : Doubs, Jura, Haute-Saône, Territoire de Belfort ; 
 
-Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
+Bordeaux : Dordogne, Gironde, Lot-et-Garonne ; 
 
-Caen : Calvados, Manche, Orne ;
+Caen : Calvados, Manche, Orne ; 
 
-Cergy-Pontoise : Seine-Saint-Denis, Val-d'Oise ;
+Cergy-Pontoise : Seine-Saint-Denis, Val-d'Oise ; 
 
-Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
+Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ; 
 
-Clermont-Ferrand : Allier, Cantal, Haute-Loire, Puy-de-Dôme ;
+Clermont-Ferrand : Allier, Cantal, Haute-Loire, Puy-de-Dôme ; 
 
-Dijon : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne ;
+Dijon : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne ; 
 
-Grenoble : Drôme, Isère, Savoie, Haute-Savoie ;
+Grenoble : Drôme, Isère, Savoie, Haute-Savoie ; 
 
-Lille : Nord, Pas-de-Calais ;
+Lille : Nord, Pas-de-Calais ; 
 
-Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
+Limoges : Corrèze, Creuse, Indre, Haute-Vienne ; 
 
-Lyon : Ain, Ardèche, Loire, Rhône ;
+Lyon : Ain, Ardèche, Loire, Rhône ; 
 
-Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ;
+Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ; 
 
-Melun : Seine-et-Marne, Val-de-Marne ;
+Melun : Seine-et-Marne, Val-de-Marne ; 
 
-Montpellier : Aude, Hérault, Pyrénées-Orientales ;
+Montpellier : Aude, Hérault, Pyrénées-Orientales ; 
 
-Nancy : Meurthe-et-Moselle, Meuse, Vosges ;
+Nancy : Meurthe-et-Moselle, Meuse, Vosges ; 
 
-Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ;
+Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ; 
 
-Nice : Alpes-Maritimes, Var ;
+Nice : Alpes-Maritimes ; 
 
-Nîmes : Gard, Lozère, Vaucluse ;
+Nîmes : Gard, Lozère, Vaucluse ; 
 
-Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
+Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ; 
 
-Paris : ville de Paris ;
+Paris : ville de Paris ; 
 
-Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ;
+Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ; 
 
-Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne ;
+Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne ; 
 
-Rennes : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan ;
+Rennes : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan ; 
 
-Rouen : Eure, Seine-Maritime ;
+Rouen : Eure, Seine-Maritime ; 
 
-Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ;
+Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ; 
 
-Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
+Toulon : Var ; 
 
-Versailles : Essonne, Hauts-de-Seine, Yvelines ;
+Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ; 
 
-Basse-Terre : Guadeloupe ;
+Versailles : Essonne, Hauts-de-Seine, Yvelines ; 
 
-Cayenne : Guyane ;
+Basse-Terre : Guadeloupe ; 
 
-Fort-de-France : Martinique ;
+Cayenne : Guyane ; 
 
-Mamoudzou : Mayotte ;
+Fort-de-France : Martinique ; 
 
-Mata-Utu : îles Wallis et Futuna ;
+Mamoudzou : Mayotte ; 
 
-Nouméa : Nouvelle-Calédonie ;
+Mata-Utu : îles Wallis et Futuna ; 
 
-Papeete : Polynésie française, Clipperton ;
+Nouméa : Nouvelle-Calédonie ; 
+
+Papeete : Polynésie française, Clipperton ; 
+
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ; 
 
 Saint-Barthélemy : Saint-Barthélemy ; 
 
 Saint-Martin : Saint-Martin ; 
 
-Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
-
-Saint-Pierre : Saint-Pierre-et-Miquelon.
+Saint-Pierre : Saint-Pierre-et-Miquelon. 
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
-celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
+celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle. 
 
 Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est fixé à Basse-Terre.
 
@@ -9222,76 +9222,74 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-452 du 13 mai 2008 - art. 4
+  - Décret n°2008-819 du 21 août 2008 - art. 2
 
 
 ###### Article R221-4
 
-Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
+Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit : 
 
-Amiens : quatre chambres ;
+Amiens : quatre chambres ; 
 
-Bastia : deux chambres ;
+Bastia : deux chambres ; 
 
-Besançon : deux chambres ;
+Besançon : deux chambres ; 
 
-Bordeaux : cinq chambres ;
+Bordeaux : cinq chambres ; 
 
-Caen : deux chambres ;
+Caen : deux chambres ; 
 
-Cergy-Pontoise : dix chambres ;
+Cergy-Pontoise : dix chambres ; 
 
-Châlons-en-Champagne : trois chambres ;
+Châlons-en-Champagne : trois chambres ; 
 
-Clermont-Ferrand : deux chambres ;
+Clermont-Ferrand : deux chambres ; 
 
-Dijon : trois chambres ;
+Dijon : trois chambres ; 
 
-Grenoble : cinq chambres ;
+Grenoble : cinq chambres ; 
 
-Lille : six chambres ;
+Lille : six chambres ; 
 
-Limoges : deux chambres ;
+Limoges : deux chambres ; 
 
-Lyon : sept chambres ;
+Lyon : sept chambres ; 
 
-Marseille : huit chambres ;
+Marseille : huit chambres ; 
 
-Melun : sept chambres ;
+Melun : sept chambres ; 
 
-Montpellier : sept chambres ;
+Montpellier : sept chambres ; 
 
-Nancy : deux chambres ;
+Nancy : deux chambres ; 
 
-Nantes : cinq chambres ;
+Nantes : cinq chambres ; 
 
-Nice : sept chambres ;
+Nice : sept chambres ; 
 
-Nîmes : trois chambres ;
+Nîmes : trois chambres ; 
 
-Orléans : quatre chambres ;
+Orléans : cinq chambres ; 
 
-Pau : deux chambres ;
+Pau : deux chambres ; 
 
-Poitiers : trois chambres ;
+Poitiers : trois chambres ; 
 
-Rennes : cinq chambres ;
+Rennes : cinq chambres ; 
 
-Rouen : trois chambres ;
+Rouen : trois chambres ; 
 
-Strasbourg : cinq chambres ;
+Strasbourg : cinq chambres ; 
 
-Toulouse : cinq chambres ;
+Toulon : trois chambres ; 
 
-Versailles : dix chambres ;
+Toulouse : cinq chambres ; 
+
+Versailles : dix chambres ; 
 
 Saint-Denis : deux chambres.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
 
 _Cité par_:
 
@@ -9300,11 +9298,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1113 du 18 juillet 2007 - art. 1 () JORF 20 juillet 2007
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours administratives d'appel R5 al. 1
+  - Décret n°2008-819 du 21 août 2008 - art. 3
 
 
 ###### Article R221-5
@@ -9369,7 +9363,7 @@ Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
 Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice, Nîmes et Toulon  ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
@@ -9387,38 +9381,30 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-452 du 13 mai 2008 - art. 5
+  - Décret n°2008-819 du 21 août 2008 - art. 4
 
 
 ###### Article R221-8
 
-Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
+Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit : 
 
-Paris : huit chambres ;
+Paris : neuf chambres ; 
 
-Marseille : sept chambres ;
+Marseille : sept chambres ; 
 
-Bordeaux et Lyon : six chambres ;
+Bordeaux et Lyon : six chambres ; 
 
-Versailles : cinq chambres ;
+Versailles : cinq chambres ; 
 
-Nancy et Nantes : quatre chambres ;
+Nancy et Nantes : quatre chambres ; 
 
 Douai : trois chambres.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2007-1113 du 18 juillet 2007 - art. 2 () JORF 20 juillet 2007
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R8 (M)
+  - Décret n°2008-819 du 21 août 2008 - art. 5
 
 
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel<a id=136></a>
@@ -12968,24 +12954,19 @@ _Cite_:
 
 ###### Article R233-5
 
-Pour la détermination du nombre des nominations à prononcer au grade de conseiller en application de l'article L. 233-3,
-lorsque le nombre de conseillers nommés au titre d'une année donnée parmi les anciens élèves de l'Ecole nationale
-d'administration n'est pas un multiple de trois, le reste est ajouté au nombre de conseillers nommés dans les mêmes
-conditions l'année suivante.
-
-De même, pour la détermination du nombre des nominations au grade de premier conseiller en application de l'article L. 233-4,
-lorsque le nombre de conseillers promus au titre d'une année donnée au grade de premier conseiller n'est pas un multiple de
-sept, le reste est ajouté au nombre de conseillers promus au grade de premier conseiller l'année suivante.
+Lorsque le nombre de nominations calculé en application des dispositions des articles L. 233-3 et L. 233-4 n'est pas un
+entier, la décimale est ajoutée au nombre calculé au titre de l'année suivante.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2008-819 du 21 août 2008 - art. 7
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Code de justice administrative. - art. L233-3 (V)
+  - Code de justice administrative. - art. L233-4 (V)
 
 
 ###### Article R233-6
@@ -22275,7 +22256,7 @@ _Modifié par_:
   - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
-#### Chapitre 9 : Le contentieux du stationnement des résidences mobiles des gens du voyage<a id=274></a>
+#### Chapitre IX : Autres dispositions<a id=274></a>
 
 ##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=275></a>
 
@@ -22427,11 +22408,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-#### Chapitre IX : Autres dispositions<a id=276></a>
-
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=277></a>
-
-##### Section 2 : Les actions en matière de discriminations.<a id=278></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=276></a>
 
 ###### Article R779-9
 
@@ -22459,7 +22436,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=279></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=277></a>
 
 ###### Article R781-1
 
@@ -22516,9 +22493,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=280></a>
+## Livre VIII : Les voies de recours.<a id=278></a>
 
-### Titre Ier : L'appel<a id=281></a>
+### Titre Ier : L'appel<a id=279></a>
 
 ###### Article R811-1
 
@@ -23177,9 +23154,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=282></a>
+### Titre II : Le recours en cassation<a id=280></a>
 
-#### Chapitre Ier : Dispositions générales<a id=283></a>
+#### Chapitre Ier : Dispositions générales<a id=281></a>
 
 ###### Article R821-1
 
@@ -23327,7 +23304,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=284></a>
+#### Chapitre II : Procédure d'admission<a id=282></a>
 
 ###### Article R822-1
 
@@ -23519,9 +23496,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=285></a>
+### Titre III : Autres voies de recours<a id=283></a>
 
-#### Chapitre Ier : L'opposition<a id=286></a>
+#### Chapitre Ier : L'opposition<a id=284></a>
 
 ###### Article R831-1
 
@@ -23652,7 +23629,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=287></a>
+#### Chapitre II : La tierce opposition<a id=285></a>
 
 ###### Article R832-1
 
@@ -23762,7 +23739,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=288></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=286></a>
 
 ###### Article R833-1
 
@@ -23817,7 +23794,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=289></a>
+#### Chapitre IV : Le recours en révision<a id=287></a>
 
 ###### Article R834-1
 
@@ -23907,9 +23884,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=290></a>
+## Livre IX : L'exécution des décisions<a id=288></a>
 
-### Titre Ier : Principes<a id=291></a>
+### Titre Ier : Principes<a id=289></a>
 
 ###### Article R911-1
 
@@ -23932,7 +23909,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=292></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=290></a>
 
 ###### Article R921-1
 
@@ -24161,7 +24138,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=293></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=291></a>
 
 ###### Article R931-1
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-09-01
+Version Consolidée au 2008-11-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -274,24 +274,25 @@ Version Consolidée au 2008-09-01
         - [Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français. (art. R775-1 à R775-10)](#271)
         - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#272)
         - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#273)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#274)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#275)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#276)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#277)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#278)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#279)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#280)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#281)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#282)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#283)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#284)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#285)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#286)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#287)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#288)
-      - [Titre Ier : Principes (art. R911-1)](#289)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#290)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#291)
+        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-7)](#274)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#275)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#276)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#277)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#278)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#279)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#280)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#281)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#282)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#283)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#284)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#285)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#286)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#287)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#288)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#289)
+      - [Titre Ier : Principes (art. R911-1)](#290)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#291)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#292)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -22164,9 +22165,186 @@ _Modifié par_:
   - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
-#### Chapitre IX : Autres dispositions<a id=274></a>
+#### Chapitre VIII : Le contentieux du droit au logement<a id=274></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=275></a>
+###### Article R778-1
+
+Sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve des dispositions particulières du
+code de la construction et de l'habitation et des dispositions du présent chapitre : 
+
+1° Les requêtes introduites par les demandeurs reconnus par la commission de médiation prévue à l'article L. 441-2-3 du code
+de la construction et de l'habitation comme prioritaires et devant se voir attribuer un logement en urgence, en application
+des dispositions du II du même article, et qui n'ont pas, passé le délai mentionné à l'article R. 441-16-1 du même code, reçu
+une offre de logement tenant compte de leurs besoins et de leurs capacités ; 
+
+2° Les requêtes introduites par les demandeurs reconnus par la commission de médiation comme prioritaires pour un accueil
+dans une structure d'hébergement, un établissement ou logement de transition, un logement-foyer ou une résidence hôtelière à
+vocation sociale, en application des dispositions du III de l'article L. 441-2-3 du code de la construction et de
+l'habitation, et qui n'ont pas, passé le délai mentionné à l'article R. 441-18 du même code, été accueillis dans l'une de ces
+structures, logements ou établissements ; 
+
+3° Les requêtes introduites par les demandeurs qui, en l'absence de commission de médiation, ont saisi le préfet en
+application du quatrième alinéa du I de l'article L. 441-2-3-1 du code de la construction et de l'habitation et qui n'ont
+pas, passé le délai prévu par l'article R. 441-17 du même code, reçu une offre de logement tenant compte de leurs besoins et
+de leurs capacités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cité par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 3 (V)
+  - Code de justice administrative - art. R772-5 (V)
+  - Code de justice administrative - art. R811-1 (V)
+  - Code de justice administrative. - art. R778-2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L441-2-3
+  - Code de la construction et de l'habitation. - art. R441-16-1
+  - Code de la construction et de l'habitation. - art. R441-17
+  - Code de la construction et de l'habitation. - art. R441-18
+
+
+###### Article R778-2
+
+Les requêtes mentionnées à l'article R. 778-1 sont présentées dans un délai de quatre mois à compter de l'expiration des
+délais prévus aux articles R. 441-16-1, R. 441-17 et R. 441-18 du code de la construction et de l'habitation. Ce délai n'est
+toutefois opposable au requérant que s'il a été informé, dans la notification de la décision de la commission de médiation ou
+dans l'accusé de réception de la demande adressée au préfet en l'absence de commission de médiation, d'une part, de celui des
+délais mentionnés aux articles R. 441-16-1, R. 441-17 et R. 441-18 de ce code qui était applicable à sa demande et, d'autre
+part, du délai prévu par le présent article pour saisir le tribunal administratif.
+
+A peine d'irrecevabilité, les requêtes doivent être accompagnées, sauf impossibilité justifiée, soit de la décision de la
+commission de médiation dont se prévaut le requérant, soit, en l'absence de commission, d'une copie de la demande adressée
+par le requérant au préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cité par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 3 (V)
+  - Code de la construction et de l'habitation. - art. R*441-18-2 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R778-1
+  - Code de la construction et de l'habitation. - art. R441-16-1
+  - Code de la construction et de l'habitation. - art. R441-17
+  - Code de la construction et de l'habitation. - art. R441-18
+
+
+###### Article R778-3
+
+Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il désigne à cet effet, qui doit
+avoir atteint au moins le grade de premier conseiller ou une ancienneté de deux ans. Sauf mention expresse contraire dans la
+décision de désignation, les magistrats désignés au titre de l'article R. 222-13 assurent également ces fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R222-13
+
+
+###### Article R778-4
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cet effet statue dans le délai prévu à l'article L.
+441-2-3-1 du code de la construction et de l'habitation. 
+
+Les décisions prises pour l'instruction des affaires sont notifiées aux parties par tous moyens. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cet effet peut, dès l'enregistrement de la requête,
+par une décision qui tient lieu d'avis d'audience, fixer la date à laquelle l'affaire sera appelée à l'audience.
+
+L'avis d'audience ou la décision prévue à l'alinéa précédent reproduit les dispositions des articles R. 731-1, R. 731-2, R.
+731-3, R. 732-1 et R. 732-2 en précisant que l'audience, sauf renvoi à une formation collégiale, se déroule sans conclusions
+du commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R731-1
+  - Code de justice administrative - art. R731-2
+  - Code de justice administrative - art. R731-3
+  - Code de justice administrative - art. R732-1
+  - Code de justice administrative - art. R732-2
+  - Code de la construction et de l'habitation. - art. L441-2-3-1
+
+
+###### Article R778-5
+
+Le juge statue au terme d'une procédure contradictoire écrite ou orale. 
+
+Dès qu'il reçoit notification de la requête, le préfet communique au tribunal administratif l'ensemble du dossier constitué
+pour l'instruction de la demande correspondante, tant devant la commission départementale de médiation que pour donner suite
+à la décision de celle-ci. 
+
+L'instruction est close soit après que les parties ou leurs mandataires ont formulé leurs observations orales, soit, si ces
+parties sont absentes ou ne sont pas représentées, après appel de leur affaire à l'audience. 
+
+L'instruction est rouverte en cas de renvoi à une autre audience.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+
+###### Article R778-6
+
+Les dispositions des articles R. 522-4, R. 522-7, R. 522-9 et R. 522-11 à R. 522-13 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R522-11
+  - Code de justice administrative - art. R522-4
+  - Code de justice administrative - art. R522-7
+  - Code de justice administrative - art. R522-9
+
+
+###### Article R778-7
+
+A la demande du requérant, un représentant d'une association ayant reçu l'agrément prévu au deuxième alinéa du I de l'article
+L. 441-2-3-1 du code de la construction et de l'habitation peut être entendu lors de l'audience.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L441-2-3-1
+
+
+#### Chapitre IX : Autres dispositions<a id=275></a>
+
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=276></a>
 
 ###### Article R779-1
 
@@ -22316,7 +22494,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=276></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=277></a>
 
 ###### Article R779-9
 
@@ -22344,7 +22522,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=277></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=278></a>
 
 ###### Article R781-1
 
@@ -22401,27 +22579,29 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=278></a>
+## Livre VIII : Les voies de recours.<a id=279></a>
 
-### Titre Ier : L'appel<a id=279></a>
+### Titre Ier : L'appel<a id=280></a>
 
 ###### Article R811-1
 
 Toute partie présente dans une instance devant le tribunal administratif ou qui y a été régulièrement appelée, alors même
 qu'elle n'aurait produit aucune défense, peut interjeter appel contre toute décision juridictionnelle rendue dans cette
-instance.
+instance. 
 
 Toutefois, dans les litiges énumérés aux 1°, 4°, 5°, 6°, 7°, 8° et 9° de l'article R. 222-13, le tribunal administratif
 statue en premier et dernier ressort. Il en va de même pour les litiges visés aux 2° et 3° de cet article, sauf pour les
 recours comportant des conclusions tendant au versement ou à la décharge de sommes d'un montant supérieur au montant
 déterminé par les articles R. 222-14 et R. 222-15. Cette disposition ne fait pas obstacle à l'application des articles R.
-533-1 et R. 541-3.
+533-1 et R. 541-3. 
 
 Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité avec un litige susceptible d'appel, les décisions
 portant sur les actions visées au 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions
 statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à la taxe
 professionnelle, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la valeur
-des mêmes biens appréciée la même année.
+des mêmes biens appréciée la même année. 
+
+Le tribunal administratif statue en premier et dernier ressort sur les requêtes mentionnées à l'article R. 778-1.
 
 **Liens relatifs à cet article**
 
@@ -22433,25 +22613,18 @@ _Cité par_:
   - Code de justice administrative - art. R77-10-9 (V)
   - Code de justice administrative - art. R77-12-10 (V)
 
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 _Modifié par_:
 
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 5 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. R222-13 (M)
-  - Code de justice administrative. - art. R222-14 (M)
-  - Code de justice administrative. - art. R222-15 (M)
-  - Code de justice administrative. - art. R533-1 (V)
-  - Code de justice administrative. - art. R541-3 (V)
+  - Code de justice administrative - art. R222-13
+  - Code de justice administrative - art. R222-14
+  - Code de justice administrative - art. R222-15
+  - Code de justice administrative - art. R533-1
+  - Code de justice administrative - art. R541-3
+  - Code de justice administrative - art. R778-1
 
 _Anciens textes_:
 
@@ -23061,9 +23234,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=280></a>
+### Titre II : Le recours en cassation<a id=281></a>
 
-#### Chapitre Ier : Dispositions générales<a id=281></a>
+#### Chapitre Ier : Dispositions générales<a id=282></a>
 
 ###### Article R821-1
 
@@ -23211,7 +23384,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=282></a>
+#### Chapitre II : Procédure d'admission<a id=283></a>
 
 ###### Article R822-1
 
@@ -23403,9 +23576,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=283></a>
+### Titre III : Autres voies de recours<a id=284></a>
 
-#### Chapitre Ier : L'opposition<a id=284></a>
+#### Chapitre Ier : L'opposition<a id=285></a>
 
 ###### Article R831-1
 
@@ -23536,7 +23709,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=285></a>
+#### Chapitre II : La tierce opposition<a id=286></a>
 
 ###### Article R832-1
 
@@ -23646,7 +23819,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=286></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=287></a>
 
 ###### Article R833-1
 
@@ -23701,7 +23874,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=287></a>
+#### Chapitre IV : Le recours en révision<a id=288></a>
 
 ###### Article R834-1
 
@@ -23791,9 +23964,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=288></a>
+## Livre IX : L'exécution des décisions<a id=289></a>
 
-### Titre Ier : Principes<a id=289></a>
+### Titre Ier : Principes<a id=290></a>
 
 ###### Article R911-1
 
@@ -23816,7 +23989,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=290></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=291></a>
 
 ###### Article R921-1
 
@@ -24045,7 +24218,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=291></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=292></a>
 
 ###### Article R931-1
 

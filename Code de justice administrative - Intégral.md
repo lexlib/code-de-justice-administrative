@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-04-10
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -15630,12 +15630,12 @@ _Anciens textes_:
 
 ###### Article R431-6
 
-En matière fiscale, la représentation du contribuable est régie par les dispositions de l'article R. * 200-2 du Livre des
+En matière fiscale, la représentation du contribuable est régie par les dispositions de l'article R. * 200-2 du livre des
 procédures fiscales ci-après reproduites : 
 
-" Art. R.* 200-2. - Par dérogation aux dispositions des articles R. 431-4 et R. 431-5 du code de justice administrative, les
+" Art. R. * 200-2.-Par dérogation aux dispositions des articles R. 431-4 et R. 431-5 du code de justice administrative, les
 requêtes au tribunal peuvent être signées d'un mandataire autre que ceux qui sont mentionnés à l'article R. 431-2 du même
-code. En ce cas, les dispositions de l'article R. 197-4 du présent livre sont applicables. 
+code. En ce cas, les dispositions de l'article R. 197-4 sont applicables. 
 
 Le demandeur ne peut contester devant le tribunal administratif des impositions différentes de celles qu'il a visées dans sa
 réclamation à l'administration. 
@@ -15644,22 +15644,21 @@ Les vices de forme prévus aux a, b, et d de l'article R. 197-3 peuvent, lorsqu'
 l'administration, être utilement couverts dans la demande adressée au tribunal administratif. 
 
 Il en est de même pour le défaut de signature de la réclamation lorsque l'administration a omis d'en demander la
-régularisation dans les conditions prévues au c du même article ".
+régularisation dans les conditions prévues au c du même article. "
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. R*200-2 (V)
 
 _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*200-2 (V)
 
 
 ###### Article R431-7

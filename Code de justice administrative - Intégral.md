@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-06-17
+Version Consolidée au 2009-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -74,15 +74,15 @@ Version Consolidée au 2009-06-17
         - [Chapitre II : Procédure (art. L522-1 à L522-3)](#71)
         - [Chapitre III : Voies de recours (art. L523-1)](#72)
       - [Titre V : Dispositions diverses et particulières à certains contentieux (art. L551-1 à L555-2)](#73)
-        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-22)](#74)
+        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. L551-1 à L551-24)](#74)
           - [Section 1 : Référé précontractuel (art. L551-1 à L551-12)](#75)
             - [Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs (art. L551-1 à L551-4)](#76)
             - [Sous-section 2 : Contrats passés par les entités adjudicatrices (art. L551-5 à L551-9)](#77)
             - [Sous-section 3 : Dispositions communes (art. L551-10 à L551-12)](#78)
-          - [Section 2 : Référé contractuel (art. L551-13 à L551-21)](#79)
+          - [Section 2 : Référé contractuel (art. L551-13 à L551-23)](#79)
             - [Sous-section 1 : Nature et présentation du recours (art. L551-13 à L551-16)](#80)
-            - [Sous-section 2 : Pouvoirs du juge (art. L551-17 à L551-21)](#81)
-          - [Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. (art. L551-22)](#82)
+            - [Sous-section 2 : Pouvoirs du juge (art. L551-17 à L551-23)](#81)
+          - [Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. (art. L551-24)](#82)
         - [Chapitre II : Le référé en matière fiscale (art. L552-1 à L552-3)](#83)
         - [Chapitre III : Le référé en matière de communication audiovisuelle (art. L553-1)](#84)
         - [Chapitre IV : Les régimes spéciaux de suspension (art. L554-1 à L554-14)](#85)
@@ -4388,35 +4388,81 @@ _Cite_:
   - Code de justice administrative - art. L551-17
 
 
-##### Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.<a id=82></a>
-
 ###### Article L551-22
 
-En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le président du tribunal administratif, ou
-le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence
-auxquelles est soumise la passation des marchés et contrats publics en vertu de dispositions applicables localement. 
+Le montant des pénalités financières prévues aux articles L. 551-19 et L. 551-20 tient compte de manière proportionnée de
+leur objet dissuasif, sans pouvoir excéder 20 % du montant hors taxes du contrat. 
 
-Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
-par ce manquement, ainsi que le haut-commissaire de la République dans le cas où le contrat est conclu ou doit être conclu
-par une collectivité territoriale ou un établissement public local. 
+Le montant de ces pénalités est versé au Trésor public.
 
-Le président du tribunal administratif peut être saisi avant la conclusion du contrat. Il peut ordonner à l'auteur du
-manquement de se conformer à ses obligations et suspendre la passation du contrat ou l'exécution de toute décision qui s'y
-rapporte. Il peut également annuler ces décisions et supprimer les clauses ou prescriptions destinées à figurer dans le
-contrat et qui méconnaissent lesdites obligations. Dès qu'il est saisi, il peut enjoindre de différer la signature du contrat
-jusqu'au terme de la procédure et pour une durée maximum de vingt jours. 
+**Nota:**
+
+Ordonnance n° 2009-864 art. 27 V. - Les dispositions du 2° de l'article 24 et de l'article 25 sont applicables aux projets de
+contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à partir du 1er
+décembre 2009.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+_Modifié par_:
+
+  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+_Cite_:
+
+  - Code de justice administrative - art. L551-19
+  - Code de justice administrative - art. L551-20
+
+
+###### Article L551-23
 
 Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+
+**Nota:**
+
+Ordonnance n° 2009-864 art. 27 V. - Les dispositions du 2° de l'article 24 et de l'article 25 sont applicables aux projets de
+contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à partir du 1er
+décembre 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
 
-_Nouveaux textes_:
 
-  - Code de justice administrative. - art. L551-24 (V)
+##### Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.<a id=82></a>
+
+###### Article L551-24
+
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le président du tribunal administratif, ou
+le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence
+auxquelles est soumise la passation des marchés et contrats publics en vertu de dispositions applicables localement.
+
+Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
+par ce manquement, ainsi que le haut-commissaire de la République dans le cas où le contrat est conclu ou doit être conclu
+par une collectivité territoriale ou un établissement public local.
+
+Le président du tribunal administratif peut être saisi avant la conclusion du contrat. Il peut ordonner à l'auteur du
+manquement de se conformer à ses obligations et suspendre la passation du contrat ou l'exécution de toute décision qui s'y
+rapporte. Il peut également annuler ces décisions et supprimer les clauses ou prescriptions destinées à figurer dans le
+contrat et qui méconnaissent lesdites obligations. Dès qu'il est saisi, il peut enjoindre de différer la signature du contrat
+jusqu'au terme de la procédure et pour une durée maximum de vingt jours.
+
+Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+_Anciens textes_:
+
+  - Code de justice administrative. - art. L551-22 (M)
 
 
 #### Chapitre II : Le référé en matière fiscale<a id=83></a>

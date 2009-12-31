@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -9750,7 +9750,7 @@ Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
 
 Caen : Calvados, Manche, Orne ;
 
-Cergy-Pontoise : Val-d'Oise ;
+Cergy-Pontoise : Hauts-de-Seine, Val-d'Oise ;
 
 Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
 
@@ -9800,7 +9800,7 @@ Toulon : Var ;
 
 Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Versailles : Essonne, Hauts-de-Seine, Yvelines ;
+Versailles : Essonne, Yvelines ;
 
 Basse-Terre : Guadeloupe ;
 
@@ -9843,7 +9843,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-945 du 29 juillet 2009 - art. 2
+  - Décret n°2009-945 du 29 juillet 2009 - art. 3
 
 
 ###### Article R221-4

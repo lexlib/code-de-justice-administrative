@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-02-01
+Version Consolidée au 2010-02-24
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -147,10 +147,10 @@ Version Consolidée au 2010-02-01
           - [Section 1 : Dispositions communes (art. R221-1 à R221-2)](#144)
           - [Section 2 : Organisation des tribunaux administratifs (art. R221-3 à R221-6)](#145)
           - [Section 3 : Organisation des cours administratives d'appel (art. R221-7 à R221-8)](#146)
-        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-33)](#147)
+        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-34)](#147)
           - [Section 1 : Dispositions communes (art. R222-1 à R222-12)](#148)
           - [Section 2 : Fonctionnement des tribunaux administratifs (art. R222-13 à R222-24)](#149)
-          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-33)](#150)
+          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-34)](#150)
         - [Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon (art. R223-1 à R223-10)](#151)
           - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par les tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon (art. R223-5 à R223-8)](#152)
           - [Section 2 : Le contrôle juridictionnel spécifique des actes des conseils territoriaux de Saint-Barthélemy et de Saint-Martin intervenant dans le domaine de la loi (art. R223-9 à R223-10)](#153)
@@ -173,7 +173,7 @@ Version Consolidée au 2010-02-01
           - [Section 2 : Dispositions particulières à certains greffes (art. R226-8 à R226-14)](#170)
         - [Chapitre VII : Les assistants de justice (art. R227-1 à R227-10)](#171)
       - [Titre III : Dispositions statutaires (art. R231-1 à R237-2)](#172)
-        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-4)](#173)
+        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-3)](#173)
         - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel (art. R232-1 à R232-29)](#174)
           - [Section 2 : Désignation des membres du Conseil supérieur (art. R232-1 à R232-18)](#175)
           - [Section 3 : Fonctionnement du Conseil supérieur (art. R232-19 à R232-26)](#176)
@@ -188,11 +188,11 @@ Version Consolidée au 2010-02-01
         - [Chapitre V : Positions (art. R235-1 à R235-2)](#185)
         - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#186)
     - [Livre III : La compétence (art. R311-1 à R351-9)](#187)
-      - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-17)](#188)
-        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-3)](#189)
-        - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-17)](#190)
+      - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-19)](#188)
+        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1)](#189)
+        - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-19)](#190)
           - [Section 1 : Principes (art. R312-1 à R312-5)](#191)
-          - [Section 2 : Exceptions (art. R312-6 à R312-17)](#192)
+          - [Section 2 : Exceptions (art. R312-6 à R312-19)](#192)
       - [Titre II : La compétence d'appel (art. R321-1 à R322-3)](#193)
         - [Chapitre Ier : La compétence en raison de la matière (art. R321-1 à R321-2)](#194)
         - [Chapitre II : La compétence territoriale des cours administratives d'appel (art. R322-1 à R322-3)](#195)
@@ -217,8 +217,8 @@ Version Consolidée au 2010-02-01
         - [Chapitre II : Procédure (art. R522-1 à R522-14)](#214)
         - [Chapitre III : Voies de recours (art. R523-1 à R523-3)](#215)
       - [Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction (art. R531-1 à R533-3)](#216)
-        - [Chapitre Ier : Le constat (art. R531-1)](#217)
-        - [Chapitre II : Le référé instruction (art. R532-1 à R532-2)](#218)
+        - [Chapitre Ier : Le constat (art. R531-1 à R531-2)](#217)
+        - [Chapitre II : Le référé instruction (art. R532-1 à R532-4)](#218)
         - [Chapitre III : Voies de recours (art. R533-1 à R533-3)](#219)
       - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#220)
         - [Chapitre unique. (art. R541-1 à R541-6)](#221)
@@ -235,19 +235,19 @@ Version Consolidée au 2010-02-01
         - [Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation (art. R556-1)](#232)
     - [Livre VI : L'instruction (art. R611-1 à R636-1)](#233)
       - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#234)
-        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-30)](#235)
-          - [Section 1 : Dispositions générales (art. R611-1 à R611-8)](#236)
+        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-29)](#235)
+          - [Section 1 : Dispositions générales (art. R611-1 à R611-8-1)](#236)
           - [Section 2 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#237)
           - [Section 3 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#238)
-          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-30)](#239)
+          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-29)](#239)
         - [Chapitre II : La demande de régularisation et la mise en demeure (art. R612-1 à R612-6)](#240)
         - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#241)
           - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#242)
           - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#243)
       - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#244)
         - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#245)
-          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6)](#246)
-          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8)](#247)
+          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6-4)](#246)
+          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8-1)](#247)
           - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#248)
           - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#249)
         - [Chapitre II : La visite des lieux (art. R622-1)](#250)
@@ -256,7 +256,7 @@ Version Consolidée au 2010-02-01
           - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#253)
           - [Section 3 : Frais de l'enquête (art. R623-8)](#254)
         - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#255)
-        - [Chapitre V : Les autres mesures d'instruction (art. R625-1)](#256)
+        - [Chapitre V : Les autres mesures d'instruction (art. R625-1 à R625-3)](#256)
         - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#257)
       - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#258)
         - [Chapitre Ier : La demande incidente (art. R631-1)](#259)
@@ -279,7 +279,7 @@ Version Consolidée au 2010-02-01
           - [Section 1 : Le prononcé de la décision (art. R741-1)](#276)
           - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#277)
           - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#278)
-          - [Section 4 : La rectification des erreurs matérielles devant le tribunal administratif (art. R741-11)](#279)
+          - [Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire (art. R741-11)](#279)
           - [Section 5 : L'amende pour recours abusif (art. R741-12)](#280)
         - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#281)
       - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#282)
@@ -291,7 +291,7 @@ Version Consolidée au 2010-02-01
         - [Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français. (art. R775-1 à R775-10)](#288)
         - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#289)
         - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#290)
-        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-7)](#291)
+        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-8)](#291)
         - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#292)
           - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#293)
           - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#294)
@@ -6266,23 +6266,48 @@ _Cite_:
 La mission permanente d'inspection des juridictions administratives est exercée, sous l'autorité du vice-président du Conseil
 d'Etat, par un conseiller d'Etat assisté d'autres membres du Conseil d'Etat.
 
+La mission contrôle l'organisation et le fonctionnement des juridictions. Elle peut mener des études sur un thème intéressant
+plusieurs juridictions.
+
+Le vice-président du Conseil d'Etat arrête chaque année le programme des visites d'inspection et des études de la mission. Si
+la situation d'une juridiction l'exige, il peut décider des inspections non prévues au programme.
+
+La mission veille à la diffusion de bonnes pratiques destinées à favoriser l'accomplissement de leurs missions par les
+juridictions, et peut formuler à cet effet toute recommandation utile.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Ordonnance n°45-1708 du 31 juillet 1945 - art. 23 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 22
 
 _Cité par_:
 
   - Code de justice administrative - art. R112-1-1 (V)
+
+
+###### Article R112-1-1
+
+Des magistrats des tribunaux administratifs et des cours administratives d'appel peuvent être invités à participer aux
+missions prévues par l'article R. 112-1. Seuls les magistrats ayant le grade de président peuvent être invités à participer
+aux missions prévues par le deuxième alinéa dudit article. 
+
+Des agents ayant exercé les fonctions de greffier en chef dans un tribunal administratif ou une cour administrative d'appel
+peuvent être affectés auprès de la mission d'inspection des juridictions administratives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 22
+
+_Cite_:
+
+  - Code de justice administrative - art. R112-1
 
 
 ###### Article R112-2
@@ -6493,11 +6518,14 @@ _Cite_:
 
 ###### Article R121-3
 
-Les conseillers d'Etat en service ordinaire sont affectés soit à une section administrative, soit à la section du
-contentieux, soit à deux sections administratives, soit à la fois à une section administrative et à la section du
-contentieux, soit à trois sections, dont la section du contentieux et la section du rapport et des études. Les présidents
-adjoints ainsi que les présidents des sous-sections de la section du contentieux sont affectés uniquement à cette section ;
-ils peuvent toutefois être affectés à la section du rapport et des études.
+Les conseillers d'Etat en service ordinaire, les maîtres des requêtes et les auditeurs peuvent être affectés soit à une, soit
+à deux sections. 
+
+Toutefois, les maîtres des requêtes et les auditeurs qui comptent moins de trois années de service dans une juridiction
+administrative sont affectés uniquement à la section du contentieux. 
+
+Les présidents adjoints ainsi que les présidents des sous-sections de la section du contentieux sont également affectés
+uniquement à cette section.
 
 **Liens relatifs à cet article**
 
@@ -6507,39 +6535,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 2
+  - Décret n°2010-164 du 22 février 2010 - art. 3
 
 _Cité par_:
 
   - Code de justice administrative - art. R*133-11 (V)
   - Code de justice administrative - art. R121-6 (V)
-
-
-###### Article R121-4
-
-Les maîtres des requêtes et les auditeurs sont affectés à la fois à une section administrative et à la section du
-contentieux.
-
-Toutefois :
-
-a) Les maîtres des requêtes et auditeurs chargés de diriger le centre de documentation peuvent être, selon le cas, affectés
-uniquement soit à la section du contentieux, soit à une section administrative ;
-
-b) Les maîtres des requêtes et auditeurs qui comptent moins de trois années au Conseil sont affectés uniquement à la section
-du contentieux ;
-
-c) Les maîtres des requêtes qui comptent plus de quatre années au Conseil peuvent être affectés uniquement à la section du
-contentieux, à une section administrative ou à deux sections administratives.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-225 du 6 mars 2008 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 3
 
 
 ###### Article R121-5
@@ -6657,51 +6658,32 @@ _Codifié par_:
 
 ###### Article R121-10
 
-Le secrétaire général du Conseil d'Etat est assisté et, en cas d'absence ou d'empêchement, suppléé par deux maîtres des
-requêtes ou auditeurs chargés des fonctions de secrétaire général adjoint par arrêté du vice-président.
+Le secrétaire général du Conseil d'Etat est assisté et, en cas d'absence ou d'empêchement, suppléé par des membres chargés
+des fonctions de secrétaire général adjoint par arrêté du vice-président.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°63-766 du 30 juillet 1963 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 25
 
 
 ###### Article R121-11
 
 Le secrétaire général et les secrétaires généraux adjoints assistent le vice-président du Conseil d'Etat dans l'exercice de
 ses attributions de gestion du corps des tribunaux administratifs et des cours administratives d'appel. Ils peuvent recevoir
-délégation du vice-président pour signer tous actes et arrêtés concernant la gestion des services administratifs du Conseil
-d'Etat et l'exécution du budget du Conseil d'Etat, des cours administratives d'appel et des tribunaux administratifs.
+délégation du vice-président pour signer tous actes et arrêtés concernant la gestion administrative et budgétaire du Conseil
+d'Etat.
 
 Délégation peut également être donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du
-secrétariat général appartenant à un corps de catégorie A.
+secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau
+équivalent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2001-562 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 26
 
 
 ###### Article R121-12
@@ -6762,24 +6744,14 @@ _Cité par_:
 
 ###### Article R121-14
 
-Les crédits nécessaires au fonctionnement du Conseil d'Etat sont inscrits dans des chapitres particuliers du budget du
-ministère de la justice.
-
-Les dépenses sont ordonnancées par le vice-président du Conseil d'Etat.
+Le vice-président du Conseil d'Etat est ordonnateur principal du budget du Conseil d'Etat. Il conclut les marchés et contrats
+passés par le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°63-766 du 30 juillet 1963 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 26
 
 
 ##### Section 2 : Les conseillers d'Etat en service extraordinaire<a id=118></a>
@@ -7041,60 +7013,50 @@ _Modifié par_:
 ###### Article R122-11
 
 Sous réserve des dispositions de l'article R. 122-12 et de celles de l'article R. 122-17, le jugement des affaires est confié
-à une sous-section ou à deux sous-sections réunies.
+à une sous-section ou à deux, trois ou quatre sous-sections réunies. 
+
+Le groupement de sous-sections en formations de jugement est fixé par arrêté du vice-président du Conseil d'Etat, sur
+proposition du président de la section du contentieux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°63-766 du 30 juillet 1963 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 4
 
 _Cite_:
 
-  - Code de justice administrative. - art. R122-12 (M)
-  - Code de justice administrative. - art. R122-17 (V)
+  - Code de justice administrative - art. R122-12
+  - Code de justice administrative - art. R122-17
 
 
 ###### Article R122-12
 
-Les présidents de sous-sections peuvent, par ordonnance :
+Le président de la section du contentieux et les présidents de sous-section peuvent, par ordonnance : 
 
-1° Donner acte des désistements ;
+1° Donner acte des désistements ; 
 
-2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction administrative ;
+2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction administrative ; 
 
-3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
+3° Constater qu'il n'y a pas lieu de statuer sur une requête ; 
 
 4° Rejeter les requêtes manifestement irrecevables, lorsque la juridiction n'est pas tenue d'inviter leur auteur à les
-régulariser ou qu'elles n'ont pas été régularisées à l'expiration du délai imparti par une demande en ce sens ;
+régulariser ou qu'elles n'ont pas été régularisées à l'expiration du délai imparti par une demande en ce sens ; 
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
-761-1 ou la charge des dépens ;
+761-1 ou la charge des dépens ; 
 
 6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification de faits,
 présentent à juger en droit des questions identiques à celles tranchées ensemble par une même décision du Conseil d'Etat
 statuant au contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat en application de l'article L.
-113-1 ;
+113-1 ; 
 
 7° Rejeter, après l'expiration du délai de recours ou, lorsqu'un mémoire complémentaire a été annoncé, après la production de
 ce mémoire, les requêtes ne comportant que des moyens de légalité externe manifestement infondés, des moyens irrecevables,
 des moyens inopérants ou des moyens qui ne sont assortis que de faits manifestement insusceptibles de venir à leur soutien ou
-ne sont manifestement pas assortis des précisions permettant d'en apprécier le bien-fondé.
+ne sont manifestement pas assortis des précisions permettant d'en apprécier le bien-fondé. 
 
 Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à exécution d'une décision juridictionnelle.
-
-**Nota:**
-
-Décret 2006-1708 du 23 décembre 2006 art. 12 : Le 4° de l'article R. 122-12 entre en vigueur le 1er janvier 2007. Le 7° de
-l'article R. 122-12 est applicable aux requêtes enregistrées à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -7103,19 +7065,14 @@ _Anciens textes_:
   - Décret n°63-766 du 30 juillet 1963 - art. 37-2 (Ab)
   - Décret n°63-766 du 30 juillet 1963 - art. 54 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 10
 
 _Cite_:
 
-  - Décret n°2006-1708 2006-12-23
-  - Code de justice administrative. - art. L113-1 (V)
-  - Code de justice administrative. - art. L761-1 (V)
-
-_Modifié par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 6 () JORF 29 décembre 2006
+  - Code de justice administrative - art. L113-1 (V)
+  - Code de justice administrative - art. L761-1 (V)
 
 _Cité par_:
 
@@ -7193,21 +7150,30 @@ _Cite_:
 
 ###### Article R122-15
 
-Les sous-sections réunies sont complétées par un conseiller d'Etat appartenant à la section du contentieux désigné par le
-président de celle-ci, en dehors des deux sous-sections qui siègent, selon un tour de rôle établi deux fois par an. Elles
-sont présidées par l'un des présidents adjoints de la section du contentieux ou, à défaut, par le président de la sous-
-section le plus ancien dans ses fonctions présent à la séance.
+Les sous-sections réunies sont présidées par l'un des présidents adjoints de la section du contentieux. Elles peuvent
+également être présidées par le vice-président du Conseil d'Etat ou le président de la section du contentieux.
 
-Le groupement de sous-sections en formations de jugement est fixé par arrêté du vice-président du Conseil d'Etat, pris après
-avis du président de la section du contentieux.
+Outre son président et le rapporteur, la formation de jugement comprend :
 
-Le vice-président du Conseil d'Etat et le président de la section du contentieux peuvent présider les sous-sections réunies.
+1° Les présidents des sous-sections ;
+
+2° Les assesseurs des sous-sections ou, lorsque les sous-sections réunies sont au nombre de quatre, l'assesseur le plus
+ancien dans ses fonctions de chaque sous-section ;
+
+3° Lorsque les sous-sections réunies sont au nombre de deux ou de quatre, un conseiller d'Etat appartenant à la section du
+contentieux désigné par le président de celle-ci, en dehors des sous-sections qui siègent, selon un tour de rôle établi deux
+fois par an.
+
+Le président des sous-sections réunies est remplacé, en cas d'empêchement, par le président de la sous-section siégeant au
+titre du 1° le plus ancien dans ses fonctions. Lorsque les sous-sections réunies sont au nombre de quatre, le président d'une
+sous-section est remplacé par l'assesseur de la sous-section le plus ancien dans ses fonctions, lui-même remplacé par l'autre
+assesseur de la sous-section.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 6
+  - Décret n°2010-164 du 22 février 2010 - art. 5
 
 _Cité par_:
 
@@ -7218,28 +7184,21 @@ _Cité par_:
 ###### Article R122-16
 
 Pour le jugement des affaires, les sous-sections réunies ne peuvent statuer que si cinq membres au moins ayant voix
-délibérative sont présents.
+délibérative sont présents. Lorsque les sous-sections réunies sont au nombre de trois ou de quatre, elles ne peuvent statuer
+que si sept membres au moins ayant voix délibérative sont présents. 
 
-Elles ne peuvent statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix délibérative sont en nombre
-pair, le conseiller d'Etat, le maître des requêtes ou l'auditeur présent le plus ancien dans l'ordre du tableau est appelé à
-siéger.
+Les sous-sections réunies ne peuvent statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix
+délibérative sont en nombre pair, le conseiller d'Etat, le maître des requêtes ou l'auditeur présent le plus ancien dans
+l'ordre du tableau est appelé à siéger.
 
 Il en est de même lorsque, par suite de vacance, d'absence ou d'empêchement, les membres présents ne se trouvent pas en
 nombre pour délibérer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°63-766 du 30 juillet 1963 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 6
 
 _Cité par_:
 
@@ -7250,20 +7209,22 @@ _Cité par_:
 
 Le jugement de toutes les affaires relevant de la juridiction du Conseil d'Etat est renvoyé à la section du contentieux ou à
 l'assemblée du contentieux à la demande soit du vice-président du Conseil d'Etat, soit du président de la section du
-contentieux, soit du président de la formation de jugement, soit de la sous-section ou des sous-sections réunies, soit du
-rapporteur public. 
+contentieux, soit du président de la formation de jugement, soit de la formation de jugement, soit de la sous-section au
+rapport de laquelle l'affaire est examinée, siégeant en formation d'instruction, soit du rapporteur public.
 
 Les affaires dont l'instruction a été confiée à la section du contentieux en application du premier alinéa de l'article R.
 611-20 sont jugées par l'assemblée du contentieux. 
 
-Le renvoi devant les sous-sections réunies d'une affaire portée devant la sous-section siégeant en formation du jugement a
-lieu à la demande soit du président de la formation de jugement, soit de la sous-section, soit du rapporteur public.
+Le renvoi devant les sous-sections réunies d'une affaire portée devant la sous-section siégeant en formation du jugement ou
+le renvoi, devant trois ou quatre sous-sections réunies, d'une affaire portée devant deux sous-sections réunies a lieu à la
+demande soit du président de la formation de jugement, soit de la formation de jugement, soit de la sous-section au rapport
+de laquelle l'affaire est examinée, siégeant en formation d'instruction, soit du rapporteur public.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 7
 
 _Cité par_:
 
@@ -7352,11 +7313,15 @@ La présidence de l'assemblée du contentieux appartient au vice-président du C
 
 L'assemblée ne peut valablement siéger que si neuf de ses membres ou leurs suppléants sont présents.
 
+L'assemblée du contentieux ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix
+délibérative sont en nombre pair, l'assemblée est complétée par le président de sous-section le plus ancien dans ses
+fonctions ne siégeant pas au titre du 4° ou du 5° ou, à défaut, par l'assesseur le plus ancien dans ses fonctions.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 8
+  - Décret n°2010-164 du 22 février 2010 - art. 8
 
 _Cite_:
 
@@ -7698,19 +7663,14 @@ _Cite_:
 Les fonctions d'assistant de justice ne peuvent être exercées concomitamment à une activité professionnelle qu'avec l'accord
 du président de la section auprès de laquelle ils sont affectés.
 
+Les fonctions d'assistant de justice ne peuvent être exercées par les membres des professions libérales juridiques et
+judiciaires, ou par les personnes qui sont employées à leur service.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2002-1472 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 48
 
 
 ###### Article R122-32
@@ -9855,69 +9815,7 @@ _Modifié par_:
 
 ###### Article R221-4
 
-Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
-
-Amiens : quatre chambres ;
-
-Bastia : deux chambres ;
-
-Besançon : deux chambres ;
-
-Bordeaux : cinq chambres ;
-
-Caen : trois chambres ;
-
-Cergy-Pontoise : dix chambres ;
-
-Châlons-en-Champagne : trois chambres ;
-
-Clermont-Ferrand : deux chambres ;
-
-Dijon : trois chambres ;
-
-Grenoble : six chambres ;
-
-Lille : six chambres ;
-
-Limoges : deux chambres ;
-
-Lyon : sept chambres ;
-
-Marseille : huit chambres ;
-
-Melun : sept chambres ;
-
-Montpellier : sept chambres ;
-
-Montreuil : sept chambres ;
-
-Nancy : deux chambres ;
-
-Nantes : cinq chambres ;
-
-Nice : sept chambres ;
-
-Nîmes : trois chambres ;
-
-Orléans : cinq chambres ;
-
-Pau : trois chambres ;
-
-Poitiers : trois chambres ;
-
-Rennes : cinq chambres ;
-
-Rouen : trois chambres ;
-
-Strasbourg : cinq chambres ;
-
-Toulon : trois chambres ;
-
-Toulouse : cinq chambres ;
-
-Versailles : dix chambres ;
-
-Saint-Denis : deux chambres.
+Le nombre de chambres de chaque tribunal administratif est fixé par arrêté du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -9928,7 +9826,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-945 du 29 juillet 2009 - art. 4
+  - Décret n°2010-164 du 22 février 2010 - art. 11
 
 
 ###### Article R221-5
@@ -9954,14 +9852,14 @@ _Anciens textes_:
 
 ###### Article R221-6
 
-Le tribunal administratif de Paris comprend dix-huit chambres regroupées en sections. Il est présidé par un président classé
-au 7e échelon de son grade.
+Le tribunal administratif de Paris comprend des chambres regroupées en sections dont les nombres respectifs sont fixés par
+arrêté du vice-président du Conseil d'Etat. Il est présidé par un président classé au 7e échelon de son grade.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-945 du 29 juillet 2009 - art. 5
+  - Décret n°2010-164 du 22 février 2010 - art. 11
 
 _Cité par_:
 
@@ -10004,25 +9902,13 @@ _Modifié par_:
 
 ###### Article R221-8
 
-Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit : 
-
-Paris : neuf chambres ; 
-
-Marseille : sept chambres ; 
-
-Bordeaux et Lyon : six chambres ; 
-
-Versailles : cinq chambres ; 
-
-Nancy et Nantes : quatre chambres ; 
-
-Douai : trois chambres.
+Le nombre de chambres de chaque cour administrative d'appel est fixé par arrêté du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-819 du 21 août 2008 - art. 5
+  - Décret n°2010-164 du 22 février 2010 - art. 11
 
 
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel<a id=147></a>
@@ -10255,22 +10141,14 @@ _Anciens textes_:
 
 ###### Article R222-8
 
-L'affectation des membres aux formations de jugement et la composition de chacune d'elles ainsi que la répartition des
-affaires entre ces formations sont décidées par le président de la juridiction.
+L'affectation des membres dans les chambres et la composition de chacune d'elles ainsi que la répartition des affaires entre
+ces chambres sont décidées par le président de la juridiction.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R13 (Ab)
+  - Décret n°2010-164 du 22 février 2010 - art. 12
 
 
 ###### Article R222-9
@@ -10323,29 +10201,20 @@ _Anciens textes_:
 ###### Article R222-11
 
 Le vice-président du Conseil d'Etat ordonnance les dépenses des tribunaux administratifs et des cours administratives
-d'appel.
+d'appel. Il conclut les marchés et contrats passés pour les juridictions administratives, sous réserve des compétences
+dévolues aux chefs de juridiction.
 
-Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut
-être également donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général
-appartenant à un corps de catégorie A.
+Le secrétaire général et les secrétaires généraux adjoints du Conseil d'Etat peuvent recevoir délégation du vice-président
+pour signer tous actes et arrêtés concernant la gestion administrative et budgétaire des tribunaux administratifs et des
+cours administratives d'appel. Délégation peut être également donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat
+et aux fonctionnaires du secrétariat général appartenant à un corps de catégorie A, ainsi qu'aux agents contractuels chargés
+de fonctions d'un niveau équivalent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°89-915 du 19 décembre 1989 - art. 1 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2002-547 du 19 avril 2002 - art. 13 () JORF 21 avril 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 26
 
 
 ###### Article R222-12
@@ -10587,26 +10456,53 @@ _Anciens textes_:
 ###### Article R222-19
 
 La formation de jugement ou le président du tribunal peuvent, à tout moment de la procédure, décider d'inscrire une affaire
-au rôle du tribunal statuant dans l'une des formations prévues aux articles R. 222-20 et R. 222-21. 
+au rôle du tribunal statuant dans l'une des formations prévues aux articles R. 222-19-1 et R. 222-20, et s'agissant du
+tribunal administratif de Paris, à l'article R. 222-21. 
 
 Dans les cas mentionnés à l'article R. 222-13, le président du tribunal ou le magistrat désigné pour statuer peuvent, de leur
-propre initiative ou sur proposition du rapporteur public décider d'inscrire l'affaire au rôle d'une chambre ou de l'une des
-formations de jugement mentionnées à l'alinéa précédent.
+propre initiative ou sur proposition du rapporteur public décider d'inscrire l'affaire au rôle d'une formation collégiale de
+la chambre ou de l'une des formations de jugement mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 13
 
 _Cite_:
 
   - Code de justice administrative - art. R222-13
+  - Code de justice administrative - art. R222-19-1
   - Code de justice administrative - art. R222-20
+  - Code de justice administrative - art. R222-21
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R191 (M)
+
+
+###### Article R222-19-1
+
+Pour les tribunaux composés de plus de deux chambres, à l'exception du tribunal administratif de Paris, les jugements peuvent
+être rendus par une formation de chambres réunies présidée par le président du tribunal et comprenant, en outre, le président
+de la chambre à laquelle est affecté le rapporteur et, selon le cas, le président d'une autre chambre et un magistrat
+assesseur affecté dans cette chambre ou les présidents de deux autres chambres et deux magistrats assesseurs affectés dans
+ces chambres, ainsi que le rapporteur. Les magistrats assesseurs sont pris dans l'ordre du tableau.
+
+Le groupement des chambres en formation de jugement est fixé chaque année par le président du tribunal.
+
+Lorsque la composition ainsi définie ne permet pas d'assurer l'imparité de la formation de chambres réunies, elle est
+complétée par un autre magistrat de l'une des chambres concernées, pris dans l'ordre du tableau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 14
+
+_Cité par_:
+
+  - Code de justice administrative - art. R222-19 (V)
 
 
 ###### Article R222-20
@@ -10615,19 +10511,19 @@ Chaque tribunal administratif peut, à titre exceptionnel, se réunir en formati
 séance sont en nombre pair, le dernier conseiller dans l'ordre du tableau ne siège pas.
 
 Pour les tribunaux composés de plus de deux chambres, à l'exception du tribunal administratif de Paris, les jugements peuvent
-également être rendus par une formation composée de la chambre à laquelle appartient le rapporteur de l'affaire et à laquelle
-s'adjoignent les vice-présidents du tribunal. Cette formation est présidée par le président du tribunal. Lorsque les membres
-présents à la séance sont en nombre pair, un magistrat pris dans l'ordre du tableau est appelé à siéger.
+être rendus par une formation élargie présidée par le président du tribunal, et comprenant, en outre, le président de la
+chambre à laquelle est affecté le rapporteur, les autres vice-présidents du tribunal choisis, s'il y a lieu, dans l'ordre du
+tableau, dans la limite de trois, d'un magistrat assesseur de la chambre à laquelle est affecté le rapporteur, choisi dans
+l'ordre du tableau, ainsi que le rapporteur.
+
+Lorsque la composition ainsi définie ne permet pas d'assurer l'imparité de la formation élargie, elle est complétée par un
+autre magistrat pris dans l'ordre du tableau.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 15
 
 _Cité par_:
 
@@ -10640,24 +10536,32 @@ _Anciens textes_:
 
 ###### Article R222-21
 
-Au tribunal administratif de Paris, la formation plénière comprend le président du tribunal, le vice-président du tribunal,
-les présidents de section et le rapporteur. Elle ne peut statuer que si sept de ses membres ou leurs suppléants sont
-présents. Lorsque les membres présents à la séance sont en nombre pair, un vice-président de section ou un magistrat pris
-dans l'ordre du tableau est appelé à siéger. Une section peut en outre statuer en formation de cinq membres.
+Au tribunal administratif de Paris, les jugements peuvent être rendus par les formations élargies suivantes : 
 
-Par dérogation aux dispositions du précédent alinéa et à celles de l'article R. 222-18, trois sections du tribunal
-administratif de Paris peuvent constituer une formation de jugement qui comprend le président du tribunal, le vice-président,
-les présidents et les vice-présidents de ces sections et le rapporteur.
+1° La formation plénière présidée par le président du tribunal et comprenant, en outre, le vice-président du tribunal, les
+présidents de section et le rapporteur ; 
+
+2° La formation de sections réunies présidée par le président du tribunal et comprenant, en outre, le président de la section
+à laquelle est affecté le rapporteur, le président d'une autre section, le vice-président de la section présidant la chambre
+à laquelle est affecté le rapporteur, deux vice-présidents de l'autre section, pris, s'il y a lieu, dans l'ordre du tableau,
+ainsi que le rapporteur ; 
+
+3° La formation de section qui est présidée par le président de la section et comprend, en outre, les vice-présidents de la
+section dont celui présidant la chambre à laquelle est affecté le rapporteur, les autres étant, s'il y a lieu, pris, dans
+l'ordre du tableau, dans la limite de deux, ainsi que le rapporteur. 
+
+Le groupement des sections en formation de jugement est fixé chaque année par le président du tribunal. 
+
+Sans préjudice de l'application des dispositions de l'article R. 222-22, lorsque les compositions ainsi définies ne
+permettent pas d'assurer l'imparité de la formation de jugement, celle-ci est complétée par un autre magistrat pris dans
+l'ordre du tableau. Ce magistrat appartient à la section ou à l'une des deux sections concernées, pour la formation de
+section ou la formation de sections réunies.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 16
 
 _Cité par_:
 
@@ -10665,7 +10569,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R222-18 (V)
+  - Code de justice administrative - art. R222-22
 
 _Anciens textes_:
 
@@ -10746,17 +10650,16 @@ _Modifié par_:
 
 ###### Article R222-24
 
-Tout  rapporteur public absent ou empêché est suppléé de droit par un autre  rapporteur public.
+Tout rapporteur public absent ou empêché est suppléé de droit par un autre rapporteur public.
 
-A défaut, et si le fonctionnement du tribunal ou de la cour l'exige, ses fonctions sont temporairement exercées par un membre
-du corps du grade de conseiller ou de premier conseiller pris dans l'ordre du tableau et désigné par le président du tribunal
-ou de la cour.
+A défaut, et si le fonctionnement du tribunal ou de la cour l'exige, ses fonctions sont temporairement exercées par un
+conseiller ou un premier conseiller désigné par le président du tribunal ou de la cour.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 17
 
 _Cité par_:
 
@@ -10767,18 +10670,14 @@ _Cité par_:
 
 ###### Article R222-25
 
-Les affaires sont jugées soit par une chambre, soit par la cour administrative d'appel en formation plénière, qui délibèrent
-en nombre impair.
+Les affaires sont jugées soit par une chambre siégeant en formation de jugement, soit par une formation de chambres réunies,
+soit par la cour administrative d'appel en formation plénière, qui délibèrent en nombre impair.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 18
 
 _Anciens textes_:
 
@@ -10880,22 +10779,38 @@ _Anciens textes_:
 
 ###### Article R222-29
 
-La formation de jugement ou le président de la cour peuvent, à tout moment de la procédure, décider d'inscrire une affaire au
-rôle de la cour statuant en formation plénière.
+La formation de jugement ou le président de la cour peuvent, à tout moment de la procédure, décider d'inscrire une affaire
+soit au rôle d'une formation de chambres réunies, soit au rôle de la cour statuant en formation plénière.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 19
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R191 (M)
+
+
+###### Article R222-29-1
+
+La formation de chambres réunies est présidée par le président de la cour. Elle comprend, outre son président, le président
+et un président assesseur de la chambre à laquelle est affecté le rapporteur et, selon le cas, le président d'une autre
+chambre et un président assesseur affecté dans cette chambre ou les présidents de deux autres chambres et des présidents
+assesseurs de ces chambres ainsi qu'un magistrat désigné, selon l'ordre du tableau, parmi les magistrats affectés dans la
+deuxième et, le cas échéant, dans la troisième chambre, et le rapporteur.
+
+Le groupement des chambres en formation de jugement est fixé chaque année par le président de la cour.
+
+Lorsque la composition ainsi définie ne permet pas d'assurer l'imparité de la formation de chambres réunies, elle est
+complétée par un autre magistrat de l'une des chambres concernées, choisi dans l'ordre du tableau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 20
 
 
 ###### Article R222-30
@@ -11017,13 +10932,39 @@ _Cité par_:
   - Code de justice administrative - art. R222-34 (Ab)
 
 
+###### Article R222-34
+
+Les dispositions du deuxième alinéa de l'article R. 222-33 sont également applicables lorsque la cour administrative d'appel
+statue en appel sur un litige portant sur une décision prise en application du I de l'article L. 511-1 du code de l'entrée et
+du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+  - Code de justice administrative - art. R222-33
+
+
 #### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon<a id=151></a>
 
 ###### Article R223-1
 
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Cayenne, de Fort-
+de-France et de Saint-Pierre-et-Miquelon. Il est assisté d'un ou plusieurs magistrats ayant le grade de président, dont un en
+résidence à Cayenne. Ces tribunaux peuvent avoir des membres communs.
+
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Basse-Terre, de
-Cayenne, de Fort-de-France de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon. Il est assisté d'un ou
-plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres communs. 
+Saint-Barthélemy et de Saint-Martin. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux
+peuvent avoir des membres communs.
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mayotte et de
 Saint-Denis. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres
@@ -11033,20 +10974,21 @@ communs.
 
 _Modifié par_:
 
-  - Décret n°2008-452 du 13 mai 2008 - art. 7
+  - Décret n°2010-164 du 22 février 2010 - art. 49
 
 
 ###### Article R223-2
 
-Les fonctions de  rapporteur public auprès des tribunaux administratifs de Basse-Terre, de Cayenne, de Fort-de-France de
-Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon sont assurées par le ou les mêmes magistrats. Il en va de
-même pour les fonctions de  rapporteur public auprès des tribunaux administratifs de Mayotte et de Saint-Denis.
+Les fonctions de rapporteur public auprès des tribunaux administratifs de Cayenne, de Fort-de-France et de Saint-Pierre-et-
+Miquelon sont assurées par le ou les mêmes magistrats. Il en va de même pour les fonctions de rapporteur public auprès, d'une
+part, des tribunaux administratifs de Basse-Terre, de Saint-Barthélemy et de Saint-Martin et, d'autre part, des tribunaux
+administratifs de Mayotte et de Saint-Denis.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 49
 
 
 ###### Article R223-3
@@ -11975,36 +11917,40 @@ _Cite_:
 ###### Article R226-1
 
 Le greffe de chaque tribunal administratif comprend un greffier en chef et, s'il y a lieu, un ou plusieurs greffiers et
-d'autres agents de greffe.
+d'autres agents de greffe. 
 
-Le greffe de chaque cour administrative d'appel comprend un greffier en chef, des greffiers et d'autres agents de greffe.
+Le greffe de chaque cour administrative d'appel comprend un greffier en chef, des greffiers et d'autres agents de greffe. 
 
 Sous l'autorité du chef de juridiction, le greffier en chef encadre les services du greffe et veille au bon déroulement de la
 procédure juridictionnelle. Il assiste le chef de juridiction dans la gestion des agents du greffe ainsi que dans celle des
-locaux, des matériels et des crédits de la juridiction.
+locaux, des matériels et des crédits de la juridiction. 
 
 Sous l'autorité du chef de juridiction, du président de section ou du président de chambre, le greffier est chargé du bon
 déroulement de la procédure juridictionnelle pour les dossiers qui lui sont confiés. Il encadre les agents de greffe chargés
-de le seconder.
+de le seconder. 
 
-Le greffier en chef et les greffiers sont choisis parmi les fonctionnaires des corps de l'intérieur et de l'outre-mer, selon
-le cas par le président du tribunal administratif ou le président de la cour administrative d'appel.
+Les greffiers en chef et les greffiers sont nommés par le ministre de l'intérieur sur proposition du vice-président du
+Conseil d'Etat, après avis, selon le cas, du président du tribunal administratif ou du président de la cour administrative
+d'appel. 
 
-Les greffiers en chef doivent avoir au moins le grade d'attaché et les greffiers au moins celui de secrétaire administratif.
+Dans les tribunaux administratifs et les cours administratives d'appel dont la liste est fixée par arrêté conjoint du
+ministre de l'intérieur et du garde des sceaux, ministre de la justice, les greffiers en chef sont nommés sur des emplois de
+conseiller d'administration de l'intérieur et de l'outre-mer, dans les conditions prévues par le décret n° 2007-1488 du 17
+octobre 2007. 
+
+Les greffiers en chef des autres juridictions et les greffiers sont nommés parmi les fonctionnaires des corps de l'intérieur
+et de l'outre-mer. Les greffiers en chef doivent avoir au moins le grade d'attaché. Les greffiers doivent avoir au moins le
+grade de secrétaire administratif.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2007-1488 du 17 octobre 2007
 
 _Modifié par_:
 
-  - Décret n°2007-1309 du 4 septembre 2007 - art. 3 () JORF 6 septembre 2007
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R31 (M)
+  - Décret n°2010-164 du 22 février 2010 - art. 50
 
 
 ###### Article R226-2
@@ -12480,17 +12426,9 @@ ministre chargé de la fonction publique.
 
 Le chef de la juridiction auprès de laquelle l'assistant de justice est affecté atteste de la réalité du service fait.
 
-Le nombre de vacations horaires allouées à un même bénéficiaire ne peut excéder 80 par mois dans la limite de 720 par an.
+Le nombre de vacations horaires allouées à un même bénéficiaire ne peut excéder 120 par mois dans la limite de 1 080 par an.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
 
 _Cité par_:
 
@@ -12499,9 +12437,9 @@ _Cité par_:
   - Arrêté du 26 septembre 2018 - art. 1 (V)
   - Arrêté du 26 septembre 2018 - art. 2
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 51
 
 
 ### Titre III : Dispositions statutaires<a id=172></a>
@@ -12551,53 +12489,13 @@ d'appel.
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut
 également être donnée aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un
-corps de catégorie A.
+corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau équivalent.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-915 du 19 décembre 1989 - art. 1 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
 
 _Modifié par_:
 
-  - Décret n°2001-562 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R231-4
-
-Le contrôle de l'activité des membres du corps des tribunaux administratifs et des cours administratives d'appel est exercé
-par la mission permanente d'inspection des juridictions administratives prévue à l'article L. 112-5.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-859 du 18 septembre 1997 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 22
-
-_Cite_:
-
-  - Code de justice administrative - art. L112-5
+  - Décret n°2010-164 du 22 février 2010 - art. 26
 
 
 #### Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel<a id=174></a>
@@ -13014,27 +12912,26 @@ _Codifié par_:
 ###### Article R232-17
 
 Si, avant l'expiration de son mandat, l'un des représentants titulaires du corps des tribunaux administratifs et des cours
-administratives d'appel démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou si le Conseil supérieur
-constate qu'il cesse de remplir les conditions requises pour être éligible, il est remplacé par son suppléant. Au cas où pour
-l'une des causes mentionnées ci-dessus ce dernier ne peut exercer son mandat, il est procédé à une élection complémentaire
-dans un délai de deux mois. Le représentant élu dans ces conditions achève le mandat de celui qu'il remplace.
+administratives d'appel démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou si le conseil supérieur
+constate qu'il cesse de remplir les conditions requises pour être éligible, il est remplacé par son suppléant. Au cas où,
+pour l'une des causes mentionnées ci-dessus, ce dernier ne peut exercer son mandat, le remplacement est assuré, si cela est
+possible, par l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade considéré, et qui n'avait
+pas été initialement choisi pour siéger, ou, à défaut, par son suppléant. Si un tel remplacement n'est pas possible, il est
+procédé à une élection complémentaire dans un délai de deux mois. Le représentant désigné ou élu dans ces conditions achève
+le mandat de celui qu'il remplace.
+
+Le remplacement du suppléant d'un titulaire peut également être assuré dans les mêmes conditions, en recourant, si cela est
+possible, à l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade considéré, ou, à défaut, à
+son suppléant.
 
 Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
 lequel il a été élu.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°87-554 du 17 juillet 1987 - art. 15 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 23
 
 
 ###### Article R232-18
@@ -13137,9 +13034,18 @@ _Codifié par_:
 
 Le président du Conseil supérieur désigne pour chaque affaire un rapporteur qui peut être le secrétaire général des tribunaux
 administratifs et des cours administratives d'appel ou l'un des membres du conseil. Lorsque le Conseil supérieur émet une
-proposition, le dossier au vu duquel il se prononce est rapporté par le secrétaire général du Conseil d'Etat et comporte
-l'avis écrit du conseiller d'Etat, chef de la mission permanente d'inspection des juridictions administratives. En accord
-avec le président, les rapporteurs peuvent être assistés d'experts.
+proposition, le dossier au vu duquel il se prononce comporte l'avis écrit du conseiller d'Etat, chef de la mission permanente
+d'inspection des juridictions administratives. 
+
+Pour élaborer son rapport sur les propositions afférentes aux nominations, détachements et intégrations prévus aux articles
+L. 233-3, L. 233-4 et L. 233-5, le rapporteur peut être assisté par une formation restreinte du Conseil supérieur, laquelle
+peut procéder à toutes les mesures d'instruction utiles, y compris des auditions. Cette formation restreinte est désignée par
+le Conseil supérieur ; elle comprend un ou plusieurs représentants élus des magistrats des tribunaux administratifs et des
+cours administratives d'appel. 
+
+Le secrétaire général adjoint du Conseil d'Etat chargé des tribunaux administratifs et des cours administratives d'appel
+participe aux travaux du Conseil supérieur sans voix délibérative. A l'invitation du président, le Conseil supérieur peut
+entendre les chefs de service du Conseil d'Etat ou leur délégué ainsi que tout expert.
 
 **Liens relatifs à cet article**
 
@@ -13147,13 +13053,19 @@ _Anciens textes_:
 
   - Décret n°87-554 du 17 juillet 1987 - art. 20 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 24
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - TRANSFERE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+_Cite_:
+
+  - Code de justice administrative - art. L233-3
+  - Code de justice administrative - art. L233-4
+  - Code de justice administrative - art. L233-5
 
 _Nouveaux textes_:
 
@@ -13377,46 +13289,38 @@ _Cite_:
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel recrutés au grade de conseiller parmi
 les anciens élèves de l'Ecole nationale d'administration sont nommés directement au 3e échelon de ce grade et titularisés à
-compter du lendemain du dernier jour de leur scolarité.
+compter du lendemain du dernier jour de leur scolarité. 
 
 Toutefois, si l'indice qu'ils détenaient dans leur corps ou emploi d'origine est supérieur à celui correspondant au 3e
 échelon du grade de conseiller, les membres des tribunaux administratifs et des cours administratives d'appel recrutés par la
-voie du concours interne de cette école sont placés à l'échelon du grade de conseiller comportant un traitement égal ou, à
-défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents
-non titulaires.
+voie des concours interne et externe de cette école sont placés à l'échelon du grade de conseiller comportant un traitement
+égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine ou dans leur emploi pour
+les agents non titulaires. 
 
 Dans la limite de l'ancienneté exigée à l'article R. 234-1 pour une promotion à l'échelon supérieur, ils conservent
 l'ancienneté d'échelon acquise dans leur précédent grade ou classe, lorsque l'augmentation de traitement consécutive à leur
-nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
+nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation. 
 
 Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur
 ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination
-est inférieure à celle résultant d'un avancement à ce dernier échelon.
+est inférieure à celle résultant d'un avancement à ce dernier échelon. 
 
 Ceux qui ont été recrutés par la voie du troisième concours sont placés au 7e échelon du grade de conseiller.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-859 du 18 septembre 1997 - art. 4 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2005-1706 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
   - Décret n°2010-164 du 22 février 2010 - art. 52 (V)
   - Code de justice administrative - art. R233-7 (V)
 
+_Modifié par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 52 (V)
+
 _Cite_:
 
-  - Code de justice administrative. - art. R234-1 (M)
+  - Code de justice administrative - art. R234-1
 
 
 ###### Article R233-2
@@ -14072,30 +13976,59 @@ Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
 
 1° Des recours dirigés contre les ordonnances du Président de la République et les décrets ;
 
-2° Des recours dirigés contre les actes réglementaires des ministres ainsi que contre les actes des ministres qui ne peuvent
-être pris qu'après avis du Conseil d'Etat ;
+2° Des recours dirigés contre les actes réglementaires des ministres et des autres autorités à compétence nationale et contre
+leurs circulaires et instructions de portée générale ;
 
-3° Des litiges relatifs à la situation individuelle des fonctionnaires nommés par décret du Président de la République en
-vertu des dispositions de l'article 13 (troisième alinéa) de la Constitution et des articles 1er et 2 de l'ordonnance n°
-58-1136 du 28 novembre 1958 portant loi organique concernant les nominations aux emplois civils et militaires de l'Etat ;
+3° Des litiges concernant le recrutement et la discipline des agents publics nommés par décret du Président de la République
+en vertu des dispositions de l'article 13 (troisième alinéa) de la Constitution et des articles 1er et 2 de l'ordonnance n°
+58-1136 du 28 novembre 1958 portant loi organique concernant les nominations aux emplois civils et militaires de l'Etat ; 
 
-4° Des recours dirigés contre les décisions administratives des organismes collégiaux à compétence nationale ;
+4° Des recours dirigés contre les décisions prises par les organes des autorités suivantes, au titre de leur mission de
+contrôle ou de régulation :
 
-5° Des recours dirigés contre les actes administratifs dont le champ d'application s'étend au-delà du ressort d'un seul
-tribunal administratif ;
+- l'Agence française de lutte contre le dopage ;
 
-6° Des litiges d'ordre administratif nés hors des territoires soumis à la juridiction d'un tribunal administratif ;
+- l'Autorité de contrôle des assurances et des mutuelles ;
 
-7° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction
+- l'Autorité de la concurrence ;
+
+- l'Autorité des marchés financiers ;
+
+- l'Autorité de régulation des communications électroniques et des postes ;
+
+- l'Autorité de régulation des transports ferroviaires ;
+
+- l'Autorité de sûreté nucléaire ;
+
+- la Commission de régulation de l'énergie ;
+
+- la Commission bancaire ;
+
+- le Comité des établissements de crédit et des entreprises d'investissement ;
+
+- le Conseil supérieur de l'audiovisuel ;
+
+- la Commission nationale de l'informatique et des libertés ;
+
+- la Commission nationale de contrôle des interceptions de sécurité ; 
+
+5° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction
 administrative ;
 
-8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
+6° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
 
-9° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques ;
+7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
 
-10° Des recours dirigés contre les sanctions administratives prises par le directeur général du Centre national de la
-cinématographie en application de l'article 13 du code de l'industrie cinématographique.
+**Nota:**
+
+Ordonnance n° 2010-76 du 21 janvier 2010 article 18 :  Les références au Comité des entreprises d'assurances, au comité des
+établissements de crédit et des entreprises d'investissement, à l'Autorité de contrôle des assurances et des mutuelles et à
+la Commission bancaire sont remplacées par une référence à l'Autorité de contrôle prudentiel dans toutes les dispositions
+législatives et réglementaires en vigueur.
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
 
 **Liens relatifs à cet article**
 
@@ -14106,22 +14039,18 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 1 (V)
-  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 2 (V)
-  - Code de l'industrie cinématographique - art. 13 (M)
-  - Code de justice administrative 13
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2005-911 2005-07-28 art. 10 : Spécificité d'application
+  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 1
+  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 2
+  - Code de l'industrie cinématographique - art. 13
+  - Code de justice administrative
 
 _Modifié par_:
 
-  - Décret n°2005-911 du 28 juillet 2005 - art. 6 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+  - Décret n°2010-164 du 22 février 2010 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2010-164 du 22 février 2010, v. init.
 
 _Cité par_:
 
@@ -14133,87 +14062,6 @@ _Cité par_:
   - Code de la santé publique - art. R795-34 (T)
 
 
-###### Article R311-2
-
-Par dérogation aux dispositions du 4° de l'article R. 311-1, les décisions individuelles, prises à l'encontre d'une personne
-physique ou morale par une fédération sportive dans l'exercice de ses prérogatives de puissance publique, sont portées,
-nonobstant toute disposition contraire, devant le tribunal administratif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 1
-
-_Cité par_:
-
-  - Décret n°2017-383 du 22 mars 2017 - art. 2
-  - Décret n°2019-441 du 13 mai 2019 (V)
-  - Décret n°2019-441 du 13 mai 2019 - art. 5 (V)
-  - Code de justice administrative - art. R811-1-1 (V)
-  - Code de justice administrative. - art. R312-17 (V)
-  - Code du travail - art. R2122-99 (V)
-  - Code du travail - art. R2152-19 (V)
-
-_Cite_:
-
-  - Code de justice administrative - art. R311-1
-
-
-###### Article R311-3
-
-Par dérogation aux dispositions du 5° de l'article R. 311-1, les recours contre les décisions prises par le directeur
-départemental du travail sur le fondement des articles L. 433-2 et L. 435-4 du code du travail (1) sont portés, quels que
-soient le nombre et l'implantation des établissements en cause, devant le tribunal administratif.
-
-**Nota:**
-
-(1) les articles de l'ancien code du travail ont été renumérotés  en  L. 2122-1, L. 2324-5, L. 2324-6, L. 2324-7, L. 2324-9,
-L. 2324-11,    L. 2324-12, L. 2324-13, L. 2324-23 pour l'article L. 433-2 et dans les articles L. 2327-2, L. 2327-3, L.
-2327-4, L. 2327-5, L. 2327-6, L. 2327-7, L. 2327-9, L. 2327-11, L. 2327-12, L. 2327-13, L. 2327-14,  L. 2327-15, L. 2327-16,
-L. 2327-17, L. 2327-18, L. 2327-19, pour l'article L. 435-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2003-543 du 24 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 1
-
-_Cité par_:
-
-  - Décret n°2015-165 du 12 février 2015 - art. 4 (V)
-  - Décret n°2015-268 du 10 mars 2015 (V)
-  - Code de justice administrative - art. R312-10 (V)
-
-_Cite_:
-
-  - Code de justice administrative - art. R311-1
-
-
 #### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=190></a>
 
 ##### Section 1 : Principes<a id=191></a>
@@ -14223,20 +14071,23 @@ _Cite_:
 Lorsqu'il n'en est pas disposé autrement par les dispositions de la section 2 du présent chapitre ou par un texte spécial, le
 tribunal administratif territorialement compétent est celui dans le ressort duquel a légalement son siège l'autorité qui,
 soit en vertu de son pouvoir propre, soit par délégation, a pris la décision attaquée ou a signé le contrat litigieux.
+Lorsque l'acte a été signé par plusieurs autorités, le tribunal administratif compétent est celui dans le ressort duquel a
+son siège la première des autorités dénommées dans cet acte.
 
 En cas de recours préalable à celui qui a été introduit devant le tribunal administratif, la décision à retenir pour
 déterminer la compétence territoriale est celle qui a fait l'objet du recours administratif ou du pourvoi devant une
 juridiction incompétente.
 
+**Nota:**
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 2
 
 _Cité par_:
 
@@ -14498,30 +14349,25 @@ litige, soit le lieu d'exercice de la profession.
 Si, pour ces mêmes catégories de litiges, la décision contestée a un caractère réglementaire et ne s'applique que dans le
 ressort d'un seul tribunal administratif, ce tribunal administratif est compétent pour connaître du litige.
 
-Par dérogation aux dispositions du premier alinéa, les recours mentionnés à l'article R. 311-3 sont portés devant le tribunal
-administratif dans le ressort duquel se situe le siège de l'entreprise.
+Par dérogation aux dispositions du premier alinéa, les recours contre les décisions prises par les autorités administratives
+en matière de composition et d'élection des institutions représentatives du personnel, sur le fondement des dispositions des
+titres Ier, II et III du livre III de la deuxième partie du code du travail, sont portés devant le tribunal administratif
+dans le ressort duquel se situe le siège de l'entreprise.
+
+**Nota:**
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2003-543 du 24 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. R311-3 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R54 (Ab)
+  - Code de justice administrative - art. R311-3
 
 
 ###### Article R312-11
@@ -14693,8 +14539,14 @@ _Cite_:
 
 ###### Article R312-17
 
-Les recours visés à l'article R. 311-2 sont portés devant le tribunal administratif dans le ressort duquel se situe la
-résidence ou le siège social du requérant à la date des décisions attaquées.
+Les recours contre les décisions individuelles prises à l'encontre d'une personne physique ou morale par une fédération
+sportive dans l'exercice de ses prérogatives de puissance publique sont portés devant le tribunal administratif dans le
+ressort duquel se situe la résidence ou le siège social du requérant à la date des décisions attaquées.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, l'abrogation de ces dispositions s'appliquent aux décisions
+des fédérations rendues à compter du 15 juin 2015.
 
 **Liens relatifs à cet article**
 
@@ -14702,25 +14554,56 @@ _Anciens textes_:
 
   - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2015-651 du 10 juin 2015 - art. 2
 
 _Cité par_:
 
   - Décret n°2018-397 du 28 mai 2018 (V)
 
+
+###### Article R312-18
+
+Les litiges relatifs au rejet des demandes de visa d'entrée sur le territoire de la République française relevant des
+autorités consulaires ressortissent à la compétence du tribunal administratif de Nantes.
+
+**Nota:**
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 2
+
+
+###### Article R312-19
+
+Les litiges qui ne relèvent de la compétence d'aucun tribunal administratif par application des dispositions des articles R.
+312-1 et R. 312-6 à R. 312-18 sont attribués au tribunal administratif de Paris.
+
+**Nota:**
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 2
+
 _Cite_:
 
-  - Code de justice administrative. - art. R311-2 (V)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 3 JORF 3 août 2001
+  - Code de justice administrative - art. R312-1
+  - Code de justice administrative - art. R312-6
 
 
 ### Titre II : La compétence d'appel<a id=193></a>
@@ -16478,8 +16361,9 @@ Les ministres peuvent déléguer leur signature dans les conditions prévues par
 
 En outre, la compétence des ministres peut être déléguée par décret : 
 
-1° Aux chefs des services déconcentrés des administrations civiles de l'Etat dans les matières énumérées à l'article 7 du
-décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982 ; 
+1° Aux chefs des services déconcentrés des administrations civiles de l'Etat dans les matières énumérées à l'article 33 du
+décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat
+dans les régions et les départements ; 
 
 2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
 
@@ -16487,15 +16371,10 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 
 _Cite_:
 
-  - Décret n°82-390 du 10 mai 1982 - art. 6 (M)
-  - Décret n°82-389 du 10 mai 1982 - art. 7 (M)
-  - Code de justice administrative. - art. R431-10 (M)
-  - Code du travail - art. R5312-33 (Ab)
-  - Code du travail - art. R5312-34 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2004-374 du 29 avril 2004 - art. 33
+  - Code de justice administrative - art. R431-10
+  - Code du travail - art. R5312-33
+  - Code du travail - art. R5312-34
 
 _Cité par_:
 
@@ -16503,11 +16382,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-704 du 4 mai 2007 - art. 25 () JORF 5 mai 2007
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R114 (Ab)
+  - Décret n°2010-164 du 22 février 2010 - art. 54
 
 
 ###### Article R431-10
@@ -17247,6 +17122,26 @@ _Cite_:
   - Code de justice administrative. - art. R832-3 (M)
 
 
+###### Article R531-2
+
+Les dispositions des articles R. 621-3 à R. 621-11, à l'exception du second alinéa de l'article R. 621-9, ainsi que des
+articles R. 621-13 et R. 621-14 sont applicables aux constats mentionnés à l'article R. 531-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 32
+
+_Cite_:
+
+  - Code de justice administrative - art. R531-1
+  - Code de justice administrative - art. R621-13
+  - Code de justice administrative - art. R621-14
+  - Code de justice administrative - art. R621-3
+  - Code de justice administrative - art. R621-9
+
+
 #### Chapitre II : Le référé instruction<a id=218></a>
 
 ###### Article R532-1
@@ -17310,6 +17205,48 @@ _Modifié par_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R241-23 (M)
+
+
+###### Article R532-3
+
+Le juge des référés peut, à la demande de l'une des parties formée dans le délai de deux mois qui suit la première réunion
+d'expertise, ou à la demande de l'expert formée à tout moment, étendre l'expertise à des personnes autres que les parties
+initialement désignées par l'ordonnance, ou mettre hors de cause une ou plusieurs des parties ainsi désignées.
+
+Il peut, dans les mêmes conditions, étendre la mission de l'expertise à l'examen de questions techniques qui se révélerait
+indispensable à la bonne exécution de cette mission, ou, à l'inverse, réduire l'étendue de la mission si certaines des
+recherches envisagées apparaissent inutiles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 33
+
+_Cité par_:
+
+  - Code de justice administrative - art. R532-4 (V)
+
+
+###### Article R532-4
+
+Le juge des référés ne peut faire droit à la demande prévue au premier alinéa de l'article R. 532-3 qu'après avoir mis les
+parties et le cas échéant les personnes auxquelles l'expertise doit être étendue en mesure de présenter leurs observations
+sur l'utilité de l'extension ou de la réduction demandée. 
+
+Il peut, s'il l'estime opportun, débattre des questions soulevées par cette demande lors de la séance prévue à l'article R.
+621-8-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 33
+
+_Cite_:
+
+  - Code de justice administrative - art. R532-3
+  - Code de justice administrative - art. R621-8-1
 
 
 #### Chapitre III : Voies de recours<a id=219></a>
@@ -18188,6 +18125,26 @@ _Cité par_:
   - Code de justice administrative. - art. R511-3 (MMN)
 
 
+###### Article R611-8-1
+
+Le président de la formation de jugement ou, au Conseil d'Etat, le président de la sous-section chargée de l'instruction peut
+demander à l'une des parties de reprendre, dans un mémoire récapitulatif, les conclusions et moyens précédemment présentés
+dans le cadre de l'instance en cours, en l'informant que, si elle donne suite à cette invitation, les conclusions et moyens
+non repris seront réputés abandonnés. En cause d'appel, il peut être demandé à la partie de reprendre également les
+conclusions et moyens présentés en première instance qu'elle entend maintenir.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 27
+
+_Cité par_:
+
+  - Code de justice administrative - art. R611-10 (V)
+  - Code de justice administrative - art. R612-3 (V)
+
+
 ##### Section 2 : Dispositions applicables devant les tribunaux administratifs<a id=237></a>
 
 ###### Article R611-9
@@ -18223,17 +18180,25 @@ _Cité par_:
 
 Sous l'autorité du président de la formation de jugement à laquelle il appartient, le rapporteur fixe, eu égard aux
 circonstances de l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut demander aux parties, pour
-être jointes à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige.
+être jointes à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige. 
+
+Le président de la formation de jugement peut déléguer au rapporteur les pouvoirs qui lui sont conférés par les articles R.
+611-7, R. 611-8-1, R. 611-11, R. 612-3, R. 612-5, R. 613-1 et R. 613-4.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 29
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Code de justice administrative - art. R611-11
+  - Code de justice administrative - art. R611-7
+  - Code de justice administrative - art. R611-8-1
+  - Code de justice administrative - art. R612-5
+  - Code de justice administrative - art. R613-1
+  - Code de justice administrative - art. R613-4
 
 _Cité par_:
 
@@ -18281,6 +18246,30 @@ _Cite_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R142 (M)
+
+
+###### Article R611-11-1
+
+Lorsque l'affaire est en état d'être jugée, les parties peuvent être informées de la date ou de la période à laquelle il est
+envisagé de l'appeler à l'audience. Cette information précise alors la date à partir de laquelle l'instruction pourra être
+close dans les conditions prévues par le dernier alinéa de l'article R. 613-1 et le dernier alinéa de l'article R. 613-2.
+Elle ne tient pas lieu de l'avertissement prévu à l'article R. 711-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 28
+
+_Cité par_:
+
+  - Code de justice administrative - art. R611-18 (VD)
+  - Code de justice administrative - art. R613-1 (V)
+  - Code de justice administrative - art. R613-2 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R711-2
 
 
 ###### Article R611-12
@@ -18411,17 +18400,19 @@ _Codifié par_:
 
 Le rapporteur règle, sous l'autorité du président de la chambre, la communication de la requête. Il fixe, eu égard aux
 circonstances de l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut demander aux parties, pour
-être joints à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige.
+être joints à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige. 
+
+Les dispositions du deuxième alinéa de l'article R. 611-10 sont applicables.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 29
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Code de justice administrative - art. R611-10
 
 _Cité par_:
 
@@ -18435,25 +18426,19 @@ _Anciens textes_:
 
 ###### Article R611-18
 
-Les dispositions de l'article R. 611-11 sont applicables. Le président de chambre exerce les pouvoirs prévus audit article.
+Les dispositions des articles R. 611-11 et R. 611-11-1 sont applicables. Le président de chambre exerce les pouvoirs prévus
+audit article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 28
 
 _Cite_:
 
-  - Code de justice administrative. - art. R611-11 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R147 (M)
+  - Code de justice administrative - art. R611-11
+  - Code de justice administrative - art. R611-11-1
 
 
 ###### Article R611-19
@@ -18479,15 +18464,16 @@ _Cite_:
 
 ###### Article R611-20
 
-Le président de la section du contentieux répartit les affaires entre les sous-sections. Il peut décider que l'instruction
-d'une affaire sera confiée à la section du contentieux. Dans ce cas, il lui appartient de désigner le rapporteur et d'exercer
-les pouvoirs dévolus par le présent code à la sous-section chargée de l'instruction. 
-
-Avant la répartition des affaires entre les sous-sections, le président de la section du contentieux peut accomplir les actes
-d'instruction nécessaires à la mise en état des affaires. 
+Le président de la section du contentieux répartit les affaires entre les sous-sections. Il peut, préalablement à cette
+répartition, accomplir les actes d'instruction nécessaires à la mise en état des affaires. 
 
 Chaque sous-section est chargée de l'instruction des affaires qui lui ont été attribuées. Le rapporteur est désigné pour
-chaque affaire par le président de la sous-section. 
+chaque affaire par le président de la sous-section après accomplissement des mesures d'instruction prévues à l'article R.
+611-27. 
+
+Par dérogation aux dispositions du premier alinéa, le président de la section du contentieux peut décider que l'instruction
+d'une affaire sera confiée à la section du contentieux. Dans ce cas, il lui appartient de désigner le rapporteur et d'exercer
+les pouvoirs dévolus par le présent code à la sous-section chargée de l'instruction. 
 
 Lorsqu'il décide de renvoyer à une des formations collégiales mentionnées au premier alinéa de l'article L. 122-1 le jugement
 d'une requête présentée en application du livre V, le président de la section du contentieux accomplit les actes
@@ -18498,11 +18484,12 @@ sous-section.
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. L122-1
+  - Code de justice administrative - art. R611-27
 
 _Cité par_:
 
@@ -18719,34 +18706,6 @@ _Cite_:
   - Code de justice administrative - art. R611-1 (V)
 
 
-###### Article R611-30
-
-Après accomplissement des mesures d'instruction prévues à l'article R. 611-27, les affaires en état d'être jugées sont
-attribuées à un rapporteur par décision du président de la sous-section à laquelle l'affaire a été confiée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 9
-
-_Cite_:
-
-  - Code de justice administrative. - art. R611-27 (V)
-
-
 #### Chapitre II : La demande de régularisation et la mise en demeure<a id=240></a>
 
 ###### Article R612-1
@@ -18801,19 +18760,22 @@ _Anciens textes_:
 
 Lorsqu'une des parties appelées à produire un mémoire n'a pas respecté le délai qui lui a été imparti en exécution des
 articles R. 611-10, R. 611-17 et R. 611-26, le président de la formation de jugement ou, au Conseil d'Etat, le président de
-la sous-section chargée de l'instruction peut lui adresser une mise en demeure.
+la sous-section chargée de l'instruction peut lui adresser une mise en demeure. 
 
-En cas de force majeure, un nouveau et dernier délai peut être accordé.
+En cas de force majeure, un nouveau et dernier délai peut être accordé. 
+
+Devant les tribunaux administratifs et les cours administratives d'appel, la mise en demeure peut être assortie de
+l'indication de la date ou de la période à laquelle il est envisagé d'appeler l'affaire à l'audience. Elle reproduit alors
+les dispositions du dernier alinéa de l'article R. 613-1 et du dernier alinéa de l'article R. 613-2. Les autres parties en
+sont informées. 
+
+Cette information ne tient pas lieu de l'avertissement prévu à l'article R. 711-2.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 28
 
 _Cité par_:
 
@@ -18823,16 +18785,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R611-17 (V)
-  - Code de justice administrative. - art. R611-26 (V)
+  - Code de justice administrative - art. R611-17
+  - Code de justice administrative - art. R611-26
+  - Code de justice administrative - art. R711-2
 
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R150 (M)
-
-_Modifié par_:
-
-  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R612-4
@@ -18923,7 +18882,12 @@ Les lettres remises contre signature portant notification de cette ordonnance ou
 d'attester la date de réception de ladite ordonnance sont envoyés à toutes les parties en cause quinze jours au moins avant
 la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de
 Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie
-administrative.
+administrative. 
+
+Lorsqu'une partie appelée à produire un mémoire n'a pas respecté, depuis plus d'un mois, le délai qui lui a été assigné par
+une mise en demeure comportant les mentions prévues par le troisième alinéa de l'article R. 612-3 ou lorsque la date prévue
+par l'article R. 611-11-1 est échue, l'instruction peut être close à la date d'émission de l'ordonnance prévue au premier
+alinéa.
 
 **Liens relatifs à cet article**
 
@@ -18943,7 +18907,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-452 du 13 mai 2008 - art. 20
+  - Décret n°2010-164 du 22 février 2010 - art. 28
 
 _Anciens textes_:
 
@@ -18953,22 +18917,23 @@ _Anciens textes_:
 ###### Article R613-2
 
 Si le président de la formation de jugement n'a pas pris une ordonnance de clôture, l'instruction est close trois jours
-francs avant la date de l'audience indiquée dans l'avis d'audience prévu à l'article R. 711-2. Cet avis le mentionne.
+francs avant la date de l'audience indiquée dans l'avis d'audience prévu à l'article R. 711-2. Cet avis le mentionne. 
 
 Toutefois, dans le cas prévu à l'article R. 711-2 où, en raison de l'urgence, une décision expresse du président de la
 formation de jugement a réduit à deux jours le délai de convocation à l'audience, l'instruction est close soit après que les
 parties ou leurs mandataires ont formulé leurs observations orales, soit, si ces parties sont absentes ou ne sont pas
-représentées, après appel de leur affaire à l'audience.
+représentées, après appel de leur affaire à l'audience. 
+
+Lorsqu'une partie appelée à produire un mémoire n'a pas respecté, depuis plus d'un mois, le délai qui lui a été assigné par
+une mise en demeure comportant les mentions prévues par le troisième alinéa de l'article R. 612-3 ou lorsque la date prévue
+par l'article R. 611-11-1 est échue, l'instruction peut être close à la date d'émission de l'avis d'audience. Cet avis le
+mentionne.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 28
 
 _Cité par_:
 
@@ -18979,7 +18944,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R711-2 (M)
+  - Code de justice administrative - art. R711-2
 
 _Anciens textes_:
 
@@ -19072,17 +19037,14 @@ _Cité par_:
 ###### Article R621-1
 
 La juridiction peut, soit d'office, soit sur la demande des parties ou de l'une d'elles, ordonner, avant dire droit, qu'il
-soit procédé à une expertise sur les points déterminés par sa décision.
+soit procédé à une expertise sur les points déterminés par sa décision. La mission confiée à l'expert peut viser à concilier
+les parties.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 34
 
 _Cité par_:
 
@@ -19096,6 +19058,36 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R158 (Ab)
+
+
+###### Article R621-1-1
+
+Le président de la juridiction peut désigner au sein de sa juridiction un magistrat chargé des questions d'expertise et du
+suivi des opérations d'expertise.
+
+L'acte qui désigne le magistrat chargé des expertises peut lui déléguer tout ou partie des attributions mentionnées aux
+articles R. 621-2, R. 621-4, R. 621-5, R. 621-6, R. 621-7-1, R. 621-8-1, R. 621-11, R. 621-12, R. 621-12-1 et R. 621-13. 
+
+Ce magistrat peut assister aux opérations d'expertise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 34
+
+_Cite_:
+
+  - Code de justice administrative - art. R621-11
+  - Code de justice administrative - art. R621-12
+  - Code de justice administrative - art. R621-12-1
+  - Code de justice administrative - art. R621-13
+  - Code de justice administrative - art. R621-2
+  - Code de justice administrative - art. R621-4
+  - Code de justice administrative - art. R621-5
+  - Code de justice administrative - art. R621-6
+  - Code de justice administrative - art. R621-7-1
+  - Code de justice administrative - art. R621-8-1
 
 
 ##### Section 1 : Nombre et désignation des experts<a id=246></a>
@@ -19139,77 +19131,57 @@ Le greffier en chef ou, au Conseil d'Etat, le secrétaire du contentieux notifie
 la décision qui les commet et fixe l'objet de leur mission. Il annexe à celle-ci la formule du serment que le ou les experts
 prêteront par écrit et déposeront au greffe dans les trois jours pour être joint au dossier de l'affaire.
 
+Par le serment, l'expert s'engage à accomplir sa mission avec conscience, objectivité, impartialité et diligence.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 35
 
 _Cité par_:
 
   - Code de justice administrative - art. R531-2 (V)
   - Code de justice administrative - art. R625-2 (VD)
 
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R160 (Ab)
-
 
 ###### Article R621-4
 
 Dans le cas où un expert n'accepte pas la mission qui lui a été confiée, il en est désigné un autre à sa place.
 
-L'expert qui, après avoir accepté sa mission, ne la remplit pas et celui qui ne dépose pas son rapport dans le délai fixé par
-la décision peuvent, après avoir été entendus par le tribunal, être condamnés à tous les frais frustratoires et à des
-dommages-intérêts. L'expert est en outre remplacé, s'il y a lieu.
+L'expert qui, après avoir accepté sa mission, ne la remplit pas ou celui qui ne dépose pas son rapport dans le délai fixé par
+la décision peut, après avoir été invité par le président de la juridiction à présenter ses observations, être remplacé par
+une décision de ce dernier. Il peut, en outre, être condamné par la juridiction, sur demande d'une partie, et au terme d'une
+procédure contradictoire, à tous les frais frustratoires et à des dommages-intérêts.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 36
 
 _Cité par_:
 
   - Code de justice administrative - art. R621-1-1 (V)
 
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R161 (Ab)
-
 
 ###### Article R621-5
 
 Les personnes qui ont eu à connaître de l'affaire à un titre quelconque sont tenues, avant d'accepter d'être désignées comme
-expert ou comme sapiteur, de le faire connaître à la juridiction, qui apprécie s'il y a empêchement.
+expert ou comme sapiteur, de le faire connaître au président de la juridiction ou, au Conseil d'Etat, au président de la
+section du contentieux, qui apprécie s'il y a empêchement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 37
 
 _Cité par_:
 
   - Arrêté du 19 novembre 2013 - art. (V)
   - Arrêté du 19 novembre 2013 - art. Annexe III (V)
   - Code de justice administrative - art. R621-1-1 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R162 (Ab)
 
 
 ###### Article R621-6
@@ -19218,17 +19190,14 @@ Les experts ou sapiteurs mentionnés à l'article R. 621-2 peuvent être récus�
 s'agit d'une personne morale, la récusation peut viser tant la personne morale elle-même que la ou les personnes physiques
 qui assurent en son nom l'exécution de la mesure. La partie qui entend récuser l'expert ou le sapiteur doit le faire avant le
 début des opérations ou dès la révélation de la cause de la récusation. Si l'expert ou le sapiteur s'estime récusable, il
-doit immédiatement le déclarer au juge qui l'a commis.
+doit immédiatement le déclarer au président de la juridiction ou, au Conseil d'Etat, au président de la section du
+contentieux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 38
 
 _Cité par_:
 
@@ -19238,11 +19207,67 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R621-2 (V)
+  - Code de justice administrative - art. R621-2
 
-_Anciens textes_:
 
-  - Code des tribunaux administratifs et des cours adm - art. R163 (Ab)
+###### Article R621-6-1
+
+La demande de récusation formée par une partie est présentée à la juridiction qui a ordonné l'expertise. Si elle est
+présentée par un mandataire, ce dernier doit être muni d'un pouvoir spécial. 
+
+Elle doit à peine d'irrecevabilité indiquer les motifs qui la soutiennent et être accompagnée des pièces propres à la
+justifier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 39
+
+
+###### Article R621-6-2
+
+Le greffier en chef, ou, au Conseil d'Etat, le secrétaire du contentieux, communique à l'expert copie de la demande de
+récusation dont il est l'objet. 
+
+Dès qu'il a communication de cette demande, l'expert doit s'abstenir de toute opération jusqu'à ce qu'il y ait été statué.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 39
+
+
+###### Article R621-6-3
+
+Dans les huit jours de cette communication, l'expert fait connaître par écrit soit son acquiescement à la récusation, soit
+les motifs pour lesquels il s'y oppose.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 39
+
+
+###### Article R621-6-4
+
+Si l'expert acquiesce à la demande de récusation, il est aussitôt remplacé. 
+
+Dans le cas contraire, la juridiction, par une décision non motivée, se prononce sur la demande, après audience publique dont
+l'expert et les parties sont avertis. 
+
+Sauf si l'expertise a été ordonnée sur le fondement du titre III du livre V, cette décision ne peut être contestée devant le
+juge d'appel ou de cassation qu'avec le jugement ou l'arrêt rendu ultérieurement. 
+
+L'expert n'est pas admis à contester la décision qui le récuse.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 39
 
 
 ##### Section 2 : Opérations d'expertise<a id=247></a>
@@ -19265,6 +19290,58 @@ _Modifié par_:
   - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
+###### Article R621-7-1
+
+Les parties doivent remettre sans délai à l'expert tous documents que celui-ci estime nécessaires à l'accomplissement de sa
+mission. 
+
+En cas de carence des parties, l'expert en informe le président de la juridiction qui, après avoir provoqué les observations
+écrites de la partie récalcitrante, peut ordonner la production des documents, s'il y a lieu sous astreinte, autoriser
+l'expert à passer outre, ou à déposer son rapport en l'état. 
+
+Le président peut en outre examiner les problèmes posés par cette carence lors de la séance prévue à l'article R. 621-8-1. 
+
+La juridiction tire les conséquences du défaut de communication des documents à l'expert.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 40
+
+_Cité par_:
+
+  - Code de justice administrative - art. R621-1-1 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R621-8-1
+
+
+###### Article R621-7-2
+
+Si les parties viennent à se concilier, l'expert constate que sa mission est devenue sans objet, et en fait immédiatement
+rapport au magistrat qui l'a commis. 
+
+Son rapport, accompagné de sa note de frais et honoraires, doit être accompagné d'une copie du procès-verbal de conciliation
+signé des parties, faisant apparaître l'attribution de la charge des frais d'expertise. 
+
+Faute pour les parties d'avoir réglé la question de la charge des frais d'expertise, il y est procédé, après la taxation
+mentionnée à l'article R. 621-11, par application des articles R. 621-13 ou R. 761-1, selon les cas.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 40
+
+_Cite_:
+
+  - Code de justice administrative - art. R621-11
+  - Code de justice administrative - art. R621-13
+  - Code de justice administrative - art. R761-1
+
+
 ###### Article R621-8
 
 S'il y a plusieurs experts, ils procèdent ensemble aux opérations d'expertise et dressent un seul rapport. S'ils ne peuvent
@@ -19285,25 +19362,54 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R165 (Ab)
 
 
+###### Article R621-8-1
+
+Pendant le déroulement des opérations d'expertise, le président de la juridiction peut organiser une ou plusieurs séances en
+vue de veiller au bon déroulement de ces opérations. A cette séance, peuvent notamment être examinées, à l'exclusion de tout
+point touchant au fond de l'expertise, les questions liées aux délais d'exécution, aux communications de pièces, au versement
+d'allocations provisionnelles ou, en matière de référés, à l'étendue de l'expertise. 
+
+Les parties et l'expert sont convoqués à la séance mentionnée à l'alinéa précédent, dans les conditions fixées à l'article R.
+711-2. 
+
+Il est dressé un relevé des conclusions auxquelles ont conduit les débats. Ce relevé est communiqué aux parties et à
+l'expert, et versé au dossier. 
+
+La décision d'organiser une telle séance, ou de refus de l'organiser, n'est pas susceptible de recours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 41
+
+_Cité par_:
+
+  - Code de justice administrative - art. R532-4 (V)
+  - Code de justice administrative - art. R621-1-1 (V)
+  - Code de justice administrative - art. R621-12-1 (V)
+  - Code de justice administrative - art. R621-7-1 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R711-2
+
+
 ##### Section 3 : Rapport d'expertise<a id=248></a>
 
 ###### Article R621-9
 
-Le rapport est déposé au greffe. Il est accompagné d'un nombre de copies égal à celui des parties en litige ayant un intérêt
-distinct, augmenté de deux.
+Le rapport est déposé au greffe en deux exemplaires. Des copies sont notifiées par l'expert aux parties intéressées. Avec
+leur accord, cette notification peut s'opérer sous forme électronique.
 
-Le rapport est notifié, en copie, aux parties intéressées. Elles sont invitées à fournir leurs observations dans le délai
-d'un mois ; une prorogation de délai peut être accordée.
+Les parties sont invitées par le greffe de la juridiction à fournir leurs observations dans le délai d'un mois ; une
+prorogation de délai peut être accordée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 42
 
 _Cité par_:
 
@@ -19311,33 +19417,26 @@ _Cité par_:
   - Code de justice administrative - art. R532-5 (VD)
   - Code de justice administrative - art. R621-10 (V)
 
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R166 (Ab)
-
 
 ###### Article R621-10
 
 La juridiction peut décider que le ou les experts se présenteront devant la formation de jugement ou l'un de ses membres, les
-parties dûment convoquées, pour fournir toutes explications complémentaires utiles.
+parties dûment convoquées, pour fournir toutes explications complémentaires utiles et notamment se prononcer sur les
+observations recueillies en application de l'article R. 621-9.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2010-164 du 22 février 2010 - art. 42
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Code de justice administrative - art. R621-9
 
 _Cité par_:
 
   - Code de justice administrative - art. R625-2 (VD)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R167 (Ab)
 
 
 ##### Section 4 : Frais d'expertise<a id=249></a>
@@ -19345,28 +19444,32 @@ _Anciens textes_:
 ###### Article R621-11
 
 Les experts et sapiteurs mentionnés à l'article R. 621-2 ont droit à des honoraires, sans préjudice du remboursement des
-frais et débours.
+frais et débours. 
 
-Ils joignent à leur rapport un état de leurs vacations, frais et débours.
+Chacun d'eux joint au rapport un état de ses vacations, frais et débours. 
 
 Dans les honoraires sont comprises toutes sommes allouées pour étude du dossier, frais de mise au net du rapport, dépôt du
 rapport et, d'une manière générale, tout travail personnellement fourni par l'expert ou le sapiteur et toute démarche faite
-par lui en vue de l'accomplissement de sa mission.
+par lui en vue de l'accomplissement de sa mission. 
 
 Le président de la juridiction, après consultation du président de la formation de jugement, ou, au Conseil d'Etat, le
 président de la section du contentieux fixe par ordonnance, conformément aux dispositions de l'article R. 761-4, les
 honoraires en tenant compte des difficultés des opérations, de l'importance, de l'utilité et de la nature du travail fourni
-par l'expert ou le sapiteur. Il arrête sur justificatifs le montant des frais et débours qui seront remboursés à l'expert.
+par l'expert ou le sapiteur et des diligences mises en œuvre pour respecter le délai mentionné à l'article R. 621-2. Il
+arrête sur justificatifs le montant des frais et débours qui seront remboursés à l'expert.
+
+S'il y a plusieurs experts, ou si un sapiteur a été désigné, l'ordonnance mentionnée à l'alinéa précédent fait apparaître
+distinctement le montant des frais et honoraires fixés pour chacun. 
+
+Lorsque le président de la juridiction envisage de fixer la rémunération de l'expert à un montant inférieur au montant
+demandé, il doit au préalable l'aviser des éléments qu'il se propose de réduire, et des motifs qu'il retient à cet effet, et
+l'inviter à formuler ses observations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 43
 
 _Cité par_:
 
@@ -19378,11 +19481,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R621-2 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R168 (Ab)
+  - Code de justice administrative - art. R621-2
 
 
 ###### Article R621-12
@@ -19417,34 +19516,60 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R169 (Ab)
 
 
+###### Article R621-12-1
+
+L'absence de versement, par la partie qui en a la charge, de l'allocation provisionnelle, dans le mois qui suit la
+notification de la décision mentionnée à l'article R. 621-12, peut donner lieu, à la demande de l'expert, à une mise en
+demeure signée du président de la juridiction. 
+
+Si le délai fixé par cette dernière n'est pas respecté, et si le rapport d'expertise n'a pas été déposé à cette date,
+l'expert est appelé par le président à déposer, avec sa note de frais et honoraires, un rapport se limitant au constat des
+diligences effectuées et de cette carence, dont la juridiction tire les conséquences, notamment pour l'application des
+dispositions du deuxième alinéa de l'article R. 761-1. 
+
+Le président peut toutefois, avant d'inviter l'expert à produire un rapport de carence, soumettre l'incident à la séance
+prévue à l'article R. 621-8-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 44
+
+_Cité par_:
+
+  - Code de justice administrative - art. R621-1-1 (V)
+  - Code de justice administrative - art. R621-13 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R621-12
+  - Code de justice administrative - art. R621-8-1
+  - Code de justice administrative - art. R761-1
+
+
 ###### Article R621-13
 
 Lorsque l'expertise a été ordonnée sur le fondement du titre III du livre V, le président du tribunal ou de la cour, après
 consultation, le cas échéant, du magistrat délégué, ou, au Conseil d'Etat, le président de la section du contentieux en fixe
 les frais et honoraires par une ordonnance prise conformément aux dispositions des articles R. 621-11 et R. 761-4. Cette
-ordonnance désigne la ou les parties qui assumeront la charge de ces frais et honoraires. Elle peut faire l'objet, dans le
-délai d'un mois à compter de sa notification, du recours prévu à l'article R. 761-5.
+ordonnance désigne la ou les parties qui assumeront la charge de ces frais et honoraires. Elle est exécutoire dès son
+prononcé, et peut être recouvrée contre les personnes privées ou publiques par les voies de droit commun. Elle peut faire
+l'objet, dans le délai d'un mois à compter de sa notification, du recours prévu à l'article R. 761-5. 
 
 Dans le cas où les frais d'expertise mentionnés à l'alinéa précédent sont compris dans les dépens d'une instance principale,
 la formation de jugement statuant sur cette instance peut décider que la charge définitive de ces frais incombe à une partie
 autre que celle qui a été désignée par l'ordonnance mentionnée à l'alinéa précédent ou par le jugement rendu sur un recours
-dirigé contre cette ordonnance.
+dirigé contre cette ordonnance. 
 
-Dans les cas mentionnés au premier alinéa, il peut être fait application des dispositions de l'article R. 621-12.
+Dans les cas mentionnés au premier alinéa, il peut être fait application des dispositions des articles R. 621-12 et R.
+621-12-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 45
 
 _Cité par_:
 
@@ -19454,13 +19579,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R621-11 (V)
-  - Code de justice administrative. - art. R761-4 (V)
-  - Code de justice administrative. - art. R761-5 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R169-1 (Ab)
+  - Code de justice administrative - art. R621-11
+  - Code de justice administrative - art. R621-12
+  - Code de justice administrative - art. R621-12-1
+  - Code de justice administrative - art. R761-4
+  - Code de justice administrative - art. R761-5
 
 
 ###### Article R621-14
@@ -19803,6 +19926,47 @@ _Cite_:
   - Code de justice administrative. - art. R521-1 (MMN)
   - Code de justice administrative. - art. R521-2 (MMN)
   - Code de justice administrative. - art. R531-1 (V)
+
+
+###### Article R625-2
+
+Lorsqu'une question technique ne requiert pas d'investigations complexes, la formation de jugement peut charger la personne
+qu'elle commet de lui fournir un avis sur les points qu'elle détermine. Le consultant, à qui le dossier de l'instance n'est
+pas remis, n'a pas à opérer en respectant une procédure contradictoire à l'égard des parties.
+
+L'avis est consigné par écrit. Il est communiqué aux parties par la juridiction. 
+
+Les dispositions des articles R. 621-3 à R. 621-6, R. 621-10 à R. 621-12-1 et R. 621-14 sont applicables aux avis techniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 46
+
+_Cite_:
+
+  - Code de justice administrative - art. R621-10
+  - Code de justice administrative - art. R621-14
+  - Code de justice administrative - art. R621-3
+
+
+###### Article R625-3
+
+La formation chargée de l'instruction peut inviter toute personne, dont la compétence ou les connaissances seraient de nature
+à l'éclairer utilement sur la solution à donner à un litige, à produire des observations d'ordre général sur les points
+qu'elle détermine. 
+
+L'avis est consigné par écrit. Il est communiqué aux parties. 
+
+Dans les mêmes conditions, toute personne peut être invitée à présenter des observations orales devant la formation chargée
+de l'instruction ou la formation de jugement les parties dûment convoquées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 46
 
 
 #### Chapitre VI : Dispositions diverses<a id=257></a>
@@ -20988,39 +21152,34 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R206 (Ab)
 
 
-##### Section 4 : La rectification des erreurs matérielles devant le tribunal administratif<a id=279></a>
+##### Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire<a id=279></a>
 
 ###### Article R741-11
 
-Lorsque le président du tribunal administratif constate que la minute d'un jugement ou d'une ordonnance est entachée d'une
-erreur ou d'une omission matérielle, il peut y apporter, par ordonnance rendue dans le délai d'un mois à compter de la
-notification aux parties de ce jugement ou de cette ordonnance, les corrections que la raison commande.
+Lorsque le président du tribunal administratif, de la cour administrative d'appel ou, au Conseil d'Etat, le président de la
+section du contentieux constate que la minute d'une décision est entachée d'une erreur ou d'une omission matérielle non
+susceptible d'avoir exercé une influence sur le jugement de l'affaire, il peut y apporter, par ordonnance rendue dans le
+délai d'un mois à compter de la notification aux parties, les corrections que la raison commande. 
 
-La notification de l'ordonnance rectificative rouvre le délai d'appel contre le jugement ou l'ordonnance ainsi corrigés.
+La notification de l'ordonnance rectificative rouvre, le cas échéant, le délai d'appel ou de recours en cassation contre la
+décision ainsi corrigée. 
 
-Lorsqu'une partie signale au président du tribunal l'existence d'une erreur ou d'une omission matérielle entachant un
-jugement ou une ordonnance, et lui demande d'user des pouvoirs définis au premier alinéa, cette demande est, sauf dans le cas
-mentionné au deuxième alinéa, sans influence sur le cours du délai d'appel ouvert contre ce jugement ou cette ordonnance.
+Lorsqu'une partie signale au président du tribunal administratif ou de la cour administrative d'appel l'existence d'une
+erreur ou d'une omission matérielle entachant une décision, et lui demande d'user des pouvoirs définis au premier alinéa,
+cette demande est, sauf dans le cas mentionné au deuxième alinéa, sans influence sur le cours du délai d'appel ou de recours
+en cassation ouvert contre cette décision.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 30
 
 _Cité par_:
 
   - Code de la santé publique - art. R4126-31 (V)
   - Code de la santé publique - art. R4234-33 (V)
   - Code de la sécurité sociale. - art. R145-43 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R205 (M)
 
 
 ##### Section 5 : L'amende pour recours abusif<a id=280></a>
@@ -21634,19 +21793,15 @@ _Anciens textes_:
 
 La liquidation des dépens, y compris celle des frais et honoraires d'expertise définis à l'article R. 621-11, est faite par
 ordonnance du président de la juridiction, après consultation du président de la formation de jugement ou, en cas de référé
-ou de constat d'urgence, du magistrat délégué.
+ou de constat, du magistrat délégué. 
 
 Au Conseil d'Etat, la liquidation est faite par ordonnance du président de la section du contentieux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 32
 
 _Cité par_:
 
@@ -21654,28 +21809,32 @@ _Cité par_:
   - Code de justice administrative - art. R621-13 (V)
   - Code de justice administrative - art. R761-5 (V)
 
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R220 (M)
-
 
 ###### Article R761-5
 
-Les parties, ainsi que, le cas échéant, les experts intéressés, peuvent contester l'ordonnance mentionnée à l'article R.
-761-4 liquidant les dépens devant la juridiction à laquelle appartient son auteur. Celle-ci statue en formation de jugement.
+Les parties, ainsi que, le cas échéant, l'expert, peuvent contester l'ordonnance mentionnée à l'article R. 761-4 devant la
+juridiction à laquelle appartient l'auteur de l'ordonnance. 
+
+Sauf lorsque l'ordonnance émane du président de la section du contentieux du Conseil d'Etat, la requête est transmise sans
+délai par le président de la juridiction à un tribunal administratif conformément à un tableau d'attribution arrêté par le
+président de la section du contentieux. 
+
+Le président de la juridiction à laquelle appartient l'auteur de l'ordonnance ou, au Conseil d'Etat, le président de la
+section du contentieux est appelé à présenter des observations écrites sur les mérites du recours. 
 
 Le recours mentionné au précédent alinéa est exercé dans le délai d'un mois à compter de la notification de l'ordonnance sans
 attendre l'intervention de la décision par laquelle la charge des frais est attribuée.
 
+**Nota:**
+
+Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er avril 2010.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2010-164 du 22 février 2010 - art. 47
 
 _Cité par_:
 
@@ -21683,11 +21842,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. R761-4 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R221 (M)
+  - Code de justice administrative - art. R761-4
 
 
 ### Titre VII : Dispositions spéciales<a id=284></a>
@@ -23011,15 +23166,17 @@ pour l'instruction de la demande correspondante, tant devant la commission dépa
 à la décision de celle-ci. 
 
 L'instruction est close soit après que les parties ou leurs mandataires ont formulé leurs observations orales, soit, si ces
-parties sont absentes ou ne sont pas représentées, après appel de leur affaire à l'audience. 
+parties sont absentes ou ne sont pas représentées, après appel de leur affaire à l'audience. Toutefois, afin de permettre aux
+parties de verser des pièces complémentaires, le juge peut décider de différer la clôture de l'instruction à une date
+postérieure dont il les avise par tous moyens.
 
 L'instruction est rouverte en cas de renvoi à une autre audience.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+  - Décret n°2010-164 du 22 février 2010 - art. 31
 
 
 ###### Article R778-6
@@ -23054,6 +23211,32 @@ _Modifié par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L441-2-3-1 (V)
+
+
+###### Article R778-8
+
+Lorsque le président du tribunal administratif ou le magistrat désigné à cet effet constate, d'office ou sur la saisine du
+requérant, que l'injonction prononcée n'a pas été exécutée, il procède à la liquidation de l'astreinte en faveur du fonds
+prévu au dernier alinéa de l'article L. 302-7 du code de la construction et de l'habitation. 
+
+Le président du tribunal administratif ou le magistrat désigné à cet effet peut statuer par ordonnance, dans les conditions
+prévues par le chapitre II du titre IV du livre VII du présent code, après avoir invité les parties à présenter leurs
+observations sur l'exécution de l'injonction prononcée. 
+
+Il liquide l'astreinte en tenant compte de la période pendant laquelle, postérieurement à l'expiration du délai imparti par
+le jugement, l'injonction est demeurée inexécutée par le fait de l'administration. Il peut, eu égard aux circonstances de
+l'espèce, modérer le montant dû par l'Etat voire, à titre exceptionnel, déclarer qu'il n'y a pas lieu de liquider
+l'astreinte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-164 du 22 février 2010 - art. 31
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L302-7
 
 
 #### Chapitre IX : Autres dispositions<a id=292></a>
@@ -24187,39 +24370,33 @@ _Codifié par_:
 ###### Article R822-5
 
 En cas de désistement avant l'admission du pourvoi, ou si le requérant est réputé s'être désisté en application de l'article
-R. 611-22, le président de la sous-section donne acte du désistement par ordonnance.
+R. 611-22, le président de la sous-section donne acte du désistement par ordonnance. 
 
 Lorsque le pourvoi devient sans objet avant son admission, le président de la sous-section peut constater par ordonnance
-qu'il n'y a plus lieu d'y statuer.
+qu'il n'y a plus lieu d'y statuer. 
 
 Lorsque le pourvoi est irrecevable pour défaut de ministère d'avocat ou entaché d'une irrecevabilité manifeste non
 susceptible d'être couverte en cours d'instance, le président de la sous-section peut décider par ordonnance de ne pas
-l'admettre.
+l'admettre. 
 
 Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de la sous-section peut également décider par
-ordonnance de ne pas admettre :
+ordonnance de ne pas admettre : 
 
 1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation ou qualification de faits, présentent à juger
 en droit des questions identiques à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble par une
-même décision ou examinées ensemble par un même avis rendu en application de l'article L. 113-1 ;
+même décision ou examinées ensemble par un même avis rendu en application de l'article L. 113-1 ; 
 
-2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ;
+2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ; 
 
-3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4 et L. 522-3.
+3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4, L. 522-3, R.
+541-1 ainsi que contre les ordonnances rejetant les demandes présentées sur le fondement des dispositions du chapitre Ier du
+titre V du livre V.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 57-7 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
 _Modifié par_:
 
-  - Décret n°2006-964 du 1 août 2006 - art. 8 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+  - Décret n°2010-164 du 22 février 2010 - art. 10
 
 _Cité par_:
 
@@ -24230,13 +24407,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. L113-1 (V)
-  - Code de justice administrative. - art. L521-1 (V)
-  - Code de justice administrative. - art. L521-3 (V)
-  - Code de justice administrative. - art. L521-4 (V)
-  - Code de justice administrative. - art. L522-3 (V)
-  - Code de justice administrative. - art. R222-1 (M)
-  - Code de justice administrative. - art. R611-22 (M)
+  - Code de justice administrative - art. L113-1
+  - Code de justice administrative - art. L521-1
+  - Code de justice administrative - art. L521-3
+  - Code de justice administrative - art. L521-4
+  - Code de justice administrative - art. L522-3
+  - Code de justice administrative - art. R222-1
+  - Code de justice administrative - art. R541-1
+  - Code de justice administrative - art. R611-22
 
 
 ###### Article R822-5-1

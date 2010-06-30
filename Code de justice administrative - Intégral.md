@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-06-14
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -210,7 +210,7 @@ Version Consolidée au 2010-06-14
         - [Chapitre III : Dépôt de la requête (art. R413-1 à R413-6)](#207)
       - [Titre II : Les délais (art. R421-1 à R421-7)](#208)
       - [Titre III : La représentation des parties (art. R431-1 à R432-4)](#209)
-        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10)](#210)
+        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10-1)](#210)
         - [Chapitre II : La représentation des parties devant le Conseil d'Etat (art. R432-1 à R432-4)](#211)
       - [Titre IV : L'aide juridictionnelle (art. R441-1)](#212)
     - [Livre V : Le référé (art. R522-1 à R556-1)](#213)
@@ -14044,20 +14044,15 @@ soit en vertu de son pouvoir propre, soit par délégation, a pris la décision 
 Lorsque l'acte a été signé par plusieurs autorités, le tribunal administratif compétent est celui dans le ressort duquel a
 son siège la première des autorités dénommées dans cet acte.
 
-En cas de recours préalable à celui qui a été introduit devant le tribunal administratif, la décision à retenir pour
-déterminer la compétence territoriale est celle qui a fait l'objet du recours administratif ou du pourvoi devant une
-juridiction incompétente.
-
-**Nota:**
-
-Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
-compter du 1er avril 2010.
+Sous les mêmes réserves en cas de recours préalable à celui qui a été introduit devant le tribunal administratif, la décision
+à retenir pour déterminer la compétence territoriale est celle qui a fait l'objet du recours administratif ou du pourvoi
+devant une juridiction incompétente.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 2
+  - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 _Cité par_:
 
@@ -14464,6 +14459,32 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R58 (Ab)
 
 
+###### Article R312-14-1
+
+Les actions engagées en application de l'article L. 1221-14 du code de la santé publique contre le rejet par l'Office
+national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales d'une demande
+d'indemnisation ou contre une offre d'indemnisation jugée insuffisante relèvent de la compétence du tribunal administratif
+dans le ressort duquel est situé le lieu de résidence du demandeur.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-251 du 11 mars 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la santé publique - art. R1221-75 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1221-14
+
+
 ###### Article R312-14-2
 
 Les litiges relatifs aux décisions mentionnées au III de l'article 4 de la loi n° 2010-2 du 5 janvier 2010 relative à la
@@ -14557,18 +14578,22 @@ _Cité par_:
 ###### Article R312-18
 
 Les litiges relatifs au rejet des demandes de visa d'entrée sur le territoire de la République française relevant des
-autorités consulaires ressortissent à la compétence du tribunal administratif de Nantes.
+autorités consulaires ressortissent à la compétence du tribunal administratif de Nantes. 
 
-**Nota:**
-
-Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
-compter du 1er avril 2010.
+Par dérogation au second alinéa de l'article R. 312-1, le tribunal administratif de Nantes est compétent pour connaître des
+recours dirigés contre les décisions du ministre chargé des naturalisations prises en application de l'article 45 du décret
+n° 93-1362 du 30 décembre 1993.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 2
+  - Décret n°93-1362 du 30 décembre 1993 - art. 45
+  - Code de justice administrative - art. R312-1
+
+_Modifié par_:
+
+  - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 
 ###### Article R312-19
@@ -16407,6 +16432,24 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°2008-452 du 13 mai 2008 - art. 13
+
+
+###### Article R431-10-1
+
+Par dérogation aux dispositions de l'article R. 431-10, l'Etat est représenté en défense par le ministre chargé des
+naturalisations dans les litiges relatifs aux décisions prises en application des articles 43 et 44 du décret n° 93-1362 du
+30 décembre 1993.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°93-1362 du 30 décembre 1993 - art. 43
+  - Code de justice administrative - art. R431-10
+
+_Créé par_:
+
+  - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 
 #### Chapitre II : La représentation des parties devant le Conseil d'Etat<a id=211></a>

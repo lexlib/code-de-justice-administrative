@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-07
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2332,9 +2332,9 @@ _Codifié par_:
 Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel exerce seul, à l'égard des membres des
 tribunaux administratifs et cours administratives d'appel, les attributions conférées par les articles 14 et 15 de la loi n°
 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, aux commissions
-administratives paritaires, aux comités techniques paritaires et à la commission spéciale chargée de donner un avis sur le
-tour extérieur, le détachement, l'intégration après détachement et le recrutement complémentaire. Il connaît de toute
-question relative au statut particulier du corps des tribunaux administratifs et cours administratives d'appel.
+administratives paritaires, aux comités techniques et à la commission spéciale chargée de donner un avis sur le tour
+extérieur, le détachement, l'intégration après détachement et le recrutement complémentaire. Il connaît de toute question
+relative au statut particulier du corps des tribunaux administratifs et cours administratives d'appel. 
 
 En outre, il émet des propositions sur les nominations, détachements et intégrations prévus aux articles L. 233-3, L. 233-4
 et L. 233-5.
@@ -2343,20 +2343,19 @@ et L. 233-5.
 
 _Cite_:
 
-  - Loi n°84-16 1984-01-11 art. 14, art. 15
-  - Code de justice administrative. - art. L233-3 (M)
-  - Code de justice administrative. - art. L233-4 (M)
-  - Code de justice administrative. - art. L233-5 (M)
+  - Loi n°84-16 du 11 janvier 1984 - art. 14 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 15 (V)
+  - Code de justice administrative - art. L233-3 (V)
+  - Code de justice administrative - art. L233-4 (V)
+  - Code de justice administrative - art. L233-5 (V)
 
 _Anciens textes_:
 
-  - Loi n°86-14 du 6 janvier 1986 - art. 13, v. init.
   - Loi n°86-14 du 6 janvier 1986 - art. 13 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Loi n°2010-751 du 5 juillet 2010 - art. 35
 
 _Cité par_:
 

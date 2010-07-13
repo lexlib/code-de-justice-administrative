@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-07-07
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -3650,6 +3650,26 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L744-5 (VD)
 
 
+###### Article L521-3-1
+
+La condition d'urgence prévue à l'article L. 521-3 n'est pas requise en cas de requête relative à une occupation non
+autorisée de la zone des cinquante pas géométriques.
+
+En cas d'évacuation forcée, l'autorité chargée de l'exécution de la décision du juge s'efforce par tous moyens de proposer un
+relogement aux occupants sans titre en situation régulière sur le territoire national. Dès lors qu'une proposition adaptée de
+relogement a été faite, le juge peut ordonner la démolition de la construction illégale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
+
+_Cite_:
+
+  - Code de justice administrative - art. L521-3 (V)
+
+
 ###### Article L521-4
 
 Saisi par toute personne intéressée, le juge des référés peut, à tout moment, au vu d'un élément nouveau, modifier les
@@ -4939,69 +4959,45 @@ _Cite_:
 ###### Article L554-11
 
 La décision de suspension d'une autorisation ou d'une décision d'approbation d'un projet d'aménagement entrepris par une
-collectivité publique obéit aux règles définies par le dernier alinéa de l'article L. 122-2 du code de l'environnement ci
-après reproduit : 
+collectivité publique obéit aux règles définies par l'article L. 123-16 du code de l'environnement.
 
-" L. 122-2 dernier alinéa.-Si une requête déposée devant la juridiction administrative contre une autorisation ou une
-décision d'approbation d'un projet visé au second alinéa de l'article L. 122-1 est fondée sur l'absence d'étude d'impact, le
-juge des référés, saisi d'une demande de suspension de la décision attaquée, y fait droit dès que cette absence est
-constatée. "
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 _Modifié par_:
 
-  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+  - Loi n°2010-788 du 12 juillet 2010 - art. 241
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-1 (M)
-  - Code de l'environnement - art. L122-2 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L122-2 (V)
+  - Code de l'environnement - art. L123-16 (V)
 
 
 ###### Article L554-12
 
 La décision de suspension d'une décision d'aménagement soumise à une enquête publique préalable obéit aux règles définies par
-les alinéas 1 et 2 de l'article L. 123-12 du code de l'environnement ci-après reproduits : 
+l'article L. 123-16 du code de l'environnement.
 
-" L. 123-12, alinéas 1 et 2.-Le juge administratif des référés, saisi d'une demande de suspension d'une décision prise après
-des conclusions défavorables du commissaire enquêteur ou de la commission d'enquête, fait droit à cette demande si elle
-comporte un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de celle-ci. 
+**Nota:**
 
-Les dispositions de l'alinéa précédent s'appliquent également lorsqu'une décision a été prise sans que l'enquête requise par
-le présent chapitre ait eu lieu. "
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°83-630 du 12 juillet 1983 - art. 6, v. init.
+  - Loi n°2010-788 du 12 juillet 2010 - art. 241
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Créé par_:
-
-  - Ordonnance 2000-914 2000-09-18 art. 12 2° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L123-12 (V)
+  - Code de l'environnement - art. L123-16 (VT)
 
 
 ##### Section 3 : Dispositions particulières applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie en matière de référé.<a id=88></a>
@@ -5077,14 +5073,14 @@ _Créé par_:
 
 La levée du caractère suspensif d'une opposition à un titre exécutoire pris en application de certaines mesures de
 consignation prévues par le code de l'environnement est décidée par le président du tribunal administratif ou le magistrat
-qu'il délègue, statuant en référé. Elle est régie, selon le cas, par le II de l'article L. 162-14, le III de l'article L.
-514-1 et l'article L. 541-3 dudit code.
+qu'il délègue, statuant en référé. Elle est régie, selon le cas, par le II de l'article L. 162-14 et l'article L. 541-3 dudit
+code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-757 du 1er août 2008 - art. 3
+  - Loi n°2010-788 du 12 juillet 2010 - art. 211 (V)
 
 _Cite_:
 

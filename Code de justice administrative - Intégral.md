@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -101,7 +101,7 @@ Version Consolidée au 2011-07-01
       - [Titre VII : Dispositions spéciales (art. LO771-1 à L778-1)](#98)
         - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. LO771-1 à LO771-2)](#99)
         - [Chapitre IV : Les contraventions de grande voirie (art. L774-1 à L774-13)](#100)
-        - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière et des décisions relatives au séjour assorties d'une obligation de quitter le territoire français (art. L776-1 à L776-2)](#101)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire français et des arrêtés de reconduite à la frontière (art. L776-1 à L776-2)](#101)
         - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile (art. L777-1)](#102)
         - [Chapitre VIII : Le contentieux du droit au logement (art. L778-1)](#103)
       - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer (art. L781-1)](#104)
@@ -149,10 +149,10 @@ Version Consolidée au 2011-07-01
           - [Section 1 : Dispositions communes (art. R221-1 à R221-2)](#146)
           - [Section 2 : Organisation des tribunaux administratifs (art. R221-3 à R221-6)](#147)
           - [Section 3 : Organisation des cours administratives d'appel (art. R221-7 à R221-8)](#148)
-        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-34)](#149)
+        - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel (art. R222-1 à R222-32)](#149)
           - [Section 1 : Dispositions communes (art. R222-1 à R222-12)](#150)
           - [Section 2 : Fonctionnement des tribunaux administratifs (art. R222-13 à R222-24)](#151)
-          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-34)](#152)
+          - [Section 3 : Fonctionnement des cours administratives d'appel (art. R222-25 à R222-32)](#152)
         - [Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon (art. R223-1 à R223-10)](#153)
           - [Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par les tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon (art. R223-5 à R223-8)](#154)
           - [Section 2 : Le contrôle juridictionnel spécifique des actes des conseils territoriaux de Saint-Barthélemy et de Saint-Martin intervenant dans le domaine de la loi (art. R223-9 à R223-10)](#155)
@@ -295,28 +295,30 @@ Version Consolidée au 2011-07-01
           - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#292)
         - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#293)
         - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#294)
-        - [Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français. (art. R775-1 à R775-10)](#295)
-        - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière (art. R776-1 à R776-20)](#296)
-        - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#297)
-        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-8)](#298)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#299)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#300)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#301)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#302)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#303)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#304)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#305)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#306)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#307)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#308)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#309)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#310)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#311)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#312)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#313)
-      - [Titre Ier : Principes (art. R911-1)](#314)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#315)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#316)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#295)
+          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#296)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#297)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#298)
+        - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R777-1)](#299)
+        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-8)](#300)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-9)](#301)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#302)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#303)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#304)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#305)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#306)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#307)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#308)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#309)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#310)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#311)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#312)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#313)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#314)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#315)
+      - [Titre Ier : Principes (art. R911-1)](#316)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#317)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#318)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -1661,18 +1663,21 @@ _Anciens textes_:
 
 Le président du tribunal administratif peut désigner un magistrat administratif honoraire choisi parmi les magistrats
 inscrits, pour une durée de trois ans renouvelable, sur une liste arrêtée par le vice-président du Conseil d'Etat, pour
-statuer sur les litiges relatifs aux arrêtés de reconduite à la frontière.
+statuer sur les recours en annulation dont le tribunal administratif est saisi en application du III de l'article L. 512-1 du
+code de l'entrée et du séjour des étrangers et du droit d'asile et sur ceux formés contre les arrêtés de reconduite à la
+frontière.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Créé par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Cité par_:
 
@@ -1687,6 +1692,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (VD)
   - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 50
 
 
 ##### Section 3 : Fonctionnement des cours administratives d'appel<a id=37></a>
@@ -5617,33 +5626,38 @@ _Cite_:
   - Code de justice administrative - art. L774-2 (V)
 
 
-#### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière et des décisions relatives au séjour assorties d'une obligation de quitter le territoire français<a id=101></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire français et des arrêtés de reconduite à la frontière<a id=101></a>
 
 ###### Article L776-1
 
-Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les arrêtés
-préfectoraux de reconduite à la frontière ainsi que contre les décisions relatives au séjour lorsqu'elles sont assorties
-d'une obligation de quitter le territoire français obéissent, sous réserve des dispositions des articles L. 514-1, L. 514-2
-et L. 532-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, aux règles définies par les articles L. 512-1
-et L. 512-2 à L. 512-4 du même code.
+Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les obligations de
+quitter le territoire français, les décisions relatives au séjour qu'elles accompagnent, les interdictions de retour sur le
+territoire français et les arrêtés de reconduite à la frontière pris en application de l'article L. 533-1 du code de l'entrée
+et du séjour des étrangers et du droit d'asile obéissent, sous réserve des articles L. 514-1, L. 514-2 et L. 532-1 du même
+code, aux règles définies par les articles L. 512-1, L. 512-3 et L. 512-4 dudit code.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2006-911 2006-07-24 art. 76 II, III JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 50
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L532-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
 
 _Cité par_:
 
@@ -5658,31 +5672,30 @@ _Anciens textes_:
 ###### Article L776-2
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les décisions fixant
-le pays de renvoi qui accompagnent les arrêtés préfectoraux de reconduite à la frontière obéissent aux règles définies par
-l'article L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, ci-après reproduit : 
+le pays de renvoi qui accompagnent les obligations de quitter le territoire français et les arrêtés de reconduite à la
+frontière pris en application de l'article L. 533-1 du code de l'entrée et du séjour des étrangers et du droit d'asile
+obéissent aux règles définies par l'article L. 513-3 du même code.
 
-" Art.L. 513-3 : La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même. 
+**Nota:**
 
-Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de reconduite à la frontière, le recours contentieux
-contre cette décision n'est suspensif d'exécution, dans les conditions prévues au dernier alinéa de l'article L. 512-3, que
-s'il est présenté au président du tribunal administratif en même temps que le recours contre la mesure de reconduite à la
-frontière qu'elle vise à exécuter ".
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 27 ter
-
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 64
-  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 50
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
 
 _Cité par_:
 
@@ -10804,69 +10817,6 @@ _Modifié par_:
 _Cite_:
 
   - Code de justice administrative - art. R222-23 (V)
-
-
-###### Article R222-33
-
-Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application de la seconde phrase du deuxième
-alinéa de l'article L. 512-1, de l'article L. 512-2 ou du second alinéa de l'article L. 513-3 du code de l'entrée et du
-séjour des étrangers et du droit d'asile, la décision est rendue par le président de la cour ou le magistrat qu'il désigne à
-cette fin parmi les membres de la juridiction.
-
-Le président ou le magistrat qu'il désigne peut statuer par ordonnance dans les cas prévus à l'article R. 222-1. Il peut,
-dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation de la
-décision attaquée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 du 4 mai 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art. 11 : champ d'application
-
-_Modifié par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 8 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
-  - Code de justice administrative - art. R222-1
-
-_Cité par_:
-
-  - Code de justice administrative - art. R222-34 (Ab)
-
-
-###### Article R222-34
-
-Les dispositions du deuxième alinéa de l'article R. 222-33 sont également applicables lorsque la cour administrative d'appel
-statue en appel sur un litige portant sur une décision prise en application du I de l'article L. 511-1 du code de l'entrée et
-du séjour des étrangers et du droit d'asile.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-164 du 22 février 2010 - art. 21
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
-  - Code de justice administrative - art. R222-33
 
 
 #### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon<a id=153></a>
@@ -22523,248 +22473,35 @@ _Cité par_:
   - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
-#### Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français.<a id=295></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=295></a>
 
-###### Article R775-1
-
-Les requêtes dirigées contre les décisions relatives au séjour mentionnées au I de l'article L. 511-1 du code de l'entrée et
-du séjour des étrangers et du droit d'asile assorties d'une obligation de quitter le territoire français sont présentées,
-instruites et jugées selon les dispositions du présent code, sous réserve des dispositions du présent chapitre.
-
-Toutefois, lorsque l'étranger est placé en rétention avant que le tribunal ait rendu sa décision, les dispositions du
-chapitre VI du présent titre sont alors applicables au jugement des conclusions dirigées contre l'obligation de quitter le
-territoire français et la décision fixant le pays de renvoi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006 rectificatif JORF 6 janvier 2007
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
-
-
-###### Article R775-2
-
-Le délai de recours est d'un mois à compter de la notification de la décision attaquée. Il n'est pas prorogé par l'exercice
-d'un recours administratif préalable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-
-###### Article R775-3
-
-Lorsqu'une décision relative au séjour assortie d'une obligation de quitter le territoire français fait l'objet de deux ou
-plusieurs requêtes, celle-ci peuvent faire l'objet d'un enregistrement unique et d'une instruction commune.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-
-###### Article R775-4
-
-Le président de la formation de jugement peut, dès l'enregistrement de la requête, faire usage du pouvoir prévu au premier
-alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera close. Il peut, par la même ordonnance, fixer la
-date et l'heure de l'audience au cours de laquelle l'affaire sera appelée. Dans ce cas, l'ordonnance tient lieu de
-l'avertissement prévu à l'article R. 711-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cite_:
-
-  - Code de justice administrative. - art. R613-1 (M)
-  - Code de justice administrative. - art. R711-2 (M)
-
-
-###### Article R775-5
-
-Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
-doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
-été enregistrée.
-
-Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
-complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cité par_:
-
-  - Code de justice administrative - art. R775-10 (V)
-
-
-###### Article R775-6
-
-Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
-sans mise en demeure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cité par_:
-
-  - Code de justice administrative - art. R775-7 (V)
-
-
-###### Article R775-7
-
-Les décisions prises pour l'instruction des affaires sont notifiées aux parties par tous moyens.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-
-###### Article R775-8
-
-En cas de notification au tribunal administratif par le préfet ou, à Paris, par le préfet de police de sa décision de
-placement en rétention de l'étranger avant que le tribunal ait rendu sa décision, le président du tribunal ou le magistrat
-qu'il désigne transmet, s'il y a lieu, l'affaire, dans les formes prévues au premier alinéa de l'article R. 351-6, au
-tribunal administratif dans le ressort duquel est situé le centre de rétention administrative dans lequel l'étranger est
-placé, sauf si elle est en état d'être jugée. Les actes de procédure accomplis régulièrement devant le tribunal administratif
-saisi en premier lieu restent valables devant le tribunal auquel est transmise l'affaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-_Cite_:
-
-  - Code de justice administrative. - art. R351-6 (M)
-
-
-###### Article R775-9
-
-Le jugement est notifié aux parties par tous moyens.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-
-###### Article R775-10
-
-Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification du jugement
-lui a été faite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-
-#### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière<a id=296></a>
+##### Section 1 : Dispositions communes<a id=296></a>
 
 ###### Article R776-1
 
-Les dispositions suivantes sont seules applicables à la présentation, à l'instruction et au jugement des recours en
-annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 776-2.
+Sont présentées, instruites et jugées selon les dispositions de l'article L. 512-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile et celles du présent code, sous réserve des dispositions du présent chapitre, les requêtes
+dirigées contre : 
+
+1° Les décisions portant obligation de quitter le territoire français, prévues au I de l'article L. 511-1 et à l'article L.
+511-3-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, ainsi que les décisions relatives au séjour
+notifiées avec les décisions portant obligation de quitter le territoire français ; 
+
+2° Les décisions relatives au délai de départ volontaire prévues au II de l'article L. 511-1 du même code ; 
+
+3° Les interdictions de retour sur le territoire français prévues au III du même article ; 
+
+4° Les décisions fixant le pays de renvoi prévues à l'article L. 513-3 du même code ; 
+
+5° Les arrêtés de reconduite à la frontière prévus à l'article L. 533-1 du même code ; 
+
+6° Les décisions de placement en rétention et les décisions d'assignation à résidence prévues à l'article L. 551-1 et à
+l'article L. 561-2 du même code. 
+
+Sont instruites et jugées dans les mêmes conditions les conclusions tendant à l'annulation d'une autre mesure d'éloignement
+prévue au livre V du code de l'entrée et du séjour des étrangers et du droit d'asile, à l'exception des arrêtés d'expulsion,
+présentées dans le cadre d'une requête dirigée contre la décision de placement en rétention ou d'assignation à résidence
+prise au titre de cette mesure.
 
 **Liens relatifs à cet article**
 
@@ -22784,16 +22521,21 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. L776-1 (M)
-  - Code de justice administrative. - art. L776-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L533-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
 _Anciens textes_:
 
@@ -22802,14 +22544,31 @@ _Anciens textes_:
 
 ###### Article R776-2
 
-Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
-rapporteur public.
+I.-Conformément aux dispositions du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, la notification d'une obligation de quitter le territoire français avec délai de départ volontaire fait courir un
+délai de trente jours pour contester cette obligation ainsi que les décisions relatives au séjour, au délai de départ
+volontaire, au pays de renvoi et à l'interdiction de retour notifiées simultanément. 
+
+Lorsque le délai de recours mentionné au premier alinéa n'est pas expiré à la date à laquelle l'autorité compétente notifie à
+l'intéressé la décision de supprimer le délai de départ volontaire en application du dernier alinéa du II de l'article L.
+511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, ce délai de recours expire quarante-huit heures
+après cette notification. La décision de supprimer le délai de départ volontaire peut être contestée dans le même délai. 
+
+II.-Conformément aux dispositions du II de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, la notification par voie administrative d'une obligation de quitter sans délai le territoire français fait courir un
+délai de quarante-huit heures pour contester cette obligation et les décisions relatives au séjour, à la suppression du délai
+de départ volontaire, au pays de renvoi et à l'interdiction de retour notifiées simultanément.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
 
 _Cité par_:
 
@@ -22824,9 +22583,402 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-2 (Ab)
 
 
-###### Article R776-2-1
+###### Article R776-3
 
-Le président du tribunal administratif ou le magistrat qu'il délègue peut, par ordonnance :
+Conformément aux dispositions du premier alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et
+du droit d'asile, les interdictions de retour sur le territoire français prises en application du troisième alinéa du III de
+l'article L. 511-1 de ce code à l'encontre d'étrangers s'étant maintenus sur le territoire français au-delà du délai de
+départ volontaire peuvent faire l'objet d'un recours contentieux dans les trente jours de leur notification. 
+
+Le même délai s'applique pour la contestation des décisions prolongeant les interdictions de retour, prises en application du
+sixième alinéa du III de l'article L. 511-1 du même code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-5 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-3 (Ab)
+
+
+###### Article R776-4
+
+Conformément aux dispositions du III de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, le délai de recours contentieux contre les décisions de placement en rétention et les décisions d'assignation à
+résidence prises en application de l'article L. 561-2 du code de l'entrée et du séjour des étrangers et du droit d'asile est
+de quarante-huit heures. Ce délai court à compter de la notification de la décision par voie administrative. 
+
+Le même délai s'applique pour la contestation des arrêtés de reconduite à la frontière et des décisions fixant le pays de
+renvoi prises pour leur exécution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-5 (V)
+  - Code de justice administrative - art. R777-3-9 (VD)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-4 (Ab)
+
+
+###### Article R776-5
+
+I.-Le délai de recours contentieux de trente jours mentionné aux articles R. 776-2 et R. 776-3 n'est pas prorogé par
+l'exercice d'un recours administratif. 
+
+II.-Le délai de quarante-huit heures mentionné aux articles R. 776-2 et R. 776-4 n'est susceptible d'aucune prorogation. 
+
+Lorsque le délai est de quarante-huit heures, le second alinéa de l'article R. 411-1 n'est pas applicable et l'expiration du
+délai n'interdit pas au requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à laquelle ils se
+rattachent. 
+
+Le requérant qui, dans le délai de quarante-huit heures, a demandé l'annulation de l'une des décisions qui lui ont été
+notifiées simultanément peut, jusqu'à la clôture de l'instruction, former des conclusions dirigées contre toute autre de ces
+décisions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R411-1
+  - Code de justice administrative - art. R776-2
+  - Code de justice administrative - art. R776-3
+
+_Cité par_:
+
+  - Code de justice administrative - art. R777-3-9 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-6
+
+Les conclusions dirigées contre des décisions mentionnées à l'article R. 776-1 notifiées simultanément peuvent être
+présentées dans la même requête.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R776-1
+
+_Cité par_:
+
+  - Code de justice administrative - art. R777-3-9 (VD)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-7
+
+Les mesures prises pour l'instruction des affaires, l'avis d'audience et le jugement sont notifiés aux parties par tous
+moyens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Cité par_:
+
+  - Décret n°2005-222 du 10 mars 2005 - art. 4 (V)
+  - Code de justice administrative - art. R777-1-4 (VD)
+  - Code de justice administrative - art. R777-2-3 (VD)
+  - Code de justice administrative - art. R777-3-6 (VD)
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-8
+
+Dès le dépôt de la requête, le président du tribunal administratif transmet au préfet compétent pour représenter l'Etat en
+défense copie du recours et des pièces qui y sont jointes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code de justice administrative - art. R777-2-3 (V)
+  - Code de justice administrative. - art. R776-13 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-9
+
+Le délai d'appel est d'un mois. Il court à compter du jour où le jugement a été notifié à la partie intéressée. Cette
+notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée. 
+
+Le président de la cour administrative d'appel ou le magistrat qu'il désigne à cet effet peut statuer par ordonnance dans les
+cas prévus à l'article R. 222-1. Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas
+susceptibles d'entraîner l'infirmation de la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R222-1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=297></a>
+
+###### Article R776-10
+
+Les dispositions de la présente section sont applicables aux recours dirigés contre les décisions mentionnées à l'article R.
+776-1, lorsque l'étranger n'est pas placé en rétention ou assigné à résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-10 (Ab)
+
+
+###### Article R776-11
+
+Le président de la formation de jugement ou le rapporteur qui a reçu délégation à cet effet peut, dès l'enregistrement de la
+requête, faire usage du pouvoir prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera
+close. Il peut, par la même ordonnance, fixer la date et l'heure de l'audience au cours de laquelle l'affaire sera appelée.
+Dans ce cas, l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R613-1 (V)
+  - Code de justice administrative - art. R711-2 (V)
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-17 (VD)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-11 (Ab)
+
+
+###### Article R776-12
+
+Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
+doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
+été enregistrée. 
+
+Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
+complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-12 (Ab)
+
+
+###### Article R776-13
+
+L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
+
+Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
+sans mise en demeure. 
+
+Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
+alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-13-2 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-13 (Ab)
+
+
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=298></a>
+
+###### Article R776-14
+
+La présente section est applicable aux recours dirigés contre les décisions mentionnées à l'article R. 776-1, lorsque
+l'étranger est placé en rétention ou assigné à résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Modifié par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 23 novembre 2011 - art. 3 (V)
+  - Décret n°2013-525 du 20 juin 2013 (V)
+  - Code de justice administrative. - art. R776-17 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R776-1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+_Anciens textes_:
+
+  - Code des tribunaux administratifs et des cours adm - art. R241-14 (Ab)
+
+
+###### Article R776-15
+
+Les jugements sont rendus, sans conclusions du rapporteur public, par le président du tribunal administratif ou le magistrat
+qu'il désigne à cet effet.
+
+Les attributions dévolues par les dispositions réglementaires du présent code à la formation de jugement ou à son président
+sont exercées par ce magistrat.
+
+Il peut, par ordonnance :
 
 1° Donner acte des désistements ;
 
@@ -22840,384 +22992,15 @@ _Codifié par_:
 
   - Décret n°2000-389 du 4 mai 2000
 
-_Créé par_:
-
-  - Décret n°2004-789 du 29 juillet 2004 - art. 1 () JORF 3 août 2004
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2011-819 du 8 juillet 2011 - art. 1
 
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-3
-
-Le tribunal administratif territorialement compétent est celui dans le ressort duquel a son siège le préfet qui a pris la
-décision.
-
-Toutefois, lorsque le recours est formé par un étranger placé dans un centre de rétention administrative, le tribunal
-administratif compétent est celui dans le ressort duquel est situé le centre où se trouve le requérant lors de l'introduction
-de sa requête.
-
-Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il estime ressortir à la compétence du président
-d'un autre tribunal administratif, il lui transmet le dossier sans délai et par tous moyens.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Modifié par_:
-
-  - Décret n°2004-789 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
-
-_Cité par_:
-
-  - Code de justice administrative - art. R776-5 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-3 (Ab)
-
-
-###### Article R776-4
-
-La requête doit contenir les nom et adresse du requérant ainsi que l'exposé des faits et des motifs pour lesquels
-l'annulation est demandée. Elle est présentée en un seul exemplaire.
-
-La décision attaquée est produite par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R776-5 (V)
-  - Code de justice administrative - art. R777-3-9 (VD)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-4 (Ab)
-
-
-###### Article R776-5
-
-Les requêtes mentionnées à l'article R. 776-1 peuvent être présentées sans ministère d'avocat.
-
-L'étranger peut, dès le dépôt de sa requête, demander qu'un avocat soit désigné d'office ; le président du tribunal
-administratif en informe aussitôt le bâtonnier de l'ordre des avocats près le tribunal de grande instance dans le ressort
-duquel se tiendra l'audience. Le bâtonnier effectue la désignation sans délai.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R777-3-9 (V)
-
 _Cite_:
 
-  - Code de justice administrative. - art. R776-1 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-5 (Ab)
-
-
-###### Article R776-6
-
-La requête doit être enregistrée au greffe du tribunal administratif dans les délais visés à l'article L. 776-1.
-
-Toutefois, si, au moment de la notification de l'arrêté, l'étranger est retenu par l'autorité administrative, sa requête peut
-valablement être déposée dans le même délai, soit auprès de ladite autorité administrative, soit au greffe du tribunal devant
-lequel il comparaît en vue de la prorogation de sa rétention administrative.
-
-Dans le cas prévu à l'alinéa précédent, mention du dépôt est faite sur un registre ouvert à cet effet. Un récépissé indiquant
-la date et l'heure du dépôt est délivré au requérant.
-
-L'autorité qui a reçu la requête la transmet sans délai et par tous moyens au président du tribunal administratif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R777-3-9 (VD)
-
-_Cite_:
-
-  - Code de justice administrative. - art. L776-1 (M)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-6 (Ab)
-
-
-###### Article R776-7
-
-A son arrivée au greffe, la requête est marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et
-l'heure de leur arrivée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Décret n°2005-222 du 10 mars 2005 - art. 4 (V)
-  - Code de justice administrative - art. R777-1-4 (VD)
-  - Code de justice administrative - art. R777-2-3 (VD)
-  - Code de justice administrative - art. R777-3-6 (VD)
-
-_Modifié par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 9 () JORF 29 décembre 2006
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-7 (Ab)
-
-
-###### Article R776-8
-
-L'Etat est représenté en défense par le préfet qui a pris l'arrêté attaqué. Dès le dépôt de la requête, le président du
-tribunal administratif lui transmet copie de celle-ci et des pièces qui y sont jointes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R777-2-3 (V)
-  - Code de justice administrative. - art. R776-13 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-8 (Ab)
-
-
-###### Article R776-9
-
-Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
-de l'heure d'enregistrement de la requête au greffe du tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2004-789 du 29 juillet 2004 - art. 3 () JORF 3 août 2004
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-9 (Ab)
-
-
-###### Article R776-10
-
-Les parties doivent être averties par tous moyens de la date, de l'heure et du lieu de l'audience.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-10 (Ab)
-
-
-###### Article R776-11
-
-Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le demande, le président nomme un interprète
-qui doit prêter serment d'apporter son concours à la justice en son honneur et en sa conscience. Cette demande peut être
-formulée dès le dépôt de la requête introductive d'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R776-17 (VD)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-11 (Ab)
-
-
-###### Article R776-12
-
-Jusqu'au moment où l'affaire est appelée, les parties peuvent présenter des conclusions ou observations écrites.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-12 (Ab)
-
-
-###### Article R776-13
-
-Après le rapport fait par le président du tribunal administratif ou son délégué, les parties peuvent présenter en personne ou
-par un avocat des observations orales. Elles peuvent également produire des documents à l'appui de leurs conclusions. Si ces
-documents apportent des éléments nouveaux, le magistrat demande à l'autre partie de les examiner et de lui faire part à
-l'audience de ses observations.
-
-Sans préjudice de l'article R. 776-8, les observations orales peuvent être présentées au nom de l'Etat par le préfet du
-département dans lequel est situé le centre de rétention administrative où se trouve l'étranger lors de l'introduction de son
-recours et, si le centre de rétention administrative est situé à Paris, par le préfet de police.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Modifié par_:
-
-  - Décret n°2004-789 du 29 juillet 2004 - art. 4 () JORF 3 août 2004
-
-_Cité par_:
-
-  - Code de justice administrative - art. R776-13-2 (V)
-
-_Cite_:
-
-  - Code de justice administrative. - art. R776-8 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-13 (Ab)
-
-
-###### Article R776-14
-
-Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative ou s'il
-l'était lorsqu'il a formé son recours.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2004-789 du 29 juillet 2004 - art. 5 () JORF 3 août 2004
-
-_Cité par_:
-
-  - Arrêté du 23 novembre 2011 - art. 3 (V)
-  - Décret n°2013-525 du 20 juin 2013 (V)
-  - Code de justice administrative. - art. R776-17 (V)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-14 (Ab)
-
-
-###### Article R776-15
-
-Le jugement comporte, sous réserve des dispositions du présent chapitre, les mentions prévues aux articles R. 741-2, R. 741-3
-et R. 741-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+  - Code de justice administrative - art. R741-2
+  - Code de justice administrative - art. R741-3
+  - Code de justice administrative - art. R741-6
 
 _Cité par_:
 
@@ -23225,11 +23008,9 @@ _Cité par_:
   - Code de justice administrative - art. R777-2-3 (VD)
   - Code de justice administrative - art. R777-3-6 (VD)
 
-_Cite_:
+**Liens**:
 
-  - Code de justice administrative. - art. R741-2 (M)
-  - Code de justice administrative. - art. R741-3 (M)
-  - Code de justice administrative. - art. R741-6 (V)
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 _Anciens textes_:
 
@@ -23238,23 +23019,41 @@ _Anciens textes_:
 
 ###### Article R776-16
 
-La minute du jugement est signée par le magistrat qui l'a rendu.
+Le tribunal administratif territorialement compétent est celui dans le ressort duquel se trouve le lieu où le requérant est
+placé en rétention ou assigné à résidence au moment de l'introduction de la requête ou, si elle a été introduite avant le
+placement en rétention ou l'assignation à résidence, au moment où cette mesure est décidée. 
+
+Toutefois, lorsque, avant la tenue de l'audience, l'étranger est transféré dans un autre lieu de rétention, le président du
+tribunal administratif peut décider, dans l'intérêt d'une bonne administration de la justice, par une décision insusceptible
+de recours, de transmettre le dossier au tribunal administratif dans le ressort duquel est situé le nouveau lieu de
+rétention. 
+
+Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il estime relever de la compétence d'un autre
+tribunal administratif, il lui transmet le dossier sans délai et par tous moyens, dans les formes prévues au premier alinéa
+de l'article R. 351-6.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R351-6
 
 _Cité par_:
 
   - Code de justice administrative - art. R776-30 (V)
   - Code de justice administrative - art. R777-2-3 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 _Anciens textes_:
 
@@ -23263,31 +23062,38 @@ _Anciens textes_:
 
 ###### Article R776-17
 
-Le dispositif du jugement prononcé dans les conditions prévues à l'article R. 776-14, assorti de la formule exécutoire prévue
-à l'article R. 751-1, est communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt réception.
+Lorsque l'étranger est placé en rétention ou assigné à résidence après avoir introduit un recours contre la décision portant
+obligation de quitter le territoire ou après avoir déposé une demande d'aide juridictionnelle en vue de l'introduction d'un
+tel recours, la procédure se poursuit selon les règles prévues par la présente section. Les actes de procédure précédemment
+accomplis demeurent valables. L'avis d'audience se substitue, le cas échéant, à celui qui avait été adressé aux parties en
+application de l'article R. 776-11.
 
-S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous moyens aux parties qui en accusent réception.
+Toutefois, lorsque le requérant a formé des conclusions contre la décision relative au séjour notifiée avec une obligation de
+quitter le territoire, la formation collégiale demeure saisie de ces conclusions, sur lesquelles elle se prononce dans les
+conditions prévues par la section 2. 
 
-La notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée.
+Lorsque le requérant est placé en rétention ou assigné à résidence en dehors du ressort du tribunal administratif qu'il a
+saisi en application des dispositions de la section 2, le dossier est transmis au tribunal administratif dans le ressort
+duquel se trouve le lieu de rétention ou d'assignation à résidence. Toutefois, le tribunal initialement saisi demeure
+compétent pour connaître des conclusions dirigées contre la décision relative au séjour.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2004-789 du 29 juillet 2004 - art. 6 () JORF 3 août 2004
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R776-11 (V)
 
 _Cité par_:
 
   - Code de justice administrative - art. R776-20 (V)
-
-_Cite_:
-
-  - Code de justice administrative. - art. R751-1 (V)
-  - Code de justice administrative. - art. R776-14 (M)
 
 **Liens**:
 
@@ -23300,18 +23106,19 @@ _Anciens textes_:
 
 ###### Article R776-18
 
-Les frais d'interprète sont liquidés dans les conditions prévues par l'article R. 122 du code de procédure pénale.
+La requête est présentée en un seul exemplaire. 
+
+Les décisions attaquées sont produites par l'administration.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
 
 _Cité par_:
 
@@ -23320,9 +23127,13 @@ _Cité par_:
   - Code de justice administrative - art. R777-2-3 (VD)
   - Code de justice administrative - art. R777-3-6 (VD)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R122 (M)
+  - Code de procédure pénale - art. R122
 
 _Anciens textes_:
 
@@ -23331,28 +23142,37 @@ _Anciens textes_:
 
 ###### Article R776-19
 
-Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
-administrative d'appel ou un magistrat désigné par lui. Cet appel n'est pas suspensif.
+Si, au moment de la notification d'une décision mentionnée à l'article R. 776-1, l'étranger est retenu par l'autorité
+administrative, sa requête peut valablement être déposée, dans le délai de recours de contentieux, auprès de ladite autorité
+administrative. 
+
+Dans le cas prévu à l'alinéa précédent, mention du dépôt est faite sur un registre ouvert à cet effet. Un récépissé indiquant
+la date et l'heure du dépôt est délivré au requérant. 
+
+L'autorité qui a reçu la requête la transmet sans délai et par tous moyens au président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 10 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R776-1
 
 _Cité par_:
 
   - Code de justice administrative - art. R776-31 (V)
   - Code de justice administrative - art. R777-1-4 (VD)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 _Anciens textes_:
 
@@ -23361,34 +23181,194 @@ _Anciens textes_:
 
 ###### Article R776-20
 
-Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification a été faite à
-cette partie dans les conditions prévues à l'article R. 776-17, troisième alinéa.
+L'Etat est représenté en défense par le préfet du département où est situé le lieu de rétention ou d'assignation à résidence
+ou, si ce lieu est situé à Paris, par le préfet de police.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R776-17
 
 _Cité par_:
 
   - Code de justice administrative - art. R776-32 (V)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-21
+
+Le président du tribunal administratif ou le magistrat désigné statue dans le délai de soixante-douze heures prévu au
+deuxième alinéa du III de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile. 
+
+Ce délai court à partir de l'heure d'enregistrement de la requête au greffe du tribunal. Lorsque l'étranger est placé en
+rétention ou assigné à résidence après avoir introduit un recours contre la décision portant obligation de quitter le
+territoire, il court à compter de la transmission par le préfet de la décision de placement en rétention ou d'assignation à
+résidence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
 _Cite_:
 
-  - Code de justice administrative. - art. R776-17 (M)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R241-20 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
 
 
-#### Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=297></a>
+###### Article R776-22
+
+L'étranger peut, au plus tard avant le début de l'audience, demander qu'un avocat soit désigné d'office. Il en est informé
+par le greffe du tribunal au moment de l'introduction de sa requête. 
+
+Quand l'étranger a demandé qu'un avocat soit désigné d'office, le président du tribunal administratif ou le magistrat désigné
+en informe aussitôt le bâtonnier de l'ordre des avocats près le tribunal de grande instance dans le ressort duquel se tiendra
+l'audience. Le bâtonnier effectue la désignation sans délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-13-2 (V)
+  - Code de justice administrative - art. R777-1-4 (VD)
+  - Code de justice administrative - art. R777-2-3 (VD)
+  - Code de justice administrative - art. R777-3-6 (VD)
+
+
+###### Article R776-23
+
+Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le demande, le président nomme un interprète
+qui doit prêter serment d'apporter son concours à la justice en son honneur et en sa conscience. Cette demande peut être
+formulée dès le dépôt de la requête introductive d'instance. Lors de l'enregistrement de la requête, le greffe informe au
+besoin l'intéressé de la possibilité de présenter une telle demande. 
+
+Les frais d'interprète sont liquidés dans les conditions prévues à l'
+article R. 122 du code de procédure pénale
+.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. R122
+
+
+###### Article R776-24
+
+Après le rapport fait par le président du tribunal administratif ou par le magistrat désigné, les parties peuvent présenter
+en personne ou par un avocat des observations orales. Elles peuvent également produire des documents à l'appui de leurs
+conclusions. Si ces documents apportent des éléments nouveaux, le magistrat demande à l'autre partie de les examiner et de
+lui faire part à l'audience de ses observations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R776-25
+
+L'information des parties prévue aux articles R. 611-7 et R. 612-1 peut être accomplie au cours de l'audience.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R611-7
+  - Code de justice administrative - art. R612-1
+
+
+###### Article R776-26
+
+L'instruction est close soit après que les parties ont formulé leurs observations orales, soit, si ces parties sont absentes
+ou ne sont pas représentées, après appel de leur affaire à l'audience.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-13-2 (V)
+
+
+###### Article R776-27
+
+Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative. 
+
+A moins qu'un procès-verbal d'audience signé par le juge et par l'agent chargé du greffe de l'audience ait été établi, le
+jugement mentionne les moyens nouveaux soulevés par les parties lors de l'audience. 
+
+Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R. 751-1 est communiqué sur place aux parties
+présentes à l'audience, qui en accusent aussitôt réception. 
+
+En cas d'annulation de la seule décision refusant à l'intéressé le délai de départ volontaire, la notification du jugement
+lui rappelle son obligation de quitter le territoire français dans le délai qui lui sera fixé par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R751-1 (V)
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-13-2 (V)
+  - Code de justice administrative - art. R777-1-4 (VD)
+  - Code de justice administrative - art. R777-2-3 (VD)
+  - Code de justice administrative - art. R777-3-6 (VD)
+
+
+###### Article R776-28
+
+L'appel est formé devant le président de la cour administrative d'appel. 
+
+La décision est rendue par le président de la cour ou le magistrat qu'il désigne à cette fin parmi les membres de la
+juridiction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code de justice administrative - art. R776-13-2 (V)
+
+
+#### Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=299></a>
 
 ###### Article R777-1
 
@@ -23414,7 +23394,7 @@ _Modifié par_:
   - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
-#### Chapitre VIII : Le contentieux du droit au logement<a id=298></a>
+#### Chapitre VIII : Le contentieux du droit au logement<a id=300></a>
 
 ###### Article R778-1
 
@@ -23619,9 +23599,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L302-7
 
 
-#### Chapitre IX : Autres dispositions<a id=299></a>
+#### Chapitre IX : Autres dispositions<a id=301></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=300></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=302></a>
 
 ###### Article R779-1
 
@@ -23771,7 +23751,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=301></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=303></a>
 
 ###### Article R779-9
 
@@ -23799,7 +23779,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=302></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=304></a>
 
 ###### Article R781-1
 
@@ -23856,9 +23836,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=303></a>
+## Livre VIII : Les voies de recours.<a id=305></a>
 
-### Titre Ier : L'appel<a id=304></a>
+### Titre Ier : L'appel<a id=306></a>
 
 ###### Article R811-1
 
@@ -24519,9 +24499,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=305></a>
+### Titre II : Le recours en cassation<a id=307></a>
 
-#### Chapitre Ier : Dispositions générales<a id=306></a>
+#### Chapitre Ier : Dispositions générales<a id=308></a>
 
 ###### Article R821-1
 
@@ -24669,7 +24649,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=307></a>
+#### Chapitre II : Procédure d'admission<a id=309></a>
 
 ###### Article R822-1
 
@@ -24847,9 +24827,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=308></a>
+### Titre III : Autres voies de recours<a id=310></a>
 
-#### Chapitre Ier : L'opposition<a id=309></a>
+#### Chapitre Ier : L'opposition<a id=311></a>
 
 ###### Article R831-1
 
@@ -24980,7 +24960,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=310></a>
+#### Chapitre II : La tierce opposition<a id=312></a>
 
 ###### Article R832-1
 
@@ -25090,7 +25070,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=311></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=313></a>
 
 ###### Article R833-1
 
@@ -25145,7 +25125,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=312></a>
+#### Chapitre IV : Le recours en révision<a id=314></a>
 
 ###### Article R834-1
 
@@ -25235,9 +25215,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=313></a>
+## Livre IX : L'exécution des décisions<a id=315></a>
 
-### Titre Ier : Principes<a id=314></a>
+### Titre Ier : Principes<a id=316></a>
 
 ###### Article R911-1
 
@@ -25260,7 +25240,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=315></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=317></a>
 
 ###### Article R921-1
 
@@ -25489,7 +25469,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=316></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=318></a>
 
 ###### Article R931-1
 

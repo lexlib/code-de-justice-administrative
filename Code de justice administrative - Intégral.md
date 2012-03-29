@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-03-30
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -23991,7 +23991,7 @@ _Cite_:
 
 Lorsque le président du tribunal administratif ou le magistrat désigné à cet effet constate, d'office ou sur la saisine du
 requérant, que l'injonction prononcée n'a pas été exécutée, il procède à la liquidation de l'astreinte en faveur du fonds
-prévu au dernier alinéa de l'article L. 302-7 du code de la construction et de l'habitation. 
+prévu à l'article L. 300-2 du code de la construction et de l'habitation. 
 
 Le président du tribunal administratif ou le magistrat désigné à cet effet peut statuer par ordonnance, dans les conditions
 prévues par le chapitre II du titre IV du livre VII du présent code, après avoir invité les parties à présenter leurs
@@ -24004,13 +24004,13 @@ l'astreinte.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 31
+  - Décret n°2012-415 du 23 mars 2012 - art. 3
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L302-7
+  - Code de la construction et de l'habitation. - art. L300-2
 
 
 #### Chapitre IX : Autres dispositions<a id=305></a>

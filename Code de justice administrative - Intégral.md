@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-06-20
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -14692,18 +14692,21 @@ _Anciens textes_:
 ###### Article R312-16
 
 Les contestations relatives à l'application de la contribution spéciale instituée par les articles L. 8253-1 et L. 8253-7 du
-code du travail sont portées devant le tribunal administratif dans le ressort duquel l'infraction a été constatée.
+code du travail et de la contribution forfaitaire instituée par l'article L. 626-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile sont portées devant le tribunal administratif dans le ressort duquel l'infraction a été
+constatée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+  - Décret n°2012-812 du 16 juin 2012 - art. 6
 
 _Cite_:
 
-  - Code du travail - art. L8253-1 (V)
-  - Code du travail - art. L8253-7 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
+  - Code du travail - art. L8253-1
+  - Code du travail - art. L8253-7
 
 
 ###### Article R312-17

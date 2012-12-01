@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-10-08
+Version Consolidée au 2012-12-02
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -16586,19 +16586,20 @@ _Anciens textes_:
 
 ###### Article R431-3
 
-Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas applicables :
+Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas applicables : 
 
-1° Aux litiges en matière de travaux publics, de contrats relatifs au domaine public, de contravention de grande voirie ;
+1° Aux litiges en matière de travaux publics, de contrats relatifs au domaine public, de contravention de grande voirie ; 
 
-2° Aux litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ;
+2° Aux litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ; 
 
 3° Aux litiges d'ordre individuel concernant les fonctionnaires ou agents de l'Etat et des autres personnes ou collectivités
-publiques ainsi que les agents ou employés de la Banque de France ;
+publiques ainsi que les agents ou employés de la Banque de France ; 
 
 4° Aux litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et
-d'indemnisation des rapatriés ;
+d'indemnisation des rapatriés ; 
 
-5° Aux litiges dans lesquels le défendeur est une collectivité territoriale ou un établissement public en relevant ;
+5° Aux litiges dans lesquels le défendeur est une collectivité territoriale, un établissement public en relevant ou un
+établissement public de santé ; 
 
 6° Aux demandes d'exécution d'un jugement définitif.
 
@@ -16606,23 +16607,19 @@ d'indemnisation des rapatriés ;
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 4
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Code de justice administrative - art. R431-2
 
 _Cité par_:
 
   - Code de justice administrative - art. R921-4 (Ab)
-
-_Cite_:
-
-  - Code de justice administrative. - art. R431-2 (V)
 
 _Anciens textes_:
 
@@ -16786,11 +16783,10 @@ _Anciens textes_:
 
 ###### Article R431-9
 
-Sous réserve des dispositions de l'article R. 431-10 du présent code, des dispositions des articles R. 5312-33 et R. 5312-34
-du code du travail et des dispositions spéciales attribuant compétence à une autre autorité en particulier, au directeur
-général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique
-hospitalière, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par
-le ministre intéressé. 
+Sous réserve des dispositions de l'article R. 431-10 du présent code et des dispositions spéciales attribuant compétence à
+une autre autorité, en particulier au directeur général du Centre national de gestion des praticiens hospitaliers et des
+personnels de direction    de la fonction publique hospitalière ou au directeur de l'agence régionale de santé, les recours,
+les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé. 
 
 Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur. 
 
@@ -16808,8 +16804,6 @@ _Cite_:
 
   - Décret n°2004-374 du 29 avril 2004 - art. 33
   - Code de justice administrative - art. R431-10
-  - Code du travail - art. R5312-33
-  - Code du travail - art. R5312-34
 
 _Cité par_:
 
@@ -16817,7 +16811,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 54
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 4
 
 
 ###### Article R431-10

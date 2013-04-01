@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-04-02
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -274,9 +274,9 @@ Version Consolidée au 2013-01-01
         - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#271)
         - [Chapitre VI : Le désistement (art. R636-1)](#272)
     - [Livre VII : Le jugement (art. R711-1 à R781-3)](#273)
-      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-1)](#274)
+      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-2)](#274)
         - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-4)](#275)
-        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1)](#276)
+        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1 à R712-2)](#276)
       - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#277)
       - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R733-3)](#278)
         - [Chapitre Ier : Dispositions générales (art. R731-1 à R731-5)](#279)
@@ -20960,6 +20960,40 @@ _Cite_:
 
   - Code de justice administrative - art. R731-1 (V)
   - Code de justice administrative - art. R733-1 (V)
+
+
+###### Article R712-2
+
+Les parties ou leur mandataire inscrits dans l'application informatique mentionnée à l'article R. 414-1 peuvent être avisés
+ou informés de l'inscription d'une affaire au rôle par le moyen de cette application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+_Cite_:
+
+  - Code de justice administrative - art. R414-1 (VD)
 
 
 ### Titre II : L'abstention et la récusation<a id=277></a>

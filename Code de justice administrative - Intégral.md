@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2013-10-03
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -211,7 +211,7 @@ Version Consolidée au 2013-09-01
       - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-9)](#208)
     - [Livre IV : L'introduction de l'instance de premier ressort (art. R411-1 à R441-1)](#209)
       - [Titre Ier : La requête introductive d'instance (art. R411-1 à R413-6)](#210)
-        - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-7)](#211)
+        - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-6)](#211)
         - [Chapitre II : Pièces jointes ou productions (art. R412-1 à R412-3)](#212)
         - [Chapitre III : Dépôt de la requête (art. R413-1 à R413-6)](#213)
       - [Titre II : Les délais (art. R421-1 à R421-7)](#214)
@@ -305,26 +305,27 @@ Version Consolidée au 2013-09-01
           - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#302)
           - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#303)
         - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile (art. R777-1 à R777-2)](#304)
-        - [Chapitre VIII : Le contentieux du droit au logement (art. R778-1 à R778-8)](#305)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#306)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#307)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#308)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#309)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#310)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#311)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#312)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#313)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#314)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#315)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#316)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#317)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#318)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#319)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#320)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#321)
-      - [Titre Ier : Principes (art. R911-1)](#322)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#323)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#324)
+        - [Chapitre VIII : Le contentieux du droit au logement (art.  à R777-2)](#305)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#306)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#307)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#308)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#309)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#310)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#311)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#312)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#313)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#314)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#315)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#316)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#317)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#318)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#319)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#320)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#321)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#322)
+      - [Titre Ier : Principes (art. R911-1)](#323)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#324)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#325)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -15886,59 +15887,6 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R93 (Ab)
 
 
-###### Article R411-7
-
-La présentation des requêtes dirigées contre un document d'urbanisme ou une décision relative à l'occupation ou l'utilisation
-du sol est régie par les dispositions de l'article R. 600-1 du code de l'urbanisme ci-après reproduit : 
-
-" Art.R. 600-1.-En cas de déféré du préfet ou de recours contentieux à l'encontre d'un certificat d'urbanisme, d'une décision
-de non-opposition à une déclaration préalable ou d'un permis de construire, d'aménager ou de démolir, le préfet ou l'auteur
-du recours est tenu, à peine d'irrecevabilité, de notifier son recours à l'auteur de la décision et au titulaire de
-l'autorisation. Cette notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à
-l'annulation ou à la réformation d'une décision juridictionnelle concernant un certificat d'urbanisme, une décision de non-
-opposition à une déclaration préalable ou un permis de construire, d'aménager ou de démolir. L'auteur d'un recours
-administratif est également tenu de le notifier à peine d'irrecevabilité du recours contentieux qu'il pourrait intenter
-ultérieurement en cas de rejet du recours administratif. 
-
-La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
-quinze jours francs à compter du dépôt du déféré ou du recours. 
-
-La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
-à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
-lettre recommandée auprès des services postaux.
-
-**Nota:**
-
-L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
-du 5 janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-389 2000-05-04
-
-_Modifié par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 12 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Abrogé par_:
-
-  - Décret n°2013-879 du 1er octobre 2013 - art. 2
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'urbanisme - art. R*600-1
-
-_Cite_:
-
-  - Code de l'urbanisme R600-1
-
-_Anciens textes_:
-
-  - Code de l'urbanisme R600-3
-
-
 #### Chapitre II : Pièces jointes ou productions<a id=212></a>
 
 ###### Article R412-1
@@ -23983,6 +23931,8 @@ _Cite_:
 
 #### Chapitre VIII : Le contentieux du droit au logement<a id=305></a>
 
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=306></a>
+
 ###### Article R778-1
 
 Sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve des dispositions particulières du
@@ -24186,9 +24136,21 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L300-2
 
 
-#### Chapitre IX : Autres dispositions<a id=306></a>
+###### Article R778-9
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=307></a>
+Le jugement des litiges relatifs aux documents d'urbanisme et aux autorisations d'urbanisme est régi par les dispositions du
+livre sixième du code de l'urbanisme et par celles du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-879 du 1er octobre 2013 - art. 2
+
+
+#### Chapitre IX : Autres dispositions<a id=307></a>
+
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=308></a>
 
 ###### Article R779-1
 
@@ -24338,7 +24300,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=308></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=309></a>
 
 ###### Article R779-9
 
@@ -24366,7 +24328,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=309></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=310></a>
 
 ###### Article R779-10
 
@@ -24385,7 +24347,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=310></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=311></a>
 
 ###### Article R781-1
 
@@ -24442,9 +24404,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=311></a>
+## Livre VIII : Les voies de recours.<a id=312></a>
 
-### Titre Ier : L'appel<a id=312></a>
+### Titre Ier : L'appel<a id=313></a>
 
 ###### Article R811-1
 
@@ -24492,6 +24454,26 @@ _Cite_:
 _Anciens textes_:
 
   - Code des tribunaux administratifs et des cours adm - art. R228 (Ab)
+
+
+###### Article R811-1-1
+
+Les tribunaux administratifs statuent en premier et dernier ressort sur les recours contre les permis de construire ou de
+démolir un bâtiment à usage principal d'habitation ou contre les permis d'aménager un lotissement lorsque le bâtiment ou le
+lotissement est implanté en tout ou partie sur le territoire d'une des communes mentionnées à l'article 232 du code général
+des impôts et son décret d'application. 
+
+Les dispositions du présent article s'appliquent aux recours introduits entre le 1er décembre 2013 et le 1er décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-879 du 1er octobre 2013 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 232 (V)
 
 
 ###### Article R811-2
@@ -25082,9 +25064,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=313></a>
+### Titre II : Le recours en cassation<a id=314></a>
 
-#### Chapitre Ier : Dispositions générales<a id=314></a>
+#### Chapitre Ier : Dispositions générales<a id=315></a>
 
 ###### Article R821-1
 
@@ -25232,7 +25214,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=315></a>
+#### Chapitre II : Procédure d'admission<a id=316></a>
 
 ###### Article R822-1
 
@@ -25410,9 +25392,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=316></a>
+### Titre III : Autres voies de recours<a id=317></a>
 
-#### Chapitre Ier : L'opposition<a id=317></a>
+#### Chapitre Ier : L'opposition<a id=318></a>
 
 ###### Article R831-1
 
@@ -25543,7 +25525,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=318></a>
+#### Chapitre II : La tierce opposition<a id=319></a>
 
 ###### Article R832-1
 
@@ -25653,7 +25635,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=319></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=320></a>
 
 ###### Article R833-1
 
@@ -25708,7 +25690,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=320></a>
+#### Chapitre IV : Le recours en révision<a id=321></a>
 
 ###### Article R834-1
 
@@ -25798,9 +25780,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=321></a>
+## Livre IX : L'exécution des décisions<a id=322></a>
 
-### Titre Ier : Principes<a id=322></a>
+### Titre Ier : Principes<a id=323></a>
 
 ###### Article R911-1
 
@@ -25823,7 +25805,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=323></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=324></a>
 
 ###### Article R921-1
 
@@ -26057,7 +26039,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=324></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=325></a>
 
 ###### Article R931-1
 

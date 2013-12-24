@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-10-03
+Version Consolidée au 2013-12-25
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -305,27 +305,26 @@ Version Consolidée au 2013-10-03
           - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#302)
           - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#303)
         - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile (art. R777-1 à R777-2)](#304)
-        - [Chapitre VIII : Le contentieux du droit au logement (art.  à R777-2)](#305)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#306)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#307)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#308)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#309)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#310)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#311)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#312)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#313)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#314)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#315)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#316)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#317)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#318)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#319)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#320)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#321)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#322)
-      - [Titre Ier : Principes (art. R911-1)](#323)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#324)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#325)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#305)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#306)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#307)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#308)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#309)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#310)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#311)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#312)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#313)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#314)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#315)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#316)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#317)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#318)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#319)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#320)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#321)
+      - [Titre Ier : Principes (art. R911-1)](#322)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#323)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#324)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -14262,7 +14261,7 @@ contrôle ou de régulation :
 
 - l'Agence française de lutte contre le dopage ;
 
-- L'Autorité de contrôle prudentiel et de résolution ;
+- l'Autorité de contrôle prudentiel et de résolution ;
 
 - l'Autorité de la concurrence ;
 
@@ -14283,6 +14282,8 @@ contrôle ou de régulation :
 - la Commission nationale de l'informatique et des libertés ;
 
 - la Commission nationale de contrôle des interceptions de sécurité ;
+
+- la Haute Autorité pour la transparence de la vie publique ; 
 
 - la commission nationale d'aménagement commercial ; 
 
@@ -14316,7 +14317,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Décret n°2013-1204 du 23 décembre 2013 - art. 17
 
 
 ###### Article R311-2
@@ -24009,9 +24010,7 @@ _Cite_:
   - Code de justice administrative - art. R312-1 (V)
 
 
-#### Chapitre VIII : Le contentieux du droit au logement<a id=305></a>
-
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=306></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=305></a>
 
 ###### Article R778-1
 
@@ -24228,9 +24227,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=307></a>
+#### Chapitre IX : Autres dispositions<a id=306></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=308></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=307></a>
 
 ###### Article R779-1
 
@@ -24380,7 +24379,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=309></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=308></a>
 
 ###### Article R779-9
 
@@ -24408,7 +24407,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=310></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=309></a>
 
 ###### Article R779-10
 
@@ -24427,7 +24426,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=311></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=310></a>
 
 ###### Article R781-1
 
@@ -24484,9 +24483,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=312></a>
+## Livre VIII : Les voies de recours.<a id=311></a>
 
-### Titre Ier : L'appel<a id=313></a>
+### Titre Ier : L'appel<a id=312></a>
 
 ###### Article R811-1
 
@@ -25144,9 +25143,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=314></a>
+### Titre II : Le recours en cassation<a id=313></a>
 
-#### Chapitre Ier : Dispositions générales<a id=315></a>
+#### Chapitre Ier : Dispositions générales<a id=314></a>
 
 ###### Article R821-1
 
@@ -25294,7 +25293,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=316></a>
+#### Chapitre II : Procédure d'admission<a id=315></a>
 
 ###### Article R822-1
 
@@ -25472,9 +25471,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=317></a>
+### Titre III : Autres voies de recours<a id=316></a>
 
-#### Chapitre Ier : L'opposition<a id=318></a>
+#### Chapitre Ier : L'opposition<a id=317></a>
 
 ###### Article R831-1
 
@@ -25605,7 +25604,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=319></a>
+#### Chapitre II : La tierce opposition<a id=318></a>
 
 ###### Article R832-1
 
@@ -25715,7 +25714,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=320></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=319></a>
 
 ###### Article R833-1
 
@@ -25770,7 +25769,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=321></a>
+#### Chapitre IV : Le recours en révision<a id=320></a>
 
 ###### Article R834-1
 
@@ -25860,9 +25859,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=322></a>
+## Livre IX : L'exécution des décisions<a id=321></a>
 
-### Titre Ier : Principes<a id=323></a>
+### Titre Ier : Principes<a id=322></a>
 
 ###### Article R911-1
 
@@ -25885,7 +25884,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=324></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=323></a>
 
 ###### Article R921-1
 
@@ -26119,7 +26118,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=325></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=324></a>
 
 ###### Article R931-1
 

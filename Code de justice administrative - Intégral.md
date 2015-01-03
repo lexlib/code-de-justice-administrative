@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -17283,9 +17283,10 @@ _Anciens textes_:
 ###### Article R431-9
 
 Sous réserve des dispositions de l'article R. 431-10 du présent code et des dispositions spéciales attribuant compétence à
-une autre autorité, en particulier au directeur général du Centre national de gestion des praticiens hospitaliers et des
-personnels de direction    de la fonction publique hospitalière ou au directeur de l'agence régionale de santé, les recours,
-les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé. 
+une autre autorité, en particulier au président de la Commission supérieure de la carte d'identité des journalistes
+professionnels ou au directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de
+direction de la fonction publique hospitalière ou au directeur de l'agence régionale de santé, les recours, les mémoires en
+défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé. 
 
 Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur. 
 
@@ -17310,7 +17311,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1331 du 29 novembre 2012 - art. 4
+  - Décret n°2014-1767 du 31 décembre 2014 - art. 3
 
 
 ###### Article R431-10

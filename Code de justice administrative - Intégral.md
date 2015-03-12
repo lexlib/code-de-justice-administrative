@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-02-16
+Version Consolidée au 2015-03-13
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -14724,15 +14724,12 @@ _Cité par_:
 
 Les cours administratives d'appel sont compétentes pour connaître en premier et dernier ressort des litiges relatifs aux
 décisions prises par la Commission nationale d'aménagement commercial en application de l'article L. 752-17 du code de
-commerce.
+commerce, ainsi qu'aux décisions prises par la Commission nationale d'aménagement cinématographique en application de
+l'article L. 212-10-3 du code du cinéma et de l'image animée. 
 
 La cour administrative d'appel territorialement compétente pour connaître de ces recours est celle dans le ressort de
-laquelle a son siège la commission départementale d'aménagement commercial qui a pris la décision.
-
-**Nota:**
-
-Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
-enregistrées à compter du 1er janvier 2014.
+laquelle a son siège la commission départementale d'aménagement commercial ou la commission départementale d'aménagement
+cinématographique qui a pris la décision.
 
 **Liens relatifs à cet article**
 
@@ -14740,15 +14737,20 @@ _Codifié par_:
 
   - Décret n°2000-389 du 4 mai 2000
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°2013-730 du 13 août 2013 - art. 5
+  - Code du cinéma et de l'image animée - art. L212-10-3
+  - Code de commerce - art. L752-17
 
 _Cité par_:
 
   - Décret n°2015-165 du 12 février 2015 - art. 4 (V)
   - Décret n°2015-268 du 10 mars 2015 (V)
   - Code de justice administrative - art. R312-10 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-268 du 10 mars 2015 - art. 6
 
 
 #### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=200></a>

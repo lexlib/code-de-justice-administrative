@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-03-13
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -2401,9 +2401,9 @@ _Cité par_:
 ###### Article L231-8
 
 Le membre du corps des tribunaux administratifs et des cours administratives d'appel qui est élu président d'un conseil
-général ou régional doit exercer son option dans les quinze jours de l'élection ou, en cas de contestation, dans les quinze
-jours de la décision définitive. Dans les mêmes conditions de délai, le président d'un conseil général ou régional, nommé
-membre d'un tribunal administratif ou d'une cour administrative d'appel, peut exercer son option.
+départemental ou régional doit exercer son option dans les quinze jours de l'élection ou, en cas de contestation, dans les
+quinze jours de la décision définitive. Dans les mêmes conditions de délai, le président d'un conseil départemental ou
+régional, nommé membre d'un tribunal administratif ou d'une cour administrative d'appel, peut exercer son option. 
 
 A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en position de disponibilité. 
 
@@ -2422,16 +2422,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
-  - Code de justice administrative - art. L231-7 (VT)
+  - Code de justice administrative - art. L231-7
 
 
 ###### Article L231-9

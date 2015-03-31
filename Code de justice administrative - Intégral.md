@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -299,38 +299,40 @@ Version Consolidée au 2015-03-22
       - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#296)
       - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#297)
       - [Titre VII : Dispositions spéciales (art. R771-1 à R779-10)](#298)
-        - [Chapitre Ier : La saisine du Tribunal des conflits (art. R771-1 à R771-2)](#299)
-        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#300)
-          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#301)
-          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#302)
-        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#303)
-        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-9)](#304)
-        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#305)
-        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#306)
-          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#307)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#308)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#309)
-        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile (art. R777-1 à R777-2)](#310)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#311)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#312)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#313)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#314)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#315)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#316)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#317)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#318)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#319)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#320)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#321)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#322)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#323)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#324)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#325)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#326)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#327)
-      - [Titre Ier : Principes (art. R911-1)](#328)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#329)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#330)
+        - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#299)
+          - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#300)
+          - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#301)
+        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#302)
+          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#303)
+          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#304)
+        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#305)
+        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-9)](#306)
+        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#307)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#308)
+          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#309)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#310)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#311)
+        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile (art. R777-1 à R777-2)](#312)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#313)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#314)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#315)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#316)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#317)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#318)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#319)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#320)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#321)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#322)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#323)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#324)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#325)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#326)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#327)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#328)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#329)
+      - [Titre Ier : Principes (art. R911-1)](#330)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#331)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#332)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -15290,23 +15292,18 @@ _Cite_:
 
 ###### Article R321-1
 
-Le Conseil d'État est compétent pour statuer sur les appels formés contre les jugements des tribunaux administratifs rendus
-sur les recours sur renvoi de l'autorité judiciaire ainsi que sur les litiges relatifs aux élections municipales et
-cantonales.
+Le Conseil d'Etat est compétent pour statuer sur les appels formés contre les jugements des tribunaux administratifs rendus
+sur les litiges relatifs aux élections municipales et cantonales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°87-1127 1987-12-31 art. 1
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 
 ###### Article R321-2
@@ -17375,29 +17372,29 @@ Toutefois, les dispositions de l'article R. 432-1 ne sont pas applicables :
 
 4° Aux litiges concernant la concession ou le refus de pension. 
 
-Dans ces cas, la requête doit être signée par la partie intéressée ou son mandataire.
+Dans ces cas, la requête doit être signée par la partie intéressée ou son mandataire. 
+
+Les dispositions de l'article R. 432-1 ne sont pas non plus applicables aux mémoires des parties sur les saisines de
+l'autorité judiciaire en application de l'article 49 du code de procédure civile et portant sur une appréciation de légalité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 42 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2015-233 du 27 février 2015 - art. 47
+
 _Cite_:
 
-  - Code de justice administrative - art. R432-1 (V)
+  - Code de procédure civile - art. 49 (VD)
+  - Code de justice administrative - art. R432-1
 
 
 ###### Article R432-3
@@ -19764,29 +19761,25 @@ _Cité par_:
 ###### Article R611-23
 
 Le délai prévu à l'article précédent est d'un mois en matière électorale et en ce qui concerne les conclusions tendant au
-sursis à exécution de la décision juridictionnelle attaquée.
+sursis à exécution de la décision juridictionnelle attaquée. Il est également d'un mois pour les recours sur renvoi de
+l'autorité judiciaire. 
 
 Il est de quinze jours lorsque le pourvoi en cassation est dirigé contre une décision prise par le juge des référés en
 application du livre V, sauf s'il s'agit des procédures visées aux articles L. 552-1 et L. 552-2.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 53-3 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2006-964 du 1 août 2006 - art. 7 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 _Cite_:
 
-  - Code de justice administrative. - art. L552-1 (V)
-  - Code de justice administrative. - art. L552-2 (M)
+  - Code de justice administrative - art. L552-1
 
 
 ###### Article R611-24
@@ -23260,57 +23253,45 @@ _Cite_:
 
 ### Titre VII : Dispositions spéciales<a id=298></a>
 
-#### Chapitre Ier : La saisine du Tribunal des conflits<a id=299></a>
+#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires<a id=299></a>
+
+##### Section 1 : La saisine du Tribunal des conflits<a id=300></a>
 
 ###### Article R771-1
 
-La saisine du Tribunal des conflits par les juridictions administratives en prévention des conflits négatifs obéit aux règles
-définies par l'article 34 du décret du 26 octobre 1849 ci-après reproduit :
-
-" Art. 34. - Lorsqu'une juridiction de l'ordre judiciaire ou de l'ordre administratif a, par une décision qui n'est plus
-susceptible de recours, décliné la compétence de l'ordre de juridiction auquel elle appartient au motif que le litige ne
-ressortit pas à cet ordre, toute juridiction de l'autre ordre, saisie du même litige, si elle estime que ledit litige
-ressortit à l'ordre de juridictions primitivement saisi, doit par un jugement motivé qui n'est susceptible d'aucun recours
-même en cassation, renvoyer au Tribunal des conflits le soin de décider sur la question de compétence ainsi soulevée et
-surseoir à toute procédure jusqu'à la décision de ce tribunal. "
+Les difficultés de compétence entre la juridiction administrative et la juridiction judiciaire sont réglées par le Tribunal
+des conflits conformément aux dispositions de la loi du 24 mai 1872 relative au Tribunal des conflits et du décret n°
+2015-233 du 27 février 2015.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1849-10-26 art. 34
-
 _Cite_:
 
-  - Décret n°1849-10-26 art. 34
+  - Loi du 24 mai 1872
+  - Décret n°2015-233 du 27 février 2015
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2015-233 du 27 février 2015 - art. 45
 
+
+##### Section 2 :  La question préjudicielle<a id=301></a>
 
 ###### Article R771-2
 
-Le renvoi par le Conseil d'Etat d'une question de compétence au Tribunal des conflits obéit aux règles définies par l'article
-35 du décret du 26 octobre 1849 ci-après reproduit :
-
-" Art. 35. - Lorsque le Conseil d'Etat statuant au contentieux, la Cour de cassation ou toute autre juridiction statuant
-souverainement et échappant ainsi au contrôle tant du Conseil d'Etat que de la Cour de cassation, est saisi d'un litige qui
-présente à juger, soit sur l'action introduite, soit sur une exception, une question de compétence soulevant une difficulté
-sérieuse et mettant en jeu la séparation des autorités administratives et judiciaires, la juridiction saisie peut, par
-décision ou arrêt motivé qui n'est susceptible d'aucun recours, renvoyer au Tribunal des conflits le soin de décider sur
-cette question de compétence. Il est alors sursis à toute procédure jusqu'à la décision de ce tribunal. "
+Lorsque la solution d'un litige dépend d'une question soulevant une difficulté sérieuse et relevant de la compétence de la
+juridiction judiciaire, la juridiction administrative initialement saisie la transmet à la juridiction judiciaire compétente.
+Elle sursoit à statuer jusqu'à la décision sur la question préjudicielle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des tribunaux administratifs et des cours adm - art. L11 (Ab)
-  - Décret n°1849-10-26 art. 35
+  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 _Cite_:
 
@@ -23318,16 +23299,39 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 
-#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=300></a>
+###### Article R771-2-1
 
-##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=301></a>
+Lorsque la juridiction administrative compétente est saisie d'une question préjudicielle soulevée par une juridiction
+judiciaire, l'affaire est instruite et jugée comme une affaire urgente. 
+
+Les délais les plus brefs sont donnés aux parties pour produire leurs observations. A défaut de production dans le délai
+imparti, il est passé outre sans mise en demeure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-233 du 27 février 2015 - art. 47
+
+
+###### Article R771-2-2
+
+Le pourvoi en cassation contre les jugements statuant sur une question préjudicielle est présenté dans les quinze jours de
+leur notification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-233 du 27 février 2015 - art. 47
+
+
+#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=302></a>
+
+##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=303></a>
 
 ###### Article R*771-3
 
@@ -23513,7 +23517,7 @@ _Créé par_:
   - Décret n°2010-148 du 16 février 2010 - art. 1
 
 
-##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=302></a>
+##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=304></a>
 
 ###### Article R*771-13
 
@@ -23669,7 +23673,7 @@ _Cite_:
   - Code de justice administrative - art. R751-2
 
 
-#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=303></a>
+#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=305></a>
 
 ###### Article R772-1
 
@@ -23773,7 +23777,7 @@ _Modifié par_:
   - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
-#### Chapitre II bis : Les contentieux sociaux<a id=304></a>
+#### Chapitre II bis : Les contentieux sociaux<a id=306></a>
 
 ###### Article R772-5
 
@@ -23903,7 +23907,7 @@ _Créé par_:
   - Décret n°2013-730 du 13 août 2013 - art. 6
 
 
-#### Chapitre III : Le contentieux des élections<a id=305></a>
+#### Chapitre III : Le contentieux des élections<a id=307></a>
 
 ###### Article R773-1
 
@@ -24030,9 +24034,9 @@ _Cité par_:
   - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=306></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=308></a>
 
-##### Section 1 : Dispositions communes<a id=307></a>
+##### Section 1 : Dispositions communes<a id=309></a>
 
 ###### Article R776-1
 
@@ -24365,7 +24369,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=308></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=310></a>
 
 ###### Article R776-10
 
@@ -24494,7 +24498,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-13 (Ab)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=309></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=311></a>
 
 ###### Article R776-14
 
@@ -24991,7 +24995,7 @@ _Cité par_:
   - Code de justice administrative - art. R776-13-2 (V)
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile<a id=310></a>
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile<a id=312></a>
 
 ###### Article R777-1
 
@@ -25090,7 +25094,7 @@ _Anciens textes_:
   - Code de justice administrative - art. R777-1 (VT)
 
 
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=311></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=313></a>
 
 ###### Article R778-1
 
@@ -25307,9 +25311,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=312></a>
+#### Chapitre IX : Autres dispositions<a id=314></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=313></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=315></a>
 
 ###### Article R779-1
 
@@ -25504,7 +25508,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=314></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=316></a>
 
 ###### Article R779-9
 
@@ -25532,7 +25536,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=315></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=317></a>
 
 ###### Article R779-10
 
@@ -25551,7 +25555,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=316></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=318></a>
 
 ###### Article R781-1
 
@@ -25608,9 +25612,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=317></a>
+## Livre VIII : Les voies de recours.<a id=319></a>
 
-### Titre Ier : L'appel<a id=318></a>
+### Titre Ier : L'appel<a id=320></a>
 
 ###### Article R811-1
 
@@ -25644,18 +25648,16 @@ Les ordonnances prises sur le fondement du titre IV du livre V sont également r
 l'obligation dont se prévaut le requérant pour obtenir le bénéfice d'une provision porte sur un litige énuméré aux alinéas
 précédents. 
 
-Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1. 
+Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1.
 
 Par dérogation aux dispositions qui précèdent, en cas de connexité avec un litige susceptible d'appel, les décisions portant
 sur les actions mentionnées au 8° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions statuant
 sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à cotisation
 foncière des entreprises, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la
-valeur des mêmes biens appréciée la même année.
+valeur des mêmes biens appréciée la même année. 
 
-**Nota:**
-
-Conformément à l'article 16-II du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux décisions des
-tribunaux administratifs rendues à compter du 1er janvier 2014.
+Le tribunal administratif statue également en premier et dernier ressort sur les recours sur renvoi de l'autorité judiciaire
+et sur les saisines de l'autorité judiciaire en application de l'article 49 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -25669,15 +25671,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-730 du 13 août 2013 - art. 4
+  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 _Cite_:
 
-  - Code de justice administrative - art. R222-13
+  - Code de justice administrative - art. R222-1
   - Code de justice administrative - art. R222-14
-  - Code de justice administrative - art. R222-15
-  - Code de justice administrative - art. R533-1
-  - Code de justice administrative - art. R541-3
+  - Code de justice administrative - art. R772-5
   - Code de justice administrative - art. R778-1
 
 _Anciens textes_:
@@ -26306,9 +26306,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=319></a>
+### Titre II : Le recours en cassation<a id=321></a>
 
-#### Chapitre Ier : Dispositions générales<a id=320></a>
+#### Chapitre Ier : Dispositions générales<a id=322></a>
 
 ###### Article R821-1
 
@@ -26456,7 +26456,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=321></a>
+#### Chapitre II : Procédure d'admission<a id=323></a>
 
 ###### Article R822-1
 
@@ -26640,9 +26640,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=322></a>
+### Titre III : Autres voies de recours<a id=324></a>
 
-#### Chapitre Ier : L'opposition<a id=323></a>
+#### Chapitre Ier : L'opposition<a id=325></a>
 
 ###### Article R831-1
 
@@ -26773,7 +26773,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=324></a>
+#### Chapitre II : La tierce opposition<a id=326></a>
 
 ###### Article R832-1
 
@@ -26897,7 +26897,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=325></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=327></a>
 
 ###### Article R833-1
 
@@ -26952,7 +26952,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=326></a>
+#### Chapitre IV : Le recours en révision<a id=328></a>
 
 ###### Article R834-1
 
@@ -27042,9 +27042,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=327></a>
+## Livre IX : L'exécution des décisions<a id=329></a>
 
-### Titre Ier : Principes<a id=328></a>
+### Titre Ier : Principes<a id=330></a>
 
 ###### Article R911-1
 
@@ -27067,7 +27067,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=329></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=331></a>
 
 ###### Article R921-1
 
@@ -27301,7 +27301,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=330></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=332></a>
 
 ###### Article R931-1
 

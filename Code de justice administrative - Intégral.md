@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-04-18
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -8949,8 +8949,7 @@ _Cite_:
 ###### Article R*133-3
 
 Les conseillers d'Etat nommés en application du premier alinéa de l'article L. 133-8 sont choisis parmi les magistrats des
-tribunaux administratifs et des cours administratives d'appel ayant le grade de président et exerçant les fonctions définies
-par les articles L. 234-4 ou L. 234-5.
+tribunaux administratifs et des cours administratives d'appel ayant le grade de président.
 
 **Liens relatifs à cet article**
 
@@ -8960,13 +8959,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
+  - Décret n°2015-426 du 15 avril 2015 - art. 1
 
 _Cite_:
 
   - Code de justice administrative - art. L133-8
-  - Code de justice administrative - art. L234-4
-  - Code de justice administrative - art. L234-5 (V)
 
 _Cité par_:
 
@@ -8976,7 +8973,7 @@ _Cité par_:
 ###### Article R*133-4
 
 Les maîtres des requêtes nommés en application du deuxième alinéa de l'article L. 133-8 sont choisis parmi les magistrats des
-tribunaux administratifs et des cours administratives d'appel ayant le grade de président ou de premier conseiller.
+tribunaux administratifs et des cours administratives d'appel ayant le grade   de premier conseiller.
 
 **Liens relatifs à cet article**
 
@@ -8986,7 +8983,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
+  - Décret n°2015-426 du 15 avril 2015 - art. 1
 
 _Cite_:
 
@@ -8995,27 +8992,23 @@ _Cite_:
 
 ###### Article R*133-7
 
-Peuvent être nommés conseillers d'Etat pour exercer les fonctions de président de cour administrative d'appel les membres du
-corps des tribunaux administratifs et des cours administratives d'appel remplissant les conditions définies aux articles L.
-133-3 et R. * 133-3.
+Peuvent être nommés conseillers d'Etat pour exercer les fonctions de président de cour administrative d'appel ou de la Cour
+nationale du droit d'asile les membres du corps des tribunaux administratifs et des cours administratives d'appel remplissant
+les conditions définies aux articles L. 133-3 et R. * 133-3.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°88-153 du 15 février 1988 - art. 1 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-388 2000-05-04
+  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2015-426 du 15 avril 2015 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. L133-3 (V)
+  - Code de justice administrative - art. L133-3
   - Code de justice administrative - art. R*133-3 (V)
 
 _Cité par_:
@@ -9047,13 +9040,14 @@ _Cite_:
 ###### Article R*133-9
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel appelés à exercer les fonctions de
-président d'une cour sont nommés au grade de conseiller d'État, hors tour.
+président d'une cour administrative d'appel ou de la Cour nationale du droit d'asile sont nommés au grade de conseiller
+d'Etat, hors tour.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
+  - Décret n°2015-426 du 15 avril 2015 - art. 1
 
 
 ##### Section 3 : Dispositions relatives aux maîtres des requêtes en service extraordinaire<a id=141></a>

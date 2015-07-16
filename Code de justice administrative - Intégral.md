@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-06-15
+Version Consolidée au 2015-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -3349,45 +3349,45 @@ _Cite_:
 ###### Article L311-6
 
 Par dérogation aux dispositions du présent code déterminant la compétence des juridictions de premier ressort, il est
-possible de recourir à l'arbitrage dans les cas prévus par :
+possible de recourir à l'arbitrage dans les cas prévus par : 
 
 1° L'article 69 de la loi du 17 avril 1906 portant fixation du budget général des dépenses et des recettes de l'exercice
-1906, repris à l'article 132 du nouveau code des marchés publics ;
+1906, repris à l'article 132 du nouveau code des marchés publics ; 
 
 2° L'article 7 de la loi n° 75-596 du 9 juillet 1975 portant dispositions diverses relatives à la réforme de la procédure
-civile ;
+civile ; 
 
-3° L'article L. 321-4 du code de la recherche ;
+3° L'article L. 321-4 du code de la recherche ; 
 
-4° L'article 25 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs ;
+4° Les articles L. 2102-6, L. 2111-14 et L. 2141-5 du code des transports ; 
 
-5° L'article 9 de la loi n° 86-972 du 19 août 1986 portant dispositions diverses relatives aux collectivités locales ;
+5° L'article 9 de la loi n° 86-972 du 19 août 1986 portant dispositions diverses relatives aux collectivités locales ; 
 
 6° L'article 28 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des
-télécommunications ;
+télécommunications ; 
 
 7° L'article 24 de la loi n° 95-877 du 3 août 1995 portant transposition de la directive 93/7 du 15 mars 1993 du Conseil des
 Communautés européennes relative à la restitution des biens culturels ayant quitté illicitement le territoire d'un Etat
-membre ;
-
-8° L'article 3 de la loi n° 97-135 du 13 février 1997 portant création de l'établissement public "Réseau ferré de France" en
-vue du renouveau du transport ferroviaire.
+membre.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 25 (M)
   - Loi n°86-972 du 19 août 1986 - art. 9 (V)
-  - Loi n°90-568 du 2 juillet 1990 - art. 28 (M)
-  - Loi n°95-877 du 3 août 1995 - art. 24 (Ab)
-  - Loi n°97-135 du 13 février 1997 - art. 3 (Ab)
   - Code de la recherche - art. L321-4 (V)
+  - Code des transports - art. L2102-6 (V)
+  - Code des transports - art. L2111-14 (V)
+  - Code des transports - art. L2141-5 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 30
 
 _Cité par_:
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-11-09
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -10158,20 +10158,21 @@ _Cite_:
 ###### Article R221-1
 
 Les tribunaux administratifs et les cours administratives d'appel sont désignés par le nom de la ville où ils siègent.
-Toutefois, le tribunal administratif qui siège à Basse-Terre est désigné sous le nom de : "tribunal administratif de la
-Guadeloupe", celui qui siège à Cayenne sous le nom de : "tribunal administratif de la Guyane", celui qui siège à Fort-de-
-France sous le nom de : "tribunal administratif de la Martinique", celui qui siège à Mamoudzou sous le nom de : "tribunal
-administratif de Mayotte", celui qui siège à Mata-Utu sous le nom de : "tribunal administratif de Wallis-et-Futuna", celui
-qui siège à Saint-Denis sous le nom de : "tribunal administratif de La Réunion", celui qui siège à Saint-Pierre sous le nom
-de : "tribunal administratif de Saint-Pierre-et-Miquelon", celui qui siège à Papeete sous le nom de : "tribunal administratif
-de la Polynésie française" et celui qui siège à Nouméa sous le nom de : "tribunal administratif de Nouvelle-Calédonie". Les
-tribunaux administratifs de Saint-Barthélemy et de Saint-Martin sont désignés sous cette même dénomination.
+Toutefois, le tribunal administratif qui siège à Basse-Terre est désigné sous le nom de : " tribunal administratif de la
+Guadeloupe " , celui qui siège à Cayenne sous le nom de : " tribunal administratif de la Guyane " , celui qui siège à
+Schœlcher sous le nom de : " tribunal administratif de la Martinique " , celui qui siège à Mamoudzou sous le nom de : "
+tribunal administratif de Mayotte " , celui qui siège à Mata-Utu sous le nom de : " tribunal administratif de Wallis-et-
+Futuna " , celui qui siège à Saint-Denis sous le nom de : " tribunal administratif de La Réunion " , celui qui siège à Saint-
+Pierre sous le nom de : " tribunal administratif de Saint-Pierre-et-Miquelon " , celui qui siège à Papeete sous le nom de : "
+tribunal administratif de la Polynésie française " et celui qui siège à Nouméa sous le nom de : " tribunal administratif de
+Nouvelle-Calédonie " . Les tribunaux administratifs de Saint-Barthélemy et de Saint-Martin sont désignés sous cette même
+dénomination.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
+  - Décret n°2015-1444 du 6 novembre 2015 - art. 1
 
 
 ###### Article R221-2
@@ -10270,8 +10271,6 @@ Basse-Terre : Guadeloupe ;
 
 Cayenne : Guyane ;
 
-Fort-de-France : Martinique ;
-
 Mamoudzou : Mayotte ;
 
 Mata-Utu : îles Wallis et Futuna ;
@@ -10286,7 +10285,9 @@ Saint-Barthélemy : Saint-Barthélemy ;
 
 Saint-Martin : Saint-Martin ;
 
-Saint-Pierre : Saint-Pierre-et-Miquelon.
+Saint-Pierre : Saint-Pierre-et-Miquelon ;
+
+Schœlcher : Martinique.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
 celui du tribunal administratif de Montreuil l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
@@ -10307,7 +10308,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-945 du 29 juillet 2009 - art. 3
+  - Décret n°2015-1444 du 6 novembre 2015 - art. 1
 
 
 ###### Article R221-4

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-11-09
+Version Consolidée au 2015-12-02
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -5567,12 +5567,12 @@ _Abrogé par_:
 Le Conseil d'Etat examine les requêtes présentées sur le fondement des articles L. 841-1 et L. 841-2 du code de la sécurité
 intérieure conformément aux règles générales du présent code, sous réserve des dispositions particulières du présent chapitre
 [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2015-713 DC du 23
-juillet 2015].
+juillet 2015] et du chapitre IV du titre V du livre VIII du code de la sécurité intérieure.
 
 **Nota:**
 
 Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
 officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
@@ -5582,13 +5582,13 @@ _Cite_:
   - DÉCISION n°2015-713 DC du 23 juillet 2015
   - Code de la sécurité intérieure - art. L841-1
 
-_Créé par_:
-
-  - Loi n°2015-912 du 24 juillet 2015 - art. 10
-
 _Cité par_:
 
   - Décret n°2015-1211 du 1er octobre 2015 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-1556 du 30 novembre 2015 - art. 2
 
 
 ###### Article L773-2

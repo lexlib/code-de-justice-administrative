@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-12-02
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -10677,25 +10677,26 @@ _Cité par_:
 ###### Article R221-15
 
 La décision par laquelle le président de la cour administrative d'appel refuse l'inscription ou la réinscription d'un
-candidat est motivée. Elle est notifiée au candidat par lettre remise contre signature.
+candidat est motivée. Elle est notifiée au candidat par lettre remise contre signature. 
 
-En application du II de l'article 21 de la loi du 12 avril 2000, et par dérogation au délai de deux mois prévu au premier
-alinéa du I, le silence gardé par le président de la cour administrative d'appel pendant seize mois sur la demande
-d'inscription ou de réinscription d'un candidat vaut acceptation.
+En application de l'article L. 231-6 du code des relations entre le public et l'administration, et par dérogation au délai de
+deux mois prévu à l'article L. 231-1 du même code, le silence gardé par le président de la cour administrative d'appel
+pendant seize mois sur la demande d'inscription ou de réinscription d'un candidat vaut acceptation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2000-321 du 12 avril 2000 - art. 21
-
 _Modifié par_:
 
-  - Décret n°2015-1145 du 15 septembre 2015 - art. 6
+  - Ordonnance n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 _Cité par_:
 
   - Code de justice administrative - art. R221-19 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L231-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L231-6 (V)
 
 
 ###### Article R221-16
@@ -17128,19 +17129,6 @@ _Cite_:
 Sauf en matière de travaux publics, la juridiction ne peut être saisie que par voie de recours formé contre une décision, et
 ce, dans les deux mois à partir de la notification ou de la publication de la décision attaquée.
 
-La publication, sous forme électronique, au Journal officiel de la République française fait courir le délai du recours
-ouvert aux tiers contre les décisions individuelles :
-
-1° Relatives au recrutement et à la situation des fonctionnaires et agents publics, des magistrats ou des militaires ;
-
-2° Concernant la désignation, soit par voie d'élection, soit par nomination, des membres des organismes consultatifs
-mentionnés à l'article 12 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
-publique de l'Etat ;
-
-3° Prises par le ministre chargé de l'économie dans le domaine de la concurrence ;
-
-4° Emanant d'autorités administratives indépendantes ou d'autorités publiques indépendantes dotées de la personnalité morale.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -17166,17 +17154,13 @@ _Cité par_:
   - Code des marchés publics - art. 242 (Ab)
   - Code du sport. - art. R141-9 (V)
 
-_Cite_:
-
-  - Loi n°84-16 1984-01-11 art. 12
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2004-617 du 29 juin 2004 - art. 3 () JORF 30 juin 2004
+  - Décret n°2015-1717 du 22 décembre 2015 - art. 7
 
 _Anciens textes_:
 

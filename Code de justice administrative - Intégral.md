@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -202,7 +202,7 @@ Version Consolidée au 2016-01-01
         - [Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général (art. R237-1 à R237-2)](#199)
     - [Livre III : La compétence (art. R311-1 à R351-9)](#200)
       - [Titre Ier : La compétence de premier ressort (art. R311-1 à R312-19)](#201)
-        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-3)](#202)
+        - [Chapitre Ier : La compétence en raison de la matière (art. R311-1 à R311-4)](#202)
         - [Chapitre II : La compétence territoriale des tribunaux administratifs (art. R312-1 à R312-19)](#203)
           - [Section 1 : Principes (art. R312-1 à R312-5)](#204)
           - [Section 2 : Exceptions (art. R312-6 à R312-19)](#205)
@@ -323,40 +323,41 @@ Version Consolidée au 2016-01-01
             - [Sous-section 7 : Instruction (art. R773-20 à R773-22)](#320)
             - [Sous-section 8 : Jugement (art. R773-23 à R773-28)](#321)
             - [Sous-section 9 : Le secrétariat (art. R773-29)](#322)
-          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34)](#323)
+          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34-2)](#323)
             - [Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-30 à R773-31)](#324)
             - [Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-32 à R773-34)](#325)
-          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#326)
-        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#327)
-          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#328)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#329)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#330)
-        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#331)
-        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#332)
-        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#333)
-          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#334)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#335)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#336)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#337)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#338)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#339)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#340)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#341)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#342)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#343)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#344)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#345)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#346)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#347)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#348)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#349)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#350)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#351)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#352)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#353)
-      - [Titre Ier : Principes (art. R911-1)](#354)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#355)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#356)
+            - [Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure (art. R773-34-1 à R773-34-2)](#326)
+          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#327)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#328)
+          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#329)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#330)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#331)
+        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#332)
+        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#333)
+        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#334)
+          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#335)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#336)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#337)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#338)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#339)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#340)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#341)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#342)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#343)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#344)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#345)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#346)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#347)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#348)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#349)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#350)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#351)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#352)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#353)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#354)
+      - [Titre Ier : Principes (art. R911-1)](#355)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#356)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#357)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -14952,6 +14953,155 @@ _Modifié par_:
   - Décret n°2015-268 du 10 mars 2015 - art. 6
 
 
+###### Article R311-4
+
+I. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
+portant sur les décisions suivantes, relatives aux installations de production d'énergie renouvelable en mer et leurs
+ouvrages connexes : 
+
+1° L'autorisation d'exploiter une installation de production d'électricité prévue par l'article L. 311-1 du code de
+l'énergie ; 
+
+2° La décision d'approbation prévue par les articles 4 et 24 du décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages
+des réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des
+ondes électromagnétiques pour les ouvrages sous tension situés en amont du point d'injection sur le réseau public
+d'électricité ; 
+
+3° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
+2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
+activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+
+4° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
+
+5° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
+personnes publiques ; 
+
+6° Les concessions d'utilisation du domaine public maritime mentionnées à l'article R. 2124-1 du code général de la propriété
+des personnes publiques ; 
+
+7° Les autorisations d'îles artificielles, installations, ouvrages et leurs installations connexes sur le plateau continental
+et dans la zone économique et la zone de protection écologique mentionnées à l'article 4 du décret n° 2013-611 du 10 juillet
+2013 relatif à la réglementation applicable aux îles artificielles, aux installations, aux ouvrages et à leurs installations
+connexes sur le plateau continental et dans la zone économique et la zone de protection écologique ainsi qu'au tracé des
+câbles et pipelines sous-marins ; 
+
+8° La décision, mentionnée à l'article 13 du décret n° 2002-1434 du 4 décembre 2002 relatif à la procédure d'appel d'offres
+pour les installations de production d'électricité par laquelle le ministre chargé de l'énergie désigne les lauréats des
+procédures d'appel d'offres pour les installations de production d'électricité ; 
+
+9° L'autorisation mentionnée à l'article R. 244-1 du code de l'aviation civile ; 
+
+10° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine ; 
+
+11° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du
+20 mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
+l'environnement ; 
+
+12° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, la dérogation mentionnée au
+4° de l'article L. 411-2 du code de l'environnement ; 
+
+13° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, le permis de construire du
+poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ; 
+
+14° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, l'autorisation de
+défrichement prévue à l'article L. 341-3 du code forestier. 
+
+II. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
+portant sur les décisions suivantes, relatives aux ouvrages des réseaux publics d'électricité dont au moins une partie est
+située en mer, jusques et y compris aux premiers postes de raccordement à terre : 
+
+1° La déclaration d'utilité publique mentionnée à l'article L. 323-3 du code de l'énergie, hors les cas où elle emporte mise
+en compatibilité des documents d'urbanisme ; 
+
+2° La décision d'approbation prévue par les articles 4 à 6 du décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages
+des réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des
+ondes électromagnétiques ; 
+
+3° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
+2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
+activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+
+4° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
+personnes publiques ; 
+
+5° Les concessions d'utilisation du domaine public maritime mentionnées à l'article R. 2124-1 du code général de la propriété
+des personnes publiques ; 
+
+6° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
+
+7° Le permis de construire du poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ; 
+
+8° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du 20
+mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
+l'environnement ; 
+
+9° L'autorisation de défrichement prévue à l'article L. 341-3 du code forestier ; 
+
+10° La déclaration d'utilité publique délivrée en application de l'article L. 121-1 du code de l'expropriation pour cause
+d'utilité publique ; 
+
+11° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine. 
+
+III. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
+portant sur les décisions suivantes, relatives aux infrastructures portuaires rendues nécessaires pour la construction, le
+stockage et le pré-assemblage des installations mentionnées aux I et II du présent article ainsi qu'aux opérations de
+transport et de dragage connexes : 
+
+1° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
+2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
+activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+
+2° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du 20
+mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
+l'environnement ; 
+
+3° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
+personnes publiques ; 
+
+4° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
+
+5° Les permis de construire délivrés en application de l'article R. 421-1 du code de l'urbanisme et les décisions de non-
+opposition à une déclaration préalable de travaux. 
+
+IV. – La cour administrative d'appel de Nantes statue dans un délai de douze mois à compter du dépôt du recours.
+
+**Nota:**
+
+Conformément à l'article 6 I du décret n° 2016-9 du 8 janvier 2016, les présentes dispositions s'appliquent aux requêtes
+enregistrées à compter du premier jour du premier mois suivant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2002-1434 du 4 décembre 2002 - art. 13
+  - Décret n°2011-1697 du 1er décembre 2011 - art. 24
+  - Décret n°2011-1697 du 1er décembre 2011 - art. 4
+  - Décret n°2013-611 du 10 juillet 2013 - art. 4
+  - Ordonnance n°2014-355 du 20 mars 2014
+  - Ordonnance n°2014-619 du 12 juin 2014
+  - Code général de la propriété des personnes publ... - art. R2122-1 (V)
+  - Code général de la propriété des personnes publ... - art. R2124-1 (V)
+  - Code de l'urbanisme - art. *R421-1
+  - Code de l'environnement - art. L214-1 (V)
+  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L121-1
+  - Code de l'aviation civile - art. R244-1
+  - Code du patrimoine - art. R523-15
+  - Code de l'énergie - art. L311-1
+  - Code de l'énergie - art. L323-3
+  - Code forestier (nouveau) - art. L341-3 (V)
+
+_Créé par_:
+
+  - Décret n°2016-9 du 8 janvier 2016 - art. 1
+
+_Cité par_:
+
+  - Décret n°2016-9 du 8 janvier 2016 - art. 3 (VD)
+  - Décret n°2016-9 du 8 janvier 2016 - art. 4 (V)
+
+
 #### Chapitre II : La compétence territoriale des tribunaux administratifs<a id=203></a>
 
 ##### Section 1 : Principes<a id=204></a>
@@ -24267,21 +24417,22 @@ _Cité par_:
 
 ###### Article R773-7
 
-Les requêtes et saisines présentées sur le fondement des articles L. 841-1, L. 841-2 et du III de l'article L. 853-3 du code
-de la sécurité intérieure sont examinées conformément aux règles générales du présent code, sous réserve des dispositions
-particulières du présent chapitre.
+Les requêtes et saisines présentées sur le fondement des articles L. 841-1, L. 841-2, du III de l'article L. 853-3 et de
+l'article L. 854-9 du code de la sécurité intérieure sont examinées conformément aux règles générales du présent code, sous
+réserve des dispositions particulières du présent chapitre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-67 du 29 janvier 2016 - art. 7
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L841-1
   - Code de la sécurité intérieure - art. L841-2
-  - Code de la sécurité intérieure - art. L853-3
-
-_Créé par_:
-
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Code de la sécurité intérieure - art. L853-3 (V)
+  - Code de la sécurité intérieure - art. L854-9 (V)
 
 
 ##### Section 1 : Dispositions générales<a id=313></a>
@@ -24851,7 +25002,40 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Section 3 : Saisine à titre préjudiciel<a id=326></a>
+##### Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure<a id=326></a>
+
+###### Article R773-34-1
+
+Le Conseil d'Etat peut être saisi par le président de la Commission nationale de contrôle des techniques de renseignement ou
+par trois membres au moins de cette commission en application de l'article L. 854-9 du code de la sécurité intérieure dans le
+délai d'un mois à partir de la date où la commission a eu connaissance de la décision du Premier ministre prise à la suite
+d'une recommandation qu'elle a émise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-67 du 29 janvier 2016 - art. 7
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L854-9 (V)
+
+
+###### Article R773-34-2
+
+Dans le cas prévu à l'article R. 773-34-1, le Conseil d'Etat est saisi par requête. La requête contient l'exposé des faits et
+les motifs du recours. Elle est communiquée au Premier ministre et à l'ensemble des membres de la Commission nationale de
+contrôle des techniques de renseignement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-67 du 29 janvier 2016 - art. 7
+
+
+##### Section 3 : Saisine à titre préjudiciel<a id=327></a>
 
 ###### Article R773-35
 
@@ -24878,9 +25062,9 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=327></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=328></a>
 
-##### Section 1 : Dispositions communes<a id=328></a>
+##### Section 1 : Dispositions communes<a id=329></a>
 
 ###### Article R776-1
 
@@ -25201,7 +25385,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=329></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=330></a>
 
 ###### Article R776-10
 
@@ -25314,7 +25498,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=330></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=331></a>
 
 ###### Article R776-14
 
@@ -25799,7 +25983,7 @@ _Cité par_:
   - Code de justice administrative - art. R776-13-2 (V)
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=331></a>
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=332></a>
 
 ###### Article R777-1
 
@@ -26012,7 +26196,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 1
 
 
-#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=332></a>
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=333></a>
 
 ###### Article R777-2
 
@@ -26199,9 +26383,9 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 2
 
 
-#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=333></a>
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=334></a>
 
-##### Section 1 : Dispositions communes<a id=334></a>
+##### Section 1 : Dispositions communes<a id=335></a>
 
 ###### Article R777-3
 
@@ -26312,7 +26496,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 3
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=335></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=336></a>
 
 ###### Article R777-3-5
 
@@ -26374,7 +26558,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=336></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=337></a>
 
 ###### Article R777-3-8
 
@@ -26417,7 +26601,7 @@ _Cite_:
   - Code de justice administrative - art. R776-6
 
 
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=337></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=338></a>
 
 ###### Article R778-1
 
@@ -26634,9 +26818,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=338></a>
+#### Chapitre IX : Autres dispositions<a id=339></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=339></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=340></a>
 
 ###### Article R779-1
 
@@ -26831,7 +27015,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=340></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=341></a>
 
 ###### Article R779-9
 
@@ -26859,7 +27043,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=341></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=342></a>
 
 ###### Article R779-10
 
@@ -26878,7 +27062,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=342></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=343></a>
 
 ###### Article R781-1
 
@@ -26935,9 +27119,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=343></a>
+## Livre VIII : Les voies de recours.<a id=344></a>
 
-### Titre Ier : L'appel<a id=344></a>
+### Titre Ier : L'appel<a id=345></a>
 
 ###### Article R811-1
 
@@ -27588,9 +27772,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=345></a>
+### Titre II : Le recours en cassation<a id=346></a>
 
-#### Chapitre Ier : Dispositions générales<a id=346></a>
+#### Chapitre Ier : Dispositions générales<a id=347></a>
 
 ###### Article R821-1
 
@@ -27755,7 +27939,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=347></a>
+#### Chapitre II : Procédure d'admission<a id=348></a>
 
 ###### Article R822-1
 
@@ -27939,9 +28123,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=348></a>
+### Titre III : Autres voies de recours<a id=349></a>
 
-#### Chapitre Ier : L'opposition<a id=349></a>
+#### Chapitre Ier : L'opposition<a id=350></a>
 
 ###### Article R831-1
 
@@ -28072,7 +28256,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=350></a>
+#### Chapitre II : La tierce opposition<a id=351></a>
 
 ###### Article R832-1
 
@@ -28175,7 +28359,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=351></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=352></a>
 
 ###### Article R833-1
 
@@ -28230,7 +28414,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=352></a>
+#### Chapitre IV : Le recours en révision<a id=353></a>
 
 ###### Article R834-1
 
@@ -28320,9 +28504,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=353></a>
+## Livre IX : L'exécution des décisions<a id=354></a>
 
-### Titre Ier : Principes<a id=354></a>
+### Titre Ier : Principes<a id=355></a>
 
 ###### Article R911-1
 
@@ -28345,7 +28529,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=355></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=356></a>
 
 ###### Article R921-1
 
@@ -28590,7 +28774,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=356></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=357></a>
 
 ###### Article R931-1
 

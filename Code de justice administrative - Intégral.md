@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-02-01
+Version Consolidée au 2016-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -239,125 +239,126 @@ Version Consolidée au 2016-02-01
       - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#236)
         - [Chapitre unique. (art. R541-1 à R541-6)](#237)
       - [Titre V : Dispositions particulières à certains contentieux (art. R551-1 à R557-2)](#238)
-        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-10)](#239)
+        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-12)](#239)
           - [Section 1 : Référé précontractuel (art. R551-1 à R551-6)](#240)
             - [Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs (art. R551-1)](#241)
             - [Sous-section 2 : Contrats passés par les entités adjudicatrices (art. R551-2)](#242)
             - [Sous-section 3 : Dispositions communes (art. R551-3 à R551-6)](#243)
-          - [Section 2 : Référé contractuel (art. R551-7 à R551-10)](#244)
+          - [Section 2 : Référé contractuel (art. R551-7 à R551-12)](#244)
             - [Sous-section 1 : Nature et présentation du recours (art. R551-7 à R551-10)](#245)
-        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#246)
-        - [Chapitre V : Le référé en matière d'informatique et libertés (art. R555-1 à R555-2)](#247)
-        - [Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation (art. R556-1)](#248)
-        - [Chapitre VII : Le référé sur saisine du Défenseur des droits (art. R557-1 à R557-2)](#249)
-    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#250)
-      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#251)
-        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-29)](#252)
-          - [Section 1 : Dispositions générales (art. R611-1 à R611-8-1)](#253)
-          - [Section 1 bis : Dispositions propres à la communication électronique (art. R611-8-2 à R611-8-5)](#254)
-          - [Section 2 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#255)
-          - [Section 3 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#256)
-          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-29)](#257)
-        - [Chapitre II : La demande de régularisation et la mise en demeure (art. R612-1 à R612-6)](#258)
-        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#259)
-          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#260)
-          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#261)
-      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#262)
-        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#263)
-          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6-4)](#264)
-          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8-1)](#265)
-          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#266)
-          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#267)
-        - [Chapitre II : La visite des lieux (art. R622-1)](#268)
-        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#269)
-          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#270)
-          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#271)
-          - [Section 3 : Frais de l'enquête (art. R623-8)](#272)
-        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#273)
-        - [Chapitre V : Les autres mesures d'instruction (art. R625-1 à R625-3)](#274)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#275)
-      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#276)
-        - [Chapitre Ier : La demande incidente (art. R631-1)](#277)
-        - [Chapitre II : L'intervention (art. R632-1)](#278)
-        - [Chapitre III : L'inscription de faux (art. R633-1)](#279)
-        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#280)
-        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#281)
-        - [Chapitre VI : Le désistement (art. R636-1)](#282)
-    - [Livre VII : Le jugement (art. R711-1 à R781-3)](#283)
-      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-2)](#284)
-        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-4)](#285)
-        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1 à R712-2)](#286)
-      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#287)
-      - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R733-3)](#288)
-        - [Chapitre Ier : Dispositions générales (art. R731-1 à R731-5)](#289)
-        - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R732-1 à R732-2)](#290)
-        - [Chapitre III : Dispositions applicables au Conseil d'Etat (art. R733-1 à R733-3)](#291)
-      - [Titre IV : La décision (art. R741-1 à R742-6)](#292)
-        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-12)](#293)
-          - [Section 1 : Le prononcé de la décision (art. R741-1)](#294)
-          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#295)
-          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#296)
-          - [Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire (art. R741-11)](#297)
-          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#298)
-        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#299)
-      - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#300)
-      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#301)
-      - [Titre VII : Dispositions spéciales (art. R771-1 à R779-10)](#302)
-        - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#303)
-          - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#304)
-          - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#305)
-        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#306)
-          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#307)
-          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#308)
-        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#309)
-        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-9)](#310)
-        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#311)
-        - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-7 à R773-36)](#312)
-          - [Section 1 : Dispositions générales (art. R773-8 à R773-29)](#313)
-            - [Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-8 à R773-11)](#314)
-            - [Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte (art. R773-12)](#315)
-            - [Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux (art. R773-13)](#316)
-            - [Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte (art. R773-14 à R773-17)](#317)
-            - [Sous-section 5 : Juge des référés (art. R773-18)](#318)
-            - [Sous-section 6 : Pouvoirs du président de la formation spécialisée (art. R773-19)](#319)
-            - [Sous-section 7 : Instruction (art. R773-20 à R773-22)](#320)
-            - [Sous-section 8 : Jugement (art. R773-23 à R773-28)](#321)
-            - [Sous-section 9 : Le secrétariat (art. R773-29)](#322)
-          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34-2)](#323)
-            - [Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-30 à R773-31)](#324)
-            - [Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-32 à R773-34)](#325)
-            - [Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure (art. R773-34-1 à R773-34-2)](#326)
-          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#327)
-        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#328)
-          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#329)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#330)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#331)
-        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#332)
-        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#333)
-        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#334)
-          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#335)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#336)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#337)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#338)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#339)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#340)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#341)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#342)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#343)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#344)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#345)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#346)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#347)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#348)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#349)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#350)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#351)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#352)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#353)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#354)
-      - [Titre Ier : Principes (art. R911-1)](#355)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#356)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#357)
+            - [Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer (art. R551-11 à R551-12)](#246)
+        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#247)
+        - [Chapitre V : Le référé en matière d'informatique et libertés (art. R555-1 à R555-2)](#248)
+        - [Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation (art. R556-1)](#249)
+        - [Chapitre VII : Le référé sur saisine du Défenseur des droits (art. R557-1 à R557-2)](#250)
+    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#251)
+      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#252)
+        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-29)](#253)
+          - [Section 1 : Dispositions générales (art. R611-1 à R611-8-1)](#254)
+          - [Section 1 bis : Dispositions propres à la communication électronique (art. R611-8-2 à R611-8-5)](#255)
+          - [Section 2 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#256)
+          - [Section 3 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#257)
+          - [Section 4 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-29)](#258)
+        - [Chapitre II : La demande de régularisation et la mise en demeure (art. R612-1 à R612-6)](#259)
+        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#260)
+          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#261)
+          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#262)
+      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#263)
+        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#264)
+          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6-4)](#265)
+          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8-1)](#266)
+          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#267)
+          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#268)
+        - [Chapitre II : La visite des lieux (art. R622-1)](#269)
+        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#270)
+          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#271)
+          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#272)
+          - [Section 3 : Frais de l'enquête (art. R623-8)](#273)
+        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#274)
+        - [Chapitre V : Les autres mesures d'instruction (art. R625-1 à R625-3)](#275)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#276)
+      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#277)
+        - [Chapitre Ier : La demande incidente (art. R631-1)](#278)
+        - [Chapitre II : L'intervention (art. R632-1)](#279)
+        - [Chapitre III : L'inscription de faux (art. R633-1)](#280)
+        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#281)
+        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#282)
+        - [Chapitre VI : Le désistement (art. R636-1)](#283)
+    - [Livre VII : Le jugement (art. R711-1 à R781-3)](#284)
+      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-2)](#285)
+        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-4)](#286)
+        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1 à R712-2)](#287)
+      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#288)
+      - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R733-3)](#289)
+        - [Chapitre Ier : Dispositions générales (art. R731-1 à R731-5)](#290)
+        - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R732-1 à R732-2)](#291)
+        - [Chapitre III : Dispositions applicables au Conseil d'Etat (art. R733-1 à R733-3)](#292)
+      - [Titre IV : La décision (art. R741-1 à R742-6)](#293)
+        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-12)](#294)
+          - [Section 1 : Le prononcé de la décision (art. R741-1)](#295)
+          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#296)
+          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#297)
+          - [Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire (art. R741-11)](#298)
+          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#299)
+        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#300)
+      - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#301)
+      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#302)
+      - [Titre VII : Dispositions spéciales (art. R771-1 à R779-10)](#303)
+        - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#304)
+          - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#305)
+          - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#306)
+        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#307)
+          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#308)
+          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#309)
+        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#310)
+        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-9)](#311)
+        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#312)
+        - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-7 à R773-36)](#313)
+          - [Section 1 : Dispositions générales (art. R773-8 à R773-29)](#314)
+            - [Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-8 à R773-11)](#315)
+            - [Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte (art. R773-12)](#316)
+            - [Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux (art. R773-13)](#317)
+            - [Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte (art. R773-14 à R773-17)](#318)
+            - [Sous-section 5 : Juge des référés (art. R773-18)](#319)
+            - [Sous-section 6 : Pouvoirs du président de la formation spécialisée (art. R773-19)](#320)
+            - [Sous-section 7 : Instruction (art. R773-20 à R773-22)](#321)
+            - [Sous-section 8 : Jugement (art. R773-23 à R773-28)](#322)
+            - [Sous-section 9 : Le secrétariat (art. R773-29)](#323)
+          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34-2)](#324)
+            - [Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-30 à R773-31)](#325)
+            - [Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-32 à R773-34)](#326)
+            - [Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure (art. R773-34-1 à R773-34-2)](#327)
+          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#328)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière (art. R776-1 à R776-28)](#329)
+          - [Section 1 : Dispositions communes (art. R776-1 à R776-9)](#330)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R776-10 à R776-13)](#331)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#332)
+        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#333)
+        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#334)
+        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#335)
+          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#336)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#337)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#338)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#339)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#340)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#341)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#342)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#343)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#344)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#345)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#346)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#347)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#348)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#349)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#350)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#351)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#352)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#353)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#354)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#355)
+      - [Titre Ier : Principes (art. R911-1)](#356)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#357)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#358)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -4028,7 +4029,7 @@ _Cite_:
 
 ###### Article L551-2
 
-I. - Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute
+I.-Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute
 décision qui se rapporte à la passation du contrat, sauf s'il estime, en considération de l'ensemble des intérêts
 susceptibles d'être lésés et notamment de l'intérêt public, que les conséquences négatives de ces mesures pourraient
 l'emporter sur leurs avantages. 
@@ -4036,16 +4037,10 @@ l'emporter sur leurs avantages.
 Il peut, en outre, annuler les décisions qui se rapportent à la passation du contrat et supprimer les clauses ou
 prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations. 
 
-II. - Toutefois, le I n'est pas applicable aux contrats passés dans les domaines de la défense ou de la sécurité au sens du
-II de l'article 2 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou
-privées non soumises au code des marchés publics. 
+II.-Toutefois, le I n'est pas applicable aux contrats passés dans les domaines de la défense ou de la sécurité au sens de
+l'article 6 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics. 
 
 Pour ces contrats, il est fait application des articles L. 551-6 et L. 551-7.
-
-**Nota:**
-
-Loi n° 2011-702 du 22 juin 2011 article 9 III : L'article 6 est applicable aux contrats pour lesquels une consultation est
-engagée à compter du 21 août 2011.
 
 **Liens relatifs à cet article**
 
@@ -4061,12 +4056,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Ordonnance n°2005-649 du 6 juin 2005 - art. 2
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 6
   - Code de justice administrative - art. L551-6
 
 _Modifié par_:
 
-  - Loi n°2011-702 du 22 juin 2011 - art. 6
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 71
 
 
 ###### Article L551-3
@@ -19162,9 +19157,12 @@ _Cite_:
 
 ###### Article R551-7
 
-La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du
-contrat ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la notification de la
-conclusion du contrat. 
+La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication au Journal officiel de l'Union
+européenne d'un avis d'attribution du contrat, établi conformément au modèle fixé par le règlement de la Commission
+européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics et de contrats de
+concession, ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la notification de
+la conclusion du contrat. Le délai ne court que si cette notification mentionne le nom du titulaire et les motifs ayant
+conduit au choix de son offre.  
 
 En l'absence de la publication d'avis ou de la notification mentionnées à l'alinéa qui précède, la juridiction peut être
 saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du jour de la conclusion du contrat.
@@ -19187,9 +19185,39 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R1411-2-2 (VT)
   - Code général des collectivités territoriales - art. R1415-10 (VT)
 
+_Modifié par_:
+
+  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+
+###### Article R551-7-1
+
+Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article L. 551-15, le pouvoir adjudicateur ou l'entité
+adjudicatrice publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement de la
+Commission européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics et de
+contrats de concession, relatif à son intention de conclure un contrat. Il respecte un délai d'au moins onze jours entre la
+date de publication de cet avis et la date de conclusion du contrat.
+
+Pour pouvoir se prévaloir, s'agissant d'un marché fondé sur un accord-cadre ou un système d'acquisition dynamique, des
+dispositions du second alinéa du même article, le pouvoir adjudicateur ou l'entité adjudicatrice notifie aux titulaires de
+l'accord-cadre ou aux participants au système d'acquisition dynamique le nom du titulaire et les motifs qui ont conduit au
+choix de son offre et respecte un délai d'au moins seize jours entre la date d'envoi de cette notification et la date de
+conclusion du marché. Ce délai est réduit à au moins onze jours en cas de transmission électronique de la notification à
+l'ensemble des titulaires intéressés.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2009-1456 du 27 novembre 2009 - art. 1
+  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+_Cite_:
+
+  - Code de justice administrative - art. L551-15 (V)
+
+_Cité par_:
+
+  - Code de justice administrative - art. R551-12 (V)
 
 
 ###### Article R551-8
@@ -19248,7 +19276,52 @@ _Cite_:
   - Code de justice administrative - art. L551-17 (V)
 
 
-#### Chapitre IV : Les régimes spéciaux de suspension<a id=246></a>
+##### Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer<a id=246></a>
+
+###### Article R551-11
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et, pour les marchés publics conclus par l'Etat ou ses
+établissements publics, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises, le premier alinéa de l'article R. 551-7 est ainsi rédigé : 
+
+" La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du
+contrat dans le support qui a été utilisé à titre principal pour la publicité préalable ou, pour les marchés fondés sur un
+accord-cadre ou un système d'acquisition dynamique, suivant la notification de la conclusion du contrat. Le délai ne court
+que si cette notification mentionne le nom du titulaire et les motifs ayant conduit au choix de son offre. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+_Cite_:
+
+  - Code de justice administrative - art. R551-7 (V)
+
+
+###### Article R551-12
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et, pour les marchés publics conclus par l'Etat ou ses
+établissements publics, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises, le premier alinéa de l'article R. 551-7-1 est ainsi rédigé : 
+
+" Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article L. 551-15, le pouvoir adjudicateur ou l'entité
+adjudicatrice publie au Journal officiel local un avis relatif à son intention de conclure un contrat. Il respecte un délai
+d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+_Cite_:
+
+  - Code de justice administrative - art. R551-7-1 (V)
+
+
+#### Chapitre IV : Les régimes spéciaux de suspension<a id=247></a>
 
 ###### Article R554-1
 
@@ -19274,7 +19347,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Le référé en matière d'informatique et libertés<a id=247></a>
+#### Chapitre V : Le référé en matière d'informatique et libertés<a id=248></a>
 
 ###### Article R555-1
 
@@ -19340,7 +19413,7 @@ _Créé par_:
   - Décret n°2007-451 du 25 mars 2007 - art. 18 () JORF 28 mars 2007
 
 
-#### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation<a id=248></a>
+#### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation<a id=249></a>
 
 ###### Article R556-1
 
@@ -19365,7 +19438,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L511-3 (V)
 
 
-#### Chapitre VII : Le référé sur saisine du Défenseur des droits<a id=249></a>
+#### Chapitre VII : Le référé sur saisine du Défenseur des droits<a id=250></a>
 
 ###### Article R557-1
 
@@ -19408,13 +19481,13 @@ _Créé par_:
   - Décret n°2011-904 du 29 juillet 2011 - art. 10
 
 
-## Livre VI : L'instruction<a id=250></a>
+## Livre VI : L'instruction<a id=251></a>
 
-### Titre Ier : La procédure ordinaire<a id=251></a>
+### Titre Ier : La procédure ordinaire<a id=252></a>
 
-#### Chapitre Ier : La communication de la requête et des mémoires<a id=252></a>
+#### Chapitre Ier : La communication de la requête et des mémoires<a id=253></a>
 
-##### Section 1 : Dispositions générales<a id=253></a>
+##### Section 1 : Dispositions générales<a id=254></a>
 
 ###### Article R611-1
 
@@ -19731,7 +19804,7 @@ _Cité par_:
   - Code de justice administrative - art. R612-3 (V)
 
 
-##### Section 1 bis : Dispositions propres à la communication électronique<a id=254></a>
+##### Section 1 bis : Dispositions propres à la communication électronique<a id=255></a>
 
 ###### Article R611-8-2
 
@@ -19918,7 +19991,7 @@ _Cité par_:
   - Code de justice administrative - art. R611-10 (V)
 
 
-##### Section 2 : Dispositions applicables devant les tribunaux administratifs<a id=255></a>
+##### Section 2 : Dispositions applicables devant les tribunaux administratifs<a id=256></a>
 
 ###### Article R611-9
 
@@ -20150,7 +20223,7 @@ _Modifié par_:
   - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
-##### Section 3 : Dispositions applicables devant les cours administratives d'appel<a id=256></a>
+##### Section 3 : Dispositions applicables devant les cours administratives d'appel<a id=257></a>
 
 ###### Article R611-16
 
@@ -20240,7 +20313,7 @@ _Cite_:
   - Code de justice administrative - art. R222-26
 
 
-##### Section 4 : Dispositions applicables devant le Conseil d'Etat<a id=257></a>
+##### Section 4 : Dispositions applicables devant le Conseil d'Etat<a id=258></a>
 
 ###### Article R611-20
 
@@ -20483,7 +20556,7 @@ _Cite_:
   - Code de justice administrative - art. R611-1 (V)
 
 
-#### Chapitre II : La demande de régularisation et la mise en demeure<a id=258></a>
+#### Chapitre II : La demande de régularisation et la mise en demeure<a id=259></a>
 
 ###### Article R612-1
 
@@ -20646,9 +20719,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R153 (M)
 
 
-#### Chapitre III : La clôture de l'instruction<a id=259></a>
+#### Chapitre III : La clôture de l'instruction<a id=260></a>
 
-##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=260></a>
+##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=261></a>
 
 ###### Article R613-1
 
@@ -20783,7 +20856,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R157 (M)
 
 
-##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=261></a>
+##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=262></a>
 
 ###### Article R613-5
 
@@ -20805,9 +20878,9 @@ _Cité par_:
   - Décret n°2016-1480 du 2 novembre 2016 - art. 32 (VD)
 
 
-### Titre II : Les différents moyens d'investigation<a id=262></a>
+### Titre II : Les différents moyens d'investigation<a id=263></a>
 
-#### Chapitre Ier : L'expertise<a id=263></a>
+#### Chapitre Ier : L'expertise<a id=264></a>
 
 ###### Article R621-1
 
@@ -20865,7 +20938,7 @@ _Cite_:
   - Code de justice administrative - art. R621-8-1
 
 
-##### Section 1 : Nombre et désignation des experts<a id=264></a>
+##### Section 1 : Nombre et désignation des experts<a id=265></a>
 
 ###### Article R621-2
 
@@ -21047,7 +21120,7 @@ _Créé par_:
   - Décret n°2010-164 du 22 février 2010 - art. 39
 
 
-##### Section 2 : Opérations d'expertise<a id=265></a>
+##### Section 2 : Opérations d'expertise<a id=266></a>
 
 ###### Article R621-7
 
@@ -21168,7 +21241,7 @@ _Cite_:
   - Code de justice administrative - art. R711-2
 
 
-##### Section 3 : Rapport d'expertise<a id=266></a>
+##### Section 3 : Rapport d'expertise<a id=267></a>
 
 ###### Article R621-9
 
@@ -21233,7 +21306,7 @@ _Cité par_:
   - Code de justice administrative - art. R625-2 (VD)
 
 
-##### Section 4 : Frais d'expertise<a id=267></a>
+##### Section 4 : Frais d'expertise<a id=268></a>
 
 ###### Article R621-11
 
@@ -21412,7 +21485,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R170 (Ab)
 
 
-#### Chapitre II : La visite des lieux<a id=268></a>
+#### Chapitre II : La visite des lieux<a id=269></a>
 
 ###### Article R622-1
 
@@ -21444,9 +21517,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R171 (M)
 
 
-#### Chapitre III : L'enquête<a id=269></a>
+#### Chapitre III : L'enquête<a id=270></a>
 
-##### Section 1 : Procédure de l'enquête<a id=270></a>
+##### Section 1 : Procédure de l'enquête<a id=271></a>
 
 ###### Article R623-1
 
@@ -21572,7 +21645,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R176 (Ab)
 
 
-##### Section 2 : Procès-verbal de l'enquête<a id=271></a>
+##### Section 2 : Procès-verbal de l'enquête<a id=272></a>
 
 ###### Article R623-6
 
@@ -21623,7 +21696,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R178 (Ab)
 
 
-##### Section 3 : Frais de l'enquête<a id=272></a>
+##### Section 3 : Frais de l'enquête<a id=273></a>
 
 ###### Article R623-8
 
@@ -21649,7 +21722,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R179 (Ab)
 
 
-#### Chapitre IV : Les vérifications d'écritures<a id=273></a>
+#### Chapitre IV : Les vérifications d'écritures<a id=274></a>
 
 ###### Article R624-1
 
@@ -21699,7 +21772,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R181 (Ab)
 
 
-#### Chapitre V : Les autres mesures d'instruction<a id=274></a>
+#### Chapitre V : Les autres mesures d'instruction<a id=275></a>
 
 ###### Article R625-1
 
@@ -21770,7 +21843,7 @@ _Créé par_:
   - Décret n°2010-164 du 22 février 2010 - art. 46
 
 
-#### Chapitre VI : Dispositions diverses<a id=275></a>
+#### Chapitre VI : Dispositions diverses<a id=276></a>
 
 ###### Article R626-1
 
@@ -21875,9 +21948,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R145-34 (V)
 
 
-### Titre III : Les incidents de l'instruction<a id=276></a>
+### Titre III : Les incidents de l'instruction<a id=277></a>
 
-#### Chapitre Ier : La demande incidente<a id=277></a>
+#### Chapitre Ier : La demande incidente<a id=278></a>
 
 ###### Article R631-1
 
@@ -21901,7 +21974,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : L'intervention<a id=278></a>
+#### Chapitre II : L'intervention<a id=279></a>
 
 ###### Article R632-1
 
@@ -21929,7 +22002,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : L'inscription de faux<a id=279></a>
+#### Chapitre III : L'inscription de faux<a id=280></a>
 
 ###### Article R633-1
 
@@ -21957,7 +22030,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=280></a>
+#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=281></a>
 
 ###### Article R634-1
 
@@ -22000,7 +22073,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Le désaveu<a id=281></a>
+#### Chapitre V : Le désaveu<a id=282></a>
 
 ###### Article R635-1
 
@@ -22065,7 +22138,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre VI : Le désistement<a id=282></a>
+#### Chapitre VI : Le désistement<a id=283></a>
 
 ###### Article R636-1
 
@@ -22094,11 +22167,11 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R189 (Ab)
 
 
-## Livre VII : Le jugement<a id=283></a>
+## Livre VII : Le jugement<a id=284></a>
 
-### Titre Ier : L'inscription au rôle<a id=284></a>
+### Titre Ier : L'inscription au rôle<a id=285></a>
 
-#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=285></a>
+#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=286></a>
 
 ###### Article R711-1
 
@@ -22237,7 +22310,7 @@ _Anciens textes_:
   - Code de justice administrative. - art. R711-3 (VT)
 
 
-#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=286></a>
+#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=287></a>
 
 ###### Article R712-1
 
@@ -22319,7 +22392,7 @@ _Cite_:
   - Code de justice administrative - art. R414-1 (VD)
 
 
-### Titre II : L'abstention et la récusation<a id=287></a>
+### Titre II : L'abstention et la récusation<a id=288></a>
 
 ###### Article R721-1
 
@@ -22497,9 +22570,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R194 (Ab)
 
 
-### Titre III : La tenue de l'audience et le délibéré<a id=288></a>
+### Titre III : La tenue de l'audience et le délibéré<a id=289></a>
 
-#### Chapitre Ier : Dispositions générales<a id=289></a>
+#### Chapitre Ier : Dispositions générales<a id=290></a>
 
 ###### Article R731-1
 
@@ -22637,7 +22710,7 @@ _Anciens textes_:
   - Code de justice administrative. - art. R731-9 (T)
 
 
-#### Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=290></a>
+#### Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=291></a>
 
 ###### Article R732-1
 
@@ -22736,7 +22809,7 @@ _Cité par_:
   - Code de justice administrative. - art. R778-4 (VD)
 
 
-#### Chapitre III : Dispositions applicables au Conseil d'Etat<a id=291></a>
+#### Chapitre III : Dispositions applicables au Conseil d'Etat<a id=292></a>
 
 ###### Article R733-1
 
@@ -22795,11 +22868,11 @@ _Cité par_:
   - Code de justice administrative. - art. R712-1 (V)
 
 
-### Titre IV : La décision<a id=292></a>
+### Titre IV : La décision<a id=293></a>
 
-#### Chapitre Ier : Dispositions générales<a id=293></a>
+#### Chapitre Ier : Dispositions générales<a id=294></a>
 
-##### Section 1 : Le prononcé de la décision<a id=294></a>
+##### Section 1 : Le prononcé de la décision<a id=295></a>
 
 ###### Article R741-1
 
@@ -22816,7 +22889,7 @@ _Modifié par_:
   - Décret n°2005-1586 du 19 décembre 2005 - art. 7 () JORF 20 décembre 2005
 
 
-##### Section 2 : Les mentions obligatoires de la décision<a id=295></a>
+##### Section 2 : Les mentions obligatoires de la décision<a id=296></a>
 
 ###### Article R741-2
 
@@ -22990,7 +23063,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R203 (Ab)
 
 
-##### Section 3 : La minute de la décision<a id=296></a>
+##### Section 3 : La minute de la décision<a id=297></a>
 
 ###### Article R741-7
 
@@ -23093,7 +23166,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R206 (Ab)
 
 
-##### Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire<a id=297></a>
+##### Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire<a id=298></a>
 
 ###### Article R741-11
 
@@ -23123,7 +23196,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R145-43 (V)
 
 
-##### Section 5 : L'amende pour recours abusif<a id=298></a>
+##### Section 5 : L'amende pour recours abusif<a id=299></a>
 
 ###### Article R741-12
 
@@ -23154,7 +23227,7 @@ _Cité par_:
   - Code de la santé publique - art. R4234-33 (V)
 
 
-#### Chapitre II : Dispositions propres aux ordonnances<a id=299></a>
+#### Chapitre II : Dispositions propres aux ordonnances<a id=300></a>
 
 ###### Article R742-1
 
@@ -23271,7 +23344,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre V : La notification de la décision<a id=300></a>
+### Titre V : La notification de la décision<a id=301></a>
 
 ###### Article R751-1
 
@@ -23700,7 +23773,7 @@ _Créé par_:
   - Décret n°2008-452 du 13 mai 2008 - art. 17
 
 
-### Titre VI : Les frais et dépens<a id=301></a>
+### Titre VI : Les frais et dépens<a id=302></a>
 
 ###### Article R761-1
 
@@ -23829,11 +23902,11 @@ _Cite_:
   - Code de justice administrative - art. R761-4
 
 
-### Titre VII : Dispositions spéciales<a id=302></a>
+### Titre VII : Dispositions spéciales<a id=303></a>
 
-#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires<a id=303></a>
+#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires<a id=304></a>
 
-##### Section 1 : La saisine du Tribunal des conflits<a id=304></a>
+##### Section 1 : La saisine du Tribunal des conflits<a id=305></a>
 
 ###### Article R771-1
 
@@ -23857,7 +23930,7 @@ _Modifié par_:
   - Décret n°2015-233 du 27 février 2015 - art. 45
 
 
-##### Section 2 :  La question préjudicielle<a id=305></a>
+##### Section 2 :  La question préjudicielle<a id=306></a>
 
 ###### Article R771-2
 
@@ -23907,9 +23980,9 @@ _Créé par_:
   - Décret n°2015-233 du 27 février 2015 - art. 47
 
 
-#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=306></a>
+#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=307></a>
 
-##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=307></a>
+##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=308></a>
 
 ###### Article R*771-3
 
@@ -24095,7 +24168,7 @@ _Créé par_:
   - Décret n°2010-148 du 16 février 2010 - art. 1
 
 
-##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=308></a>
+##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=309></a>
 
 ###### Article R*771-13
 
@@ -24251,7 +24324,7 @@ _Cite_:
   - Code de justice administrative - art. R751-2
 
 
-#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=309></a>
+#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=310></a>
 
 ###### Article R772-1
 
@@ -24350,7 +24423,7 @@ _Modifié par_:
   - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
-#### Chapitre II bis : Les contentieux sociaux<a id=310></a>
+#### Chapitre II bis : Les contentieux sociaux<a id=311></a>
 
 ###### Article R772-5
 
@@ -24480,7 +24553,7 @@ _Créé par_:
   - Décret n°2013-730 du 13 août 2013 - art. 6
 
 
-#### Chapitre III : Le contentieux des élections<a id=311></a>
+#### Chapitre III : Le contentieux des élections<a id=312></a>
 
 ###### Article R773-1
 
@@ -24607,7 +24680,7 @@ _Cité par_:
   - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
-#### Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=312></a>
+#### Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=313></a>
 
 ###### Article R773-7
 
@@ -24629,9 +24702,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L854-9 (V)
 
 
-##### Section 1 : Dispositions générales<a id=313></a>
+##### Section 1 : Dispositions générales<a id=314></a>
 
-##### Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=314></a>
+##### Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=315></a>
 
 ###### Article R773-8
 
@@ -24701,7 +24774,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte<a id=315></a>
+##### Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte<a id=316></a>
 
 ###### Article R773-12
 
@@ -24722,7 +24795,7 @@ _Cité par_:
   - Code de justice administrative - art. R122-20 (V)
 
 
-##### Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux<a id=316></a>
+##### Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux<a id=317></a>
 
 ###### Article R773-13
 
@@ -24738,7 +24811,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte<a id=317></a>
+##### Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte<a id=318></a>
 
 ###### Article R773-14
 
@@ -24845,7 +24918,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 5 : Juge des référés<a id=318></a>
+##### Sous-section 5 : Juge des référés<a id=319></a>
 
 ###### Article R773-18
 
@@ -24866,7 +24939,7 @@ _Cite_:
   - Code de justice administrative - art. L311-4-1 (V)
 
 
-##### Sous-section 6 : Pouvoirs du président de la formation spécialisée<a id=319></a>
+##### Sous-section 6 : Pouvoirs du président de la formation spécialisée<a id=320></a>
 
 ###### Article R773-19
 
@@ -24883,7 +24956,7 @@ _Cite_:
   - Code de justice administrative - art. R122-12
 
 
-##### Sous-section 7 : Instruction<a id=320></a>
+##### Sous-section 7 : Instruction<a id=321></a>
 
 ###### Article R773-20
 
@@ -24949,7 +25022,7 @@ _Cite_:
   - Code de justice administrative - art. L773-3 (V)
 
 
-##### Sous-section 8 : Jugement<a id=321></a>
+##### Sous-section 8 : Jugement<a id=322></a>
 
 ###### Article R773-23
 
@@ -25079,7 +25152,7 @@ _Cite_:
   - Code de justice administrative - art. R731-4 (V)
 
 
-##### Sous-section 9 : Le secrétariat<a id=322></a>
+##### Sous-section 9 : Le secrétariat<a id=323></a>
 
 ###### Article R773-29
 
@@ -25098,9 +25171,9 @@ _Cite_:
   - Code de justice administrative - art. L773-2 (V)
 
 
-##### Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation<a id=323></a>
+##### Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation<a id=324></a>
 
-##### Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure<a id=324></a>
+##### Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure<a id=325></a>
 
 ###### Article R773-30
 
@@ -25141,7 +25214,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L833-4 (V)
 
 
-##### Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure<a id=325></a>
+##### Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure<a id=326></a>
 
 ###### Article R773-32
 
@@ -25196,7 +25269,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure<a id=326></a>
+##### Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure<a id=327></a>
 
 ###### Article R773-34-1
 
@@ -25229,7 +25302,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 7
 
 
-##### Section 3 : Saisine à titre préjudiciel<a id=327></a>
+##### Section 3 : Saisine à titre préjudiciel<a id=328></a>
 
 ###### Article R773-35
 
@@ -25256,9 +25329,9 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=328></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière<a id=329></a>
 
-##### Section 1 : Dispositions communes<a id=329></a>
+##### Section 1 : Dispositions communes<a id=330></a>
 
 ###### Article R776-1
 
@@ -25591,7 +25664,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=330></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=331></a>
 
 ###### Article R776-10
 
@@ -25720,7 +25793,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-13 (Ab)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=331></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=332></a>
 
 ###### Article R776-14
 
@@ -26221,7 +26294,7 @@ _Cité par_:
   - Code de justice administrative - art. R776-13-2 (V)
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=332></a>
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=333></a>
 
 ###### Article R777-1
 
@@ -26434,7 +26507,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 1
 
 
-#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=333></a>
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=334></a>
 
 ###### Article R777-2
 
@@ -26623,9 +26696,9 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 2
 
 
-#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=334></a>
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=335></a>
 
-##### Section 1 : Dispositions communes<a id=335></a>
+##### Section 1 : Dispositions communes<a id=336></a>
 
 ###### Article R777-3
 
@@ -26736,7 +26809,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 3
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=336></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=337></a>
 
 ###### Article R777-3-5
 
@@ -26798,7 +26871,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=337></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=338></a>
 
 ###### Article R777-3-8
 
@@ -26841,7 +26914,7 @@ _Cite_:
   - Code de justice administrative - art. R776-6
 
 
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=338></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=339></a>
 
 ###### Article R778-1
 
@@ -27058,9 +27131,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=339></a>
+#### Chapitre IX : Autres dispositions<a id=340></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=340></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=341></a>
 
 ###### Article R779-1
 
@@ -27255,7 +27328,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=341></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=342></a>
 
 ###### Article R779-9
 
@@ -27283,7 +27356,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=342></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=343></a>
 
 ###### Article R779-10
 
@@ -27302,7 +27375,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=343></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=344></a>
 
 ###### Article R781-1
 
@@ -27359,9 +27432,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=344></a>
+## Livre VIII : Les voies de recours.<a id=345></a>
 
-### Titre Ier : L'appel<a id=345></a>
+### Titre Ier : L'appel<a id=346></a>
 
 ###### Article R811-1
 
@@ -28019,9 +28092,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=346></a>
+### Titre II : Le recours en cassation<a id=347></a>
 
-#### Chapitre Ier : Dispositions générales<a id=347></a>
+#### Chapitre Ier : Dispositions générales<a id=348></a>
 
 ###### Article R821-1
 
@@ -28186,7 +28259,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=348></a>
+#### Chapitre II : Procédure d'admission<a id=349></a>
 
 ###### Article R822-1
 
@@ -28370,9 +28443,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=349></a>
+### Titre III : Autres voies de recours<a id=350></a>
 
-#### Chapitre Ier : L'opposition<a id=350></a>
+#### Chapitre Ier : L'opposition<a id=351></a>
 
 ###### Article R831-1
 
@@ -28503,7 +28576,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=351></a>
+#### Chapitre II : La tierce opposition<a id=352></a>
 
 ###### Article R832-1
 
@@ -28606,7 +28679,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=352></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=353></a>
 
 ###### Article R833-1
 
@@ -28661,7 +28734,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=353></a>
+#### Chapitre IV : Le recours en révision<a id=354></a>
 
 ###### Article R834-1
 
@@ -28751,9 +28824,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=354></a>
+## Livre IX : L'exécution des décisions<a id=355></a>
 
-### Titre Ier : Principes<a id=355></a>
+### Titre Ier : Principes<a id=356></a>
 
 ###### Article R911-1
 
@@ -28776,7 +28849,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=356></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=357></a>
 
 ###### Article R921-1
 
@@ -29021,7 +29094,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=357></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=358></a>
 
 ###### Article R931-1
 

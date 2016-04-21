@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-04-16
+Version Consolidée au 2016-04-22
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 2016-04-16
         - [Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives (art. L123-1 à L123-3)](#15)
           - [Section unique : L'avis sur une proposition de loi (art. L123-1 à L123-3)](#16)
       - [Titre III : Dispositions statutaires (art. L131-1 à L137-1)](#17)
-        - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-3)](#18)
+        - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-10)](#18)
         - [Chapitre II : La commission consultative (art. L132-1 à L132-3)](#19)
         - [Chapitre III : Nominations (art. L133-1 à L133-12)](#20)
           - [Section 1 : Dispositions générales (art. L133-1 à L133-7)](#21)
@@ -840,13 +840,31 @@ _Codifié par_:
 
 ###### Article L121-4
 
-Les conseillers d'Etat en service extraordinaire sont nommés par décret pris en conseil des ministres, sur la proposition du
-garde des sceaux, ministre de la justice, et sont choisis parmi les personnalités qualifiées dans les différents domaines de
-l'activité nationale.
+I. – Les conseillers d'Etat en service extraordinaire sont nommés par décret pris en conseil des ministres, sur proposition
+du garde des sceaux, ministre de la justice, pour exercer des fonctions consultatives ou juridictionnelles.
+
+II. – Les conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions consultatives sont choisis parmi les
+personnalités qualifiées dans les différents domaines de l'activité nationale. Ils sont nommés après avis du vice-président
+du Conseil d'Etat.
 
 Ils siègent à l'assemblée générale et peuvent être appelés à participer aux séances des autres formations administratives.
+Ils ne peuvent être affectés à la section du contentieux.
 
-Les conseillers d'Etat en service extraordinaire ne peuvent être affectés à la section du contentieux.
+III. – Les conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions juridictionnelles sont choisis
+parmi les personnes que leur compétence et leur activité dans le domaine du droit qualifient particulièrement pour l'exercice
+de ces fonctions. Ils doivent remplir les conditions prévues à l'article 5 de la loi n° 83-634 du 13 juillet 1983 portant
+droits et obligations des fonctionnaires et justifier de vingt-cinq années au moins d'activité professionnelle. Ils sont
+nommés sur proposition d'un comité présidé par le vice-président du Conseil d'Etat et composé, en outre, d'un nombre égal de
+personnalités qualifiées et de membres du Conseil d'Etat, désignés par le vice-président du Conseil d'Etat.
+
+Ces conseillers d'Etat en service extraordinaire sont affectés à la section du contentieux. Ils ne peuvent être affectés dans
+les formations administratives. Ils sont soumis aux mêmes obligations que les conseillers d'Etat en service ordinaire.
+
+Les conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions juridictionnelles et qui ont la qualité de
+fonctionnaires sont placés en position de détachement dans leur corps d'origine.
+
+IV. – Le nombre des conseillers d'Etat en service extraordinaire mentionnés aux II et III du présent article est fixé par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -856,10 +874,18 @@ _Anciens textes_:
   - Décret n°63-766 du 30 juillet 1963 - art. 8 (Ab)
   - Décret n°63-766 du 30 juillet 1963 - art. 2 (Ab)
 
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 5 (V)
+
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -874,7 +900,10 @@ _Cité par_:
 ###### Article L121-5
 
 Les conseillers d'Etat en service extraordinaire sont nommés pour une durée de cinq ans non renouvelable avant l'expiration
-d'un délai de deux ans.
+d'un délai de deux ans. 
+
+Il ne peut être mis fin à leurs fonctions que pour motif disciplinaire et sur proposition de la commission consultative
+mentionnée à l'article L. 132-1.
 
 **Liens relatifs à cet article**
 
@@ -889,13 +918,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 73
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
+
+_Cite_:
+
+  - Code de justice administrative - art. L132-1 (V)
 
 
 ###### Article L121-6
 
-Les conseillers d'Etat en service extraordinaire peuvent recevoir, à l'exclusion de tout traitement au Conseil d'Etat, une
-indemnité pour les services qu'ils accomplissent effectivement au Conseil.
+Les conseillers d'Etat en service extraordinaire mentionnés au II de l'article L. 121-4 peuvent recevoir, à l'exclusion de
+tout traitement au Conseil d'Etat, une indemnité pour les services qu'ils accomplissent effectivement au Conseil. 
+
+Les conseillers d'Etat en service extraordinaire mentionnés au III de l'article L. 121-4 perçoivent la rémunération afférente
+au grade de conseiller d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -905,12 +941,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
   - Arrêté du 27 février 2018 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. L121-4 (V)
 
 
 ###### Article L121-7
@@ -957,12 +1001,13 @@ _Cite_:
 ###### Article L122-1
 
 Les décisions du Conseil d'Etat statuant au contentieux sont rendues par l'assemblée du contentieux, par la section du
-contentieux ou par des formations de sous-sections réunies. Elles peuvent également être rendues par chaque sous-section
-siégeant en formation de jugement.
+contentieux, par des formations de chambres réunies ou par une chambre siégeant en formation de jugement. Elles sont en outre
+rendues, dans les cas définis au chapitre III bis du titre VII du livre VII, par la formation spécialisée prévue à l'article
+L. 773-2. 
 
-Le président de la section du contentieux, les présidents adjoints de la section du contentieux  et les présidents de sous-
-section peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation
-collégiale.
+Le président de la section du contentieux, les présidents adjoints de cette section, les présidents de chambre, le président
+de la formation spécialisée et les autres conseillers d'Etat que le président de la section du contentieux désigne à cet
+effet peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation collégiale.
 
 **Liens relatifs à cet article**
 
@@ -973,7 +1018,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 47
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
+
+_Cite_:
+
+  - Code de justice administrative - art. L773-2 (V)
 
 _Cité par_:
 
@@ -1081,7 +1130,13 @@ _Codifié par_:
 
 ###### Article L131-2
 
-Aucun membre du Conseil ne peut se prévaloir, à l'appui d'une activité politique, de son appartenance au Conseil d'Etat.
+Les membres du Conseil d'Etat exercent leurs fonctions en toute indépendance, dignité, impartialité, intégrité et probité et
+se comportent de façon à prévenir tout doute légitime à cet égard.
+
+Ils s'abstiennent de tout acte ou comportement à caractère public incompatible avec la réserve que leur imposent leurs
+fonctions.
+
+Ils ne peuvent se prévaloir, à l'appui d'une activité politique, de leur appartenance au Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1091,8 +1146,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Cité par_:
 
@@ -1100,11 +1155,17 @@ _Cité par_:
   - Décret n°2010-101 du 28 janvier 2010 - art. 3 (Ab)
   - Code de justice administrative - art. L121-8 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
 
 ###### Article L131-3
 
-Tout membre du Conseil d'Etat, en service au Conseil ou chargé de fonctions extérieures, doit s'abstenir de toute
-manifestation de nature politique incompatible avec la réserve que lui imposent ses fonctions.
+Les membres du Conseil d'Etat veillent à prévenir ou à faire cesser immédiatement les situations de conflit d'intérêts.
+
+Constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui
+est de nature à influencer ou à paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
 
 **Liens relatifs à cet article**
 
@@ -1114,13 +1175,258 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Cité par_:
 
   - Décret n°2004-1088 du 14 octobre 2004 - art. 5 (Ab)
   - Code de justice administrative - art. L121-8 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+
+###### Article L131-4
+
+Le vice-président du Conseil d'Etat établit, après avis du collège de déontologie de la juridiction administrative, une
+charte de déontologie énonçant les principes déontologiques et les bonnes pratiques propres à l'exercice des fonctions de
+membre de la juridiction administrative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+_Cité par_:
+
+  - Code de justice administrative - art. L131-6 (V)
+
+
+###### Article L131-5
+
+Le collège de déontologie de la juridiction administrative est composé :
+
+1° D'un membre du Conseil d'Etat élu par l'assemblée générale ;
+
+2° D'un magistrat des tribunaux administratifs et des cours administratives d'appel élu par le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel ;
+
+3° D'une personnalité extérieure désignée alternativement par le premier président de la Cour de cassation parmi les
+magistrats en fonction à la Cour de cassation ou honoraires et par le premier président de la Cour des comptes parmi les
+magistrats en fonction à la Cour des comptes ou honoraires ;
+
+4° D'une personnalité qualifiée nommée par le Président de la République, en dehors des membres du Conseil d'Etat et des
+magistrats des tribunaux administratifs et des cours administratives d'appel, sur proposition du vice-président du Conseil
+d'Etat.
+
+Le président du collège de déontologie est désigné par le vice-président du Conseil d'Etat.
+
+La durée du mandat des membres du collège de déontologie est de trois ans, renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+
+###### Article L131-6
+
+Le collège de déontologie de la juridiction administrative est chargé :
+
+1° De rendre un avis préalable à l'établissement de la charte de déontologie mentionnée à l'article L. 131-4 ;
+
+2° De rendre des avis sur toute question déontologique concernant personnellement un membre de la juridiction administrative,
+sur saisine du membre concerné, du vice-président du Conseil d'Etat, d'un président de section du Conseil d'Etat, du
+secrétaire général du Conseil d'Etat, du président de la mission d'inspection des juridictions administratives, du président
+d'une cour administrative d'appel ou d'un tribunal administratif ou du Conseil supérieur des tribunaux administratifs et
+cours administratives d'appel ;
+
+3° De formuler des recommandations de nature à éclairer les membres de la juridiction administrative sur l'application des
+principes déontologiques et de la charte de déontologie, à son initiative ou sur saisine du vice-président du Conseil d'Etat,
+d'un président de section du Conseil d'Etat, du secrétaire général du Conseil d'Etat, du président de la mission d'inspection
+des juridictions administratives, du président d'une cour administrative d'appel ou d'un tribunal administratif, du Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel ou d'une organisation syndicale ou association de
+membres de la juridiction administrative ;
+
+4° De rendre des avis sur les déclarations d'intérêts qui lui sont transmises dans les conditions prévues aux articles L.
+131-7 et L. 231-4-1.
+
+Le collège de déontologie rend publiques ses recommandations et peut rendre publics, sous forme anonyme, ses avis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+_Cite_:
+
+  - Code de justice administrative - art. L131-4 (V)
+  - Code de justice administrative - art. L131-7 (V)
+  - Code de justice administrative - art. L231-4-1 (V)
+
+_Cité par_:
+
+  - Code de justice administrative - art. L231-4-2 (V)
+
+
+###### Article L131-7
+
+I.-Dans les deux mois qui suivent leur affectation, les membres du Conseil d'Etat remettent une déclaration exhaustive,
+exacte et sincère de leurs intérêts au président de la section à laquelle ils ont été affectés. La déclaration est transmise
+au vice-président du Conseil d'Etat. 
+
+Dans les deux mois qui suivent leur prise de fonctions, les présidents de section et le secrétaire général remettent une
+déclaration exhaustive, exacte et sincère de leurs intérêts au vice-président du Conseil d'Etat. 
+
+La déclaration d'intérêts mentionne les liens et les intérêts détenus de nature à influencer ou à paraître influencer
+l'exercice indépendant, impartial et objectif des fonctions, que le déclarant a, ou qu'il a eus pendant les cinq années
+précédant son affectation ou sa prise de fonctions. Elle ne comporte aucune mention des opinions ou des activités politiques,
+syndicales, religieuses ou philosophiques de l'intéressé, sauf lorsque leur révélation résulte de la déclaration de fonctions
+ou de mandats exercés publiquement. 
+
+La remise de la déclaration d'intérêts donne lieu à un entretien déontologique avec l'autorité à laquelle la déclaration a
+été remise, ayant pour objet de prévenir tout éventuel conflit d'intérêts et d'inviter, s'il y a lieu, à mettre fin à une
+situation de conflit d'intérêts. A l'issue de l'entretien, la déclaration peut être modifiée par le déclarant. L'entretien
+peut être renouvelé à tout moment à la demande du déclarant ou de l'autorité. 
+
+L'autorité à laquelle la déclaration a été remise peut solliciter l'avis du collège de déontologie de la juridiction
+administrative sur la déclaration lorsqu'il existe un doute sur une éventuelle situation de conflit d'intérêts. Lorsque
+l'avis est sollicité par un président de section, il est également porté à la connaissance du vice-président du Conseil
+d'Etat. 
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes et peut donner lieu à un entretien déontologique. 
+
+La déclaration d'intérêts est annexée au dossier de l'intéressé selon des modalités garantissant sa confidentialité, sous
+réserve de sa consultation par les personnes autorisées à y accéder. 
+
+Lorsqu'une procédure disciplinaire est engagée, le garde des sceaux, ministre de la justice, et la commission consultative
+mentionnée à l'article L. 132-1 peuvent obtenir communication de la déclaration d'intérêts. 
+
+II.-Dans les deux mois qui suivent sa prise de fonctions, le vice-président du Conseil d'Etat remet une déclaration
+exhaustive, exacte et sincère de ses intérêts au collège de déontologie de la juridiction administrative, qui peut lui
+adresser des observations ayant pour objet de prévenir tout éventuel conflit d'intérêts et de l'inviter, s'il y a lieu, à
+mettre fin à une situation de conflit d'intérêts. 
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes. 
+
+Les troisième, avant-dernier et dernier alinéas du I du présent article sont applicables. 
+
+III.-Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et
+les conditions de remise, de mise à jour, de conservation et de consultation de la déclaration d'intérêts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+_Cité par_:
+
+  - Décret n°2020-69 du 30 janvier 2020 - art. 2 (V)
+  - Code de justice administrative - art. L131-6 (V)
+  - Code de justice administrative - art. L131-8 (V)
+  - Code de justice administrative - art. R131-3 (V)
+  - Code de justice administrative - art. R131-4 (V)
+  - Code de justice administrative - art. R131-5 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. L132-1 (V)
+
+
+###### Article L131-8
+
+I.– Le fait, pour une personne tenue de remettre une déclaration d'intérêts en application de l'article L. 131-7 du présent
+code, de ne pas adresser sa déclaration ou d'omettre de déclarer une partie substantielle de ses intérêts est puni d'une
+peine de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles
+131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à
+l'article 131-27 du même code.
+
+II. – Le fait de publier, hors le cas prévu au dernier alinéa de l'article L. 131-6 du présent code, ou de divulguer, de
+quelque manière que ce soit, tout ou partie des déclarations, des informations ou des avis mentionnés à l'article L. 131-7 du
+même code est puni des peines mentionnées à l'article 226-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+_Cite_:
+
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-26-1
+  - Code pénal - art. 226-1
+  - Code de justice administrative - art. L131-7 (V)
+
+
+###### Article L131-9
+
+I. – Dans le cadre des fonctions juridictionnelles du Conseil d'Etat, sans préjudice des autres dispositions prévues au
+présent code en matière d'abstention, le membre du Conseil d'Etat qui estime se trouver dans une situation de conflit
+d'intérêts s'abstient de participer au jugement de l'affaire concernée. Son remplacement est assuré en application des règles
+de suppléance prévues au présent code.
+
+Le président de la formation de jugement peut également, à son initiative, inviter à ne pas siéger un membre du Conseil
+d'Etat dont il estime, pour des raisons qu'il lui communique, qu'il se trouve dans une situation de conflit d'intérêts. Si le
+membre du Conseil d'Etat concerné n'acquiesce pas à cette invitation, la formation de jugement se prononce, sans sa
+participation. S'il y a lieu, son remplacement est assuré en application des règles de suppléance prévues au présent code.
+
+II. – Dans le cadre des fonctions consultatives du Conseil d'Etat, le membre du Conseil d'Etat qui estime se trouver dans une
+situation de conflit d'intérêts s'abstient de participer aux délibérations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+
+
+###### Article L131-10
+
+Dans les deux mois qui suivent leur prise de fonctions et dans les deux mois qui suivent la cessation de leurs fonctions, le
+vice-président du Conseil d'Etat et les présidents de section du Conseil d'Etat adressent une déclaration de situation
+patrimoniale au président de la Haute Autorité pour la transparence de la vie publique.
+
+La déclaration de situation patrimoniale est établie, contrôlée et sanctionnée dans les conditions et selon les modalités
+prévues aux premier et quatrième alinéas du I, aux II et V de l'article 4, aux articles 6, 7, à l'exception de la publication
+d'un rapport spécial au Journal officiel, et 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique.
+
+Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes.
+
+Aucune nouvelle déclaration n'est exigée du membre du Conseil d'Etat qui a établi depuis moins de six mois une déclaration en
+application du présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de l'article LO
+135-1 du code électoral.
+
+La déclaration de situation patrimoniale n'est pas versée au dossier de l'intéressé et ne peut pas être communiquée aux
+tiers.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+  - Loi n°2013-907 du 11 octobre 2013 (V)
+  - Code électoral - art. LO135-1
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
 
 
 #### Chapitre II : La commission consultative<a id=19></a>
@@ -1368,13 +1674,13 @@ _Cité par_:
 
 ###### Article L133-8
 
-Pour chaque période de deux ans, un membre du corps des tribunaux administratifs et des cours administratives d'appel est
-nommé au grade de conseiller d'Etat en service ordinaire, sans qu'il en soit tenu compte pour l'application du deuxième
-alinéa de l'article L. 133-3. 
+Pour chaque période de deux ans, un membre du corps des magistrats des tribunaux administratifs et des cours administratives
+d'appel est nommé au grade de conseiller d'Etat en service ordinaire, sans qu'il en soit tenu compte pour l'application du
+deuxième alinéa de l'article L. 133-3.
 
-Chaque année, un membre du corps des tribunaux administratifs et des cours administratives d'appel est nommé au grade de
-maître des requêtes, sans qu'il en soit tenu compte pour l'application du deuxième alinéa de l'article L. 133-4. Un autre
-membre de ce corps peut être nommé chaque année dans les mêmes conditions. 
+Chaque année, un membre du corps des magistrats des tribunaux administratifs et des cours administratives d'appel est nommé
+au grade de maître des requêtes, sans qu'il en soit tenu compte pour l'application du deuxième alinéa de l'article L. 133-4.
+Un autre membre de ce corps peut être nommé chaque année dans les mêmes conditions.
 
 Les nominations prévues au présent article sont prononcées sur proposition du vice-président du Conseil d'Etat, délibérant
 avec les présidents de section, après avis du Conseil supérieur des tribunaux administratifs et des cours administratives
@@ -1393,7 +1699,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-347 du 12 mars 2012 - art. 79
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -1407,6 +1713,7 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative - art. L133-3
+  - Code de justice administrative - art. L133-4 (V)
 
 
 ##### Section 3 : Dispositions relatives aux maîtres des requêtes    en service extraordinaire<a id=23></a>
@@ -1594,22 +1901,28 @@ Les cours administratives d'appel connaissent des jugements rendus en premier re
 réserve des compétences attribuées au Conseil d'Etat en qualité de juge d'appel et de celles définies aux articles L. 552-1
 et L. 552-2.
 
+Elles connaissent en premier et dernier ressort des litiges dont la compétence leur est attribuée par décret en Conseil
+d'Etat à raison de leur objet ou de l'intérêt d'une bonne administration.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°87-1127 1987-12-31 art. 1er
   - Loi n°87-1127 du 31 décembre 1987 - art. 1 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cite_:
 
-  - Code de justice administrative - art. L552-1 (V)
-  - Code de justice administrative - art. L552-2 (V)
+  - Code de justice administrative - art. L552-1
+  - Code de justice administrative - art. L552-2
 
 
 ###### Article L211-4
@@ -1683,20 +1996,20 @@ _Cité par_:
 
 ###### Article L221-1
 
-Les tribunaux administratifs et les cours administratives d'appel se composent d'un président et de plusieurs membres du
-corps des tribunaux administratifs et des cours administratives d'appel. Ils peuvent également comprendre d'autres membres
-détachés dans ce corps dans les conditions définies par les lois et règlements en vigueur.
+Les tribunaux administratifs et les cours administratives d'appel se composent d'un président et de plusieurs
+magistrats des tribunaux administratifs et des cours administratives d'appel. Ils peuvent également comprendre d'autres
+membres détachés dans ce corps dans les conditions définies par les lois et règlements en vigueur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des tribunaux administratifs et des cours adm - art. L2 (Ab)
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ##### Section 2 : Organisation des tribunaux administratifs<a id=33></a>
@@ -2205,7 +2518,7 @@ _Créé par_:
 
 ###### Article L227-1
 
-Peuvent être nommées, en qualité d'assistants de justice auprès des membres du corps des tribunaux administratifs et des
+Peuvent être nommées, en qualité d'assistants de justice auprès des            magistrats des tribunaux administratifs et des
 cours administratives d'appel, les personnes titulaires d'un diplôme sanctionnant une formation juridique d'une durée au
 moins égale à quatre années d'études supérieures après le baccalauréat et que leur compétence qualifie particulièrement pour
 exercer ces fonctions. 
@@ -2219,12 +2532,12 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 61 () JORF 10 septembre 2002
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -2234,7 +2547,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (V)
+  - Code pénal - art. 226-13
 
 
 ### Titre III : Dispositions statutaires<a id=47></a>
@@ -2269,46 +2582,70 @@ _Cité par_:
   - Code de justice administrative - art. L222-2-2 (V)
 
 
+###### Article L231-1-1
+
+Les magistrats des tribunaux administratifs et des cours administratives d'appel exercent leurs fonctions en toute
+indépendance, dignité, impartialité, intégrité et probité et se comportent de façon à prévenir tout doute légitime à cet
+égard.
+
+Ils s'abstiennent de tout acte ou comportement à caractère public incompatible avec la réserve que leur imposent leurs
+fonctions.
+
+Ils ne peuvent se prévaloir, à l'appui d'une activité politique, de leur appartenance à la juridiction administrative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+
+
 ###### Article L231-2
 
-Le corps des tribunaux administratifs et des cours administratives d'appel comprend les grades suivants :
+Le corps des magistrats des tribunaux administratifs et des cours administratives d'appel comprend les grades suivants :
 
-- président ;
+– président ;
 
-- premier conseiller ;
+– premier conseiller ;
 
-- conseiller.
+– conseiller.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°86-14 du 6 janvier 1986 - art. 2 (M)
   - Loi n°86-14 du 6 janvier 1986 - art. 2 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ###### Article L231-3
 
-Lorsqu'ils exercent leurs fonctions de magistrats dans une juridiction administrative, les membres du corps des tribunaux
-administratifs et des cours administratives d'appel ne peuvent recevoir, sans leur consentement, une affectation nouvelle,
-même en avancement.
+Lorsqu'ils exercent leurs fonctions de magistrats dans une juridiction administrative, les            magistrats des
+tribunaux administratifs et des cours administratives d'appel ne peuvent recevoir, sans leur consentement, une affectation
+nouvelle, même en avancement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°86-14 du 6 janvier 1986 - art. 1, v. init.
   - Loi n°86-14 du 6 janvier 1986 - art. 1 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -2317,8 +2654,11 @@ _Cité par_:
 
 ###### Article L231-4
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel ne peuvent, en dehors de leurs
-fonctions, être requis pour d'autres services publics que le service national.
+Les magistrats des tribunaux administratifs et des cours administratives d'appel veillent à prévenir ou à faire cesser
+immédiatement les situations de conflit d'intérêts.
+
+Constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui
+est de nature à influencer ou à paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
 
 **Liens relatifs à cet article**
 
@@ -2328,8 +2668,153 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+
+
+###### Article L231-4-1
+
+Dans les deux mois qui suivent leur affectation, les magistrats des tribunaux administratifs et des cours administratives
+d'appel remettent une déclaration exhaustive, exacte et sincère de leurs intérêts au chef de la juridiction à laquelle ils
+ont été affectés. La déclaration est transmise au vice-président du Conseil d'Etat.
+
+Dans les deux mois qui suivent leur prise de fonctions, les présidents des tribunaux administratifs et des cours
+administratives d'appel remettent une déclaration exhaustive, exacte et sincère de leurs intérêts au président de la mission
+d'inspection des juridictions administratives. La déclaration est transmise au vice-président du Conseil d'Etat.
+
+La déclaration d'intérêts mentionne les liens et les intérêts détenus de nature à influencer ou à paraître influencer
+l'exercice indépendant, impartial et objectif des fonctions, que le déclarant a, ou qu'il a eus pendant les cinq années
+précédant son affectation ou sa prise de fonctions. Elle ne comporte aucune mention des opinions ou des activités politiques,
+syndicales, religieuses ou philosophiques de l'intéressé, sauf lorsque leur révélation résulte de la déclaration de fonctions
+ou de mandats exercés publiquement.
+
+La remise de la déclaration d'intérêts donne lieu à un entretien déontologique avec l'autorité à laquelle la déclaration a
+été remise, ayant pour objet de prévenir tout éventuel conflit d'intérêts et d'inviter, s'il y a lieu, à mettre fin à une
+situation de conflit d'intérêts. A l'issue de l'entretien, la déclaration peut être modifiée par le déclarant. L'entretien
+peut être renouvelé à tout moment à la demande du déclarant ou de l'autorité.
+
+L'autorité à laquelle la déclaration a été remise peut solliciter l'avis du collège de déontologie de la juridiction
+administrative sur la déclaration lorsqu'il existe un doute sur une éventuelle situation de conflit d'intérêts. Lorsque
+l'avis est sollicité par un président de tribunal administratif ou de cour administrative d'appel, il est également porté à
+la connaissance du président de la mission d'inspection des juridictions administratives.
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes et peut donner lieu à un entretien déontologique.
+
+La déclaration d'intérêts est annexée au dossier de l'intéressé selon des modalités garantissant sa confidentialité, sous
+réserve de sa consultation par les personnes autorisées à y accéder.
+
+Lorsqu'une procédure disciplinaire est engagée, le garde des sceaux, ministre de la justice, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel et le président de la mission d'inspection des juridictions
+administratives peuvent obtenir communication de la déclaration d'intérêts.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de remise, de mise à jour, de conservation et de consultation de la déclaration d'intérêts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+
+_Cité par_:
+
+  - Décret n°2020-69 du 30 janvier 2020 - art. 2 (V)
+  - Code de justice administrative - art. L131-6 (V)
+  - Code de justice administrative - art. L222-2-2 (V)
+  - Code de justice administrative - art. L231-4-2 (V)
+  - Code de justice administrative - art. R231-4 (V)
+  - Code de justice administrative - art. R231-5 (V)
+  - Code de justice administrative - art. R231-6 (V)
+
+
+###### Article L231-4-2
+
+I. – Le fait, pour une personne tenue de remettre une déclaration d'intérêts en application de l'article L. 231-4-1 du
+présent code, de ne pas adresser sa déclaration ou d'omettre de déclarer une partie substantielle de ses intérêts est puni
+d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles
+131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à
+l'article 131-27 du même code.
+
+II. – Le fait de publier, hors le cas prévu au dernier alinéa de l'article L. 131-6 du présent code, ou de divulguer, de
+quelque manière que ce soit, tout ou partie des déclarations, des informations ou des avis mentionnés à l'article L. 231-4-1
+du présent code est puni des peines mentionnées à l'article 226-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+
+_Cite_:
+
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-26-1
+  - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 226-1
+  - Code de justice administrative - art. L131-6 (V)
+  - Code de justice administrative - art. L231-4-1 (V)
+
+
+###### Article L231-4-3
+
+Le magistrat qui estime se trouver dans une situation de conflit d'intérêts s'abstient de participer au jugement de l'affaire
+concernée. Son remplacement est assuré en application des règles de suppléance prévues au présent code.
+
+Le président de la cour administrative d'appel ou du tribunal administratif peut également, à son initiative, inviter à ne
+pas siéger un magistrat dont il estime, pour des raisons qu'il lui communique, qu'il se trouve dans une situation de conflit
+d'intérêts. Si le magistrat concerné n'acquiesce pas à cette invitation, la juridiction se prononce, sans sa participation.
+S'il y a lieu, son remplacement est assuré en application des règles de suppléance prévues au présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+
+
+###### Article L231-4-4
+
+Dans les deux mois qui suivent leur prise de fonctions et dans les deux mois qui suivent la cessation de leurs fonctions, les
+présidents des tribunaux administratifs et des cours administratives d'appel adressent une déclaration de situation
+patrimoniale au président de la Haute Autorité pour la transparence de la vie publique. 
+
+La déclaration de situation patrimoniale est établie, contrôlée et sanctionnée dans les conditions et selon les modalités
+prévues aux premier et quatrième alinéas du I, aux II et V de l'article 4, aux articles 6,7, à l'exception de la publication
+d'un rapport spécial au Journal officiel, et 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique. 
+
+Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes. 
+
+Aucune nouvelle déclaration n'est exigée du président de tribunal administratif ou de cour administrative d'appel qui a
+établi depuis moins de six mois une déclaration en application du présent article, des articles 4 ou 11 de la loi n° 2013-907
+du 11 octobre 2013 précitée ou de l'article LO 135-1 du code électoral. 
+
+La déclaration de situation patrimoniale n'est pas versée au dossier de l'intéressé et ne peut pas être communiquée aux
+tiers. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+  - Loi n°2013-907 du 11 octobre 2013 (V)
+  - Code électoral - art. LO135-1
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
 
 
 ###### Article L231-5
@@ -2378,8 +2863,8 @@ _Codifié par_:
 
 ###### Article L231-7
 
-L'exercice des fonctions de membre du corps des tribunaux administratifs et des cours administratives d'appel est
-incompatible avec l'exercice des fonctions de président d'un conseil régional ou général. 
+L'exercice des fonctions de membre du corps des magistrats des tribunaux administratifs et des cours administratives d'appel
+est incompatible avec l'exercice des fonctions de président d'un conseil régional ou général. 
 
 Ainsi qu'il est dit aux articles 112 et 196 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie,
 les fonctions de membre du gouvernement de la Nouvelle-Calédonie et celles de membre d'une assemblée de province sont
@@ -2390,8 +2875,8 @@ la Polynésie française, les fonctions de président et de membre du gouverneme
 représentant à l'assemblée de la Polynésie française sont incompatibles avec les fonctions de magistrat des juridictions
 administratives. 
 
-Conformément aux articles LO 493, LO 520 et LO 548 du même code, le mandat de conseiller territorial de Saint-Barthélemy, de
-Saint-Martin ou de Saint-Pierre-et-Miquelon est incompatible avec les fonctions de magistrat des juridictions
+Conformément aux articles LO 493, LO 520 et LO 548 du code électoral, le mandat de conseiller territorial de Saint-
+Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon est incompatible avec les fonctions de magistrat des juridictions
 administratives.
 
 **Liens relatifs à cet article**
@@ -2405,13 +2890,11 @@ _Cite_:
   - Loi n°99-209 du 19 mars 1999
   - Loi n°99-209 du 19 mars 1999 - art. 112
   - Loi n°99-209 du 19 mars 1999 - art. 196
-  - Loi organique n°2004-192 du 27 février 2004
   - Loi organique n°2004-192 du 27 février 2004 - art. 109
   - Loi organique n°2004-192 du 27 février 2004 - art. 74
-  - Code électoral - art. LO465
-  - Code électoral - art. LO493
-  - Code électoral - art. LO520
-  - Code électoral - art. LO548
+  - Code électoral - art. LO493 (V)
+  - Code électoral - art. LO520 (V)
+  - Code électoral - art. LO548 (V)
 
 _Codifié par_:
 
@@ -2420,19 +2903,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
-  - Code de justice administrative - art. L231-8 (VD)
+  - Code de justice administrative - art. L231-8 (V)
 
 
 ###### Article L231-8
 
-Le membre du corps des tribunaux administratifs et des cours administratives d'appel qui est élu président d'un conseil
-départemental ou régional doit exercer son option dans les quinze jours de l'élection ou, en cas de contestation, dans les
-quinze jours de la décision définitive. Dans les mêmes conditions de délai, le président d'un conseil départemental ou
-régional, nommé membre d'un tribunal administratif ou d'une cour administrative d'appel, peut exercer son option. 
+Le membre du          corps des magistrats des tribunaux administratifs et des cours administratives d'appel qui est élu
+président d'un conseil départemental ou régional doit exercer son option dans les quinze jours de l'élection ou, en cas de
+contestation, dans les quinze jours de la décision définitive. Dans les mêmes conditions de délai, le président d'un conseil
+départemental ou régional, nommé membre d'un tribunal administratif ou d'une cour administrative d'appel, peut exercer son
+option. 
 
 A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en position de disponibilité. 
 
@@ -2456,16 +2940,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cite_:
 
-  - Code de justice administrative - art. L231-7
+  - Code de justice administrative - art. L231-7 (V)
 
 
 ###### Article L231-9
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel sont astreints à résider dans le
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel sont astreints à résider dans le
 ressort du tribunal administratif ou de la cour administrative d'appel auquel ils appartiennent. Des dérogations
 exceptionnelles à caractère individuel et provisoire peuvent être accordées aux conseillers par le président de la
 juridiction.
@@ -2478,8 +2962,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 #### Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel<a id=49></a>
@@ -2529,7 +3017,7 @@ _Cité par_:
 Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel est présidé par le vice-président du
 Conseil d'Etat et comprend en outre :
 
-1° Le conseiller d'Etat, chef de la mission permanente d'inspection des juridictions administratives ;
+1° Le conseiller d'Etat, président de la mission d'inspection des juridictions administratives ;
 
 2° Le directeur général de la fonction publique ;
 
@@ -2552,17 +3040,16 @@ d'office de leur mandat dès que leur détachement prend fin.
 
 _Anciens textes_:
 
-  - Loi n°86-14 1986-01-06 art. 14 al. 1er et 2
   - Loi n°86-14 du 6 janvier 1986 - art. 14 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 54 (V) JORF 10 septembre 2002 en vigueur le 1er janvier 2003
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -2572,8 +3059,8 @@ _Cité par_:
 ###### Article L232-3
 
 En cas d'empêchement du vice-président du Conseil d'Etat, la présidence est assurée de plein droit par le conseiller d'Etat,
-chef de la mission permanente d'inspection des juridictions administratives. Ce dernier est lui-même suppléé par un
-conseiller d'Etat désigné par le vice-président.
+président de la mission d'inspection des juridictions administratives. Ce dernier est lui-même suppléé par un conseiller
+d'Etat désigné par le vice-président.
 
 Les suppléants des représentants de l'administration au Conseil supérieur des tribunaux administratifs et cours
 administratives d'appel sont désignés par les ministres dont ils dépendent.
@@ -2587,8 +3074,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ###### Article L232-4
@@ -2682,14 +3173,13 @@ _Cité par_:
 
 ###### Article L233-1
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel sont nommés et promus par décret du
-Président de la République.
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel sont nommés et promus par décret
+du Président de la République.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°86-14 du 6 janvier 1986 - art. 1, v. init.
   - Loi n°86-14 du 6 janvier 1986 - art. 1 (Ab)
 
 _Cité par_:
@@ -2698,14 +3188,18 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ###### Article L233-2
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel sont recrutés parmi les anciens élèves
-de l'Ecole nationale d'administration, sous réserve des dispositions des articles L. 233-3, L. 233-4, L. 233-5 et L. 233-6.
+Les magistrats des tribunaux administratifs et des cours administratives d'appel sont recrutés parmi les anciens élèves de
+l'Ecole nationale d'administration, sous réserve des dispositions des articles L. 233-3, L. 233-4, L. 233-5 et L. 233-6.
 
 **Liens relatifs à cet article**
 
@@ -2715,20 +3209,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Cité par_:
 
   - Décret n°2000-604 du 29 juin 2000 - art. 1 (V)
   - Décret n°2000-604 du 29 juin 2000 - art. 2 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
+
 _Cite_:
 
-  - Code de justice administrative. - art. L233-3 (M)
-  - Code de justice administrative. - art. L233-4 (M)
-  - Code de justice administrative. - art. L233-5 (M)
-  - Code de justice administrative. - art. L233-6 (M)
+  - Code de justice administrative - art. L233-3 (V)
 
 
 ##### Section 2 : Nomination au tour extérieur<a id=55></a>
@@ -2851,15 +3346,15 @@ pour l'accès au grade dont il s'agit.
 
 Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motifs disciplinaires. 
 
-Les magistrats de l'ordre judiciaire peuvent également être détachés pour trois ans, renouvelables une fois, dans le corps
-des tribunaux administratifs et des cours administratives d'appel, au grade de président, pour y occuper les fonctions de
-président de formation de jugement et de président de chambre à la Cour nationale du droit d'asile.
+Les magistrats de l'ordre judiciaire peuvent également être détachés pour trois ans, renouvelables une fois, dans le
+corps des magistrats des tribunaux administratifs et des cours administratives d'appel, au grade de président, pour y occuper
+les fonctions de président de formation de jugement et de président de chambre à la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 17
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -2876,19 +3371,19 @@ _Cite_:
 
 ###### Article L233-6
 
-Il  peut être procédé au recrutement direct de membres du corps des  tribunaux administratifs et des cours administratives
-d'appel par voie  de concours. 
+Il peut être procédé au recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel
+par voie de concours.
 
-Le nombre de postes pourvus au titre  de ces concours ne peut excéder trois fois le nombre de postes offerts  chaque année
-dans les tribunaux administratifs et les cours  administratives d'appel aux élèves sortant de l'Ecole nationale
-d'administration et aux candidats au tour extérieur. 
+Le nombre de postes pourvus au titre de ces concours ne peut excéder trois fois le nombre de postes offerts chaque année dans
+les tribunaux administratifs et les cours administratives d'appel aux élèves sortant de l'Ecole nationale d'administration et
+aux candidats au tour extérieur.
 
-Le concours externe est ouvert aux titulaires de l'un des diplômes  exigés pour se présenter au premier concours d'entrée à
-l'Ecole  nationale d'administration. 
+Le concours externe est ouvert aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à
+l'Ecole nationale d'administration.
 
-Le concours interne  est ouvert aux fonctionnaires ainsi qu'aux magistrats de l'ordre  judiciaire et autres agents publics
-civils ou militaires appartenant à  un corps ou cadre d'emplois de la catégorie A ou assimilé et justifiant,  au 31 décembre
-de l'année du concours, de quatre années de services  publics effectifs.
+Le concours interne est ouvert aux fonctionnaires ainsi qu'aux magistrats de l'ordre judiciaire et autres agents publics
+civils ou militaires appartenant à un corps ou cadre d'emplois de la catégorie A ou assimilé et justifiant, au 31 décembre de
+l'année du concours, de quatre années de services publics effectifs.
 
 **Liens relatifs à cet article**
 
@@ -2903,7 +3398,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-347 du 12 mars 2012 - art. 83
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 
@@ -2919,11 +3414,11 @@ _Cité par_:
 
 ###### Article L233-7
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel, lorsqu'ils atteignent la limite d'âge
-résultant de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public,
-sont, sur leur demande, maintenus en activité, en surnombre, pour exercer l'une des fonctions dévolues aux premiers
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel, lorsqu'ils atteignent la limite
+d'âge résultant de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur
+public, sont, sur leur demande, maintenus en activité, en surnombre, pour exercer l'une des fonctions dévolues aux premiers
 conseillers jusqu'à l'âge maximal de maintien mentionné à l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à
-la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
+la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat. 
 
 Nul ne peut être maintenu en activité dans une juridiction qu'il a présidée au cours de sa carrière.
 
@@ -2946,7 +3441,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ###### Article L233-8
@@ -2972,16 +3467,20 @@ _Cite_:
 
 ###### Article L234-1
 
-L'avancement des membres du corps des tribunaux administratifs et des cours administratives d'appel a lieu de grade à grade
-après inscription au tableau d'avancement. Ce tableau est établi sur proposition du Conseil supérieur des tribunaux
+L'avancement des            magistrats des tribunaux administratifs et des cours administratives d'appel a lieu de grade à
+grade après inscription au tableau d'avancement. Ce tableau est établi sur proposition du Conseil supérieur des tribunaux
 administratifs et cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 
 ###### Article L234-2
@@ -3675,20 +4174,21 @@ atteint au moins le grade de premier conseiller.
 Pour les litiges relevant de la compétence du Conseil d'Etat, sont juges des référés le président de la section du
 contentieux ainsi que les conseillers d'Etat qu'il désigne à cet effet.
 
+Lorsque la nature de l'affaire le justifie, le président du tribunal administratif ou de la cour administrative d'appel ou,
+au Conseil d'Etat, le président de la section du contentieux peut décider qu'elle sera jugée, dans les conditions prévues au
+présent livre, par une formation composée de trois juges des référés, sans préjudice du renvoi de l'affaire à une autre
+formation de jugement dans les conditions de droit commun.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2000-597 du 30 juin 2000 - art. 25 (M)
-
-_Créé par_:
-
-  - Loi n°2000-597 du 30 juin 2000 - art. 3 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+  - Loi n°2016-483 du 20 avril 2016 - art. 62
 
 _Cité par_:
 

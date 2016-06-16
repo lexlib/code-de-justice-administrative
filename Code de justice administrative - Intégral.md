@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-06-17
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -3786,7 +3786,7 @@ territoriales ;
 3° Des articles L. 5-3 et L. 36-11 du code des postes et des communications électroniques contre les décisions de sanction
 prises par l'Autorité de régulation des communications électroniques et des postes ; 
 
-4° (Supprimé) ; 
+4° De l'article L. 824-14 du code de commerce ; 
 
 5° De l'article 42-8 de la loi n° 86-1067 du 30 septembre 1986 contre les décisions du Conseil supérieur de l'audiovisuel
 visées aux articles 42-1,42-3 et 42-4 de cette loi ; 
@@ -3802,8 +3802,8 @@ financiers à l'encontre des prestataires de service d'investissement agréés ;
 régulation de l'énergie ; 
 
 10° De l'article 17 de la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports
-ferroviaires et portant diverses dispositions relatives aux transports contre les décisions de sanction prises par l'
-Autorité de régulation des activités ferroviaires et routières .
+ferroviaires et portant diverses dispositions relatives aux transports contre les décisions de sanction prises par l'Autorité
+de régulation des activités ferroviaires et routières.
 
 **Liens relatifs à cet article**
 
@@ -3814,6 +3814,7 @@ _Cite_:
   - Loi n°96-597 du 2 juillet 1996 - art. 71
   - Loi n°2000-108 du 10 février 2000 - art. 40
   - Loi n°2009-1503 du 8 décembre 2009 - art. 17
+  - Code de commerce - art. L824-14 (V)
   - Code des postes et des communications électroniques - art. L36-11
   - Code des postes et des communications électroniques - art. L5-3
   - Code du sport. - art. L232-24
@@ -3823,7 +3824,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 1 (V)
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 48
 
 
 ###### Article L311-4-1

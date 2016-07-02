@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-03
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -7470,25 +7470,25 @@ ou
 
 ou 
 
-" Le Conseil d'Etat (section du contentieux, n° et n° sous-sections réunies) ", 
+" Le Conseil d'Etat (section du contentieux, n° et n° chambres réunies) ", 
 
 ou 
 
-" Le Conseil d'Etat (section du contentieux, n° sous-section) ".
+" Le Conseil d'Etat (section du contentieux, n° chambre) ".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. L113-1 (V)
+  - Code de justice administrative - art. L113-1
 
 
 ###### Article R113-4
@@ -7567,11 +7567,11 @@ _Cite_:
 Les conseillers d'Etat en service ordinaire, les maîtres des requêtes et les auditeurs peuvent être affectés soit à une, soit
 à deux sections. 
 
-Toutefois, les maîtres des requêtes et les auditeurs qui comptent moins de trois années de service dans une juridiction
+Toutefois, les maîtres des requêtes et les auditeurs qui comptent moins de trente mois de service dans une juridiction
 administrative sont affectés uniquement à la section du contentieux. 
 
-Les présidents adjoints ainsi que les présidents des sous-sections de la section du contentieux sont également affectés
-uniquement à cette section.
+Les présidents adjoints ainsi que les présidents des chambres de la section du contentieux sont également affectés uniquement
+à cette section.
 
 **Liens relatifs à cet article**
 
@@ -7581,7 +7581,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 3
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -7836,8 +7836,8 @@ _Codifié par_:
 La section du contentieux est juge de toutes les affaires qui relèvent de la juridiction du Conseil d'Etat, sous réserve des
 dispositions de l'article R. 122-17. 
 
-Elle est divisée en dix sous-sections qui participent à l'instruction et au jugement des affaires dans les conditions prévues
-au présent livre.
+Elle est divisée en dix chambres qui participent à l'instruction et au jugement des affaires dans les conditions prévues au
+présent livre. 
 
 Elle comprend en outre la formation spécialisée prévue à l'article L. 773-2 du présent code.
 
@@ -7849,7 +7849,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 2
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -7857,6 +7857,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de justice administrative - art. L773-2 (V)
   - Code de justice administrative - art. R122-17
 
 
@@ -7866,11 +7867,11 @@ La section du contentieux comprend :
 
 1° Un président assisté de trois présidents adjoints ; 
 
-2° Pour chacune des sous-sections, un conseiller d'Etat en service ordinaire chargé des fonctions de président et deux
-conseillers d'Etat en service ordinaire chargés des fonctions d'assesseurs ; 
+2° Pour chacune des chambres, un conseiller d'Etat en service ordinaire chargé des fonctions de président et deux conseillers
+d'Etat en service ordinaire chargés des fonctions d'assesseurs ; 
 
 3° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des auditeurs chargés des fonctions de rapporteur
-ou de  rapporteur public.
+ou de rapporteur public.
 
 **Liens relatifs à cet article**
 
@@ -7880,41 +7881,37 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
+  - Code de justice administrative - art. R122-9 (V)
   - Code de justice administrative. - art. R122-15 (V)
   - Code de justice administrative. - art. R122-18 (VT)
   - Code de justice administrative. - art. R122-8 (VT)
-  - Code de justice administrative. - art. R122-9 (VD)
 
 
 ###### Article R122-3
 
-Les membres de la section du contentieux siègent dans l'ordre suivant :
+Les membres de la section du contentieux siègent dans l'ordre suivant : 
 
-1° Le président de la section du contentieux ;
+1° Le président de la section du contentieux ; 
 
-2° Les présidents adjoints dans l'ordre d'ancienneté de leurs fonctions de présidents adjoints ;
+2° Les présidents adjoints dans l'ordre d'ancienneté de leurs fonctions de présidents adjoints ; 
 
-3° Les présidents de sous-section dans l'ordre d'ancienneté de leurs fonctions de présidents de sous-section ;
+3° Les présidents de  chambre dans l'ordre d'ancienneté de leurs fonctions de présidents de  chambre ; 
 
 4° Les autres membres dans l'ordre du tableau.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 29 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -7946,14 +7943,20 @@ _Codifié par_:
 Les rapporteurs publics sont désignés par arrêté du vice-président du Conseil d'Etat pris sur proposition du président de la
 section du contentieux.
 
-Les rapporteurs publics ne peuvent exercer leurs fonctions pendant une durée totale supérieure à dix années. En cas de
-nécessité de service, ces fonctions peuvent cependant être prolongées dans la limite d'un an, par arrêté du vice-président.
+Les rapporteurs publics ne peuvent exercer leurs fonctions pendant une durée totale supérieure à sept années . En cas de
+nécessité de service, ces fonctions peuvent cependant être prolongées dans la limite de six mois, par arrêté du vice-
+président.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2016-899 du 1er juillet 2016, ces dispositions s'appliquent aux personnes nommées,
+renouvelées ou prolongées dans leurs fonctions après l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -7963,40 +7966,51 @@ _Cité par_:
 
 ###### Article R122-6
 
-Les présidents de sous-section sont désignés par arrêté du Premier ministre, sur proposition du garde des sceaux, ministre de
-la justice ; le vice-président du Conseil d'Etat est appelé à faire les présentations après avis du président de la section
-du contentieux et des présidents adjoints de ladite section. Les fonctions des présidents de sous-section se terminent le 31
-décembre de la quatrième année suivant celle de leur désignation. Celle-ci peut être renouvelée par arrêté du vice-président
-du Conseil d'Etat.
+Les présidents de chambre sont désignés, pour une durée de quatre ans, par arrêté du Premier ministre, sur proposition du
+garde des sceaux, ministre de la justice ; le vice-président du Conseil d'Etat est appelé à faire les présentations après
+avis du président de la section du contentieux et des présidents adjoints de ladite section. Les présidents de chambre sont,
+à leur demande, renouvelés dans leurs fonctions pour une durée de trois ans par arrêté du vice-président du Conseil d'Etat.
+
+Sauf prolongation, dans la limite de six mois, par arrêté du vice-président en cas de nécessité de service, nul ne peut
+exercer les fonctions de président d'une même chambre plus de sept années consécutives.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2016-899 du 1er juillet 2016, ces dispositions s'appliquent aux personnes nommées,
+renouvelées ou prolongées dans leurs fonctions après l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 31 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R122-7
 
-Les conseillers d'Etat chargés de fonctions d'assesseurs sont désignés par arrêté du vice-président du Conseil d'Etat après
-avis du président de la section du contentieux et des présidents adjoints de cette section. Leurs fonctions se terminent le
-31 décembre de la quatrième année suivant celle de leur désignation. Ils peuvent, dans les mêmes formes, être prolongés dans
-ces fonctions ou faire l'objet d'une nouvelle désignation pour une période de une à quatre années.
+Les conseillers d'Etat chargés de fonctions d'assesseurs sont désignés, pour une durée de quatre ans, par arrêté du vice-
+président du Conseil d'Etat après avis du président de la section du contentieux et des présidents adjoints de cette section.
+Les conseillers d'Etat chargés de fonctions d'assesseurs sont, à leur demande, renouvelés dans leurs fonctions pour une durée
+de trois ans par arrêté du vice-président du Conseil d'Etat. 
+
+Sauf prolongation, dans la limite de six mois, par arrêté du vice-président en cas de nécessité de service, nul ne peut
+exercer les fonctions d'assesseur d'une même chambre plus de sept années consécutives.
 
 En cas d'absence ou d'empêchement d'un assesseur, le vice-président du Conseil d'Etat peut désigner par arrêté, après avis du
 président de la section du contentieux et des présidents adjoints, un conseiller d'Etat chargé des fonctions d'assesseur pour
-la durée de l'absence ou de l'empêchement.
+la durée de l'absence ou de l'empêchement. 
 
-Au vu de la proposition du président de la sous-section d'affectation, le président de la section du contentieux peut
-désigner des assesseurs à l'effet de leur permettre de présider cette sous-section siégeant en formation de jugement.
+Au vu de la proposition du président de la chambre d'affectation, le président de la section du contentieux peut désigner des
+assesseurs à l'effet de leur permettre de présider cette chambre siégeant en formation de jugement.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2016-899 du 1er juillet 2016, ces dispositions s'appliquent aux personnes nommées,
+renouvelées ou prolongées dans leurs fonctions après l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -8010,7 +8024,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1213 du 23 décembre 2013 - art. 5
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -8020,19 +8034,23 @@ _Cité par_:
 
 ###### Article R122-9
 
-La répartition entre les sous-sections de la section du contentieux des autres membres du Conseil d'Etat mentionnés au 3° de
+La répartition entre les chambres de la section du contentieux des autres membres du Conseil d'Etat mentionnés au 3° de
 l'article R. 122-2 est arrêtée par le président de ladite section, après avis des présidents adjoints et des présidents de
-sous-section.
+chambre.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret n°63-766 du 30 juillet 1963 - art. 34 (Ab)
+
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 4
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. R122-2
+  - Code de justice administrative - art. R122-2 (M)
 
 _Cité par_:
 
@@ -8041,22 +8059,21 @@ _Cité par_:
 
 ###### Article R122-10
 
-Une sous-section ne peut délibérer que si son président et un de ses assesseurs ou, à défaut, les deux assesseurs sont
-présents. Si, par suite de vacance, d'absence ou d'empêchement du président ou des assesseurs, une sous-section ne se trouve
-pas en nombre pour délibérer, elle est complétée par l'appel de conseillers d'Etat ; elle peut l'être aussi, mais à titre
-exceptionnel, par l'appel d'un maître des requêtes pris dans l'ordre du tableau. Lesdits conseillers et maîtres des requêtes
-sont désignés par le président de la section du contentieux. En cas d'absence ou d'empêchement du président, la sous-section
-est présidée par l'assesseur le plus ancien.
+Une  chambre ne peut délibérer que si son président et un de ses assesseurs ou, à défaut, les deux assesseurs sont présents.
+Si, par suite de vacance, d'absence ou d'empêchement du président ou des assesseurs, une  chambre ne se trouve pas en nombre
+pour délibérer, elle est complétée par l'appel de conseillers d'Etat ; elle peut l'être aussi, mais à titre exceptionnel, par
+l'appel d'un maître des requêtes pris dans l'ordre du tableau. Lesdits conseillers et maîtres des requêtes sont désignés par
+le président de la section du contentieux. En cas d'absence ou d'empêchement du président, la  chambre est présidée par
+l'assesseur le plus ancien. 
 
-Lorsqu'elle siège en formation d'instruction, une sous-section peut délibérer en nombre pair. Le président, les assesseurs et
-les rapporteurs ont voix délibérative dans toutes les affaires. En cas de partage égal, la voix du président est
-prépondérante.
+Lorsqu'elle siège en formation d'instruction, une  chambre peut délibérer en nombre pair. Le président, les assesseurs et les
+rapporteurs ont voix délibérative dans toutes les affaires. En cas de partage égal, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 5
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ##### Section 2 : Les formations de jugement<a id=129></a>
@@ -8064,26 +8081,26 @@ _Modifié par_:
 ###### Article R122-11
 
 Sous réserve des dispositions de l'article R. 122-12 et de celles de l'article R. 122-17, le jugement des affaires est confié
-à une sous-section ou à deux, trois ou quatre sous-sections réunies. 
+à une chambre ou à deux, trois ou quatre chambres réunies. 
 
-Le groupement de sous-sections en formations de jugement est fixé par arrêté du vice-président du Conseil d'Etat, sur
-proposition du président de la section du contentieux.
+Le groupement de chambres en formations de jugement est fixé par arrêté du vice-président du Conseil d'Etat, sur proposition
+du président de la section du contentieux.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 4
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. R122-12
+  - Code de justice administrative - art. R122-12 (V)
   - Code de justice administrative - art. R122-17
 
 
 ###### Article R122-12
 
-Le président de la section du contentieux et les présidents de sous-section peuvent, par ordonnance : 
+Le président de la section du contentieux et les présidents de  chambre peuvent, par ordonnance : 
 
 1° Donner acte des désistements ; 
 
@@ -8118,17 +8135,17 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 10
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. L113-1 (V)
-  - Code de justice administrative - art. L761-1 (V)
+  - Code de justice administrative - art. L113-1
+  - Code de justice administrative - art. L761-1
 
 _Cité par_:
 
   - Code de justice administrative - art. R*771-19 (V)
-  - Code de justice administrative - art. R122-11 (M)
+  - Code de justice administrative - art. R122-11 (V)
   - Code de justice administrative - art. R122-7 (VD)
   - Code de justice administrative - art. R611-7 (V)
   - Code de justice administrative - art. R742-2 (VD)
@@ -8172,14 +8189,14 @@ _Cite_:
 
 ###### Article R122-14
 
-La sous-section siégeant en formation de jugement ne peut délibérer que si trois membres au moins ayant voix délibérative
-sont présents. 
+La chambre siégeant en formation de jugement ne peut délibérer que si trois membres au moins ayant voix délibérative sont
+présents. 
 
-Les deuxième et troisième alinéas de l'article R. 122-16 sont applicables à la sous-section en formation de jugement. 
+Les deuxième et troisième alinéas de l'article R. 122-16 sont applicables à la chambre en formation de jugement. 
 
-La sous-section siégeant en formation de jugement est présidée par son président ou par un conseiller d'Etat mentionné au
+La chambre siégeant en formation de jugement est présidée par son président ou par un conseiller d'Etat mentionné au
 troisième alinéa de l'article R. 122-7. Le vice-président du Conseil d'Etat, le président et les présidents adjoints de la
-section du contentieux peuvent présider chacune des sous-sections.
+section du contentieux peuvent présider chacune des chambres.
 
 **Liens relatifs à cet article**
 
@@ -8189,40 +8206,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1213 du 23 décembre 2013 - art. 6
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. R122-16
+  - Code de justice administrative - art. R122-16 (V)
   - Code de justice administrative - art. R122-7
 
 
 ###### Article R122-15
 
-Les sous-sections réunies sont présidées par l'un des présidents adjoints de la section du contentieux. Elles peuvent
-également être présidées par le vice-président du Conseil d'Etat ou le président de la section du contentieux.
+Les chambres réunies sont présidées par l'un des présidents adjoints de la section du contentieux. Elles peuvent également
+être présidées par le vice-président du Conseil d'Etat ou le président de la section du contentieux. 
 
-Outre son président et le rapporteur, la formation de jugement comprend :
+Outre son président et le rapporteur, la formation de jugement comprend : 
 
-1° Les présidents des sous-sections ;
+1° Les présidents des chambres ; 
 
-2° Les assesseurs des sous-sections ou, lorsque les sous-sections réunies sont au nombre de quatre, l'assesseur le plus
-ancien dans ses fonctions de chaque sous-section ;
+2° Les assesseurs des chambres ou, lorsque les chambres réunies sont au nombre de quatre, l'assesseur le plus ancien dans ses
+fonctions de chaque chambre ; 
 
-3° Lorsque les sous-sections réunies sont au nombre de deux ou de quatre, un conseiller d'Etat appartenant à la section du
-contentieux désigné par le président de celle-ci, en dehors des sous-sections qui siègent, selon un tour de rôle établi deux
-fois par an.
+3° Lorsque les chambres réunies sont au nombre de deux ou de quatre, un conseiller d'Etat appartenant à la section du
+contentieux désigné par le président de celle-ci, en dehors des chambres qui siègent, selon un tour de rôle établi deux fois
+par an. 
 
-Le président des sous-sections réunies est remplacé, en cas d'empêchement, par le président de la sous-section siégeant au
-titre du 1° le plus ancien dans ses fonctions. Lorsque les sous-sections réunies sont au nombre de quatre, le président d'une
-sous-section est remplacé par l'assesseur de la sous-section le plus ancien dans ses fonctions, lui-même remplacé par l'autre
-assesseur de la sous-section.
+Le président des chambres réunies est remplacé, en cas d'empêchement, par le président de la chambre siégeant au titre du 1°
+le plus ancien dans ses fonctions. Lorsque les chambres réunies sont au nombre de quatre, le président d'une chambre est
+remplacé par l'assesseur de la chambre le plus ancien dans ses fonctions, lui-même remplacé par l'autre assesseur de la
+chambre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 5
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -8232,13 +8249,13 @@ _Cité par_:
 
 ###### Article R122-16
 
-Pour le jugement des affaires, les sous-sections réunies ne peuvent statuer que si cinq membres au moins ayant voix
-délibérative sont présents. Lorsque les sous-sections réunies sont au nombre de trois ou de quatre, elles ne peuvent statuer
-que si sept membres au moins ayant voix délibérative sont présents. 
+Pour le jugement des affaires, les chambres réunies ne peuvent statuer que si cinq membres au moins ayant voix délibérative
+sont présents. Lorsque les sous-sections réunies sont au nombre de trois ou de quatre, elles ne peuvent statuer que si sept
+membres au moins ayant voix délibérative sont présents. 
 
-Les sous-sections réunies ne peuvent statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix
-délibérative sont en nombre pair, le conseiller d'Etat, le maître des requêtes ou l'auditeur présent le plus ancien dans
-l'ordre du tableau est appelé à siéger.
+Les chambres réunies ne peuvent statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix délibérative
+sont en nombre pair, le conseiller d'Etat, le maître des requêtes ou l'auditeur présent le plus ancien dans l'ordre du
+tableau est appelé à siéger.
 
 Il en est de même lorsque, par suite de vacance, d'absence ou d'empêchement, les membres présents ne se trouvent pas en
 nombre pour délibérer.
@@ -8247,33 +8264,33 @@ nombre pour délibérer.
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 6
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
-  - Code de justice administrative - art. R122-14 (VD)
+  - Code de justice administrative - art. R122-14 (V)
 
 
 ###### Article R122-17
 
 Le jugement de toutes les affaires relevant de la juridiction du Conseil d'Etat est renvoyé à la section du contentieux ou à
 l'assemblée du contentieux à la demande soit du vice-président du Conseil d'Etat, soit du président de la section du
-contentieux, soit du président de la formation de jugement, soit de la formation de jugement, soit de la sous-section au
-rapport de laquelle l'affaire est examinée, siégeant en formation d'instruction, soit du rapporteur public.
+contentieux, soit du président de la formation de jugement, soit de la formation de jugement, soit de la chambre au rapport
+de laquelle l'affaire est examinée, siégeant en formation d'instruction, soit du rapporteur public. 
 
 Les affaires dont l'instruction a été confiée à la section du contentieux en application du premier alinéa de l'article R.
 611-20 sont jugées par l'assemblée du contentieux. 
 
-Le renvoi devant les sous-sections réunies d'une affaire portée devant la sous-section siégeant en formation du jugement ou
-le renvoi, devant trois ou quatre sous-sections réunies, d'une affaire portée devant deux sous-sections réunies a lieu à la
-demande soit du président de la formation de jugement, soit de la formation de jugement, soit de la sous-section au rapport
-de laquelle l'affaire est examinée, siégeant en formation d'instruction, soit du rapporteur public.
+Le renvoi devant les chambres réunies d'une affaire portée devant la chambre siégeant en formation du jugement ou le renvoi,
+devant trois ou quatre chambres réunies, d'une affaire portée devant deux chambres réunies a lieu à la demande soit du
+président de la formation de jugement, soit de la formation de jugement, soit de la chambre au rapport de laquelle l'affaire
+est examinée, siégeant en formation d'instruction, soit du rapporteur public.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 7
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -8294,8 +8311,8 @@ La section du contentieux en formation de jugement comprend :
 
 2° Les trois présidents adjoints ; 
 
-3° Les présidents de  sous-section et, en cas d'examen d'une question de droit renvoyée en application de l'article R.
-773-12, le président de la formation spécialisée ; 
+3° Les présidents de chambre et, en cas d'examen d'une question de droit renvoyée en application de l'article R. 773-12, le
+président de la formation spécialisée ; 
 
 4° Le rapporteur.
 
@@ -8303,7 +8320,11 @@ La section du contentieux en formation de jugement comprend :
 
 _Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 2
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R773-12 (V)
 
 _Cité par_:
 
@@ -8313,13 +8334,13 @@ _Cité par_:
 ###### Article R122-19
 
 En cas d'absence ou d'empêchement du président de la section du contentieux, celle-ci est présidée par l'un des présidents
-adjoints pris dans l'ordre d'ancienneté de leurs fonctions ou, à défaut de l'un de ces derniers, par le président de sous-
-section le plus ancien dans ses fonctions présent à la séance.
+adjoints pris dans l'ordre d'ancienneté de leurs fonctions ou, à défaut de l'un de ces derniers, par le président de  chambre
+le plus ancien dans ses fonctions présent à la séance. 
 
-En cas d'absence ou d'empêchement, le président de la sous-section sur le rapport de laquelle l'affaire est jugée est
-remplacé par l'un des assesseurs de cette sous-section pris dans l'ordre d'ancienneté dans ses fonctions.
+En cas d'absence ou d'empêchement, le président de la  chambre sur le rapport de laquelle l'affaire est jugée est remplacé
+par l'un des assesseurs de cette  chambre pris dans l'ordre d'ancienneté dans ses fonctions. 
 
-La section du contentieux ne peut statuer que si neuf au moins de ses membres ayant voix délibérative sont présents.
+La section du contentieux ne peut statuer que si neuf au moins de ses membres ayant voix délibérative sont présents. 
 
 La section du contentieux ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix
 délibérative sont en nombre pair, la section est complétée par l'un des assesseurs pris dans l'ordre du tableau. Il en est de
@@ -8328,17 +8349,13 @@ délibérer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 40 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R122-20
@@ -8351,12 +8368,12 @@ L'assemblée du contentieux comprend :
 
 3° Les trois présidents adjoints de la section du contentieux ; 
 
-4° Le président de la sous-section sur le rapport de laquelle l'affaire est jugée ou, si l'instruction a été faite dans les
-conditions prévues au premier alinéa de l'article R. 611-20, le président de la sous-section à laquelle l'affaire a été
+4° Le président de la chambre sur le rapport de laquelle l'affaire est jugée ou, si l'instruction a été faite dans les
+conditions prévues au premier alinéa de l'article R. 611-20, le président de la chambre à laquelle l'affaire a été
 initialement attribuée ou, en cas d'examen d'une question de droit renvoyée en application de l'article R. 773-12, le
 président de la formation spécialisée ; 
 
-5° Les quatre présidents de sous-section les plus anciens dans leurs fonctions en dehors du précédent ; 
+5° Les quatre présidents de chambre les plus anciens dans leurs fonctions en dehors du précédent ; 
 
 6° Le rapporteur. 
 
@@ -8365,22 +8382,23 @@ La présidence de l'assemblée du contentieux appartient au vice-président du C
 L'assemblée ne peut valablement siéger que si neuf de ses membres ou leurs suppléants sont présents. 
 
 L'assemblée du contentieux ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix
-délibérative sont en nombre pair, l'assemblée est complétée par le président de sous-section le plus ancien dans ses
-fonctions ne siégeant pas au titre du 4° ou du 5° ou, à défaut, par l'assesseur le plus ancien dans ses fonctions.
+délibérative sont en nombre pair, l'assemblée est complétée par le président de chambre le plus ancien dans ses fonctions ne
+siégeant pas au titre du 4° ou du 5° ou, à défaut, par l'assesseur le plus ancien dans ses fonctions.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 2
-
-_Cite_:
-
-  - Code de justice administrative - art. R611-20 (M)
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
-  - Code de justice administrative. - art. R122-21 (VD)
+  - Code de justice administrative - art. R122-21 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. R611-20
+  - Code de justice administrative - art. R773-12 (V)
 
 
 ###### Article R122-21
@@ -8391,15 +8409,15 @@ président de section administrative le premier inscrit au tableau, lui-même su
 section dans l'ordre du tableau. 
 
 En cas d'empêchement, le président de la section du contentieux est suppléé, pour compléter l'assemblée, par les présidents
-adjoints de ladite section dans l'ordre d'ancienneté de leurs fonctions. Ces derniers, ainsi que les présidents de sous-
-section mentionnés au 5° de l'article R. 122-20, sont suppléés dans l'ordre d'ancienneté de leurs fonctions par les
-présidents de sous-section autres que ceux siégeant en application des 4° et 5° du même article. 
+adjoints de ladite section dans l'ordre d'ancienneté de leurs fonctions. Ces derniers, ainsi que les présidents de  chambre
+mentionnés au 5° de l'article R. 122-20, sont suppléés dans l'ordre d'ancienneté de leurs fonctions par les présidents de
+chambre autres que ceux siégeant en application des 4° et 5° du même article. 
 
 En cas d'empêchement d'un président de section administrative, celui-ci est suppléé par l'un des présidents adjoints de cette
 section dans l'ordre du tableau. 
 
-En cas d'empêchement, le président de sous-section mentionné au 4° de l'article R. 122-20 est suppléé par l'un des assesseurs
-de sa sous-section dans l'ordre du tableau. 
+En cas d'empêchement, le président de  chambre mentionné au 4° de l'article R. 122-20 est suppléé par l'un des assesseurs de
+sa  chambre dans l'ordre du tableau. 
 
 Lorsque l'assemblée du contentieux est saisie d'un recours contre un acte pris après avis du Conseil d'Etat, le président de
 la section administrative qui a eu à délibérer de cet avis ne siège pas. Il est suppléé par le plus ancien dans l'ordre du
@@ -8410,7 +8428,7 @@ et du troisième alinéas.
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 9
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -8418,7 +8436,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative - art. R122-20
+  - Code de justice administrative - art. R122-20 (V)
 
 
 ###### Article R122-21-1
@@ -8543,21 +8561,17 @@ _Cite_:
 
 En cas d'absence ou d'empêchement du président de la section du contentieux, celui-ci est remplacé pour la direction générale
 du service par l'un des présidents adjoints, dans l'ordre d'ancienneté de leurs fonctions, ou, à défaut de chacun de ces
-derniers, par le président de sous-section le plus ancien dans ses fonctions.
+derniers, par le président de  chambre le plus ancien dans ses fonctions.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 49 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ##### Section 2 bis : Tableau national des experts près le Conseil d'Etat<a id=130></a>
@@ -8625,38 +8639,34 @@ _Codifié par_:
 
 ###### Article R122-28
 
-Pour chaque sous-section, le secrétaire du contentieux est, en outre, assisté d'un secrétaire désigné par le vice-président
+Pour chaque  chambre, le secrétaire du contentieux est, en outre, assisté d'un greffier en chef désigné par le vice-président
 du Conseil d'Etat sur la proposition du président de la section du contentieux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 50 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R122-28-1
 
-Le secrétariat des séances est assuré par le secrétaire du contentieux, le secrétaire adjoint, les secrétaires de sous-
-section ainsi que par les agents de la section désignés à cet effet par le président de la section du contentieux.
+Le secrétariat des séances est assuré par le secrétaire du contentieux, le secrétaire adjoint, les greffiers en chef de
+chambre ainsi que par les agents de la section désignés à cet effet par le président de la section du contentieux.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-911 du 28 juillet 2005 - art. 7 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R122-28-2
@@ -8678,22 +8688,18 @@ _Créé par_:
 ###### Article R122-29
 
 En cas d'absence ou d'empêchement, le secrétaire du contentieux est remplacé dans ses fonctions par le secrétaire adjoint du
-contentieux et, si celui-ci est lui-même absent ou empêché, par un secrétaire de sous-section désigné par le président de la
+contentieux et, si celui-ci est lui-même absent ou empêché, par un greffier en chef de chambre désigné par le président de la
 section du contentieux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 50 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ##### Section 4 : Les assistants de justice<a id=132></a>
@@ -8952,17 +8958,21 @@ _Modifié par_:
 
 ###### Article R123-6-1
 
-Chaque section administrative se réunit en formation plénière lorsque son président estime que l'importance des affaires
-inscrites à l'ordre du jour le justifie. 
-
-Dans les autres cas, elle se réunit en formation ordinaire dans une composition fixée par son président. La formation
+Chaque section administrative se réunit en formation ordinaire dans une composition fixée par son président. La formation
 ordinaire comprend au moins sept membres.
+
+La section administrative se réunit en formation plénière lorsque son président estime que l'importance ou la difficulté des
+affaires inscrites à l'ordre du jour le justifie.
+
+La section administrative se réunit en formation restreinte lorsque son président considère que les affaires inscrites à
+l'ordre du jour ne soulèvent pas de difficulté particulière. La composition de la formation restreinte est fixée par le
+président. Elle compte au moins trois membres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 14
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R123-7
@@ -8991,13 +9001,14 @@ _Codifié par_:
 
 ###### Article R123-8
 
-Outre le président, une section administrative ne peut valablement délibérer que si trois membres sont présents.
+Outre le président, une section administrative ne peut valablement délibérer que si trois membres ou, en formation
+restreinte, deux membres sont présents.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-225 du 6 mars 2008 - art. 15
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -10195,29 +10206,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R*135-4
-
-Les membres du Conseil d'Etat élus au Parlement sont mis en position de détachement pendant la durée de leur mandat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°63-767 du 30 juillet 1963 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-_Abrogé par_:
-
-  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R*135-5
@@ -12346,17 +12334,17 @@ ou
 
 ou 
 
-" le Conseil d'Etat (section du contentieux, n° et n° sous-sections réunies) " 
+" le Conseil d'Etat (section du contentieux, n° et n° chambres réunies) " 
 
 ou 
 
-" le Conseil d'Etat (section du contentieux, n° sous-section) ".
+" le Conseil d'Etat (section du contentieux, n° chambre) ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-452 du 13 mai 2008 - art. 9
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R223-8
@@ -12524,35 +12512,35 @@ _Codifié par_:
 
 ###### Article R224-5
 
-Les avis du Conseil d'Etat rendus en application de l'article L. 224-3 portent l'une des mentions suivantes :
+Les avis du Conseil d'Etat rendus en application de l'article L. 224-3 portent l'une des mentions suivantes : 
 
-" Le Conseil d'Etat ",
+" Le Conseil d'Etat ", 
 
-ou
+ou 
 
-" Le Conseil d'Etat (section du contentieux) ",
+" Le Conseil d'Etat (section du contentieux) ", 
 
-ou
+ou 
 
-" Le Conseil d'Etat (section du contentieux, n° et n° sous-sections réunies) ",
+" Le Conseil d'Etat (section du contentieux, n° et n° chambres réunies) ", 
 
-ou
+ou 
 
-" Le Conseil d'Etat (section du contentieux, n° sous-section) ".
+" Le Conseil d'Etat (section du contentieux, n° chambre) ".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. L224-3 (V)
+  - Code de justice administrative - art. L224-3 (V)
 
 
 ###### Article R224-6
@@ -12879,29 +12867,25 @@ ou
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, no et no sous-sections réunies) ",
+" Le Conseil d'Etat (section du contentieux, no et no chambres réunies) ",
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, no sous-section) ".
+" Le Conseil d'Etat (section du contentieux, no chambre) ".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. L225-2 (M)
+  - Code de justice administrative - art. L225-2 (V)
 
 
 ###### Article R225-5
@@ -16402,12 +16386,12 @@ _Modifié par_:
 
 ###### Article R341-2
 
-Dans le cas où un tribunal administratif ou une cour administrative d'appel  est saisi de conclusions relevant normalement de
+Dans le cas où un tribunal administratif ou une cour administrative d'appel est saisi de conclusions relevant normalement de
 sa compétence mais connexes à des conclusions présentées devant le Conseil d'Etat et relevant de la compétence en premier et
-dernier ressort de celui-ci, son président renvoie au Conseil d'Etat lesdites conclusions.
+dernier ressort de celui-ci, son président renvoie au Conseil d'Etat lesdites conclusions. 
 
-Dans le même cas, le président de la section du contentieux, saisi par la sous-section intéressée, ordonne le renvoi au
-Conseil d'Etat de la demande soumise au tribunal administratif ou à la cour administrative d'appel.
+Dans le même cas, le président de la section du contentieux, saisi par la  chambre intéressée, ordonne le renvoi au Conseil
+d'Etat de la demande soumise au tribunal administratif ou à la cour administrative d'appel.
 
 **Liens relatifs à cet article**
 
@@ -16417,7 +16401,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1145 du 15 septembre 2015 - art. 14
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -16577,28 +16561,24 @@ _Anciens textes_:
 
 Dans le cas où une cour administrative d'appel est saisie de conclusions relevant normalement de sa compétence mais connexes
 à des conclusions présentées devant le Conseil d'Etat et relevant de la compétence d'appel de celui-ci, son président renvoie
-au Conseil d'Etat lesdites conclusions.
+au Conseil d'Etat lesdites conclusions. 
 
-Dans le même cas, le président de la section du contentieux, saisi par la sous-section intéressée, ordonne le renvoi au
-Conseil d'Etat de ces conclusions.
+Dans le même cas, le président de la section du contentieux, saisi par la  chambre intéressée, ordonne le renvoi au Conseil
+d'Etat de ces conclusions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
   - Code de justice administrative - art. R351-6 (VD)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R74 (Ab)
 
 
 ###### Article R343-3
@@ -16799,27 +16779,23 @@ _Cite_:
 ###### Article R351-1
 
 Lorsque le Conseil d'Etat est saisi de conclusions relevant de la compétence d'une autre juridiction administrative, et sous
-réserve des dispositions de l'article R. 351-4, le président de la section du contentieux, saisi par la sous-section chargée
-de l'instruction du dossier, règle la question de compétence et attribue, le cas échéant, le jugement de tout ou partie de
+réserve des dispositions de l'article R. 351-4, le président de la section du contentieux, saisi par la  chambre chargée de
+l'instruction du dossier, règle la question de compétence et attribue, le cas échéant, le jugement de tout ou partie de
 l'affaire à la juridiction qu'il déclare compétente.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. R351-4 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R80 (Ab)
+  - Code de justice administrative - art. R351-4
 
 
 ###### Article R351-2
@@ -16827,19 +16803,18 @@ _Anciens textes_:
 Lorsqu'une cour administrative d'appel ou un tribunal administratif est saisi de conclusions qu'il estime relever de la
 compétence du Conseil d'Etat, son président transmet sans délai le dossier au Conseil d'Etat qui poursuit l'instruction de
 l'affaire. Si l'instruction de l'affaire révèle que celle-ci relève en tout ou partie de la compétence d'une autre
-juridiction, la sous-section d'instruction saisit le président de la section du contentieux qui règle la question de
-compétence et attribue, le cas échéant, le jugement de tout ou partie des conclusions à la juridiction qu'il déclare
-compétente.
+juridiction, la  chambre d'instruction saisit le président de la section du contentieux qui règle la question de compétence
+et attribue, le cas échéant, le jugement de tout ou partie des conclusions à la juridiction qu'il déclare compétente.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -16847,10 +16822,6 @@ _Cité par_:
   - Code de justice administrative - art. R342-3 (V)
   - Code de justice administrative - art. R343-4 (V)
   - Code de justice administrative - art. R344-3 (V)
-
-_Anciens textes_:
-
-  - Code des tribunaux administratifs et des cours adm - art. R81 (Ab)
 
 
 ###### Article R351-3
@@ -17171,24 +17142,24 @@ _Cité par_:
 
 ###### Article R411-4
 
-En cas de nécessité, le président de la formation de jugement ou, au Conseil d'Etat, le président de la sous-section chargée
-de l'instruction, exige des parties intéressées la production de copies supplémentaires.
+En cas de nécessité, le président de la formation de jugement ou, au Conseil d'Etat, le président de la  chambre chargée de
+l'instruction, exige des parties intéressées la production de copies supplémentaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 _Cité par_:
 
   - Décret n°2005-222 du 10 mars 2005 - art. 2 (V)
   - Code de justice administrative - art. R414-3 (VD)
   - Code de justice administrative - art. R414-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Anciens textes_:
 
@@ -20108,9 +20079,9 @@ _Anciens textes_:
 
 ###### Article R611-6
 
-Le président de la juridiction ou, au Conseil d'Etat, le président de la sous-section chargée de l'instruction peut autoriser
-le déplacement des pièces, pendant un délai qu'il détermine, dans une préfecture ou une sous-préfecture, ou au greffe d'une
-autre juridiction administrative.
+Le président de la juridiction ou, au Conseil d'Etat, le président de la  chambre chargée de l'instruction peut autoriser le
+déplacement des pièces, pendant un délai qu'il détermine, dans une préfecture ou une sous-préfecture, ou au greffe d'une
+autre juridiction administrative. 
 
 En cas de nécessité reconnue, il peut également autoriser la remise momentanée de ces pièces, pendant un délai qu'il fixe,
 entre les mains des avocats des parties ou des représentants des administrations.
@@ -20128,7 +20099,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 21
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -20139,9 +20110,9 @@ _Cité par_:
 ###### Article R611-7
 
 Lorsque la décision lui paraît susceptible d'être fondée sur un moyen relevé d'office, le président de la formation de
-jugement ou, au Conseil d'Etat, la sous-section chargée de l'instruction en informe les parties avant la séance de jugement
-et fixe le délai dans lequel elles peuvent, sans qu'y fasse obstacle la clôture éventuelle de l'instruction, présenter leurs
-observations sur le moyen communiqué.
+jugement ou, au Conseil d'Etat, la chambre chargée de l'instruction en informe les parties avant la séance de jugement et
+fixe le délai dans lequel elles peuvent, sans qu'y fasse obstacle la clôture éventuelle de l'instruction, présenter leurs
+observations sur le moyen communiqué. 
 
 Les dispositions du présent article ne sont pas applicables lorsqu'il est fait application des dispositions des articles R.
 122-12, R. 222-1, R. 611-8 ou L. 822-1.
@@ -20155,11 +20126,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. L822-1 (V)
+  - Code de justice administrative - art. R122-12 (V)
+  - Code de justice administrative - art. R222-1 (V)
+  - Code de justice administrative - art. R611-8 (V)
 
 _Cité par_:
 
@@ -20179,19 +20157,12 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R145-26 (V)
   - Code de la sécurité sociale. - art. R145-27 (V)
 
-_Cite_:
-
-  - Code de justice administrative. - art. L822-1 (V)
-  - Code de justice administrative. - art. R122-12 (M)
-  - Code de justice administrative. - art. R222-1 (M)
-  - Code de justice administrative. - art. R611-8 (V)
-
 
 ###### Article R611-8
 
 Lorsqu'il apparaît au vu de la requête que la solution de l'affaire est d'ores et déjà certaine, le président du tribunal
 administratif ou le président de la formation de jugement ou, à la cour administrative d'appel, le président de la chambre
-ou, au Conseil d'Etat, le président de la sous-section peut décider qu'il n'y a pas lieu à instruction.
+ou, au Conseil d'Etat, le président de la  chambre peut décider qu'il n'y a pas lieu à instruction.
 
 **Liens relatifs à cet article**
 
@@ -20202,11 +20173,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -20217,7 +20188,7 @@ _Cité par_:
 
 ###### Article R611-8-1
 
-Le président de la formation de jugement ou, au Conseil d'Etat, le président de la sous-section chargée de l'instruction peut
+Le président de la formation de jugement ou, au Conseil d'Etat, le président de la  chambre chargée de l'instruction peut
 demander à l'une des parties de reprendre, dans un mémoire récapitulatif, les conclusions et moyens précédemment présentés
 dans le cadre de l'instance en cours, en l'informant que, si elle donne suite à cette invitation, les conclusions et moyens
 non repris seront réputés abandonnés. En cause d'appel, il peut être demandé à la partie de reprendre également les
@@ -20225,9 +20196,9 @@ conclusions et moyens présentés en première instance qu'elle entend maintenir
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 27
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -20389,9 +20360,9 @@ _Cite_:
 ###### Article R611-8-5
 
 Lorsque l'original d'une pièce communiquée par voie électronique a été établi sur support papier, le président de la
-formation de jugement ou, au Conseil d'Etat, le président de la section du contentieux ou le président de la sous-section
-chargée de l'instruction peut en ordonner la production à tout moment et, au plus tard, à l'audience. Si la production est
-demandée à l'audience, la partie intéressée en est préalablement avisée.
+formation de jugement ou, au Conseil d'Etat, le président de la section du contentieux ou le président de la  chambre chargée
+de l'instruction peut en ordonner la production à tout moment et, au plus tard, à l'audience. Si la production est demandée à
+l'audience, la partie intéressée en est préalablement avisée.
 
 **Nota:**
 
@@ -20413,9 +20384,9 @@ d'Etat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -20748,33 +20719,33 @@ _Cite_:
 
 ###### Article R611-20
 
-Le président de la section du contentieux répartit les affaires entre les sous-sections, sous réserve des compétences de la
+Le président de la section du contentieux répartit les affaires entre les chambres, sous réserve des compétences de la
 formation spécialisée prévue à l'article L. 773-2 du présent code. Il peut, préalablement à cette répartition, accomplir les
 actes d'instruction nécessaires à la mise en état des affaires. 
 
-Chaque sous-section est chargée de l'instruction des affaires qui lui ont été attribuées. Le rapporteur est désigné pour
-chaque affaire par le président de la sous-section après accomplissement des mesures d'instruction prévues à l'article R.
-611-27. 
+Chaque chambre est chargée de l'instruction des affaires qui lui ont été attribuées. Le rapporteur est désigné pour chaque
+affaire par le président de la chambre après accomplissement des mesures d'instruction prévues à l'article R. 611-27. 
 
 Par dérogation aux dispositions du premier alinéa, le président de la section du contentieux peut décider que l'instruction
 d'une affaire sera confiée à la section du contentieux. Dans ce cas, il lui appartient de désigner le rapporteur et d'exercer
-les pouvoirs dévolus par le présent code à la sous-section chargée de l'instruction. 
+les pouvoirs dévolus par le présent code à la chambre chargée de l'instruction. 
 
 Lorsqu'il décide de renvoyer à une des formations collégiales mentionnées au premier alinéa de l'article L. 122-1 le jugement
 d'une requête présentée en application du livre V, le président de la section du contentieux accomplit les actes
 d'instruction nécessaires et désigne le rapporteur ainsi que le rapporteur public, à moins qu'il n'attribue l'affaire à une
-sous-section.
+chambre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 2
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
   - Code de justice administrative - art. L122-1
-  - Code de justice administrative - art. R611-27
+  - Code de justice administrative - art. L773-2 (V)
+  - Code de justice administrative - art. R611-27 (V)
 
 _Cité par_:
 
@@ -20860,26 +20831,22 @@ _Cite_:
 
 ###### Article R611-24
 
-Les délais prévus aux deux articles précédents peuvent, en outre, être réduits par décision du président de la sous-section
-en raison de l'urgence. Dans ce cas, la décision est notifiée au signataire de la requête. Le délai court du jour de la
-réception de cette notification.
+Les délais prévus aux deux articles précédents peuvent, en outre, être réduits par décision du président de la  chambre en
+raison de l'urgence. Dans ce cas, la décision est notifiée au signataire de la requête. Le délai court du jour de la
+réception de cette notification. 
 
 S'il n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai. Le Conseil d'Etat donne
 acte de ce désistement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 53-3 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R611-25
@@ -20905,8 +20872,8 @@ _Codifié par_:
 
 ###### Article R611-26
 
-Sauf lorsqu'il est fait application de l'article R. 611-8, la section ou la sous-section fixe le délai dans lequel les
-mémoires doivent être produits.
+Sauf lorsqu'il est fait application de l'article R. 611-8, la section ou la chambre fixe le délai dans lequel les mémoires
+doivent être produits.
 
 **Liens relatifs à cet article**
 
@@ -20916,46 +20883,42 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. R611-8 (V)
 
 _Cité par_:
 
   - Code de justice administrative - art. R612-3 (V)
-
-_Cite_:
-
-  - Code de justice administrative. - art. R611-8 (V)
 
 
 ###### Article R611-27
 
 La communication des requêtes et recours aux parties intéressées et aux ministres et, s'il y a lieu, les mises en cause, les
 demandes de pièces et tous autres actes d'instruction sont, avec la fixation des délais dans lesquels les réponses doivent
-être produites, ordonnés par les sous-sections.
+être produites, ordonnés par les chambres.
 
 Les recours pour excès de pouvoir contre les décrets sont en outre communiqués au Premier ministre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 37 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
-  - Code de justice administrative - art. R611-20 (M)
+  - Code de justice administrative - art. R611-20 (V)
   - Code de justice administrative. - art. R611-30 (V)
 
 
@@ -21041,7 +21004,7 @@ _Anciens textes_:
 
 Lorsqu'une des parties appelées à produire un mémoire n'a pas respecté le délai qui lui a été imparti en exécution des
 articles R. 611-10, R. 611-17 et R. 611-26, le président de la formation de jugement ou, au Conseil d'Etat, le président de
-la sous-section chargée de l'instruction peut lui adresser une mise en demeure. 
+la  chambre chargée de l'instruction peut lui adresser une mise en demeure. 
 
 En cas de force majeure, un nouveau et dernier délai peut être accordé. 
 
@@ -21056,7 +21019,7 @@ Cette information ne tient pas lieu de l'avertissement prévu à l'article R. 71
 
 _Modifié par_:
 
-  - Décret n°2010-164 du 22 février 2010 - art. 28
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -21067,7 +21030,7 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative - art. R611-17
-  - Code de justice administrative - art. R611-26
+  - Code de justice administrative - art. R611-26 (V)
   - Code de justice administrative - art. R711-2
 
 _Anciens textes_:
@@ -21921,27 +21884,27 @@ _Anciens textes_:
 ###### Article R622-1
 
 La juridiction peut décider que l'un ou plusieurs de ses membres se transporteront sur les lieux pour y faire les
-constatations et vérifications déterminées par sa décision.
+constatations et vérifications déterminées par sa décision. 
 
 Ceux-ci peuvent, en outre, dans le cours de la visite, entendre à titre de renseignements les personnes qu'ils désignent et
-faire faire en leur présence les opérations qu'ils jugent utiles.
+faire faire en leur présence les opérations qu'ils jugent utiles. 
 
-Les parties sont averties du jour et de l'heure auxquels la visite des lieux doit se faire.
+Les parties sont averties du jour et de l'heure auxquels la visite des lieux doit se faire. 
 
-Il est dressé procès-verbal de l'opération.
+Il est dressé procès-verbal de l'opération. 
 
 La visite des lieux peut également être décidée au cours de l'instruction par le président de la formation de jugement ou, au
-Conseil d'Etat, par la sous-section chargée de l'instruction.
+Conseil d'Etat, par la  chambre chargée de l'instruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Anciens textes_:
 
@@ -22279,18 +22242,18 @@ _Créé par_:
 ###### Article R626-1
 
 Un membre de la juridiction peut être commis par la formation de jugement ou par son président ou, au Conseil d'Etat, par la
-sous-section chargée de l'instruction pour procéder à toutes mesures d'instruction autres que celles qui sont prévues aux
+chambre chargée de l'instruction pour procéder à toutes mesures d'instruction autres que celles qui sont prévues aux
 chapitres Ier à IV du présent titre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Anciens textes_:
 
@@ -22409,11 +22372,11 @@ _Codifié par_:
 
 ###### Article R632-1
 
-L'intervention est formée par mémoire distinct.
+L'intervention est formée par mémoire distinct. 
 
-Le président de la formation de jugement ou, au Conseil d'Etat, le président de la sous-section chargée de l'instruction
-ordonne, s'il y a lieu, que ce mémoire en intervention soit communiqué aux parties et fixe le délai imparti à celles-ci pour
-y répondre.
+Le président de la formation de jugement ou, au Conseil d'Etat, le président de la  chambre chargée de l'instruction ordonne,
+s'il y a lieu, que ce mémoire en intervention soit communiqué aux parties et fixe le délai imparti à celles-ci pour y
+répondre. 
 
 Néanmoins, le jugement de l'affaire principale qui est instruite ne peut être retardé par une intervention.
 
@@ -22426,11 +22389,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 #### Chapitre III : L'inscription de faux<a id=280></a>
@@ -22552,21 +22515,17 @@ _Cité par_:
 ###### Article R635-3
 
 Si le désaveu est relatif à des actes ou procédures accomplis devant le Conseil d'Etat, il est procédé à l'examen de la
-demande dans les délais fixés par le président de la sous-section saisie.
+demande dans les délais fixés par le président de la  chambre saisie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 65 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 #### Chapitre VI : Le désistement<a id=283></a>
@@ -23442,11 +23401,11 @@ ou
 
 ou
 
-" Le Conseil d'Etat statuant au contentieux (section du contentieux, no et no sous-sections réunies) ",
+" Le Conseil d'Etat statuant au contentieux (section du contentieux, n° et n° chambres réunies) ",
 
 ou
 
-" Le Conseil d'Etat statuant au contentieux (section du contentieux, no sous-section) ",
+" Le Conseil d'Etat statuant au contentieux (section du contentieux, n° chambre) ",
 
 ou
 
@@ -23458,17 +23417,13 @@ ou
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 56 (M)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R741-6
@@ -24704,28 +24659,27 @@ _Créé par_:
 
 ###### Article R*771-19
 
-L'application des dispositions de la présente section ne fait pas obstacle à l'usage des pouvoirs que les présidents de sous-
-section tiennent des dispositions des articles R. 122-12 et R. 822-5.
+L'application des dispositions de la présente section ne fait pas obstacle à l'usage des pouvoirs que les présidents de
+chambre tiennent des dispositions des articles R. 122-12 et R. 822-5.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-148 du 16 février 2010 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
   - Code de justice administrative - art. R122-12
-  - Code de justice administrative - art. R822-5
+  - Code de justice administrative - art. R822-5 (V)
 
 
 ###### Article R*771-20
 
-Lorsqu'une question prioritaire de constitutionnalité a été transmise au Conseil d'Etat par          une juridiction
-administrative, les parties, le ministre compétent et le Premier ministre peuvent produire des observations dans le délai
-d'un mois courant à compter de la notification qui leur a été faite de la décision de transmission ou, le cas échéant, dans
-le délai qui leur est imparti par le président de la section du contentieux ou par le président de la sous-section chargée de
-l'instruction. 
+Lorsqu'une question prioritaire de constitutionnalité a été transmise au Conseil d'Etat par une juridiction administrative,
+les parties, le ministre compétent et le Premier ministre peuvent produire des observations dans le délai d'un mois courant à
+compter de la notification qui leur a été faite de la décision de transmission ou, le cas échéant, dans le délai qui leur est
+imparti par le président de la section du contentieux ou par le président de la chambre chargée de l'instruction.
 
 Si la requête dont est saisie la juridiction qui a décidé le renvoi est dispensée du ministère d'avocat devant cette
 juridiction, la même dispense s'applique à la production des observations devant le Conseil d'Etat ; dans le cas contraire,
@@ -24736,7 +24690,7 @@ Conseil d'Etat et à la Cour de cassation.
 
 _Modifié par_:
 
-  - Décret n°2016-463 du 14 avril 2016 - art. 2
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R*771-21
@@ -25159,17 +25113,29 @@ _Cite_:
 
 ###### Article R773-9
 
-Le président de la formation spécialisée prévue à l'article L. 773-2 du présent code est désigné par arrêté du Premier
-ministre, sur proposition du garde des sceaux, ministre de la justice ; le vice-président du Conseil d'Etat est appelé à
-faire la présentation après avis du président de la section du contentieux et des présidents adjoints de ladite section. Les
-fonctions de président de la formation spécialisée se terminent le 31 décembre de la quatrième année suivant celle de sa
-désignation. Celle-ci peut être renouvelée par arrêté du vice-président du Conseil d'Etat.
+Le président de la formation spécialisée prévue à l'article L. 773-2 du présent code est désigné, pour une durée de quatre
+ans, par arrêté du Premier ministre, sur proposition du garde des sceaux, ministre de la justice ; le vice-président du
+Conseil d'Etat est appelé à faire la présentation après avis du président de la section du contentieux et des présidents
+adjoints de ladite section. Le président de la formation spécialisée est, à sa demande, renouvelé dans ses fonctions pour une
+durée de trois ans par arrêté du vice-président du Conseil d'Etat. 
+
+Sauf prolongation, dans la limite de six mois, par arrêté du vice-président en cas de nécessité de service, nul ne peut
+exercer les fonctions de président de la formation spécialisée plus de sept années consécutives.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2016-899 du 1er juillet 2016, ces dispositions s'appliquent aux personnes nommées,
+renouvelées ou prolongées dans leurs fonctions après l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. L773-2 (V)
 
 
 ###### Article R773-10
@@ -25246,80 +25212,80 @@ _Créé par_:
 
 ###### Article R773-14
 
-La section du contentieux siégeant en formation restreinte comprend : 
+La section du contentieux siégeant en formation restreinte comprend :
 
-1° Le président de la section ; 
+1° Le président de la section ;
 
-2° Les trois présidents adjoints ; 
+2° Les trois présidents adjoints ;
 
-3° Le président de sous-section le plus ancien dans ses fonctions ; 
+3° Le président de chambre le plus ancien dans ses fonctions ;
 
-4° Le président de la formation spécialisée ; 
+4° Le président de la formation spécialisée ;
 
 5° Le membre de la formation spécialisée exerçant la fonction de rapporteur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R773-15
 
 En cas d'absence ou d'empêchement du président de la section du contentieux, celle-ci est présidée par l'un des présidents
 adjoints siégeant au titre du 2° pris dans l'ordre d'ancienneté de leurs fonctions ou, à défaut de l'un de ces derniers, par
-le président de sous-section le plus ancien dans ses fonctions présent à la séance. 
+le président de chambre le plus ancien dans ses fonctions présent à la séance.
 
 En cas d'absence ou d'empêchement, le président de la formation spécialisée est remplacé par l'un des membres de cette
-formation pris dans l'ordre du tableau. 
+formation pris dans l'ordre du tableau.
 
 La section du contentieux en formation restreinte ne peut statuer que si cinq au moins de ses membres ayant voix délibérative
-sont présents. 
+sont présents.
 
 Elle ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix délibérative sont en nombre
-pair, la section est complétée par le président de sous-section le plus ancien dans ses fonctions autre que celui mentionné
-au 3°. Il en est de même lorsque, par suite de vacance, d'absence ou d'empêchement, les membres présents ne se trouvent pas
-en nombre pour délibérer.
+pair, la section est complétée par le président de chambre le plus ancien dans ses fonctions autre que celui mentionné au 3°.
+Il en est de même lorsque, par suite de vacance, d'absence ou d'empêchement, les membres présents ne se trouvent pas en
+nombre pour délibérer.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R773-16
 
-L'assemblée du contentieux siégeant en formation restreinte comprend : 
+L'assemblée du contentieux siégeant en formation restreinte comprend :
 
-1° Le vice-président du Conseil d'Etat ; 
+1° Le vice-président du Conseil d'Etat ;
 
 2° Le président de la section du contentieux et les trois présidents de section administrative les plus anciens dans leurs
-fonctions ; 
+fonctions ;
 
-3° Les deux présidents adjoints de la section du contentieux les plus anciens dans leurs fonctions ; 
+3° Les deux présidents adjoints de la section du contentieux les plus anciens dans leurs fonctions ;
 
 4° Le président de la formation spécialisée ou, en cas d'absence ou d'empêchement de celui-ci, un membre de cette formation,
-pris dans l'ordre du tableau ; 
+pris dans l'ordre du tableau ;
 
-5° Le membre de la formation spécialisée exerçant la fonction de rapporteur. 
+5° Le membre de la formation spécialisée exerçant la fonction de rapporteur.
 
-La présidence de l'assemblée du contentieux siégeant en formation restreinte appartient au vice-président du Conseil d'Etat. 
+La présidence de l'assemblée du contentieux siégeant en formation restreinte appartient au vice-président du Conseil d'Etat.
 
-L'assemblée ne peut valablement siéger que si sept de ses membres ou leurs suppléants sont présents. 
+L'assemblée ne peut valablement siéger que si sept de ses membres ou leurs suppléants sont présents.
 
 Elle ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix délibérative sont en nombre
 pair, l'assemblée est complétée par le président de section administrative le plus ancien dans ses fonctions ne siégeant pas
 au titre du 2° ou, à défaut, par le président adjoint de la section du contentieux le plus ancien dans ses fonctions ne
-siégeant pas au titre du 3° ou du 4° ou, à défaut, par le président de sous-section le plus ancien dans ses fonctions ne
-siégeant pas au titre du 4°.
+siégeant pas au titre du 3° ou du 4° ou, à défaut, par le président de chambre le plus ancien dans ses fonctions ne siégeant
+pas au titre du 4°.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R773-17
@@ -25328,15 +25294,15 @@ En cas d'empêchement du vice-président du Conseil d'Etat, la présidence de l'
 est exercée par le président de la section du contentieux. Pour compléter l'assemblée, le vice-président du Conseil d'Etat
 est suppléé par le président de section administrative siégeant au titre du 2° de l'article R. 773-16 le plus ancien dans ses
 fonctions, lui-même suppléé par le président de section administrative ne siégeant pas au titre du même 2° le plus ancien
-dans ses fonctions. 
+dans ses fonctions.
 
 En cas d'empêchement, le président de la section du contentieux est suppléé, pour compléter l'assemblée, par le président
 adjoint de ladite section le plus ancien dans ses fonctions. Ce dernier est suppléé par un président adjoint de la section du
-contentieux pris dans l'ordre d'ancienneté des fonctions et, à défaut, par le président de sous-section le plus ancien dans
-l'ordre de ses fonctions autre que celui mentionné au dernier alinéa de l'article R. 773-16. 
+contentieux pris dans l'ordre d'ancienneté des fonctions et, à défaut, par le président de chambre le plus ancien dans
+l'ordre de ses fonctions autre que celui mentionné au dernier alinéa de l'article R. 773-16.
 
 En cas d'empêchement d'un président de section administrative, celui-ci est suppléé par le président de section
-administrative ne siégeant pas au titre du 2° de l'article R. 773-16 le plus ancien dans ses fonctions. 
+administrative ne siégeant pas au titre du 2° de l'article R. 773-16 le plus ancien dans ses fonctions.
 
 En cas d'empêchement d'un président adjoint de la section du contentieux ou si le président de la formation spécialisée est
 un des présidents adjoints mentionnés au 3° de l'article R. 773-16, celui-ci est supplée par le président adjoint ne siégeant
@@ -25344,9 +25310,9 @@ pas au titre du même 3° du même article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ##### Sous-section 5 : Juge des référés<a id=319></a>
@@ -28690,41 +28656,37 @@ _Codifié par_:
 
 ###### Article R822-1
 
-Les pourvois en cassation présentés au Conseil d'Etat sont répartis entre les sous-sections dans les conditions prévues à
+Les pourvois en cassation présentés au Conseil d'Etat sont répartis entre les chambres dans les conditions prévues à
 l'article R. 611-20.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 57-3 (M)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. R611-20 (V)
+  - Code de justice administrative - art. R611-20 (V)
 
 
 ###### Article R822-2
 
-S'il apparaît que l'admission du pourvoi peut être refusée, le président de la sous-section transmet le dossier au
-rapporteur public en vue de son inscription au rôle ; le requérant ou son mandataire est averti du jour de la séance. 
+S'il apparaît que l'admission du pourvoi peut être refusée, le président de la  chambre transmet le dossier au rapporteur
+public en vue de son inscription au rôle ; le requérant ou son mandataire est averti du jour de la séance. 
 
-Dans le cas contraire, le président de la sous-section décide qu'il sera procédé à l'instruction du pourvoi dans les
-conditions ordinaires ; le requérant ou son mandataire est avisé de cette décision.
+Dans le cas contraire, le président de la  chambre décide qu'il sera procédé à l'instruction du pourvoi dans les conditions
+ordinaires ; le requérant ou son mandataire est avisé de cette décision.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R822-3
@@ -28753,37 +28715,33 @@ _Codifié par_:
 ###### Article R822-4
 
 Lorsque les conclusions d'un pourvoi en cassation sont assorties de conclusions à fin de sursis à exécution, le président de
-la sous-section peut, s'il y a lieu, rejeter ces dernières conclusions sans instruction ; dans le cas contraire, les
-conclusions à fin de sursis sont instruites par la sous-section dans les conditions ordinaires.
+la  chambre peut, s'il y a lieu, rejeter ces dernières conclusions sans instruction ; dans le cas contraire, les conclusions
+à fin de sursis sont instruites par la  chambre dans les conditions ordinaires.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-766 du 30 juillet 1963 - art. 57-6 (M)
-
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
 ###### Article R822-5
 
 En cas de désistement avant l'admission du pourvoi, ou si le requérant est réputé s'être désisté en application de l'article
-R. 611-22, le président de la sous-section donne acte du désistement par ordonnance. 
+R. 611-22, le président de la  chambre donne acte du désistement par ordonnance. 
 
-Lorsque le pourvoi devient sans objet avant son admission, le président de la sous-section peut constater par ordonnance
-qu'il n'y a plus lieu d'y statuer. 
+Lorsque le pourvoi devient sans objet avant son admission, le président de la  chambre peut constater par ordonnance qu'il
+n'y a plus lieu d'y statuer. 
 
 Lorsque le pourvoi est irrecevable pour défaut de ministère d'avocat ou entaché d'une irrecevabilité manifeste non
-susceptible d'être couverte en cours d'instance, le président de la sous-section peut décider par ordonnance de ne pas
+susceptible d'être couverte en cours d'instance, le président de la  chambre peut décider par ordonnance de ne pas
 l'admettre. 
 
-Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de la sous-section peut également décider par
+Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de la  chambre peut également décider par
 ordonnance de ne pas admettre : 
 
 1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation ou qualification de faits, présentent à juger
@@ -28808,12 +28766,12 @@ cas prévus au troisième alinéa du présent article.
 
 _Modifié par_:
 
-  - Décret n°2013-1213 du 23 décembre 2013 - art. 2
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
   - Décret n°2016-1480 du 2 novembre 2016 (V)
-  - Code de justice administrative - art. R*771-19 (VD)
+  - Code de justice administrative - art. R*771-19 (V)
   - Code de justice administrative - art. R742-2 (VD)
   - Code de justice administrative - art. R822-5-1 (V)
 
@@ -29688,9 +29646,9 @@ _Cite_:
 
 Les affaires introduites sur le fondement de l'article R. 931-3 ou renvoyées au Conseil d'Etat en application des
 dispositions de l'article L. 911-4 lorsqu'elles comportent une demande d'astreinte sont enregistrées au greffe de la section
-du contentieux et, sous réserve des dispositions de l'article R. 931-4, affectées à une sous-section de la section du
+du contentieux et, sous réserve des dispositions de l'article R. 931-4, affectées à une  chambre de la section du
 contentieux. Sauf dans les cas où il peut être statué sans instruction sur les demandes et dans ceux où l'urgence l'interdit,
-la sous-section de la section du contentieux communique le dossier à la section du rapport et des études du Conseil d'Etat. 
+la  chambre de la section du contentieux communique le dossier à la section du rapport et des études du Conseil d'Etat. 
 
 Cette section peut accomplir, dans le cadre d'une procédure non juridictionnelle, toutes diligences qu'elle juge utiles pour
 assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande. Le président de la section du rapport et
@@ -29698,7 +29656,7 @@ des études désigne un rapporteur au sein de cette section.
 
 Sur décision du président de la section du rapport et des études, l'affaire peut être soumise, pour avis, à un comité
 restreint, composé du président et du président adjoint de la section du rapport et des études, du rapporteur et de trois
-membres du Conseil d'Etat, dont un président de sous-section de la section du contentieux. 
+membres du Conseil d'Etat, dont un président de  chambre de la section du contentieux. 
 
 Au terme de l'examen de l'affaire par la section du rapport et des études, le président de la section du rapport et des
 études adresse au président de la section du contentieux une note exposant le contexte de fait et de droit de l'affaire,
@@ -29707,7 +29665,7 @@ laquelle il a siégé et le sens de l'avis rendu ; la note peut exprimer l'appr�
 diligences accomplies par elle. 
 
 Les pièces produites devant la section du rapport et des études et la note établie par la section du rapport et des études
-sont jointes au dossier, qui est renvoyé à la sous-section du contentieux compétente. 
+sont jointes au dossier, qui est renvoyé à la  chambre du contentieux compétente. 
 
 Celle-ci assure l'instruction de l'affaire, conformément aux dispositions régissant la procédure devant le Conseil d'Etat
 statuant au contentieux.
@@ -29720,7 +29678,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -29772,8 +29730,8 @@ _Cite_:
 
 ###### Article R931-7-1
 
-Lorsque le Conseil d'Etat statuant au contentieux a prononcé une astreinte, la sous-section compétente transmet le dossier à
-la section du rapport et des études. 
+Lorsque le Conseil d'Etat statuant au contentieux a prononcé une astreinte, la  chambre compétente transmet le dossier à la
+section du rapport et des études. 
 
 Lorsqu'à la date d'effet de l'astreinte prononcée par le Conseil d'Etat la section du rapport et des études constate,
 d'office ou sur la saisine de la partie intéressée, que les mesures d'exécution prescrites n'ont pas été prises, elle en fait
@@ -29782,9 +29740,13 @@ l'article R. 931-6 sont applicables.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2017-493 du 6 avril 2017 - art. 7
 
 _Cite_:
 

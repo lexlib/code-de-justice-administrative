@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-07-03
+Version Consolidée au 2016-09-28
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -303,7 +303,7 @@ Version Consolidée au 2016-07-03
         - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#300)
       - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#301)
       - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#302)
-      - [Titre VII : Dispositions spéciales (art. R771-1 à R779-10)](#303)
+      - [Titre VII : Dispositions spéciales (art. R771-1 à R779-11)](#303)
         - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#304)
           - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#305)
           - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#306)
@@ -340,25 +340,26 @@ Version Consolidée au 2016-07-03
           - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#337)
           - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#338)
         - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#339)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#340)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-11)](#340)
           - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#341)
           - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#342)
           - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#343)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#344)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#345)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#346)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#347)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#348)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#349)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#350)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#351)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#352)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#353)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#354)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#355)
-      - [Titre Ier : Principes (art. R911-1)](#356)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#357)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#358)
+          - [Section 4 : L'action de groupe en matière de santé (art. R779-11)](#344)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#345)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#346)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#347)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#348)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#349)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#350)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#351)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#352)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#353)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#354)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#355)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-9)](#356)
+      - [Titre Ier : Principes (art. R911-1)](#357)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#358)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-9)](#359)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -27941,7 +27942,26 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=344></a>
+##### Section 4 : L'action de groupe en matière de santé<a id=344></a>
+
+###### Article R779-11
+
+Les actions de groupe engagées sur le fondement du chapitre III " Action de groupe " du titre IV du livre Ier de la première
+partie du code de la santé publique sont examinées selon les dispositions du présent code, sous réserve des dispositions du
+titre IV du livre Ier de la première partie du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1249 du 26 septembre 2016 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2017-888 du 6 mai 2017 - art. 4
+
+
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=345></a>
 
 ###### Article R781-1
 
@@ -27998,9 +28018,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=345></a>
+## Livre VIII : Les voies de recours.<a id=346></a>
 
-### Titre Ier : L'appel<a id=346></a>
+### Titre Ier : L'appel<a id=347></a>
 
 ###### Article R811-1
 
@@ -28679,9 +28699,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=347></a>
+### Titre II : Le recours en cassation<a id=348></a>
 
-#### Chapitre Ier : Dispositions générales<a id=348></a>
+#### Chapitre Ier : Dispositions générales<a id=349></a>
 
 ###### Article R821-1
 
@@ -28850,7 +28870,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=349></a>
+#### Chapitre II : Procédure d'admission<a id=350></a>
 
 ###### Article R822-1
 
@@ -29026,9 +29046,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=350></a>
+### Titre III : Autres voies de recours<a id=351></a>
 
-#### Chapitre Ier : L'opposition<a id=351></a>
+#### Chapitre Ier : L'opposition<a id=352></a>
 
 ###### Article R831-1
 
@@ -29159,7 +29179,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=352></a>
+#### Chapitre II : La tierce opposition<a id=353></a>
 
 ###### Article R832-1
 
@@ -29262,7 +29282,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=353></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=354></a>
 
 ###### Article R833-1
 
@@ -29317,7 +29337,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=354></a>
+#### Chapitre IV : Le recours en révision<a id=355></a>
 
 ###### Article R834-1
 
@@ -29407,9 +29427,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=355></a>
+## Livre IX : L'exécution des décisions<a id=356></a>
 
-### Titre Ier : Principes<a id=356></a>
+### Titre Ier : Principes<a id=357></a>
 
 ###### Article R911-1
 
@@ -29432,7 +29452,7 @@ _Modifié par_:
   - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=357></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=358></a>
 
 ###### Article R921-1
 
@@ -29690,7 +29710,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=358></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=359></a>
 
 ###### Article R931-1
 

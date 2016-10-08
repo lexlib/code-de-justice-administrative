@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -515,7 +515,17 @@ _Anciens textes_:
 
 ###### Article L10
 
-Les jugements sont publics. Ils mentionnent le nom des juges qui les ont rendus.
+Les jugements sont publics. Ils mentionnent le nom des juges qui les ont rendus. 
+
+Ces jugements sont mis à la disposition du public à titre gratuit dans le respect de la vie privée des personnes concernées. 
+
+Cette mise à disposition du public est précédée d'une analyse du risque de ré-identification des personnes. 
+
+Les articles L. 321-1 à L. 326-1 du code des relations entre le public et l'administration sont également applicables à la
+réutilisation des informations publiques figurant dans ces jugements. 
+
+Un décret en Conseil d'Etat fixe, pour les jugements de premier ressort, d'appel ou de cassation, les conditions
+d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -532,8 +542,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 20
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
 
 
 ###### Article L11

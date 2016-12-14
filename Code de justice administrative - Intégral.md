@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-15
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -141,9 +141,9 @@ Version Consolidée au 2016-12-11
         - [Chapitre II : Attributions en matière administrative et législative (art. R112-1 à R112-3)](#138)
         - [Chapitre III : L'avis sur une question de droit (art. R113-1 à R113-4)](#139)
       - [Titre II : Organisation et fonctionnement (art. R121-1 à R123-26)](#140)
-        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-15)](#141)
+        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-16)](#141)
           - [Section 1 : Organisation (art. R121-1 à R121-14)](#142)
-          - [Section 2 : Les conseillers d'Etat en service extraordinaire (art. R121-15)](#143)
+          - [Section 2 : Les conseillers d'Etat en service extraordinaire (art. R121-15 à R121-16)](#143)
         - [Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses (art. R122-1 à R122-32)](#144)
           - [Section 1 : Organisation (art. R122-1 à R122-10)](#145)
           - [Section 2 : Les formations de jugement (art. R122-11 à R122-25)](#146)
@@ -8812,6 +8812,25 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R121-16
+
+Le nombre de conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions consultatives en application du
+II de l'article L. 121-4 est fixé à douze.
+
+Le nombre de conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions juridictionnelles en application
+du III de l'article L. 121-4 est fixé à quatre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1710 du 12 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de justice administrative - art. L121-4 (V)
 
 
 #### Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses<a id=144></a>

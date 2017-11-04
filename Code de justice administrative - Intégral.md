@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -31548,26 +31548,11 @@ _Cite_:
 
 ###### Article R779-3
 
-Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
-de l'heure d'enregistrement de la requête au greffe du tribunal. 
+Le délai de quarante-huit heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
+de l'heure d'enregistrement de la requête au greffe du tribunal.
 
 Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
 convocations sont réputées reçues dès leur mise à disposition dans l'application.
-
-**Nota:**
-
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -31577,12 +31562,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 16
 
 _Cite_:
 
-  - Code de justice administrative - art. R611-8-2 (VD)
-  - Code de justice administrative - art. R711-2-1 (VD)
+  - Code de justice administrative - art. R611-8-2
+  - Code de justice administrative - art. R711-2-1
 
 
 ###### Article R779-4

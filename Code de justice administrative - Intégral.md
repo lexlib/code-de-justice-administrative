@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-05-07
+Version Consolidée au 2018-06-03
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -19300,6 +19300,23 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
   - Code du travail - art. L8253-1
   - Code du travail - art. L8253-7
+
+
+###### Article R312-17
+
+Les litiges relatifs aux montants notifiés en application de l’article L. 1613-5-1 du code général des collectivités
+territoriales à une collectivité territoriale ou à un groupement de collectivités territoriales relèvent de la compétence du
+tribunal administratif dans le ressort duquel la collectivité territoriale ou le groupement a son siège.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
+
+_Modifié par_:
+
+  - Décret n°2018-428 du 1er juin 2018 - art. 4
 
 
 ###### Article R312-18

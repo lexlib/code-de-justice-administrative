@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-04
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -23465,7 +23465,7 @@ _Créé par_:
 ###### Article R555-1
 
 Lorsque le juge administratif est saisi par le président de la Commission nationale de l'informatique et des libertés, sur le
-fondement du III de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+fondement du     IV de l'article 46 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés, d'une demande en référé concernant la mise en oeuvre d'un traitement ou l'exploitation de données à caractère
 personnel par l'Etat, une collectivité territoriale, toute autre personne publique ainsi que toute personne privée chargée
 d'une mission de service public, il est statué suivant la procédure de référé instituée par les dispositions de l'article L.
@@ -23475,16 +23475,11 @@ d'une mission de service public, il est statué suivant la procédure de référ
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
-  - Code de justice administrative - art. L521-2 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 46
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-_Créé par_:
-
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 81 (M) JORF 22 octobre 2005
+  - Décret n°2000-389 du 4 mai 2000
 
 _Cité par_:
 
@@ -23496,6 +23491,10 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R532-6-1 (V)
   - Code de l'organisation judiciaire - art. R552-6 (V)
   - Code de l'organisation judiciaire - art. R562-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-687 du 1er août 2018 - art. 30
 
 
 ###### Article R555-2

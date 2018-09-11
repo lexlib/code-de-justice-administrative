@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-08-04
+Version Consolidée au 2018-09-12
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -4287,16 +4287,15 @@ _Créé par_:
 Les présidents occupent les fonctions, dans une cour administrative d'appel, de vice-président, de président de chambre ou
 d'assesseur ; dans un tribunal administratif, de président, de vice-président ou de président de chambre ; au tribunal
 administratif de Paris, ils occupent en outre les fonctions de président ou de vice-président de section. Ils peuvent
-également occuper au Conseil d'Etat des fonctions d'inspection des juridictions administratives. 
+également occuper au Conseil d'Etat des fonctions d'inspection des juridictions administratives.
 
-A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section ou de chambre, pour une durée de
-trois ans, renouvelable sur leur demande.
+A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section ou de chambre.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
+  - Loi n°2018-778 du 10 septembre 2018 - art. 8
 
 _Cité par_:
 

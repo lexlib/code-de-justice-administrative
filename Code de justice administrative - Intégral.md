@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-09-12
+Version Consolidée au 2018-10-13
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -18807,19 +18807,22 @@ _Modifié par_:
 
 ###### Article R311-2
 
-La cour administrative d'appel de Paris est compétente pour connaître en premier et dernier ressort : 
+La cour administrative d'appel de Paris est compétente pour connaître en premier et dernier ressort :
 
 1° Des recours dirigés contre les arrêtés du ministre chargé du travail relatifs à la représentativité des organisations
 syndicales de salariés et des organisations professionnelles d'employeurs, pris en application des articles L. 2122-11 et L.
-2152-6 du code du travail ; 
+2152-6 du code du travail ;
 
 2° Des litiges relatifs aux décisions prises par le Conseil supérieur de l'audiovisuel en application des articles 28-1,28-3
 et 29 à 30-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, à l'exception de celles
-concernant les services de télévision à vocation nationale ; 
+concernant les services de télévision à vocation nationale ;
 
 3° Des recours dirigés contre les décisions du ministre chargé de la culture relatives à la délivrance ou au refus de
 délivrance du visa d'exploitation cinématographique aux œuvres ou documents cinématographiques ou audiovisuels destinés à une
-représentation cinématographique, prises en application de l'article L. 211-1 du code du cinéma et de l'image animée.
+représentation cinématographique, prises en application de l'article L. 211-1 du code du cinéma et de l'image animée ;
+
+4° Des recours dirigés contre les décisions de l'autorité polynésienne de la concurrence qui ne relèvent pas du juge
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -18838,10 +18841,6 @@ _Codifié par_:
 
   - Décret n°2000-389 du 4 mai 2000
 
-_Modifié par_:
-
-  - Décret n°2017-383 du 22 mars 2017 - art. 1
-
 _Cité par_:
 
   - Décret n°2017-383 du 22 mars 2017 - art. 2
@@ -18851,6 +18850,10 @@ _Cité par_:
   - Code de justice administrative. - art. R312-17 (V)
   - Code du travail - art. R2122-99 (V)
   - Code du travail - art. R2152-19 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-880 du 11 octobre 2018 - art. 33
 
 
 ###### Article R311-3

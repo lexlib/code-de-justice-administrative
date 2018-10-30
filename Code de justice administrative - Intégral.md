@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-10-13
+Version Consolidée au 2018-10-31
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -364,7 +364,7 @@ Version Consolidée au 2018-10-13
           - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#361)
           - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#362)
         - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#363)
-        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-9)](#364)
+        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-10)](#364)
         - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#365)
         - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-7 à R773-36)](#366)
           - [Section 1 : Dispositions générales (art. R773-8 à R773-29)](#367)
@@ -19444,6 +19444,28 @@ _Modifié par_:
   - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 
+###### Article R312-18-1
+
+Les contestations mentionnées à l'article R. 131-8 du code de l'action sociale et des familles, relatives à la détermination
+de l'autorité administrative compétente en matière d'admission à l'aide sociale, relèvent de la compétence du tribunal
+administratif de Paris.
+
+**Nota:**
+
+Conformément au III de l'article 14 du décret n° 2018-928 du 29 octobre 2018, ces dispositions sont applicables sur tout le
+territoire de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-928 du 29 octobre 2018 - art. 5
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R131-8
+
+
 ###### Article R312-19
 
 Les litiges qui ne relèvent de la compétence d'aucun tribunal administratif par application des dispositions des articles R.
@@ -28569,6 +28591,27 @@ enregistrées à compter du 1er janvier 2014.
 _Créé par_:
 
   - Décret n°2013-730 du 13 août 2013 - art. 6
+
+
+###### Article R772-10
+
+Lors de l'examen d'une requête relative aux prestations, allocations ou droits attribués au titre de l'aide ou de l'action
+sociale, si la juridiction administrative ordonne, pour le jugement de toute affaire soulevant une question médicale, qu'il
+soit procédé à une expertise, les dépenses afférentes aux frais d'expertise sont à la charge de l'Etat.
+
+Les rémunérations des médecins experts sont fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du
+ministre chargé des affaires sociales et du ministre chargé du budget.
+
+**Nota:**
+
+Conformément au III de l'article 14 du décret n° 2018-928 du 29 octobre 2018, ces dispositions sont applicables sur tout le
+territoire de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-928 du 29 octobre 2018 - art. 5
 
 
 #### Chapitre III : Le contentieux des élections<a id=365></a>

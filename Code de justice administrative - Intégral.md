@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-12-21
+Version Consolidée au 2018-12-24
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -6300,21 +6300,7 @@ _Cite_:
 ###### Article L553-1
 
 Le référé en matière de communication audiovisuelle obéit aux règles définies par l'article 42-10 de la loi n° 86-1067 du 30
-septembre 1986 ci-après reproduit : 
-
-" Art. 42-10.-En cas de manquement aux obligations résultant des dispositions de la présente loi et pour l'exécution des
-missions du Conseil supérieur de l'audiovisuel, son président peut demander en justice qu'il soit ordonné à la personne qui
-en est responsable de se conformer à ces dispositions, de mettre fin à l'irrégularité ou d'en supprimer les effets. Cette
-demande peut avoir pour objet de faire cesser la diffusion, par un opérateur satellitaire, d'un service de télévision
-relevant de la compétence de la France dont les programmes portent atteinte à l'un au moins des principes mentionnés aux
-articles 1er, 3-1 ou 15. 
-
-La demande est portée devant le président de la section du contentieux du Conseil d'Etat qui statue en référé et dont la
-décision est immédiatement exécutoire. Il peut prendre, même d'office, toute mesure conservatoire et prononcer une astreinte
-pour l'exécution de son ordonnance. 
-
-Toute personne qui y a intérêt peut intervenir à l'action introduite par le président du Conseil supérieur de l'audiovisuel.
-"
+septembre 1986.
 
 **Liens relatifs à cet article**
 
@@ -6328,12 +6314,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Rapport relatif à la partie Législative du code de justice administrative
+  - Loi n°2003-591 du 2 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 82 () JORF 10 juillet 2004
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 10
 
 
 #### Chapitre IV : Les régimes spéciaux de suspension<a id=99></a>
@@ -18860,149 +18846,136 @@ _Modifié par_:
 
 I. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
 portant sur les décisions suivantes, relatives aux installations de production d'énergie renouvelable en mer et leurs
-ouvrages connexes : 
+ouvrages connexes :
 
 1° L'autorisation d'exploiter une installation de production d'électricité prévue par l'article L. 311-1 du code de
-l'énergie ; 
+l'énergie ;
 
-2° La décision d'approbation prévue par les articles 4 et 24 du décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages
-des réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des
-ondes électromagnétiques pour les ouvrages sous tension situés en amont du point d'injection sur le réseau public
-d'électricité ; 
+2° La décision d'approbation prévue par les articles  R. 323-26 et  R. 323-40 du code de l'énergie ;
 
-3° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
-2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
-activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+3° L'autorisation environnementale prévue à l' article L. 181-1 du code de l'environnement et les prescriptions
+complémentaires prévues à l'article L. 181-14 du même code ;
 
-4° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
+4° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ;
 
 5° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
-personnes publiques ; 
+personnes publiques ;
 
 6° Les concessions d'utilisation du domaine public maritime mentionnées à l'article R. 2124-1 du code général de la propriété
-des personnes publiques ; 
+des personnes publiques ;
 
 7° Les autorisations d'îles artificielles, installations, ouvrages et leurs installations connexes sur le plateau continental
 et dans la zone économique et la zone de protection écologique mentionnées à l'article 4 du décret n° 2013-611 du 10 juillet
 2013 relatif à la réglementation applicable aux îles artificielles, aux installations, aux ouvrages et à leurs installations
 connexes sur le plateau continental et dans la zone économique et la zone de protection écologique ainsi qu'au tracé des
-câbles et pipelines sous-marins ; 
+câbles et pipelines sous-marins ;
 
-8° La décision, mentionnée à l'article 13 du décret n° 2002-1434 du 4 décembre 2002 relatif à la procédure d'appel d'offres
-pour les installations de production d'électricité par laquelle le ministre chargé de l'énergie désigne les lauréats des
-procédures d'appel d'offres pour les installations de production d'électricité ; 
+8° L'autorisation unique prévue à l' article 20 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces
+maritimes relevant de la souveraineté ou de la juridiction de la République française ;
 
-9° L'autorisation mentionnée à l'article R. 244-1 du code de l'aviation civile ; 
+9° L'autorisation mentionnée à l'article R. 244-1 du code de l'aviation civile ;
 
-10° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine ; 
+10° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine ;
 
-11° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du
-20 mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
-l'environnement ; 
+11° La décision prise en application de l' article R. 311-23 du code de l'énergie ;
 
-12° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, la dérogation mentionnée au
-4° de l'article L. 411-2 du code de l'environnement ; 
+12° La décision d'approbation prise en application du premier alinéa de l'article R. 311-27-1 du code de l'énergie ;
 
-13° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, le permis de construire du
-poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ; 
+13° Le contrat conclu en application de l'article L. 311-12 du code de l'énergie ;
 
-14° Pour les ouvrages de raccordement de l'installation de production appartenant au producteur, l'autorisation de
-défrichement prévue à l'article L. 341-3 du code forestier. 
+14° Pour les ouvrages d'acheminement ou de transformation de l'électricité appartenant au producteur, la dérogation
+mentionnée au 4° de l'article L. 411-2 du code de l'environnement ;
+
+15° Pour les ouvrages d'acheminement ou de transformation de l'électricité appartenant au producteur, le permis de construire
+du poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ;
+
+16° Pour les ouvrages d'acheminement ou de transformation de l'électricité appartenant au producteur, l'autorisation de
+défrichement prévue à l'article L. 341-3 du code forestier.
 
 II. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
 portant sur les décisions suivantes, relatives aux ouvrages des réseaux publics d'électricité dont au moins une partie est
-située en mer, jusques et y compris aux premiers postes de raccordement à terre : 
+située en mer ou aux ouvrages de raccordement des installations de production d'énergie renouvelable en mer, jusques et y
+compris aux premiers postes de raccordement à terre :
 
 1° La déclaration d'utilité publique mentionnée à l'article L. 323-3 du code de l'énergie, hors les cas où elle emporte mise
-en compatibilité des documents d'urbanisme ; 
+en compatibilité des documents d'urbanisme ;
 
-2° La décision d'approbation prévue par les articles 4 à 6 du décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages
-des réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des
-ondes électromagnétiques ; 
+2° Les décisions prévues par les  articles R. 323-26 à R. 323-28 du code de l'énergie ;
 
-3° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
-2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
-activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+3° L'autorisation environnementale prévue à l' article L. 181-1 du code de l'environnement et les prescriptions
+complémentaires prévues à l'article L. 181-14 du même code ;
 
 4° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
-personnes publiques ; 
+personnes publiques ;
 
 5° Les concessions d'utilisation du domaine public maritime mentionnées à l'article R. 2124-1 du code général de la propriété
-des personnes publiques ; 
+des personnes publiques ;
 
-6° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
+6° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ;
 
-7° Le permis de construire du poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ; 
+7° Le permis de construire du poste électrique délivré en application de l'article R. 421-1 du code de l'urbanisme ;
 
-8° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du 20
-mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
-l'environnement ; 
+8° Les décisions prévues aux articles  20 et  28 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces
+maritimes relevant de la souveraineté ou de la juridiction de la République française ;
 
-9° L'autorisation de défrichement prévue à l'article L. 341-3 du code forestier ; 
+9° L'autorisation de défrichement prévue à l'article L. 341-3 du code forestier ;
 
 10° La déclaration d'utilité publique délivrée en application de l'article L. 121-1 du code de l'expropriation pour cause
-d'utilité publique ; 
+d'utilité publique ;
 
-11° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine. 
+11° Les prescriptions archéologiques mentionnées à l'article R. 523-15 du code du patrimoine.
 
 III. – La cour administrative d'appel de Nantes est compétente pour connaître, en premier et dernier ressort, des litiges
 portant sur les décisions suivantes, relatives aux infrastructures portuaires rendues nécessaires pour la construction, le
-stockage et le pré-assemblage des installations mentionnées aux I et II du présent article ainsi qu'aux opérations de
-transport et de dragage connexes : 
+stockage, le pré-assemblage, l'exploitation et la maintenance des installations mentionnées aux I et II du présent article
+ainsi qu'aux opérations de transport et de dragage connexes :
 
-1° La décision prise sur le fondement des articles L. 214-1 à L. 214-6 du code de l'environnement ou de l'ordonnance n°
-2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et
-activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement ; 
+1° L'autorisation environnementale prévue à l' article L. 181-1 du code de l'environnement et les prescriptions
+complémentaires prévues à l'article L. 181-14 du même code ;
 
-2° La décision prise sur le fondement du titre Ier du livre V du code de l'environnement ou de l'ordonnance n° 2014-355 du 20
-mars 2014 relative à l'expérimentation d'une autorisation unique en matière d'installations classées pour la protection de
-l'environnement ; 
+2° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
+personnes publiques ;
 
-3° Les autorisations d'occupation du domaine public mentionnées à l'article R. 2122-1 du code général de la propriété des
-personnes publiques ; 
+3° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ;
 
-4° La dérogation mentionnée au 4° de l'article L. 411-2 du code de l'environnement ; 
-
-5° Les permis de construire délivrés en application de l'article R. 421-1 du code de l'urbanisme et les décisions de non-
-opposition à une déclaration préalable de travaux. 
+4° Les permis de construire délivrés en application de l'article R. 421-1 du code de l'urbanisme et les décisions de non-
+opposition à une déclaration préalable de travaux.
 
 IV. – La cour administrative d'appel de Nantes statue dans un délai de douze mois à compter du dépôt du recours.
-
-**Nota:**
-
-Conformément à l'article 6 I du décret n° 2016-9 du 8 janvier 2016, les présentes dispositions s'appliquent aux requêtes
-enregistrées à compter du premier jour du premier mois suivant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2002-1434 du 4 décembre 2002 - art. 13
-  - Décret n°2011-1697 du 1er décembre 2011 - art. 24
-  - Décret n°2011-1697 du 1er décembre 2011 - art. 4
   - Décret n°2013-611 du 10 juillet 2013 - art. 4
-  - Ordonnance n°2014-355 du 20 mars 2014
-  - Ordonnance n°2014-619 du 12 juin 2014
-  - Code général de la propriété des personnes publ... - art. R2122-1 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-1 (V)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 20
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 28
+  - Code général de la propriété des personnes publiques. - art. R2122-1
+  - Code général de la propriété des personnes publiques. - art. R2124-1
   - Code de l'urbanisme - art. *R421-1
-  - Code de l'environnement - art. L214-1 (V)
-  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L411-2
   - Code de l'expropriation pour cause d'utilité publique - art. L121-1
   - Code de l'aviation civile - art. R244-1
   - Code du patrimoine - art. R523-15
   - Code de l'énergie - art. L311-1
+  - Code de l'énergie - art. L311-12
   - Code de l'énergie - art. L323-3
-  - Code forestier (nouveau) - art. L341-3 (V)
-
-_Créé par_:
-
-  - Décret n°2016-9 du 8 janvier 2016 - art. 1
+  - Code de l'énergie - art. R311-23
+  - Code de l'énergie - art. R311-27-1
+  - Code de l'énergie - art. R323-26
+  - Code de l'énergie - art. R323-40
+  - Code forestier (nouveau) - art. L341-3
+  - articles R. 323-26 à R. 323-28 du code de l'énergie
 
 _Cité par_:
 
   - Décret n°2016-9 du 8 janvier 2016 - art. 3 (VD)
   - Décret n°2016-9 du 8 janvier 2016 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1204 du 21 décembre 2018 - art. 5
 
 
 ###### Article R311-5

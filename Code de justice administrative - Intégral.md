@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2018-12-24
+Version Consolidée au 2018-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -18830,7 +18830,20 @@ délivrance du visa d'exploitation cinématographique aux œuvres ou documents c
 représentation cinématographique, prises en application de l'article L. 211-1 du code du cinéma et de l'image animée ;
 
 4° Des recours dirigés contre les décisions de l'autorité polynésienne de la concurrence qui ne relèvent pas du juge
-judiciaire.
+judiciaire ;
+
+5° A compter du 1er janvier 2019, des litiges, y compris pécuniaires, relatifs à l'ensemble des actes, autres que ceux prévus
+aux 1°, 2° et 6° de l'article R. 311-1, afférents :
+
+- aux opérations d'urbanisme et d'aménagement, aux opérations foncières et immobilières, aux infrastructures et équipements
+ainsi qu'aux voiries dès lors qu'ils sont, même pour partie seulement, nécessaires à la préparation, à l'organisation ou au
+déroulement des jeux Olympiques et Paralympiques de 2024 ;
+
+- aux documents de toute nature, notamment les documents d'urbanisme et d'aménagement, en tant qu'ils conditionnent la
+réalisation des opérations, infrastructures, équipements et voiries mentionnés à l'alinéa précédent ;
+
+- aux constructions et opérations d'aménagement figurant sur la liste fixée par le décret prévu au dernier alinéa de
+l'article 12 de la loi n° 2018-202 du 26 mars 2018 relative à l'organisation des jeux Olympiques et Paralympiques de 2024.
 
 **Liens relatifs à cet article**
 
@@ -18840,7 +18853,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1
+  - Loi n°86-1067 du 30 septembre 1986
+  - Loi n°2018-202 du 26 mars 2018 - art. 12
   - Code du travail - art. L2122-11
   - Code du travail - art. L2152-6
   - Code du cinéma et de l'image animée - art. L211-1
@@ -18861,7 +18875,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-880 du 11 octobre 2018 - art. 33
+  - Décret n°2018-1249 du 26 décembre 2018 - art. 1
 
 
 ###### Article R311-3
@@ -33201,43 +33215,46 @@ _Créé par_:
 
 Toute partie présente dans une instance devant le tribunal administratif ou qui y a été régulièrement appelée, alors même
 qu'elle n'aurait produit aucune défense, peut interjeter appel contre toute décision juridictionnelle rendue dans cette
-instance. 
+instance.
 
-Toutefois, le tribunal administratif statue en premier et dernier ressort : 
+Toutefois, le tribunal administratif statue en premier et dernier ressort :
 
 1° Sur les litiges relatifs aux prestations, allocations ou droits attribués au titre de l'aide ou de l'action sociale, du
 logement ou en faveur des travailleurs privés d'emploi, mentionnés à l'article R. 772-5, y compris le contentieux du droit au
-logement défini à l'article R. 778-1 ; 
+logement défini à l'article R. 778-1 ;
 
-2° Sur les litiges en matière de consultation et de communication de documents administratifs ou d'archives publiques ; 
+2° Sur les litiges en matière de consultation et de communication de documents administratifs ou d'archives publiques ;
 
-3° Sur les litiges relatifs aux refus de concours de la force publique pour exécuter une décision de justice ; 
+3° Sur les litiges relatifs aux refus de concours de la force publique pour exécuter une décision de justice ;
 
 4° Sur les litiges relatifs aux impôts locaux et à la contribution à l'audiovisuel public, à l'exception des litiges relatifs
-à la contribution économique territoriale ; 
+à la contribution économique territoriale ;
 
-5° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ; 
+5° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ;
 
-6° Sur les litiges relatifs au permis de conduire ; 
+6° Sur les litiges relatifs au permis de conduire ;
 
-7° Sur les litiges en matière de pensions ; 
+7° Sur les litiges en matière de pensions ;
 
 8° Sauf en matière de contrat de la commande publique sur toute action indemnitaire ne relevant pas des dispositions
 précédentes, lorsque le montant des indemnités demandées est inférieur au montant déterminé par les articles R. 222-14 et R.
-222-15. 
+222-15 ;
+
+9° Lorsque la juridiction en a été saisie avant le 1er janvier 2019, les litiges afférents aux actes énumérés par le 5° de
+l'article R. 311-2.
 
 Les ordonnances prises sur le fondement du titre IV du livre V sont également rendues en premier et dernier ressort lorsque
 l'obligation dont se prévaut le requérant pour obtenir le bénéfice d'une provision porte sur un litige énuméré aux alinéas
-précédents. 
+précédents.
 
 Les ordonnances prises sur le fondement du 6° de l'article R. 222-1 sont rendues en premier et dernier ressort quel que soit
-l'objet du litige. 
+l'objet du litige.
 
 Par dérogation aux dispositions qui précèdent, en cas de connexité avec un litige susceptible d'appel, les décisions portant
 sur les actions mentionnées au 8° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions statuant
 sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à cotisation
 foncière des entreprises, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la
-valeur des mêmes biens appréciée la même année. 
+valeur des mêmes biens appréciée la même année.
 
 Le tribunal administratif statue également en premier et dernier ressort sur les recours sur renvoi de l'autorité judiciaire
 et sur les saisines de l'autorité judiciaire en application de l'article 49 du code de procédure civile.
@@ -33254,7 +33271,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1480 du 2 novembre 2016 - art. 29
+  - Décret n°2018-1249 du 26 décembre 2018 - art. 2
 
 _Cite_:
 
@@ -33273,7 +33290,8 @@ _Anciens textes_:
 Les tribunaux administratifs statuent en premier et dernier ressort sur les recours contre les permis de construire ou de
 démolir un bâtiment à usage principal d'habitation ou contre les permis d'aménager un lotissement lorsque le bâtiment ou le
 lotissement est implanté en tout ou partie sur le territoire d'une des communes mentionnées à l'article 232 du code général
-des impôts et son décret d'application.
+des impôts et son décret d'application, à l'exception des permis afférents aux opérations d'urbanisme et d'aménagement des
+jeux Olympiques et Paralympiques de 2024 mentionnées au 5° de l'article R. 311-2. 
 
 Les dispositions du présent article s'appliquent aux recours introduits entre le 1er décembre 2013 et le 31 décembre 2022.
 
@@ -33281,11 +33299,12 @@ Les dispositions du présent article s'appliquent aux recours introduits entre l
 
 _Modifié par_:
 
-  - Décret n°2018-617 du 17 juillet 2018 - art. 3
+  - Décret n°2018-1249 du 26 décembre 2018 - art. 3
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 232
+  - Code de justice administrative - art. R311-2
 
 
 ###### Article R811-2

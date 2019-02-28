@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -390,67 +390,64 @@ Version Consolidée au 2019-01-01
           - [Section 4 : Des sanctions (art. R775-15)](#387)
         - [Chapitre VI : Le contentieux des obligations de quitter le territoire français (art. R776-1 à R776-34)](#388)
           - [Section 1 : Dispositions communes (art. R776-1 à R776-9-1)](#389)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention, d'assignation à résidence ou de détention (art. R776-10 à R776-13-3)](#390)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence (art. R776-10 à R776-13-3)](#390)
             - [Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile (art. R776-10 à R776-13)](#391)
             - [Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile (art. R776-13-1 à R776-13-3)](#392)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence (art.  à R776-13-3)](#393)
-            - [Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile (art.  à R776-13-3)](#394)
-            - [Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile (art.  à R776-13-3)](#395)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#396)
-          - [Section 4 : Dispositions applicables en cas de détention (art. R776-29 à R776-34)](#397)
-        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#398)
-        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#399)
-        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#400)
-          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#401)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#402)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#403)
-        - [Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile (art. R777-4 à R777-4-3)](#404)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#405)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#406)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#407)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#408)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#409)
-        - [Chapitre X : L'action de groupe (art. R77-10-1 à R77-10-22)](#410)
-          - [Section 1 : Dispositions générales (art. R77-10-2 à R77-10-12)](#411)
-            - [Sous-section 1 : Détermination de la juridiction compétente (art. R77-10-2)](#412)
-            - [Sous-section 2 : Concours entre actions de groupe et actions individuelles (art. R77-10-3)](#413)
-            - [Sous-section 3 : Présentation de la requête (art. R77-10-4 à R77-10-5)](#414)
-            - [Sous-section 4 : Représentation des parties (art. R77-10-6 à R77-10-7)](#415)
-            - [Sous-section 5 : Jugement (art. R77-10-8)](#416)
-            - [Sous-section 6 : Voies de recours (art. R77-10-9)](#417)
-            - [Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues (art. R77-10-10 à R77-10-11)](#418)
-            - [Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué (art. R77-10-12)](#419)
-          - [Section 3 : Réparation des préjudices (art. R77-10-13 à R77-10-21)](#420)
-            - [Sous-section 1 : Jugement sur la responsabilité (art. R77-10-13 à R77-10-15)](#421)
-            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. R77-10-16 à R77-10-20)](#422)
-            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. R77-10-21)](#423)
-          - [Section 5 : Dispositions diverses (art. R77-10-22)](#424)
-        - [Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur (art. R77-11-1 à R77-11-2)](#425)
-        - [Chapitre XII : L'action en reconnaissance de droits (art. R77-12-1 à R77-12-20)](#426)
-          - [Section 1 : Détermination de la juridiction compétente (art. R77-12-2)](#427)
-          - [Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles (art. R77-12-3)](#428)
-          - [Section 3 : Présentation de la requête (art. R77-12-4 à R77-12-6)](#429)
-          - [Section 4 : Représentation des parties (art. R77-12-7 à R77-12-8)](#430)
-          - [Section 5 : Jugement (art. R77-12-9)](#431)
-          - [Section 6 : Voies de recours (art. R77-12-10)](#432)
-          - [Section 7 : Publicité des actions en cours et des décisions rendues (art. R77-12-11 à R77-12-12)](#433)
-          - [Section 8 : Exécution des décisions (art. R77-12-13 à R77-12-18)](#434)
-          - [Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué (art. R77-12-19 à R77-12-20)](#435)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#436)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#437)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#438)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#439)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#440)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#441)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#442)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#443)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#444)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#445)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#446)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-8)](#447)
-      - [Titre Ier : Principes (art. R911-1 à R911-5)](#448)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#449)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-8)](#450)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#393)
+          - [Section 4 : Dispositions applicables en cas de détention (art. R776-29 à R776-34)](#394)
+        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#395)
+        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#396)
+        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#397)
+          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#398)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#399)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#400)
+        - [Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile (art. R777-4 à R777-4-3)](#401)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#402)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#403)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#404)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#405)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#406)
+        - [Chapitre X : L'action de groupe (art. R77-10-1 à R77-10-22)](#407)
+          - [Section 1 : Dispositions générales (art. R77-10-2 à R77-10-12)](#408)
+            - [Sous-section 1 : Détermination de la juridiction compétente (art. R77-10-2)](#409)
+            - [Sous-section 2 : Concours entre actions de groupe et actions individuelles (art. R77-10-3)](#410)
+            - [Sous-section 3 : Présentation de la requête (art. R77-10-4 à R77-10-5)](#411)
+            - [Sous-section 4 : Représentation des parties (art. R77-10-6 à R77-10-7)](#412)
+            - [Sous-section 5 : Jugement (art. R77-10-8)](#413)
+            - [Sous-section 6 : Voies de recours (art. R77-10-9)](#414)
+            - [Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues (art. R77-10-10 à R77-10-11)](#415)
+            - [Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué (art. R77-10-12)](#416)
+          - [Section 3 : Réparation des préjudices (art. R77-10-13 à R77-10-21)](#417)
+            - [Sous-section 1 : Jugement sur la responsabilité (art. R77-10-13 à R77-10-15)](#418)
+            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. R77-10-16 à R77-10-20)](#419)
+            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. R77-10-21)](#420)
+          - [Section 5 : Dispositions diverses (art. R77-10-22)](#421)
+        - [Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur (art. R77-11-1 à R77-11-2)](#422)
+        - [Chapitre XII : L'action en reconnaissance de droits (art. R77-12-1 à R77-12-20)](#423)
+          - [Section 1 : Détermination de la juridiction compétente (art. R77-12-2)](#424)
+          - [Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles (art. R77-12-3)](#425)
+          - [Section 3 : Présentation de la requête (art. R77-12-4 à R77-12-6)](#426)
+          - [Section 4 : Représentation des parties (art. R77-12-7 à R77-12-8)](#427)
+          - [Section 5 : Jugement (art. R77-12-9)](#428)
+          - [Section 6 : Voies de recours (art. R77-12-10)](#429)
+          - [Section 7 : Publicité des actions en cours et des décisions rendues (art. R77-12-11 à R77-12-12)](#430)
+          - [Section 8 : Exécution des décisions (art. R77-12-13 à R77-12-18)](#431)
+          - [Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué (art. R77-12-19 à R77-12-20)](#432)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#433)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#434)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#435)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#436)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#437)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#438)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#439)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#440)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#441)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#442)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#443)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-8)](#444)
+      - [Titre Ier : Principes (art. R911-1 à R911-5)](#445)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#446)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-8)](#447)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -26174,6 +26171,9 @@ L'intervention est formée par mémoire distinct.
 Lorsque l'intervention est formée par une personne mentionnée au premier alinéa de l'article R. 414-1, elle est présentée
 dans les conditions prévues par cet article et par l'article R. 414-3. 
 
+Lorsque l'intervention est formée au moyen du téléservice mentionné à l'article R. 414-6, elle est présentée dans les
+conditions prévues par cet article. 
+
 Le président de la formation de jugement ou, au Conseil d'Etat, le président de la chambre chargée de l'instruction ordonne,
 s'il y a lieu, que ce mémoire en intervention soit communiqué aux parties et fixe le délai imparti à celles-ci pour y
 répondre. 
@@ -26182,9 +26182,11 @@ Néanmoins, le jugement de l'affaire principale qui est instruite ne peut être 
 
 **Nota:**
 
-Aux termes de l'article 10 du décret n° 2016-1481 du 2 novembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017
-et, pour les tribunaux administratifs de Nouvelle-Calédonie et de Wallis-et-Futuna, à la date fixée par l'arrêté du garde des
-sceaux prévu par l'article 6 du décret n° 2012-1437 du 21 décembre 2012.
+Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
+fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
+suivant la publication du présent décret.
+
+L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
 
 **Liens relatifs à cet article**
 
@@ -26199,12 +26201,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1481 du 2 novembre 2016 - art. 6
+  - Décret n°2018-251 du 6 avril 2018 - art. 6
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
   - Code de justice administrative - art. R414-3
+  - Code de justice administrative - art. R414-6 (VD)
 
 
 #### Chapitre III : L'inscription de faux<a id=334></a>
@@ -30226,7 +30229,7 @@ _Créé par_:
   - Décret n°2016-1458 du 28 octobre 2016 - art. 8
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention, d'assignation à résidence ou de détention<a id=390></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence<a id=390></a>
 
 ##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile<a id=391></a>
 
@@ -30444,13 +30447,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence<a id=393></a>
-
-##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile<a id=394></a>
-
-##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile<a id=395></a>
-
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=396></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=393></a>
 
 ###### Article R776-14
 
@@ -30972,7 +30969,7 @@ _Cité par_:
   - Code de justice administrative - art. R776-13-2 (V)
 
 
-##### Section 4 : Dispositions applicables en cas de détention<a id=397></a>
+##### Section 4 : Dispositions applicables en cas de détention<a id=394></a>
 
 ###### Article R776-29
 
@@ -31094,7 +31091,7 @@ _Créé par_:
   - Décret n°2018-1142 du 12 décembre 2018 - art. 7
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=398></a>
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=395></a>
 
 ###### Article R777-1
 
@@ -31297,7 +31294,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 1
 
 
-#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=399></a>
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=396></a>
 
 ###### Article R777-2
 
@@ -31471,9 +31468,9 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 2
 
 
-#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=400></a>
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=397></a>
 
-##### Section 1 : Dispositions communes<a id=401></a>
+##### Section 1 : Dispositions communes<a id=398></a>
 
 ###### Article R777-3
 
@@ -31575,7 +31572,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 3
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=402></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=399></a>
 
 ###### Article R777-3-5
 
@@ -31637,7 +31634,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=403></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=400></a>
 
 ###### Article R777-3-8
 
@@ -31680,7 +31677,7 @@ _Cite_:
   - Code de justice administrative - art. R776-6
 
 
-#### Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile<a id=404></a>
+#### Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile<a id=401></a>
 
 ###### Article R777-4
 
@@ -31761,7 +31758,7 @@ _Créé par_:
   - Décret n°2018-1142 du 12 décembre 2018 - art. 8
 
 
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=405></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=402></a>
 
 ###### Article R778-1
 
@@ -31978,9 +31975,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=406></a>
+#### Chapitre IX : Autres dispositions<a id=403></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=407></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=404></a>
 
 ###### Article R779-1
 
@@ -32157,7 +32154,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=408></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=405></a>
 
 ###### Article R779-9
 
@@ -32185,7 +32182,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=409></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=406></a>
 
 ###### Article R779-10
 
@@ -32204,7 +32201,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-#### Chapitre X : L'action de groupe<a id=410></a>
+#### Chapitre X : L'action de groupe<a id=407></a>
 
 ###### Article R77-10-1
 
@@ -32218,9 +32215,9 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Section 1 : Dispositions générales<a id=411></a>
+##### Section 1 : Dispositions générales<a id=408></a>
 
-##### Sous-section 1 : Détermination de la juridiction compétente<a id=412></a>
+##### Sous-section 1 : Détermination de la juridiction compétente<a id=409></a>
 
 ###### Article R77-10-2
 
@@ -32246,7 +32243,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 2 : Concours entre actions de groupe et actions individuelles<a id=413></a>
+##### Sous-section 2 : Concours entre actions de groupe et actions individuelles<a id=410></a>
 
 ###### Article R77-10-3
 
@@ -32279,7 +32276,7 @@ _Cite_:
   - Code de justice administrative - art. R77-10-11
 
 
-##### Sous-section 3 : Présentation de la requête<a id=414></a>
+##### Sous-section 3 : Présentation de la requête<a id=411></a>
 
 ###### Article R77-10-4
 
@@ -32309,7 +32306,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 4 : Représentation des parties<a id=415></a>
+##### Sous-section 4 : Représentation des parties<a id=412></a>
 
 ###### Article R77-10-6
 
@@ -32349,7 +32346,7 @@ _Cite_:
   - Code de justice administrative - art. R432-4
 
 
-##### Sous-section 5 : Jugement<a id=416></a>
+##### Sous-section 5 : Jugement<a id=413></a>
 
 ###### Article R77-10-8
 
@@ -32367,7 +32364,7 @@ _Cite_:
   - Code de justice administrative - art. R732-1-1
 
 
-##### Sous-section 6 : Voies de recours<a id=417></a>
+##### Sous-section 6 : Voies de recours<a id=414></a>
 
 ###### Article R77-10-9
 
@@ -32385,7 +32382,7 @@ _Cite_:
   - Code de justice administrative - art. R811-1
 
 
-##### Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues<a id=418></a>
+##### Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues<a id=415></a>
 
 ###### Article R77-10-10
 
@@ -32417,7 +32414,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-10-3 (V)
 
 
-##### Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué<a id=419></a>
+##### Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué<a id=416></a>
 
 ###### Article R77-10-12
 
@@ -32443,9 +32440,9 @@ _Cite_:
   - Code de justice administrative - art. R222-1
 
 
-##### Section 3 : Réparation des préjudices<a id=420></a>
+##### Section 3 : Réparation des préjudices<a id=417></a>
 
-##### Sous-section 1 : Jugement sur la responsabilité<a id=421></a>
+##### Sous-section 1 : Jugement sur la responsabilité<a id=418></a>
 
 ###### Article R77-10-13
 
@@ -32522,7 +32519,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-10-21 (V)
 
 
-##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=422></a>
+##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=419></a>
 
 ###### Article R77-10-16
 
@@ -32609,7 +32606,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=423></a>
+##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=420></a>
 
 ###### Article R77-10-21
 
@@ -32638,7 +32635,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Section 5 : Dispositions diverses<a id=424></a>
+##### Section 5 : Dispositions diverses<a id=421></a>
 
 ###### Article R77-10-22
 
@@ -32664,7 +32661,7 @@ _Cite_:
   - Code de justice administrative - art. L77-10-9
 
 
-#### Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur<a id=425></a>
+#### Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur<a id=422></a>
 
 ###### Article R77-11-1
 
@@ -32703,7 +32700,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 5
 
 
-#### Chapitre XII : L'action en reconnaissance de droits<a id=426></a>
+#### Chapitre XII : L'action en reconnaissance de droits<a id=423></a>
 
 ###### Article R77-12-1
 
@@ -32717,7 +32714,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 1 : Détermination de la juridiction compétente<a id=427></a>
+##### Section 1 : Détermination de la juridiction compétente<a id=424></a>
 
 ###### Article R77-12-2
 
@@ -32744,7 +32741,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles<a id=428></a>
+##### Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles<a id=425></a>
 
 ###### Article R77-12-3
 
@@ -32777,7 +32774,7 @@ _Cite_:
   - Code de justice administrative - art. R77-12-12
 
 
-##### Section 3 : Présentation de la requête<a id=429></a>
+##### Section 3 : Présentation de la requête<a id=426></a>
 
 ###### Article R77-12-4
 
@@ -32827,7 +32824,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 4 : Représentation des parties<a id=430></a>
+##### Section 4 : Représentation des parties<a id=427></a>
 
 ###### Article R77-12-7
 
@@ -32867,7 +32864,7 @@ _Cite_:
   - Code de justice administrative - art. R432-4
 
 
-##### Section 5 : Jugement<a id=431></a>
+##### Section 5 : Jugement<a id=428></a>
 
 ###### Article R77-12-9
 
@@ -32887,7 +32884,7 @@ _Cite_:
   - Code de justice administrative - art. R77-12-16
 
 
-##### Section 6 : Voies de recours<a id=432></a>
+##### Section 6 : Voies de recours<a id=429></a>
 
 ###### Article R77-12-10
 
@@ -32905,7 +32902,7 @@ _Cite_:
   - Code de justice administrative - art. R811-1
 
 
-##### Section 7 : Publicité des actions en cours et des décisions rendues<a id=433></a>
+##### Section 7 : Publicité des actions en cours et des décisions rendues<a id=430></a>
 
 ###### Article R77-12-11
 
@@ -32945,7 +32942,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-12-3 (V)
 
 
-##### Section 8 : Exécution des décisions<a id=434></a>
+##### Section 8 : Exécution des décisions<a id=431></a>
 
 ###### Article R77-12-13
 
@@ -33048,7 +33045,7 @@ _Cite_:
   - Code de justice administrative - art. L77-12-5
 
 
-##### Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué<a id=435></a>
+##### Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué<a id=432></a>
 
 ###### Article R77-12-19
 
@@ -33086,7 +33083,7 @@ _Cite_:
   - Code de justice administrative - art. R222-1
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=436></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=433></a>
 
 ###### Article R781-1
 
@@ -33143,9 +33140,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=437></a>
+## Livre VIII : Les voies de recours.<a id=434></a>
 
-### Titre Ier : L'appel<a id=438></a>
+### Titre Ier : L'appel<a id=435></a>
 
 ###### Article R811-1
 
@@ -33791,9 +33788,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=439></a>
+### Titre II : Le recours en cassation<a id=436></a>
 
-#### Chapitre Ier : Dispositions générales<a id=440></a>
+#### Chapitre Ier : Dispositions générales<a id=437></a>
 
 ###### Article R821-1
 
@@ -33965,7 +33962,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=441></a>
+#### Chapitre II : Procédure d'admission<a id=438></a>
 
 ###### Article R822-1
 
@@ -34153,9 +34150,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=442></a>
+### Titre III : Autres voies de recours<a id=439></a>
 
-#### Chapitre Ier : L'opposition<a id=443></a>
+#### Chapitre Ier : L'opposition<a id=440></a>
 
 ###### Article R831-1
 
@@ -34286,7 +34283,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=444></a>
+#### Chapitre II : La tierce opposition<a id=441></a>
 
 ###### Article R832-1
 
@@ -34389,7 +34386,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=445></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=442></a>
 
 ###### Article R833-1
 
@@ -34444,7 +34441,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=446></a>
+#### Chapitre IV : Le recours en révision<a id=443></a>
 
 ###### Article R834-1
 
@@ -34534,9 +34531,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=447></a>
+## Livre IX : L'exécution des décisions<a id=444></a>
 
-### Titre Ier : Principes<a id=448></a>
+### Titre Ier : Principes<a id=445></a>
 
 ###### Article R911-1
 
@@ -34598,24 +34595,34 @@ _Créé par_:
 ###### Article R911-5
 
 Les demandes d'exécution des décisions rendues par les tribunaux administratifs, les cours administratives d'appel ou le
-Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1.
+Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou par le
+téléservice mentionné à l'article R. 414-6. 
 
 La juridiction compétente ou la section du rapport et des études du Conseil d'Etat peut, par le moyen de la même application,
 adresser à l'autorité administrative les communications et notifications nécessaires à l'exécution de la décision et informer
 le demandeur de la suite donnée à sa demande.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
+fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
+suivant la publication du présent décret.
+
+L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-493 du 6 avril 2017 - art. 2
+  - Décret n°2018-251 du 6 avril 2018 - art. 8
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
+  - Code de justice administrative - art. R414-6 (VD)
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=449></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=446></a>
 
 ###### Article R921-1
 
@@ -34775,7 +34782,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=450></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=447></a>
 
 ###### Article R931-1
 

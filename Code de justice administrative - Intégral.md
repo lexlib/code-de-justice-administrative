@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-02-10
+Version Consolidée au 2019-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -26245,6 +26245,9 @@ L'intervention est formée par mémoire distinct.
 Lorsque l'intervention est formée par une personne mentionnée au premier alinéa de l'article R. 414-1, elle est présentée
 dans les conditions prévues par cet article et par l'article R. 414-3.
 
+Lorsque l'intervention est formée au moyen du téléservice mentionné à l'article R. 414-6, elle est présentée dans les
+conditions prévues par cet article.
+
 Le président de la formation de jugement ou le président de la chambre chargée de l'instruction ordonne, s'il y a lieu, que
 ce mémoire en intervention soit communiqué aux parties et fixe le délai imparti à celles-ci pour y répondre.
 
@@ -26252,9 +26255,11 @@ Néanmoins, le jugement de l'affaire principale qui est instruite ne peut être 
 
 **Nota:**
 
-Aux termes de l'article 10 du décret n° 2016-1481 du 2 novembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017
-et, pour les tribunaux administratifs de Nouvelle-Calédonie et de Wallis-et-Futuna, à la date fixée par l'arrêté du garde des
-sceaux prévu par l'article 6 du décret n° 2012-1437 du 21 décembre 2012.
+Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
+fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
+suivant la publication du présent décret.
+
+L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
 
 **Liens relatifs à cet article**
 
@@ -26269,12 +26274,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-82 du 7 février 2019 - art. 42
+  - Décret n°2018-251 du 6 avril 2018 - art. 6
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
   - Code de justice administrative - art. R414-3
+  - Code de justice administrative - art. R414-6 (VD)
 
 
 #### Chapitre III : L'inscription de faux<a id=334></a>
@@ -34678,21 +34684,31 @@ _Créé par_:
 ###### Article R911-5
 
 Les demandes d'exécution des décisions rendues par les tribunaux administratifs, les cours administratives d'appel ou le
-Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1.
+Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou par le
+téléservice mentionné à l'article R. 414-6. 
 
 La juridiction compétente ou la section du rapport et des études du Conseil d'Etat peut, par le moyen de la même application,
 adresser à l'autorité administrative les communications et notifications nécessaires à l'exécution de la décision et informer
 le demandeur de la suite donnée à sa demande.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
+fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
+suivant la publication du présent décret.
+
+L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-493 du 6 avril 2017 - art. 2
+  - Décret n°2018-251 du 6 avril 2018 - art. 8
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
+  - Code de justice administrative - art. R414-6 (VD)
 
 
 ### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=446></a>

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-03-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -12835,17 +12835,19 @@ _Cité par_:
 ###### Article R*135-8
 
 Les membres du Conseil d'Etat peuvent être mis en disponibilité dans les conditions prévues à l'article 51 de la loi n° 84-16
-du 11 janvier 1984, et selon les formes prescrites à l'article R.* 135-2. 
+du 11 janvier 1984 et selon les formes prescrites à l'article R. * 135-2. Leur promotion a lieu hors tour. 
 
-La disponibilité ne comporte aucun traitement. Le temps passé dans cette position ne compte ni pour la retraite, ni pour
-l'avancement, ni pour le décompte des années de service dans le grade de maître des requêtes ou d'auditeur, visé aux articles
-R.* 134-3, R.* 134-5 et R.* 134-7. 
-
-Les membres du Conseil d'Etat mis en disponibilité sont remplacés dans leurs fonctions.
+La disponibilité ne comporte aucun traitement. Les membres du Conseil d'Etat mis en disponibilité sont remplacés dans leurs
+fonctions. 
 
 A l'expiration du temps passé en disponibilité, les intéressés sont rappelés en activité dans les conditions fixées par les
-articles R.* 135-9, R.* 135-10 et R.* 135-11 sans qu'il y ait lieu de tenir compte des dispositions réglementant la
+articles R. * 135-9, R. * 135-10 et R. * 135-11 sans qu'il y ait lieu de tenir compte des dispositions réglementant la
 nomination aux emplois vacants, ou bien cessent définitivement leurs fonctions.
+
+**Nota:**
+
+Conformément au II de l'article 17 du décret n° 2019-234 du 27 mars 2019, ces dispositions sont applicables aux mises en
+disponibilité et aux renouvellements de disponibilité prenant effet à compter du 7 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -12856,8 +12858,6 @@ _Anciens textes_:
 _Cite_:
 
   - Loi n°84-16 du 11 janvier 1984 - art. 51
-  - Code de justice administrative - art. R*134-3
-  - Code de justice administrative - art. R*134-5
   - Code de justice administrative - art. R*135-10
   - Code de justice administrative - art. R*135-11
   - Code de justice administrative - art. R*135-2
@@ -12865,11 +12865,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-101 du 28 janvier 2010 - art. 6
+  - Décret n°2019-234 du 27 mars 2019 - art. 15
 
 _Cité par_:
 
   - Décret n°2019-234 du 27 mars 2019 - art. 17 (V)
+  - Code de justice administrative - art. R*134-5 (V)
   - Code de justice administrative - art. R*134-7 (V)
 
 

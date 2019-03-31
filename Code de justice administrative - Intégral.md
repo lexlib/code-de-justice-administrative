@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-03-29
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -5177,8 +5177,7 @@ _Cite_:
 Par dérogation aux dispositions du présent code déterminant la compétence des juridictions de premier ressort, il est
 possible de recourir à l'arbitrage dans les cas prévus par : 
 
-1° L'article 69 de la loi du 17 avril 1906 portant fixation du budget général des dépenses et des recettes de l'exercice
-1906, repris à l'article 132 du nouveau code des marchés publics ; 
+1° Les article L. 2197-6 et L. 2236-1 du code de la commande publique ; 
 
 2° L'article 7 de la loi n° 75-596 du 9 juillet 1975 portant dispositions diverses relatives à la réforme de la procédure
 civile ; 
@@ -5200,11 +5199,13 @@ membre.
 
 _Cite_:
 
-  - Loi n°86-972 du 19 août 1986 - art. 9 (V)
-  - Code de la recherche - art. L321-4 (V)
-  - Code des transports - art. L2102-6 (V)
-  - Code des transports - art. L2111-14 (V)
-  - Code des transports - art. L2141-5 (V)
+  - Loi n°86-972 du 19 août 1986 - art. 9
+  - Code de la recherche - art. L321-4
+  - Code des transports - art. L2102-6
+  - Code des transports - art. L2111-14
+  - Code des transports - art. L2141-5
+  - Code de la commande publique - art. L2197-6
+  - Code de la commande publique - art. L2236-1
 
 _Codifié par_:
 
@@ -5213,7 +5214,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 30
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 7
 
 _Cité par_:
 

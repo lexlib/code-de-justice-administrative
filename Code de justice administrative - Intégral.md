@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -5125,27 +5125,27 @@ _Modifié par_:
 
 Le Conseil d'Etat est compétent pour connaître, en premier et dernier ressort, des requêtes concernant la mise en œuvre des
 techniques de renseignement mentionnées au titre V du livre VIII du code de la sécurité intérieure et la mise en œuvre de
-l'article 41 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, pour certains
-traitements ou parties de traitements intéressant la sûreté de l'Etat. 
+l'article 52 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, pour certains
+traitements ou parties de traitements intéressant la sûreté de l'Etat.
 
 Le Conseil d'Etat peut être saisi, en premier et dernier ressort, comme juge des référés.
 
 **Nota:**
 
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 41
-  - Code de la sécurité intérieure -  TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGN... (V)
+  - Code de la sécurité intérieure
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 10
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 10
 
 _Cité par_:
 
@@ -7496,7 +7496,7 @@ _Modifié par_:
 
 ###### Article L773-8
 
-Lorsqu'elle traite des requêtes relatives à la mise en œuvre de l'article 41 de la loi n° 78-17 du 6 janvier 1978 relative à
+Lorsqu'elle traite des requêtes relatives à la mise en œuvre de l'article 52 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, la formation de jugement se fonde sur les éléments contenus, le cas échéant,
 dans le traitement sans les révéler ni révéler si le requérant figure ou non dans le traitement. Toutefois, lorsqu'elle
 constate que le traitement ou la partie de traitement faisant l'objet du litige comporte des données à caractère personnel le
@@ -7507,9 +7507,9 @@ conclusions en ce sens, elle peut indemniser le requérant.
 
 **Nota:**
 
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -7517,9 +7517,9 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 41
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 10
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 10
 
 
 #### Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme<a id=122></a>
@@ -8219,34 +8219,39 @@ _Créé par_:
 ###### Article L77-10-1
 
 Sous réserve des dispositions particulières prévues pour chacune de ces actions, le présent chapitre est applicable aux
-actions suivantes engagées devant le juge administratif : 
+actions suivantes engagées devant le juge administratif :
 
 1° L'action ouverte sur le fondement de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit
-communautaire dans le domaine de la lutte contre les discriminations ; 
+communautaire dans le domaine de la lutte contre les discriminations ;
 
-2° L'action ouverte sur le fondement du chapitre XI du présent titre ; 
+2° L'action ouverte sur le fondement du chapitre XI du présent titre ;
 
-3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ; 
+3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ;
 
 4° L'action ouverte sur le fondement du chapitre III du titre IV du livre Ier de la première partie du code de la santé
-publique ; 
+publique ;
 
-5° L'action ouverte sur le fondement de l'article 43 ter de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+5° L'action ouverte sur le fondement de l'article 37 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 43 ter (V)
-  - Loi n°2008-496 du 27 mai 2008 (V)
-  - Code de justice administrative -  Chapitre XI : Action de groupe relative à une d... (V)
-  - Code de la santé publique -  Chapitre III : Action de groupe (V)
-  - Code de l'environnement - art. L142-3-1 (V)
+  - Loi n°2008-496 du 27 mai 2008
+  - Code de justice administrative
+  - Code de la santé publique
+  - Code de l'environnement - art. L142-3-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 10
 
 
 ###### Article L77-10-2
@@ -23648,11 +23653,10 @@ _Créé par_:
 ###### Article R555-1
 
 Lorsque le juge administratif est saisi par le président de la Commission nationale de l'informatique et des libertés, sur le
-fondement du     IV de l'article 46 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés, d'une demande en référé concernant la mise en oeuvre d'un traitement ou l'exploitation de données à caractère
-personnel par l'Etat, une collectivité territoriale, toute autre personne publique ainsi que toute personne privée chargée
-d'une mission de service public, il est statué suivant la procédure de référé instituée par les dispositions de l'article L.
-521-2.
+fondement de l'article 21 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, d'une
+demande en référé concernant la mise en oeuvre d'un traitement ou l'exploitation de données à caractère personnel par l'Etat,
+une collectivité territoriale, toute autre personne publique ainsi que toute personne privée chargée d'une mission de service
+public, il est statué suivant la procédure de référé instituée par les dispositions de l'article L. 521-2.
 
 **Liens relatifs à cet article**
 
@@ -23666,7 +23670,7 @@ _Codifié par_:
 
 _Cité par_:
 
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (M)
+  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (Ab)
   - Décret n°2005-1309 du 20 octobre 2005 - art. 94 (T)
   - Décret n°2019-536 du 29 mai 2019 - art. 158
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-4 (Ab)
@@ -23677,35 +23681,35 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-687 du 1er août 2018 - art. 30
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 
 ###### Article R555-2
 
-Lorsque le juge administratif est saisi, sur le fondement du I de l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative
-à l'informatique, aux fichiers et aux libertés, d'une demande en référé relative au prononcé de toutes mesures utiles de
-nature à éviter toute dissimulation ou toute disparition de données à caractère personnel par l'Etat, une collectivité
-territoriale, toute autre personne publique ainsi que toute personne privée chargée d'une mission de service public, il est
-statué suivant la procédure de référé instituée par les dispositions de l'article L. 521-3.
+Lorsque le juge administratif est saisi, sur le fondement de l'article 49 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, d'une demande en référé relative au prononcé de toutes mesures utiles de nature
+à éviter toute dissimulation ou toute disparition de données à caractère personnel par l'Etat, une collectivité territoriale,
+toute autre personne publique ainsi que toute personne privée chargée d'une mission de service public, il est statué suivant
+la procédure de référé instituée par les dispositions de l'article L. 521-3.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
-  - Code de justice administrative - art. L521-3 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Code de justice administrative - art. L521-3
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
 _Cité par_:
 
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (M)
+  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-451 du 25 mars 2007 - art. 18 () JORF 28 mars 2007
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 
 #### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation<a id=303></a>

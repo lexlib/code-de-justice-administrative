@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-05
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -19879,9 +19879,10 @@ _Cite_:
 
 ###### Article R312-17
 
-Les litiges relatifs aux montants notifiés en application de l’article L. 1613-5-1 du code général des collectivités
-territoriales à une collectivité territoriale ou à un groupement de collectivités territoriales relèvent de la compétence du
-tribunal administratif dans le ressort duquel la collectivité territoriale ou le groupement a son siège.
+Les litiges relatifs aux montants notifiés en application de l’article L. 1613-5-1, de l'avant-dernier alinéa de l'article L.
+2335-1 et du dernier alinéa de l'article L. 2335-16 du code général des collectivités territoriales à une collectivité
+territoriale ou à un groupement de collectivités territoriales relèvent de la compétence du tribunal administratif dans le
+ressort duquel la collectivité territoriale ou le groupement a son siège.
 
 **Liens relatifs à cet article**
 
@@ -19895,7 +19896,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-428 du 1er juin 2018 - art. 4
+  - Décret n°2019-701 du 3 juillet 2019 - art. 9
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1613-5-1
+  - Code général des collectivités territoriales - art. L2335-1
+  - Code général des collectivités territoriales - art. L2335-16
 
 
 ###### Article R312-18

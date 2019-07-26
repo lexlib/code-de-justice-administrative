@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-07-05
+Version Consolidée au 2019-07-27
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -7629,20 +7629,22 @@ _Anciens textes_:
 ###### Article L774-2
 
 Dans les dix jours qui suivent la rédaction d'un procès-verbal de contravention, le préfet fait faire au contrevenant
-notification de la copie du procès-verbal. 
+notification de la copie du procès-verbal.
 
 Pour le domaine public défini à l'article L. 4314-1 du code des transports, l'autorité désignée à l'article L. 4313-3 du même
 code est substituée au représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
 code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment avec le représentant de l'Etat
 dans le département. Pour les contraventions de grande voirie mentionnées au chapitre VII du titre III du livre III de la
 cinquième partie dudit code, les autorités mentionnées aux articles L. 5337-3-1 et L. 5337-3-2 du même code sont compétentes
-concurremment avec le représentant de l'Etat dans le département. 
+concurremment avec le représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 322-9 du code
+de l'environnement, l'autorité désignée à l'article L. 322-10-4 du même code est substituée au représentant de l'Etat dans le
+département.
 
 La notification est faite dans la forme administrative, mais elle peut également être effectuée par lettre recommandée avec
-demande d'avis de réception. 
+demande d'avis de réception.
 
 La notification indique à la personne poursuivie qu'elle est tenue, si elle veut fournir des défenses écrites, de les déposer
-dans le délai de quinzaine à partir de la notification qui lui est faite. 
+dans le délai de quinzaine à partir de la notification qui lui est faite.
 
 Il est dressé acte de la notification ; cet acte doit être adressé au tribunal administratif et y être enregistré comme les
 requêtes introductives d'instance.
@@ -7656,7 +7658,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-816 du 20 juin 2016 - art. 30
+  - Loi n°2019-773 du 24 juillet 2019 - art. 22
 
 _Cité par_:
 
@@ -7677,7 +7679,7 @@ _Cite_:
   - Code des transports - art. L4314-1
   - Code des transports - art. L4322-13
   - Code des transports - art. L4322-2
-  - Code des transports - art. L5337-3-1 (V)
+  - Code des transports - art. L5337-3-1
 
 
 ###### Article L774-3

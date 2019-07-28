@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-07-27
+Version Consolidée au 2019-07-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -11104,20 +11104,28 @@ _Cité par_:
 Les affaires sont réparties entre les cinq premières de ces sections conformément aux dispositions d'un arrêté du Premier
 ministre et du garde des sceaux, ministre de la justice, pris sur proposition du vice-président du Conseil d'Etat.
 
+Lorsqu'une affaire ressortit à des matières relevant de sections différentes, elle est examinée par l'une d'elles, sa
+composition étant le cas échéant complétée dans les conditions fixées à l'article R. 123-10-1, par les sections réunies ou
+une commission spéciale dans les conditions fixées à l'article R. 123-10, ou conjointement par les sections compétentes dans
+les conditions fixées à l'article R. 123-10-2.
+
+Le vice-président du Conseil d'Etat peut décider de l'affectation d'une affaire à une autre section que celle compétente pour
+en connaître en vertu du présent article.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°63-766 du 30 juillet 1963 - art. 9 (M)
 
-_Modifié par_:
-
-  - Décret n°2008-225 du 6 mars 2008 - art. 12
-
 _Cité par_:
 
   - Ordonnance n°2009-375 du 1er avril 2009 (V)
   - Code de justice administrative - art. R123-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
 
 
 ###### Article R123-3-1
@@ -11138,13 +11146,12 @@ _Cite_:
 
 ###### Article R123-4
 
-Les projets et propositions de lois du pays de la Nouvelle-Calédonie sont répartis, pour leur examen par les sections
-administratives, selon les matières énumérées à l'article 99 de la loi organique n° 99-209 du 19 mars 1999 relative à la
-Nouvelle-Calédonie par arrêté du Premier ministre et du ministre chargé de l'outre-mer. 
+Les projets et propositions de lois du pays de la Nouvelle-Calédonie sont examinés par la section compétente pour connaître
+de la matière sur laquelle ils portent en vertu du premier alinéa de l'article R. 123-3.
 
 Les avis du Conseil d'Etat sur les projets et propositions de lois du pays sont adressés aux autorités mentionnées au dernier
-alinéa de l'article 100 de la loi organique susmentionnée ainsi qu'au Premier ministre, au ministre chargé de l'outre-mer et
-aux autres ministres intéressés.
+alinéa de l'article 100 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ainsi qu'au Premier
+ministre, au ministre chargé de l'outre-mer et aux autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
@@ -11154,8 +11161,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°99-209 du 19 mars 1999 - art. 100 (V)
-  - Loi n°99-209 du 19 mars 1999 - art. 99 (V)
+  - Loi n°99-209 du 19 mars 1999 - art. 100
+  - Loi n°99-209 du 19 mars 1999 - art. 99
+  - Code de justice administrative - art. R123-3
 
 _Codifié par_:
 
@@ -11163,7 +11171,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1562 du 14 décembre 2010 - art. 2
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
 
 
 ###### Article R123-5
@@ -11210,18 +11218,14 @@ _Cite_:
 ###### Article R123-6
 
 Chaque section administrative est composée d'un président, de conseillers d'Etat en service ordinaire au nombre de six au
-minimum, de conseillers d'Etat en service extraordinaire, de maîtres des requêtes et d'auditeurs. 
+minimum, de conseillers d'Etat en service extraordinaire, de maîtres des requêtes et d'auditeurs.
 
 Un ou plusieurs conseillers d'Etat en service ordinaire affectés à la section sont nommés présidents adjoints de celle-ci par
 arrêté du vice-président pris après avis des présidents de section. Ils assistent le président de la section dans l'exercice
 de ses attributions et le suppléent en tant que de besoin. Sont de droit présidents adjoints de la section administrative à
 laquelle ils sont affectés les présidents de section maintenus en activité, en application de l'article 1er de la loi n°
 86-1304 du 23 décembre 1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de
-l'Etat. 
-
-Dans le cas où une affaire attribuée à une section ressortit à des secteurs relevant de sections différentes, un ou plusieurs
-membres appartenant à chacune des sections intéressées peuvent être appelés à prendre part aux délibérations de la section
-compétente. 
+l'Etat.
 
 Les membres de la section ont voix délibérative dans toutes les affaires.
 
@@ -11244,7 +11248,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1145 du 15 septembre 2015 - art. 2
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
 
 
 ###### Article R123-6-1
@@ -11337,20 +11341,22 @@ _Cité par_:
 
 ###### Article R123-10
 
-Le vice-président du Conseil d'Etat peut réunir à la section administrative compétente une des autres sections pour l'examen
-d'une affaire déterminée. 
+A l'initiative du vice-président du Conseil d'Etat ou, conjointement, des deux présidents de section concernés, la section
+administrative compétente et une des autres sections peuvent être réunies pour l'examen d'une affaire déterminée.
+
+Les représentants de chacune des deux sections sont désignés, en nombre égal, par leur président respectif.
 
 S'il y a lieu de réunir plus de deux sections, il est constitué une commission où les sections intéressées, y compris, le cas
-échéant, la section du contentieux, sont représentées ; le vice-président en fixe la composition. 
+échéant, la section du contentieux, sont représentées ; le vice-président en fixe la composition.
 
 Les dispositions de l'article R. 123-8 et de l'article R. 123-9, dernier alinéa, sont applicables aux sections réunies et aux
-commissions. 
+commissions.
 
 Les dispositions du dernier alinéa de l'article R. 123-6 sont applicables aux sections réunies. En ce qui concerne les
-commissions, tous leurs membres ont voix délibérative. 
+commissions, tous leurs membres ont voix délibérative.
 
 La présidence des séances de sections réunies ou de commissions appartient au vice-président du Conseil d'Etat ou à celui des
-présidents de section présent le premier inscrit au tableau.
+présidents de section ou, le cas échéant, des présidents adjoints présents le premier inscrit au tableau.
 
 **Liens relatifs à cet article**
 
@@ -11360,17 +11366,43 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. R123-6 (V)
-  - Code de justice administrative - art. R123-8 (V)
-  - Code de justice administrative - art. R123-9 (V)
+  - Code de justice administrative - art. R123-6
+  - Code de justice administrative - art. R123-8
+  - Code de justice administrative - art. R123-9
+
+
+###### Article R123-10-1
+
+Dans le cas où une affaire attribuée à une section ressortit à des matières relevant de sections différentes, un ou plusieurs
+membres appartenant à chacune des sections intéressées peuvent être appelés à contribuer aux travaux et à prendre part aux
+délibérations de la section compétente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
+
+
+###### Article R123-10-2
+
+Le vice-président du Conseil d'Etat peut décider que les textes dont les parties sont divisibles et relèvent de la compétence
+de plusieurs sections sont examinés conjointement par ces sections, chacune pour ce qui la concerne, sous la coordination de
+la section principalement compétente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-792 du 26 juillet 2019 - art. 1
 
 
 ###### Article R123-11

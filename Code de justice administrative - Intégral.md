@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-07-29
+Version Consolidée au 2019-08-08
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -3817,19 +3817,15 @@ _Cité par_:
 
 Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel connaît des questions intéressant le
 fonctionnement et l'organisation des tribunaux administratifs et des cours administratives d'appel dans les conditions
-prévues par le présent article ou par un décret en Conseil d'Etat. 
+prévues par le présent article ou par un décret en Conseil d'Etat.
 
 Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel débat chaque année des orientations
 générales en matière d'évolution des effectifs, de répartition des emplois et de recrutement, ainsi que sur le bilan social
-de la gestion du corps des magistrats. 
+de la gestion du corps des magistrats.
 
 Il émet un avis sur toute question relative au statut des magistrats des tribunaux administratifs et des cours
 administratives d'appel ainsi qu'à leur régime indemnitaire, à leur formation, à l'égalité professionnelle, à la parité et à
-la lutte contre toutes les discriminations. 
-
-Il bénéficie du concours du comité d'hygiène, de sécurité et de conditions de travail mentionné à l'article 16 de la loi n°
-84-16 du 11 janvier 1984 dans les matières relevant de sa compétence et peut le saisir de toute question. Il examine en outre
-les questions dont il est saisi par ce comité. 
+la lutte contre toutes les discriminations.
 
 Il est également consulté sur toute question relative à la compétence, à l'organisation et au fonctionnement des tribunaux
 administratifs et des cours administratives d'appel ainsi que sur les dispositions qui prévoient la participation de
@@ -3838,17 +3834,14 @@ qu'ils exercent au sein de ces juridictions.
 
 **Nota:**
 
-Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
-tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
-que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
-
-Ces dispositions entrent en vigueur à la date de cette installation.
+Conformément au A du II de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur en vue du
+prochain renouvellement général des instances dans la fonction publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-16 du 11 janvier 1984 - art. 16 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 16 (Ab)
 
 _Anciens textes_:
 
@@ -3862,7 +3855,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
+  - Loi n°2019-828 du 6 août 2019 - art. 4
 
 
 ##### Section 2 : Composition du Conseil supérieur<a id=58></a>

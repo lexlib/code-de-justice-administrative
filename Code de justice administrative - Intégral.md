@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-08-08
+Version Consolidée au 2019-08-23
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -34245,6 +34245,36 @@ _Modifié par_:
 _Cité par_:
 
   - Code de justice administrative - art. R751-8 (V)
+
+
+###### Article R811-10-2
+
+Par dérogation aux dispositions de l'article R. 811-10, le directeur général de l'agence régionale de santé présente devant
+la cour administrative d'appel les mémoires et observations produits au nom de l'Etat, lorsque le litige est né d'une
+décision qu'il a prise au nom de celui-ci.
+
+**Nota:**
+
+Les dispositions de l'article R. 811-10-2 du code de la juridiction administrative, dans leur rédaction résultant du décret
+n° 2019-854 du 20 août 2019, sont applicables aux appels formés à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-389 du 4 mai 2000
+
+_Cité par_:
+
+  - Décret n°2013-575 du 2 juillet 2013 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-854 du 20 août 2019 - art. 4
+
+_Cite_:
+
+  - Code de justice administrative - art. R811-10
 
 
 ###### Article R811-10-3

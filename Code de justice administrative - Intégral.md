@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-08-23
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -34196,6 +34196,54 @@ _Créé par_:
 _Cite_:
 
   - Code de justice administrative. - art. R811-10 (V)
+
+
+###### Article R811-10-4
+
+Par dérogation aux dispositions de l'article R. 811-10, le recteur d'académie présente devant la cour administrative d'appel
+les mémoires et observations en défense produits au nom de l'Etat lorsque le litige est né d'une décision relevant des
+dispositions de l'article D. 222-35 du code de l'éducation, sous réserve des affaires dans lesquelles des conclusions d'appel
+incident sont présentées au nom de l'Etat.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2019-889 du 27 août 2019, les dispositions sont applicables aux requêtes enregistrées
+devant les cours administratives d'appel à compter du 1er septembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-889 du 27 août 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D222-35
+
+
+###### Article R811-10-5
+
+Par dérogation aux dispositions de l'article R. 811-10, les présidents des universités et les présidents et directeurs des
+autres établissements publics d'enseignement supérieur présentent devant la cour administrative d'appel les mémoires et
+observations en défense produits au nom de l'Etat lorsque le litige est né d'une décision relevant des dispositions de
+l'article R. 951-1-1 du code de l'éducation, sous réserve des affaires dans lesquelles des conclusions d'appel incident sont
+présentées au nom de l'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 4 du décret n° 2019-892 du 27 août 2019, ces dispositions entrent en vigueur le
+1er septembre 2019 et sont applicables aux requêtes enregistrées devant les juridictions administratives à compter de cette
+date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-892 du 27 août 2019 - art. 2
+
+_Cite_:
+
+  - Code de justice administrative - art. R811-10
 
 
 ###### Article R811-11

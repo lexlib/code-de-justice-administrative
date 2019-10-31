@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -19380,6 +19380,10 @@ _Anciens textes_:
 Les litiges relatifs aux pensions des agents des collectivités locales relèvent du tribunal administratif dans le ressort
 duquel est situé le siège de la personne publique dont l'agent intéressé relevait au moment de sa mise à la retraite.
 
+Les litiges relatifs aux décisions individuelles prises en application du livre Ier et des titres Ier à III du livre II du
+code des pensions militaires d'invalidité et des victimes de guerre  relèvent du tribunal administratif dans le ressort
+duquel est situé le domicile du demandeur lors de l'introduction de sa requête.
+
 Pour les autres pensions dont le contentieux relève de la juridiction des tribunaux administratifs, le tribunal compétent est
 celui dans le ressort duquel se trouve le lieu d'assignation du paiement de la pension ou, à défaut, soit qu'il n'y ait pas
 de lieu d'assignation, soit que la décision attaquée comporte refus de pension, la résidence du demandeur lors de
@@ -19389,11 +19393,11 @@ l'introduction de sa réclamation.
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2018-1291 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 

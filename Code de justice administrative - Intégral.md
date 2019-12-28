@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-11-01
+Version Consolidée au 2019-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -7638,7 +7638,10 @@ Dans les dix jours qui suivent la rédaction d'un procès-verbal de contraventio
 notification de la copie du procès-verbal.
 
 Pour le domaine public défini à l'article L. 4314-1 du code des transports, l'autorité désignée à l'article L. 4313-3 du même
-code est substituée au représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
+code est substituée au représentant de l'Etat dans le département. Pour le domaine public fluvial défini aux articles L.
+2111-7 à L. 2111-11 du code général de la propriété des personnes publiques appartenant aux collectivités territoriales et à
+leurs groupements, le président de l'organe délibérant de la collectivité territoriale ou du groupement est compétent
+concurremment avec le représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
 code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment avec le représentant de l'Etat
 dans le département. Pour les contraventions de grande voirie mentionnées au chapitre VII du titre III du livre III de la
 cinquième partie dudit code, les autorités mentionnées aux articles L. 5337-3-1 et L. 5337-3-2 du même code sont compétentes
@@ -7664,7 +7667,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-773 du 24 juillet 2019 - art. 22
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 56
 
 _Cité par_:
 

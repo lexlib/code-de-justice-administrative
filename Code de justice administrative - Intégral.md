@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2019-11-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -6502,17 +6502,26 @@ Le référé à l'égard des mesures conservatoires prises par le comptable à d
 garanties suffisantes obéit aux règles définies par le 5e alinéa de l'article L. 277 du livre des procédures fiscales ci-
 après reproduit : 
 
-" Art. L. 277, alinéa 5. - Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième
-alinéa, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la
+" Art. L. 277, alinéa 5.-Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième alinéa,
+le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la
 limitation ou l'abandon de cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des
 troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le
-cas, le tribunal administratif ou le tribunal de grande instance. "
+cas, le tribunal administratif ou le   tribunal judiciaire. "
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 66 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L277
 
 _Cité par_:
 
@@ -22837,17 +22846,22 @@ _Cite_:
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension de l'exécution d'une décision accordant un
 permis de construire, d'aménager ou de démolir ou d'une mesure de police est transmise sans délai au procureur de la
-République près le tribunal de grande instance territorialement compétent. 
+République près le   tribunal judiciaire territorialement compétent. 
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension d'un acte constituant une pièce justificative du
-paiement de dépenses publiques est transmise sans délai au   directeur départemental ou, le cas échéant, régional des
-finances publiques du département dans lequel a son siège l'autorité qui a pris l'acte en cause. 
+paiement de dépenses publiques est transmise sans délai au directeur départemental ou, le cas échéant, régional des finances
+publiques du département dans lequel a son siège l'autorité qui a pris l'acte en cause. 
 
 Les mêmes règles s'appliquent à l'ordonnance qui modifie ou met fin à la suspension. 
 
 Il est pareillement transmis copie de la décision par laquelle le Conseil d'Etat prononce la cassation d'une ordonnance du
 juge des référés ayant ordonné la suspension d'une décision accordant un permis de construire, d'aménager ou de démolir,
 d'une mesure de police ou d'un acte constituant une pièce justificative du paiement de dépenses publiques.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -22857,7 +22871,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 14
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 #### Chapitre III : Voies de recours<a id=285></a>
@@ -28295,21 +28309,22 @@ _Codifié par_:
 
 Copie du jugement par lequel le tribunal administratif prononce l'annulation d'une décision accordant un permis de
 construire, d'aménager ou de démolir ou d'une mesure de police est transmise sans délai au procureur de la République près le
-tribunal de grande instance territorialement compétent.
+tribunal judiciaire territorialement compétent.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -28320,7 +28335,12 @@ _Anciens textes_:
 
 Copie des décisions d'appel qui annulent ou réforment un jugement par lequel un tribunal administratif s'est prononcé sur un
 recours pour excès de pouvoir dirigé contre un permis de construire, d'aménager ou de démolir ou une mesure de police est
-transmise sans délai au procureur de la République près le tribunal de grande instance territorialement compétent.
+transmise sans délai au procureur de la République près le   tribunal judiciaire territorialement compétent.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -28330,15 +28350,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2000-389 du 4 mai 2000
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R751-12
@@ -28435,17 +28451,22 @@ _Anciens textes_:
 ###### Article R761-3
 
 Dans tous les cas où une partie fait signifier une décision par acte d'huissier de justice, l'huissier de justice a droit aux
-émoluments qui lui sont attribués par le tarif en vigueur devant les tribunaux de grande instance.
+émoluments qui lui sont attribués par le tarif en vigueur devant les   tribunaux judiciaires.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -31254,14 +31275,19 @@ L'étranger peut, au plus tard avant le début de l'audience, demander qu'un avo
 par le greffe du tribunal au moment de l'introduction de sa requête. 
 
 Quand l'étranger a demandé qu'un avocat soit désigné d'office, le président du tribunal administratif ou le magistrat désigné
-en informe aussitôt le bâtonnier de l'ordre des avocats près le tribunal de grande instance dans le ressort duquel se tiendra
+en informe aussitôt le bâtonnier de l'ordre des avocats près le   tribunal judiciaire dans le ressort duquel se tiendra
 l'audience. Le bâtonnier effectue la désignation sans délai.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 

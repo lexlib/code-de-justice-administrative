@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2020-02-28
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -7653,13 +7653,15 @@ Pour le domaine public défini à l'article L. 4314-1 du code des transports, l'
 code est substituée au représentant de l'Etat dans le département. Pour le domaine public fluvial défini aux articles L.
 2111-7 à L. 2111-11 du code général de la propriété des personnes publiques appartenant aux collectivités territoriales et à
 leurs groupements, le président de l'organe délibérant de la collectivité territoriale ou du groupement est compétent
-concurremment avec le représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
-code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment avec le représentant de l'Etat
-dans le département. Pour les contraventions de grande voirie mentionnées au chapitre VII du titre III du livre III de la
-cinquième partie dudit code, les autorités mentionnées aux articles L. 5337-3-1 et L. 5337-3-2 du même code sont compétentes
-concurremment avec le représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 322-9 du code
-de l'environnement, l'autorité désignée à l'article L. 322-10-4 du même code est substituée au représentant de l'Etat dans le
-département.
+concurremment avec le représentant de l'Etat dans le département. Pour le domaine public fluvial qu'il gère en application de
+l'article 14 de l'ordonnance n° 2016-489 du 21 avril 2016 relative à la Société du Canal Seine-Nord Europe, le président du
+directoire de cet établissement public est substitué au représentant de l'Etat dans le département. Pour le domaine public
+défini à l'article L. 4322-2 dudit code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment
+avec le représentant de l'Etat dans le département. Pour les contraventions de grande voirie mentionnées au chapitre VII du
+titre III du livre III de la cinquième partie dudit code, les autorités mentionnées aux articles L. 5337-3-1 et L. 5337-3-2
+du même code sont compétentes concurremment avec le représentant de l'Etat dans le département. Pour le domaine public défini
+à l'article L. 322-9 du code de l'environnement, l'autorité désignée à l'article L. 322-10-4 du même code est substituée au
+représentant de l'Etat dans le département.
 
 La notification est faite dans la forme administrative, mais elle peut également être effectuée par lettre recommandée avec
 demande d'avis de réception.
@@ -7670,6 +7672,19 @@ dans le délai de quinzaine à partir de la notification qui lui est faite.
 Il est dressé acte de la notification ; cet acte doit être adressé au tribunal administratif et y être enregistré comme les
 requêtes introductives d'instance.
 
+**Nota:**
+
+Conformément au VIII de l’article 134 de la loi n° 2019-1428 du 24 décembre 2019 : Le présent article entre en vigueur à la
+date d'entrée en vigueur du décret mentionné à l'article 15 de l'ordonnance n° 2016-489 du 21 avril 2016 précitée, dans sa
+rédaction résultant de la présente loi, et au plus tard le 1er avril 2020. Ce décret prévoit en outre les dispositions
+transitoires nécessaires à la continuité du fonctionnement de l'établissement public Société du Canal Seine-Nord Europe à
+compter de l'entrée en vigueur du présent article.
+
+A l'issue d'un délai de deux mois à compter de l'entrée en vigueur du présent article, le conseil de surveillance de
+l'établissement public Société du Canal Seine-Nord Europe peut valablement se réunir pour la première fois, même s'il n'a pas
+été procédé à la désignation de la totalité de ses membres, dès lors que plus de la moitié des membres au moins a été
+désignée.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -7679,7 +7694,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1461 du 27 décembre 2019 - art. 56
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 134 (V)
 
 _Cité par_:
 

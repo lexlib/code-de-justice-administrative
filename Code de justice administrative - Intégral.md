@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2020-04-01
+Version Consolidée au 2020-04-26
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -11772,15 +11772,12 @@ La commission permanente comprend :
 
 1° Le vice-président du Conseil d'Etat ;
 
-2° Le président de l'une des sections administratives désigné par arrêté du Premier ministre pris sur proposition du garde
-des sceaux, ministre de la justice, faite après présentation par le vice-président du Conseil d'Etat ainsi que, le cas
-échéant, le ou les présidents de la ou des autres sections intéressées ;
+2° Le président de la section administrative dont relève le projet soumis à la commission permanente ; les autres présidents
+de section peuvent participer aux séances de la commission permanente ;
 
 3° Deux conseillers d'Etat par section désignés par arrêté du vice-président du Conseil d'Etat après avis du président de la
-section intéressée.
-
-Deux suppléants sont désignés, pour chacun des conseillers d'Etat prévus au 3°, selon les mêmes modalités, parmi les
-conseillers d'Etat et les maîtres des requêtes de la section. Ceux-ci ont alors voix délibérative. 
+section intéressée ; deux suppléants sont désignés, pour chacun de ces conseillers d'Etat, parmi les conseillers d'Etat et
+les maîtres des requêtes de la section.
 
 La commission permanente peut être complétée, selon la nature des affaires dont elle est saisie, par un et éventuellement
 deux membres désignés par le vice-président sur la proposition du président de la section qui aurait été normalement
@@ -11788,6 +11785,9 @@ compétente pour examiner l'affaire si l'urgence n'avait pas été déclarée.
 
 En outre, tout membre du Conseil d'Etat peut être spécialement désigné par le vice-président pour le rapport d'une affaire
 déterminée.
+
+Outre son président, la commission permanente ne peut valablement siéger que si cinq membres désignés conformément au 3° sont
+présents.
 
 **Liens relatifs à cet article**
 
@@ -11797,7 +11797,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-1145 du 15 septembre 2015 - art. 2
+  - Décret n°2020-469 du 24 avril 2020 - art. 1
 
 _Cité par_:
 
@@ -11806,13 +11806,14 @@ _Cité par_:
 
 ###### Article R123-23
 
-La commission permanente est présidée par le vice-président du Conseil d'Etat ou, en son absence, par le président de section
-désigné par arrêté du Premier ministre comme il a été dit à l'article R. 123-22 (2°). 
+La commission permanente est présidée par le vice-président du Conseil d'Etat. En l'absence du vice-président, la commission
+permanente est présidée par le président de la section administrative dont relève le projet ou, lorsque le projet relève de
+plusieurs sections, par le plus ancien des présidents concernés parmi ceux qui sont présents. En cas d'absence à la fois du
+vice-président et du ou des présidents de section concernés, elle est présidée par celui des autres présidents de section ou,
+à défaut, des membres présents le plus ancien dans l'ordre du tableau.
 
-En cas de partage égal, la voix du président est prépondérante. 
-
-Les dispositions du dernier alinéa de l'article R. 123-6, des deux derniers alinéas de l'article R. 123-8, de l'article R.
-123-17 ainsi que de l'article R. 123-19 sont applicables à la commission permanente.
+Les dispositions du dernier alinéa de l'article R. 123-6, des deux derniers alinéas de l'article R. 123-17 ainsi que de
+l'article R. 123-19 sont applicables à la commission permanente.
 
 **Liens relatifs à cet article**
 
@@ -11822,11 +11823,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-389 2000-05-04
+  - Décret n°2000-389 du 4 mai 2000
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+  - Décret n°2020-469 du 24 avril 2020 - art. 2
 
 _Cité par_:
 
@@ -11834,11 +11835,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative - art. R123-17 (V)
-  - Code de justice administrative - art. R123-19 (V)
-  - Code de justice administrative - art. R123-22 (V)
-  - Code de justice administrative - art. R123-6 (V)
-  - Code de justice administrative - art. R123-8 (V)
+  - Code de justice administrative - art. R123-17
+  - Code de justice administrative - art. R123-19
+  - Code de justice administrative - art. R123-22
+  - Code de justice administrative - art. R123-6
+  - Code de justice administrative - art. R123-8
 
 
 ##### Section 4 : Dispositions communes<a id=176></a>

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2020-04-26
+Version Consolidée au 2020-06-23
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -19249,7 +19249,7 @@ contrôle ou de régulation :
 
 – l'Autorité de régulation des communications électroniques et des postes ;
 
-– l'Autorité de régulation des jeux en ligne ;
+– l'Autorité nationale des jeux ;
 
 – l'Autorité de régulation des transports ferroviaires ;
 
@@ -19271,12 +19271,17 @@ administrative ;
 6° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
 
-7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
+7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques ;
+
+8° Des recours de plein contentieux dirigés contre les décisions d'occultation ou de levée d'occultation prises en
+application des dispositions de l'article R. 741-15 ou du troisième alinéa de l'article R. 751-7.
 
 **Nota:**
 
-Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
-enregistrées à compter du 1er janvier 2014.
+Conformément à l'article 37 du décret n° 2020-199 du 4 mars 2020, ces dispositions entrent en vigueur à la date de la
+première réunion du collège de l'Autorité nationale des jeux.
+
+La première réunion du collège de l'Autorité nationale des jeux a eu lieu le 23 juin 2020.
 
 **Liens relatifs à cet article**
 
@@ -19300,7 +19305,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-730 du 13 août 2013 - art. 5
+  - Décret n°2020-199 du 4 mars 2020 - art. 33
+  - Décret n°2020-797 du 29 juin 2020 - art. 3
 
 
 ###### Article R311-2

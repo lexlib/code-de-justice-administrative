@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2020-07-01
+Version Consolidée au 2020-08-21
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -22450,17 +22450,18 @@ _Cité par_:
 
 Sous réserve des dispositions de l'article R. 431-10 du présent code et des dispositions spéciales attribuant compétence à
 une autre autorité, en particulier au président de la Commission supérieure de la carte d'identité des journalistes
-professionnels ou au directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de
-direction de la fonction publique hospitalière ou au directeur de l'agence régionale de santé, les recours, les mémoires en
-défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé. 
+professionnels, au directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction
+de la fonction publique hospitalière, au directeur de l'agence régionale de santé ou au directeur d'un organisme de sécurité
+sociale, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le
+ministre intéressé.
 
-Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur. 
+Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur.
 
-En outre, la compétence des ministres peut être déléguée par décret : 
+En outre, la compétence des ministres peut être déléguée par décret :
 
 1° Aux chefs des services déconcentrés des administrations civiles de l'Etat dans les matières énumérées à l'article 33 du
 décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat
-dans les régions et les départements ; 
+dans les régions et les départements ;
 
 2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
 
@@ -22477,7 +22478,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1767 du 31 décembre 2014 - art. 3
+  - Décret n°2020-1073 du 18 août 2020 - art. 1
 
 _Anciens textes_:
 

@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2020-09-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L911-10)](#1)
     - [Titre préliminaire (art. L1 à L11)](#2)
@@ -270,195 +270,192 @@ Version Consolidée au 2020-09-01
         - [Chapitre V : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort d'une cour administrative d'appel (art. R345-1 à R345-4)](#267)
       - [Titre V : Le règlement des questions de compétence (art. R351-1 à R351-9)](#268)
     - [Livre IV : L'introduction de l'instance de premier ressort (art. R411-1 à R441-1)](#269)
-      - [Titre Ier : La requête introductive d'instance (art. R411-1 à R414-11)](#270)
+      - [Titre Ier : La requête introductive d'instance (art. R411-1 à R414-7)](#270)
         - [Chapitre Ier : Présentation de la requête (art. R411-1 à R411-6)](#271)
         - [Chapitre II : Pièces jointes ou productions (art. R412-1 à R412-2-1)](#272)
         - [Chapitre III : Dépôt de la requête (art. R413-1 à R413-6)](#273)
-        - [Chapitre IV : Transmission de la requête par voie électronique (art. R414-1 à R414-11)](#274)
-          - [Section 1 : Dispositions applicables aux personnes publiques, aux avocats et aux organismes de droit privé chargés de la gestion permanente d'un service public (art. R414-1 à R414-5)](#275)
-          - [Section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public (art. R414-6 à R414-11)](#276)
-      - [Titre II : Les délais (art. R421-1 à R421-7)](#277)
-      - [Titre III : La représentation des parties (art. R431-1 à R432-4)](#278)
-        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10-1)](#279)
-        - [Chapitre Ier bis : La représentation des parties  devant la cour administrative d'appel (art. R431-11 à R431-13)](#280)
-        - [Chapitre II : La représentation des parties devant le Conseil d'Etat (art. R432-1 à R432-4)](#281)
-      - [Titre IV : L'aide juridictionnelle (art. R441-1)](#282)
-    - [Livre V : Le référé (art. R511-1 à R557-3)](#283)
-      - [Titre Ier : Le juge des référés (art. R511-1)](#284)
-      - [Titre II : Le juge des référés statuant en urgence (art. R522-1 à R523-3)](#285)
-        - [Chapitre II : Procédure (art. R522-1 à R522-14)](#286)
-        - [Chapitre III : Voies de recours (art. R523-1 à R523-3)](#287)
-      - [Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction (art. R531-1 à R533-3)](#288)
-        - [Chapitre Ier : Le constat (art. R531-1 à R531-2)](#289)
-        - [Chapitre II : Le référé instruction (art. R532-1 à R532-5)](#290)
-        - [Chapitre III : Voies de recours (art. R533-1 à R533-3)](#291)
-      - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#292)
-        - [Chapitre unique. (art. R541-1 à R541-6)](#293)
-      - [Titre V : Dispositions particulières à certains contentieux (art. R551-1 à R557-3)](#294)
-        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-12)](#295)
-          - [Section 1 : Référé précontractuel (art. R551-1 à R551-6)](#296)
-            - [Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs (art. R551-1)](#297)
-            - [Sous-section 2 : Contrats passés par les entités adjudicatrices (art. R551-2)](#298)
-            - [Sous-section 3 : Dispositions communes (art. R551-3 à R551-6)](#299)
-          - [Section 2 : Référé contractuel (art. R551-7 à R551-12)](#300)
-            - [Sous-section 1 : Nature et présentation du recours (art. R551-7 à R551-10)](#301)
-            - [Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer (art. R551-11 à R551-12)](#302)
-        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#303)
-        - [Chapitre V : Le référé en matière d'informatique et libertés (art. R555-1 à R555-2)](#304)
-        - [Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation (art. R556-1)](#305)
-        - [Chapitre VII : Le référé sur saisine du Défenseur des droits (art. R557-1 à R557-2)](#306)
-        - [Chapitre VIII : Le référé en matière de secret des affaires (art. R557-3)](#307)
-    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#308)
-      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#309)
-        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-30)](#310)
-          - [Section 1 : Dispositions générales (art. R611-1 à R611-8-1)](#311)
-          - [Section 2 : Dispositions propres à la communication électronique (art. R611-8-2 à R611-8-9)](#312)
-            - [Sous-section 1 : Dispositions applicables aux personnes publiques, aux avocats et aux organismes de droit privé chargés de la gestion permanente d'un service public (art. R611-8-2 à R611-8-5)](#313)
-            - [Sous-section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public (art. R611-8-6 à R611-8-9)](#314)
-          - [Section 3 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#315)
-          - [Section  4 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#316)
-          - [Section 5 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-29)](#317)
-          - [Section 6 : De la protection des pièces couvertes par le secret des affaires (art. R611-30)](#318)
-        - [Chapitre II : La confirmation de la requête, la régularisation et la mise en demeure (art. R612-1 à R612-6)](#319)
-        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#320)
-          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#321)
-          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#322)
-      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#323)
-        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#324)
-          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6-4)](#325)
-          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8-1)](#326)
-          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#327)
-          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#328)
-        - [Chapitre II : La visite des lieux (art. R622-1)](#329)
-        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#330)
-          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#331)
-          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#332)
-          - [Section 3 : Frais de l'enquête (art. R623-8)](#333)
-        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#334)
-        - [Chapitre V : Les autres mesures d'instruction (art. R625-1 à R625-3)](#335)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#336)
-      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#337)
-        - [Chapitre Ier : La demande incidente (art. R631-1)](#338)
-        - [Chapitre II : L'intervention (art. R632-1)](#339)
-        - [Chapitre III : L'inscription de faux (art. R633-1)](#340)
-        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#341)
-        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#342)
-        - [Chapitre VI : Le désistement (art. R636-1)](#343)
-    - [Livre VII : Le jugement (art. R711-1 à R781-3)](#344)
-      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-2)](#345)
-        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-4)](#346)
-        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1 à R712-2)](#347)
-      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#348)
-      - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R733-3)](#349)
-        - [Chapitre Ier : Dispositions générales (art. R731-1 à R731-5)](#350)
-        - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R732-1 à R732-2)](#351)
-        - [Chapitre III : Dispositions applicables au Conseil d'Etat (art. R733-1 à R733-3)](#352)
-      - [Titre IV : La décision (art. R741-1 à R742-6)](#353)
-        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-15)](#354)
-          - [Section 1 : Le prononcé de la décision (art. R741-1)](#355)
-          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#356)
-          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#357)
-          - [Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire (art. R741-11)](#358)
-          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#359)
-          - [Section 6 : Mise à disposition du public, sous forme électronique, des décisions rendues par les juridictions administratives (art. R741-13 à R741-15)](#360)
-        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#361)
-      - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#362)
-      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#363)
-      - [Titre VII : Dispositions spéciales (art. R771-1 à R77-13-2)](#364)
-        - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#365)
-          - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#366)
-          - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#367)
-        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#368)
-          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#369)
-          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#370)
-        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#371)
-        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-10)](#372)
-        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#373)
-        - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-7 à R773-36)](#374)
-          - [Section 1 : Dispositions générales (art. R773-8 à R773-29)](#375)
-            - [Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-8 à R773-11)](#376)
-            - [Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte (art. R773-12)](#377)
-            - [Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux (art. R773-13)](#378)
-            - [Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte (art. R773-14 à R773-17)](#379)
-            - [Sous-section 5 : Juge des référés (art. R773-18)](#380)
-            - [Sous-section 6 : Pouvoirs du président de la formation spécialisée (art. R773-19)](#381)
-            - [Sous-section 7 : Instruction (art. R773-20 à R773-22)](#382)
-            - [Sous-section 8 : Jugement (art. R773-23 à R773-28)](#383)
-            - [Sous-section 9 : Le secrétariat (art. R773-29)](#384)
-          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34-2)](#385)
-            - [Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-30 à R773-31)](#386)
-            - [Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-32 à R773-34)](#387)
-            - [Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure (art. R773-34-1 à R773-34-2)](#388)
-          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#389)
-        - [Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme (art. R773-37 à R773-51)](#390)
-          - [Section 1 : Dispositions applicables aux recours formés contre les décisions portant renouvellement des mesures prises sur le fondement des 1° à 3° de l'article L. 228-2 et du premier alinéa de l'article L. 228-5 du même code (art. R773-37 à R773-47)](#391)
-          - [Section 2 : Dispositions applicables aux recours prévus au dernier alinéa des articles L. 228-2 et L. 228-5 du code de la sécurité intérieure (art. R773-48 à R773-51)](#392)
-        - [Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles (art. R775-1 à R775-15)](#393)
-          - [Section 1 : Dispositions générales (art. R775-1 à R775-3)](#394)
-          - [Section 2 : De la protection des pièces couvertes par le secret des affaires (art. R775-5)](#395)
-          - [Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence (art. R775-12 à R775-14)](#396)
-          - [Section 4 : Des sanctions (art. R775-15)](#397)
-        - [Chapitre VI : Le contentieux des obligations de quitter le territoire français (art. R776-1 à R776-34)](#398)
-          - [Section 1 : Dispositions communes (art. R776-1 à R776-9-1)](#399)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence (art. R776-10 à R776-13-3)](#400)
-            - [Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile (art. R776-10 à R776-13)](#401)
-            - [Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile (art. R776-13-1 à R776-13-3)](#402)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#403)
-          - [Section 4 : Dispositions applicables en cas de détention (art. R776-29 à R776-34)](#404)
-        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#405)
-        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#406)
-        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#407)
-          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#408)
-          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#409)
-          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#410)
-        - [Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile (art. R777-4 à R777-4-3)](#411)
-        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#412)
-        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#413)
-          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#414)
-          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#415)
-          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#416)
-        - [Chapitre X : L'action de groupe (art. R77-10-1 à R77-10-22)](#417)
-          - [Section 1 : Dispositions générales (art. R77-10-2 à R77-10-12)](#418)
-            - [Sous-section 1 : Détermination de la juridiction compétente (art. R77-10-2)](#419)
-            - [Sous-section 2 : Concours entre actions de groupe et actions individuelles (art. R77-10-3)](#420)
-            - [Sous-section 3 : Présentation de la requête (art. R77-10-4 à R77-10-5)](#421)
-            - [Sous-section 4 : Représentation des parties (art. R77-10-6 à R77-10-7)](#422)
-            - [Sous-section 5 : Jugement (art. R77-10-8)](#423)
-            - [Sous-section 6 : Voies de recours (art. R77-10-9)](#424)
-            - [Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues (art. R77-10-10 à R77-10-11)](#425)
-            - [Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué (art. R77-10-12)](#426)
-          - [Section 3 : Réparation des préjudices (art. R77-10-13 à R77-10-21)](#427)
-            - [Sous-section 1 : Jugement sur la responsabilité (art. R77-10-13 à R77-10-15)](#428)
-            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. R77-10-16 à R77-10-20)](#429)
-            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. R77-10-21)](#430)
-          - [Section 5 : Dispositions diverses (art. R77-10-22)](#431)
-        - [Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur (art. R77-11-1 à R77-11-2)](#432)
-        - [Chapitre XII : L'action en reconnaissance de droits (art. R77-12-1 à R77-12-20)](#433)
-          - [Section 1 : Détermination de la juridiction compétente (art. R77-12-2)](#434)
-          - [Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles (art. R77-12-3)](#435)
-          - [Section 3 : Présentation de la requête (art. R77-12-4 à R77-12-6)](#436)
-          - [Section 4 : Représentation des parties (art. R77-12-7 à R77-12-8)](#437)
-          - [Section 5 : Jugement (art. R77-12-9)](#438)
-          - [Section 6 : Voies de recours (art. R77-12-10)](#439)
-          - [Section 7 : Publicité des actions en cours et des décisions rendues (art. R77-12-11 à R77-12-12)](#440)
-          - [Section 8 : Exécution des décisions (art. R77-12-13 à R77-12-18)](#441)
-          - [Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué (art. R77-12-19 à R77-12-20)](#442)
-        - [Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires (art. R77-13-1 à R77-13-2)](#443)
-      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#444)
-    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#445)
-      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#446)
-      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#447)
-        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#448)
-        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#449)
-      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#450)
-        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#451)
-        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#452)
-        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#453)
-        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#454)
-    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-8)](#455)
-      - [Titre Ier : Principes (art. R911-1 à R911-5)](#456)
-      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#457)
-      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-8)](#458)
+        - [Chapitre IV : Transmission de la requête par voie électronique (art. R414-1 à R414-7)](#274)
+      - [Titre II : Les délais (art. R421-1 à R421-7)](#275)
+      - [Titre III : La représentation des parties (art. R431-1 à R432-4)](#276)
+        - [Chapitre Ier : La représentation des parties devant le tribunal administratif (art. R431-1 à R431-10-1)](#277)
+        - [Chapitre Ier bis : La représentation des parties  devant la cour administrative d'appel (art. R431-11 à R431-13)](#278)
+        - [Chapitre II : La représentation des parties devant le Conseil d'Etat (art. R432-1 à R432-4)](#279)
+      - [Titre IV : L'aide juridictionnelle (art. R441-1)](#280)
+    - [Livre V : Le référé (art. R511-1 à R557-3)](#281)
+      - [Titre Ier : Le juge des référés (art. R511-1)](#282)
+      - [Titre II : Le juge des référés statuant en urgence (art. R522-1 à R523-3)](#283)
+        - [Chapitre II : Procédure (art. R522-1 à R522-14)](#284)
+        - [Chapitre III : Voies de recours (art. R523-1 à R523-3)](#285)
+      - [Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction (art. R531-1 à R533-3)](#286)
+        - [Chapitre Ier : Le constat (art. R531-1 à R531-2)](#287)
+        - [Chapitre II : Le référé instruction (art. R532-1 à R532-5)](#288)
+        - [Chapitre III : Voies de recours (art. R533-1 à R533-3)](#289)
+      - [Titre IV : Le juge des référés accordant une provision (art. R541-1 à R541-6)](#290)
+        - [Chapitre unique. (art. R541-1 à R541-6)](#291)
+      - [Titre V : Dispositions particulières à certains contentieux (art. R551-1 à R557-3)](#292)
+        - [Chapitre Ier : Le référé en matière de passation de contrats et marchés (art. R551-1 à R551-12)](#293)
+          - [Section 1 : Référé précontractuel (art. R551-1 à R551-6)](#294)
+            - [Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs (art. R551-1)](#295)
+            - [Sous-section 2 : Contrats passés par les entités adjudicatrices (art. R551-2)](#296)
+            - [Sous-section 3 : Dispositions communes (art. R551-3 à R551-6)](#297)
+          - [Section 2 : Référé contractuel (art. R551-7 à R551-12)](#298)
+            - [Sous-section 1 : Nature et présentation du recours (art. R551-7 à R551-10)](#299)
+            - [Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer (art. R551-11 à R551-12)](#300)
+        - [Chapitre IV : Les régimes spéciaux de suspension (art. R554-1)](#301)
+        - [Chapitre V : Le référé en matière d'informatique et libertés (art. R555-1 à R555-2)](#302)
+        - [Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation (art. R556-1)](#303)
+        - [Chapitre VII : Le référé sur saisine du Défenseur des droits (art. R557-1 à R557-2)](#304)
+        - [Chapitre VIII : Le référé en matière de secret des affaires (art. R557-3)](#305)
+    - [Livre VI : L'instruction (art. R611-1 à R636-1)](#306)
+      - [Titre Ier : La procédure ordinaire (art. R611-1 à R613-5)](#307)
+        - [Chapitre Ier : La communication de la requête et des mémoires (art. R611-1 à R611-30)](#308)
+          - [Section 1 : Dispositions générales (art. R611-1 à R611-8-1)](#309)
+          - [Section 2 : Dispositions propres à la communication électronique (art. R611-8-2 à R611-8-9)](#310)
+            - [Sous-section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public (art. R611-8-8 à R611-8-9)](#311)
+          - [Section 3 : Dispositions applicables devant les tribunaux administratifs (art. R611-9 à R611-15-1)](#312)
+          - [Section  4 : Dispositions applicables devant les cours administratives d'appel (art. R611-16 à R611-19)](#313)
+          - [Section 5 : Dispositions applicables devant le Conseil d'Etat (art. R611-20 à R611-29)](#314)
+          - [Section 6 : De la protection des pièces couvertes par le secret des affaires (art. R611-30)](#315)
+        - [Chapitre II : La confirmation de la requête, la régularisation et la mise en demeure (art. R612-1 à R612-6)](#316)
+        - [Chapitre III : La clôture de l'instruction (art. R613-1 à R613-5)](#317)
+          - [Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R613-1 à R613-4)](#318)
+          - [Section 2 : Dispositions applicables au Conseil d'Etat (art. R613-5)](#319)
+      - [Titre II : Les différents moyens d'investigation (art. R621-1 à R626-4)](#320)
+        - [Chapitre Ier : L'expertise (art. R621-1 à R621-14)](#321)
+          - [Section 1 : Nombre et désignation des experts (art. R621-2 à R621-6-4)](#322)
+          - [Section 2 : Opérations d'expertise (art. R621-7 à R621-8-1)](#323)
+          - [Section 3 : Rapport d'expertise (art. R621-9 à R621-10)](#324)
+          - [Section 4 : Frais d'expertise (art. R621-11 à R621-14)](#325)
+        - [Chapitre II : La visite des lieux (art. R622-1)](#326)
+        - [Chapitre III : L'enquête (art. R623-1 à R623-8)](#327)
+          - [Section 1 : Procédure de l'enquête (art. R623-1 à R623-5)](#328)
+          - [Section 2 : Procès-verbal de l'enquête (art. R623-6 à R623-7)](#329)
+          - [Section 3 : Frais de l'enquête (art. R623-8)](#330)
+        - [Chapitre IV : Les vérifications d'écritures (art. R624-1 à R624-2)](#331)
+        - [Chapitre V : Les autres mesures d'instruction (art. R625-1 à R625-3)](#332)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#333)
+      - [Titre III : Les incidents de l'instruction (art. R631-1 à R636-1)](#334)
+        - [Chapitre Ier : La demande incidente (art. R631-1)](#335)
+        - [Chapitre II : L'intervention (art. R632-1)](#336)
+        - [Chapitre III : L'inscription de faux (art. R633-1)](#337)
+        - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat (art. R634-1 à R634-2)](#338)
+        - [Chapitre V : Le désaveu (art. R635-1 à R635-3)](#339)
+        - [Chapitre VI : Le désistement (art. R636-1)](#340)
+    - [Livre VII : Le jugement (art. R711-1 à R781-3)](#341)
+      - [Titre Ier : L'inscription au rôle (art. R711-1 à R712-2)](#342)
+        - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R711-1 à R711-4)](#343)
+        - [Chapitre II : Dispositions applicables au Conseil d'Etat (art. R712-1 à R712-2)](#344)
+      - [Titre II : L'abstention et la récusation (art. R721-1 à R721-9)](#345)
+      - [Titre III : La tenue de l'audience et le délibéré (art. R731-1 à R733-3)](#346)
+        - [Chapitre Ier : Dispositions générales (art. R731-1 à R731-5)](#347)
+        - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel (art. R732-1 à R732-2)](#348)
+        - [Chapitre III : Dispositions applicables au Conseil d'Etat (art. R733-1 à R733-3)](#349)
+      - [Titre IV : La décision (art. R741-1 à R742-6)](#350)
+        - [Chapitre Ier : Dispositions générales (art. R741-1 à R741-15)](#351)
+          - [Section 1 : Le prononcé de la décision (art. R741-1)](#352)
+          - [Section 2 : Les mentions obligatoires de la décision (art. R741-2 à R741-6)](#353)
+          - [Section 3 : La minute de la décision (art. R741-7 à R741-10)](#354)
+          - [Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire (art. R741-11)](#355)
+          - [Section 5 : L'amende pour recours abusif (art. R741-12)](#356)
+          - [Section 6 : Mise à disposition du public, sous forme électronique, des décisions rendues par les juridictions administratives (art. R741-13 à R741-15)](#357)
+        - [Chapitre II : Dispositions propres aux ordonnances (art. R742-1 à R742-6)](#358)
+      - [Titre V : La notification de la décision (art. R751-1 à R751-13)](#359)
+      - [Titre VI : Les frais et dépens (art. R761-1 à R761-5)](#360)
+      - [Titre VII : Dispositions spéciales (art. R771-1 à R77-13-2)](#361)
+        - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires (art. R771-1 à R771-2-2)](#362)
+          - [Section 1 : La saisine du Tribunal des conflits (art. R771-1)](#363)
+          - [Section 2 :  La question préjudicielle (art. R771-2 à R771-2-2)](#364)
+        - [Chapitre Ier bis : La question prioritaire de constitutionnalité (art. R*771-3 à R*771-21)](#365)
+          - [Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel (art. R*771-3 à R*771-12)](#366)
+          - [Section 2 : Dispositions applicables devant le Conseil d'Etat (art. R*771-13 à R*771-21)](#367)
+        - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées (art. R772-1 à R772-4)](#368)
+        - [Chapitre II bis : Les contentieux sociaux (art. R772-5 à R772-10)](#369)
+        - [Chapitre III : Le contentieux des élections (art. R773-1 à R773-6)](#370)
+        - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-7 à R773-36)](#371)
+          - [Section 1 : Dispositions générales (art. R773-8 à R773-29)](#372)
+            - [Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat (art. R773-8 à R773-11)](#373)
+            - [Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte (art. R773-12)](#374)
+            - [Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux (art. R773-13)](#375)
+            - [Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte (art. R773-14 à R773-17)](#376)
+            - [Sous-section 5 : Juge des référés (art. R773-18)](#377)
+            - [Sous-section 6 : Pouvoirs du président de la formation spécialisée (art. R773-19)](#378)
+            - [Sous-section 7 : Instruction (art. R773-20 à R773-22)](#379)
+            - [Sous-section 8 : Jugement (art. R773-23 à R773-28)](#380)
+            - [Sous-section 9 : Le secrétariat (art. R773-29)](#381)
+          - [Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation (art. R773-30 à R773-34-2)](#382)
+            - [Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-30 à R773-31)](#383)
+            - [Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure (art. R773-32 à R773-34)](#384)
+            - [Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure (art. R773-34-1 à R773-34-2)](#385)
+          - [Section 3 : Saisine à titre préjudiciel (art. R773-35 à R773-36)](#386)
+        - [Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme (art. R773-37 à R773-51)](#387)
+          - [Section 1 : Dispositions applicables aux recours formés contre les décisions portant renouvellement des mesures prises sur le fondement des 1° à 3° de l'article L. 228-2 et du premier alinéa de l'article L. 228-5 du même code (art. R773-37 à R773-47)](#388)
+          - [Section 2 : Dispositions applicables aux recours prévus au dernier alinéa des articles L. 228-2 et L. 228-5 du code de la sécurité intérieure (art. R773-48 à R773-51)](#389)
+        - [Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles (art. R775-1 à R775-15)](#390)
+          - [Section 1 : Dispositions générales (art. R775-1 à R775-3)](#391)
+          - [Section 2 : De la protection des pièces couvertes par le secret des affaires (art. R775-5)](#392)
+          - [Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence (art. R775-12 à R775-14)](#393)
+          - [Section 4 : Des sanctions (art. R775-15)](#394)
+        - [Chapitre VI : Le contentieux des obligations de quitter le territoire français (art. R776-1 à R776-34)](#395)
+          - [Section 1 : Dispositions communes (art. R776-1 à R776-9-1)](#396)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence (art. R776-10 à R776-13-3)](#397)
+            - [Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile (art. R776-10 à R776-13)](#398)
+            - [Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile (art. R776-13-1 à R776-13-3)](#399)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R776-14 à R776-28)](#400)
+          - [Section 4 : Dispositions applicables en cas de détention (art. R776-29 à R776-34)](#401)
+        - [Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière (art. R777-1 à R777-1-7)](#402)
+        - [Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile (art. R777-2 à R777-2-6)](#403)
+        - [Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile (art. R777-3 à R777-3-9)](#404)
+          - [Section 1 : Dispositions communes (art. R777-3 à R777-3-4)](#405)
+          - [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence (art. R777-3-5 à R777-3-7)](#406)
+          - [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence (art. R777-3-8 à R777-3-9)](#407)
+        - [Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile (art. R777-4 à R777-4-3)](#408)
+        - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme (art. R778-1 à R778-9)](#409)
+        - [Chapitre IX : Autres dispositions (art. R779-1 à R779-10)](#410)
+          - [Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage. (art. R779-1 à R779-8)](#411)
+          - [Section 2 : Les actions en matière de discriminations. (art. R779-9)](#412)
+          - [Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales (art. R779-10)](#413)
+        - [Chapitre X : L'action de groupe (art. R77-10-1 à R77-10-22)](#414)
+          - [Section 1 : Dispositions générales (art. R77-10-2 à R77-10-12)](#415)
+            - [Sous-section 1 : Détermination de la juridiction compétente (art. R77-10-2)](#416)
+            - [Sous-section 2 : Concours entre actions de groupe et actions individuelles (art. R77-10-3)](#417)
+            - [Sous-section 3 : Présentation de la requête (art. R77-10-4 à R77-10-5)](#418)
+            - [Sous-section 4 : Représentation des parties (art. R77-10-6 à R77-10-7)](#419)
+            - [Sous-section 5 : Jugement (art. R77-10-8)](#420)
+            - [Sous-section 6 : Voies de recours (art. R77-10-9)](#421)
+            - [Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues (art. R77-10-10 à R77-10-11)](#422)
+            - [Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué (art. R77-10-12)](#423)
+          - [Section 3 : Réparation des préjudices (art. R77-10-13 à R77-10-21)](#424)
+            - [Sous-section 1 : Jugement sur la responsabilité (art. R77-10-13 à R77-10-15)](#425)
+            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. R77-10-16 à R77-10-20)](#426)
+            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. R77-10-21)](#427)
+          - [Section 5 : Dispositions diverses (art. R77-10-22)](#428)
+        - [Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur (art. R77-11-1 à R77-11-2)](#429)
+        - [Chapitre XII : L'action en reconnaissance de droits (art. R77-12-1 à R77-12-20)](#430)
+          - [Section 1 : Détermination de la juridiction compétente (art. R77-12-2)](#431)
+          - [Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles (art. R77-12-3)](#432)
+          - [Section 3 : Présentation de la requête (art. R77-12-4 à R77-12-6)](#433)
+          - [Section 4 : Représentation des parties (art. R77-12-7 à R77-12-8)](#434)
+          - [Section 5 : Jugement (art. R77-12-9)](#435)
+          - [Section 6 : Voies de recours (art. R77-12-10)](#436)
+          - [Section 7 : Publicité des actions en cours et des décisions rendues (art. R77-12-11 à R77-12-12)](#437)
+          - [Section 8 : Exécution des décisions (art. R77-12-13 à R77-12-18)](#438)
+          - [Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué (art. R77-12-19 à R77-12-20)](#439)
+        - [Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires (art. R77-13-1 à R77-13-2)](#440)
+      - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer. (art. R781-1 à R781-3)](#441)
+    - [Livre VIII : Les voies de recours. (art. R811-1 à R834-4)](#442)
+      - [Titre Ier : L'appel (art. R811-1 à R811-19)](#443)
+      - [Titre II : Le recours en cassation (art. R821-1 à R822-6)](#444)
+        - [Chapitre Ier : Dispositions générales (art. R821-1 à R821-6)](#445)
+        - [Chapitre II : Procédure d'admission (art. R822-1 à R822-6)](#446)
+      - [Titre III : Autres voies de recours (art. R831-1 à R834-4)](#447)
+        - [Chapitre Ier : L'opposition (art. R831-1 à R831-6)](#448)
+        - [Chapitre II : La tierce opposition (art. R832-1 à R832-5)](#449)
+        - [Chapitre III : Le recours en rectification d'erreur matérielle (art. R833-1 à R833-2)](#450)
+        - [Chapitre IV : Le recours en révision (art. R834-1 à R834-4)](#451)
+    - [Livre IX : L'exécution des décisions (art. R911-1 à R931-8)](#452)
+      - [Titre Ier : Principes (art. R911-1 à R911-5)](#453)
+      - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel (art. R921-1 à R921-8)](#454)
+      - [Titre III : Dispositions applicables au Conseil d'Etat (art. R931-1 à R931-8)](#455)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire<a id=2></a>
@@ -21209,14 +21206,19 @@ _Anciens textes_:
 ###### Article R411-5
 
 Sauf si elle est signée par un mandataire régulièrement constitué, la requête présentée par plusieurs personnes physiques ou
-morales doit comporter, parmi les signataires, la désignation d'un représentant unique. 
+morales doit comporter, parmi les signataires, la désignation d'un représentant unique.
 
 A défaut, le premier dénommé est avisé par le greffe qu'il est considéré comme le représentant mentionné à l'alinéa
 précédent, sauf à provoquer, de la part des autres signataires qui en informent la juridiction, la désignation d'un autre
-représentant unique choisi parmi eux. 
+représentant unique choisi parmi eux.
 
-L'introduction de la requête au moyen d'une des applications mentionnées aux articles R. 414-1 et R. 414-6, emporte
+L'introduction de la requête au moyen d'une des applications mentionnées aux articles R. 414-1 et R. 414-2, emporte
 désignation de la personne qui l'a introduite comme représentant unique.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -21238,11 +21240,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 2
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 2
 
 _Cite_:
 
-  - Code de justice administrative - art. R414-1 (V)
+  - Code de justice administrative - art. R414-1 (VD)
   - Code de justice administrative - art. R414-6 (VD)
 
 
@@ -21322,6 +21324,14 @@ inventaire détaillé. Sauf lorsque leur nombre, leur volume ou leurs caractéri
 accompagnées d'une copie. Ces obligations sont prescrites aux parties sous peine de voir leurs pièces écartées des débats
 après invitation à régulariser non suivie d'effet.
 
+L'inventaire détaillé présente, de manière exhaustive, les pièces par un intitulé comprenant, pour chacune d'elles, un numéro
+dans un ordre continu et croissant ainsi qu'un libellé suffisamment explicite.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21344,7 +21354,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-82 du 7 février 2019 - art. 19
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 3
 
 
 ###### Article R412-2-1
@@ -21354,44 +21364,49 @@ lorsque le refus de communication de ces pièces ou informations est l'objet du 
 ou informations mentionne, dans un mémoire distinct, les motifs fondant le refus de transmission aux autres parties, en
 joignant, le cas échéant, une version non confidentielle desdites pièces après occultation des éléments soustraits au
 contradictoire. Le mémoire distinct et, le cas échéant, la version non confidentielle desdites pièces, sont communiqués aux
-autres parties. 
+autres parties.
 
 Les pièces ou informations soustraites au contradictoire ne sont pas transmises au moyen des applications informatiques
-mentionnées aux articles R. 414-1 et R. 414-6 mais sont communiquées au greffe de la juridiction sous une double enveloppe,
+mentionnées aux articles R. 414-1 et R. 414-2 mais sont communiquées au greffe de la juridiction sous une double enveloppe,
 l'enveloppe intérieure portant le numéro de l'affaire ainsi que la mention : “ pièces soustraites au contradictoire-Article
-R. 412-2-1 du code de justice administrative ”. 
+R. 412-2-1 du code de justice administrative ”.
 
 Si la juridiction estime que ces pièces ou informations ne se rattachent pas à la catégorie de celles qui peuvent être
 soustraites au contradictoire, elle les renvoie à la partie qui les a produites et veille à la destruction de toute copie qui
 en aurait été faite. Elle peut, si elle estime que ces pièces ou informations sont utiles à la solution du litige, inviter la
 partie concernée à les verser dans la procédure contradictoire, le cas échéant au moyen des applications informatiques
-mentionnées aux articles R. 414-1 et R. 414-6. Si la partie ne donne pas suite à cette invitation, la juridiction décide des
-conséquences à tirer de ce refus et statue sans tenir compte des éléments non soumis au contradictoire. 
+mentionnées aux articles R. 414-1 et R. 414-2. Si la partie ne donne pas suite à cette invitation, la juridiction décide des
+conséquences à tirer de ce refus et statue sans tenir compte des éléments non soumis au contradictoire.
 
 Lorsque des pièces ou informations mentionnées au premier alinéa sont jointes au dossier papier, celui-ci porte de manière
 visible une mention signalant la présence de pièces soustraites au contradictoire. Ces pièces sont jointes au dossier sous
 une enveloppe portant la mention : “ pièces soustraites au contradictoire-Article R. 412-2-1 du code de justice
-administrative ”. 
+administrative ”.
 
 Lorsqu'un dossier comportant des pièces ou informations soustraites au contradictoire est transmis à une autre juridiction,
 la présence de telles pièces ou informations est mentionnée de manière visible sur le bordereau de transmission.
 
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 2
-
-_Cité par_:
-
-  - Code de justice administrative - art. R412-2-1 (V)
-  - Code de justice administrative - art. R611-30 (V)
-  - Code de justice administrative - art. R775-5 (V)
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 3
 
 _Cite_:
 
-  - Code de justice administrative - art. R414-1 (V)
-  - Code de justice administrative - art. R414-6 (V)
+  - Code de justice administrative - art. R412-2-1 (VD)
+  - Code de justice administrative - art. R414-1
+  - Code de justice administrative - art. R414-6
+
+_Cité par_:
+
+  - Code de justice administrative - art. R611-30 (V)
+  - Code de justice administrative - art. R775-5 (V)
 
 
 #### Chapitre III : Dépôt de la requête<a id=273></a>
@@ -21555,8 +21570,6 @@ _Anciens textes_:
 
 #### Chapitre IV : Transmission de la requête par voie électronique<a id=274></a>
 
-##### Section 1 : Dispositions applicables aux personnes publiques, aux avocats et aux organismes de droit privé chargés de la gestion permanente d'un service public<a id=275></a>
-
 ###### Article R414-1
 
 Lorsqu'elle est présentée par un avocat, un avocat au Conseil d'Etat et à la Cour de cassation, une personne morale de droit
@@ -21575,11 +21588,8 @@ peuvent adresser à la juridiction par voie électronique au moyen de cette appl
 
 **Nota:**
 
-Aux termes de l'article 10 du décret n° 2016-1481 du 2 novembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017
-et, pour les tribunaux administratifs de Nouvelle-Calédonie et de Wallis-et-Futuna, à la date fixée par l'arrêté du garde des
-sceaux prévu par l'article 6 du décret n° 2012-1437 du 21 décembre 2012.
-
-Pour les instances en cours, ces dispositions s'appliquent aux mémoires et pièces produits à compter du 1er janvier 2017.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -21595,7 +21605,7 @@ _Cité par_:
   - Décret n°2018-441 du 4 juin 2018 - art. 4
   - Décret n°2018-1280 du 27 décembre 2018 - art. 1
   - Ordonnance n°2020-305 du 25 mars 2020 - art. 13 (V)
-  - Code de justice administrative - art. R411-5 (V)
+  - Code de justice administrative - art. R411-5 (VD)
   - Code de justice administrative - art. R412-2-1 (VD)
   - Code de justice administrative - art. R414-2 (V)
   - Code de justice administrative - art. R522-10-1 (VD)
@@ -21615,165 +21625,16 @@ _Cité par_:
   - Code de justice administrative - art. R779-2 (VD)
   - Code de justice administrative - art. R911-5 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2018-251 du 6 avril 2018 - art. 3
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
 
 
-###### Article R414-1-1
-
-Les caractéristiques techniques de l'application mentionnée à l'article R. 414-1 garantissent la fiabilité de
-l'identification des parties ou de leur mandataire, l'intégrité des documents adressés ainsi que la sécurité et la
-confidentialité des échanges entre les parties et la juridiction. Elles permettent également d'établir de manière certaine la
-date et l'heure de la mise à disposition d'un document ainsi que celles de sa première consultation par son destinataire. Un
-arrêté du garde des sceaux, ministre de la justice, définit ces caractéristiques, les exigences techniques qui doivent être
-respectées par les utilisateurs de l'application et les modalités d'inscription dans l'application des personnes mentionnées
-à l'article R. 414-1.
-
-**Nota:**
-
-Aux termes de l'article 10 du décret n° 2016-1481 du 2 novembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017
-et, pour les tribunaux administratifs de Nouvelle-Calédonie et de Wallis-et-Futuna, à la date fixée par l'arrêté du garde des
-sceaux prévu par l'article 6 du décret n° 2012-1437 du 21 décembre 2012.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
-
-_Cité par_:
-
-  - Code de justice administrative - art. R414-2 (V)
-  - Code de justice administrative - art. R611-8-4 (V)
-
-
 ###### Article R414-2
-
-L'identification de l'auteur de la requête, selon les modalités prévues par l'arrêté mentionné à l'article R. 414-1-1, vaut
-signature pour l'application des dispositions du présent code. 
-
-Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du
-code civil, le requérant ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête
-revêtu de sa signature manuscrite. 
-
-Lorsqu'une personne morale mentionnée à l'article R. 414-1 introduit une requête présentée par plusieurs personnes physiques
-ou morales, cette requête doit être revêtue de la signature des autres requérants.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Cite_:
-
-  - Code civil - art. 1367
-  - Code de justice administrative - art. R414-1 (V)
-  - Code de justice administrative - art. R414-1-1 (V)
-
-_Cité par_:
-
-  - Code de justice administrative - art. R611-8-2 (V)
-
-
-###### Article R414-3
-
-Par dérogation aux dispositions des articles R. 411-3, R. 411-4, R. 412-1, R. 412-2 et R. 611-1-1, les requérants sont
-dispensés de produire des copies de leur requête et de leurs mémoires complémentaires, ainsi que des pièces qui y sont
-jointes.
-
-Les pièces jointes sont présentées conformément à l'inventaire qui en est dressé.
-
-Lorsque le requérant transmet, à l'appui de sa requête, un fichier unique comprenant plusieurs pièces, chacune d'entre elles
-doit être répertoriée par un signet la désignant conformément à l'inventaire mentionné ci-dessus. S'il transmet un fichier
-par pièce, l'intitulé de chacun d'entre eux doit être conforme à cet inventaire. Le respect de ces obligations est prescrit à
-peine d'irrecevabilité de la requête.
-
-Les mêmes obligations sont applicables aux autres mémoires du requérant, sous peine pour celui-ci, après invitation à
-régulariser non suivie d'effet, de voir ses écritures écartées des débats.
-
-Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie électronique, ils sont
-transmis sur support matériel, accompagnés de copies en nombre égal à celui des autres parties augmenté de deux. L'inventaire
-des pièces transmis par voie électronique en fait mention.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-82 du 7 février 2019 - art. 21
-
-_Cite_:
-
-  - Code de justice administrative - art. R411-3
-  - Code de justice administrative - art. R412-1
-
-_Cité par_:
-
-  - Code de justice administrative - art. R632-1 (VD)
-
-
-###### Article R414-4
-
-Si la requête relève d'une procédure qui impose au juge de statuer dans un délai contraint, son auteur le signale dans la
-rubrique correspondante.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
-
-
-###### Article R414-5
-
-Les formalités prévues par les articles R. 413-5 et R. 413-6 sont réalisées par voie électronique. L'arrivée de la requête et
-des différents mémoires est certifiée par l'accusé de réception délivré par l'application informatique.
-
-**Nota:**
-
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
-2012-1437 pour le Conseil d'Etat. 
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Cité par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 11 (VD)
-
-_Cite_:
-
-  - Code de justice administrative - art. R413-5
-
-
-##### Section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public<a id=276></a>
-
-###### Article R414-6
 
 Les personnes physiques et morales de droit privé non représentées par un avocat, autres que celles chargées de la gestion
 permanente d'un service public, peuvent adresser leur requête à la juridiction par voie électronique au moyen d'un
@@ -21786,7 +21647,140 @@ peine d'être écartés des débats à défaut de régularisation dans un délai
 
 Lorsqu'une requête est introduite par un mandataire n'ayant pas la qualité d'avocat ou d'avocat au Conseil d'Etat et à la
 cour de Cassation, le mandant doit être préalablement inscrit dans le téléservice selon les modalités d'inscription fixées
-par l'arrêté prévu à l'article R. 414-7.
+par l'arrêté prévu à l'article R. 414-3.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
+
+_Cité par_:
+
+  - Code de justice administrative - art. R611-8-2 (V)
+
+
+###### Article R414-3
+
+Les caractéristiques techniques de l'application mentionnée à l'article R. 414-1 et du téléservice mentionné à l'article R.
+414-2 garantissent la fiabilité de l'identification des parties ou de leur mandataire, l'intégrité des documents adressés
+ainsi que la sécurité et la confidentialité des échanges entre les parties et la juridiction. Elles permettent également
+d'établir de manière certaine la date et l'heure de la mise à disposition d'un document ainsi que celles de sa première
+consultation par son destinataire. Un arrêté du garde des sceaux, ministre de la justice, définit ces caractéristiques, les
+exigences techniques qui doivent être respectées par les utilisateurs et leurs modalités d'inscription.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
+
+_Cité par_:
+
+  - Code de justice administrative - art. R632-1 (VD)
+
+
+###### Article R414-4
+
+L'identification de l'auteur de la requête, selon les modalités prévues par l'arrêté mentionné à l'article R. 414-3, vaut
+signature pour l'application des dispositions du présent code.
+
+Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du
+code civil, le requérant ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête
+revêtu de sa signature manuscrite.
+
+Lorsqu'un requérant introduit une requête présentée par plusieurs personnes physiques ou morales, cette requête doit être
+revêtue de la signature des autres requérants.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
+
+_Cite_:
+
+  - Code civil - art. 1367
+
+
+###### Article R414-5
+
+Par dérogation aux dispositions des articles R. 411-3, R. 411-4, R. 412-1, R. 412-2 et R. 611-1-1, le requérant est dispensé
+de produire des copies de sa requête, de ses mémoires complémentaires et des pièces qui y sont jointes. Il est également
+dispensé de transmettre l'inventaire détaillé des pièces lorsqu'il utilise le téléservice mentionné à l'article R. 414-2 ou
+recourt à la génération automatique de l'inventaire permise par l'application mentionnée à l'article R. 414-1.
+
+Le requérant transmet chaque pièce par un fichier distinct, à peine d'irrecevabilité de sa requête. Cette obligation est
+applicable à la transmission des pièces jointes aux mémoires complémentaires, sous peine pour le requérant de voir ces pièces
+écartées des débats après invitation à régulariser non suivie d'effet.
+
+Chaque fichier transmis au moyen de l'application mentionnée à l'article R. 414-1 porte un intitulé commençant par le numéro
+d'ordre affecté à la pièce qu'il contient par l'inventaire détaillé. Lorsque le requérant recourt à la génération automatique
+de l'inventaire permise par l'application, l'intitulé du fichier décrit également le contenu de cette pièce de manière
+suffisamment explicite. Chaque pièce transmise au moyen du téléservice mentionné à l'article R. 414-2 porte un intitulé
+décrivant son contenu de manière suffisamment explicite.
+
+Les obligations fixées au précédent alinéa sont prescrites au requérant sous peine de voir la pièce écartée des débats après
+invitation à régulariser non suivie d'effet.
+
+Par dérogation aux dispositions des deuxième et troisième alinéas, lorsque le requérant entend transmettre un nombre
+important de pièces jointes constituant une série homogène eu égard à l'objet du litige, il peut les regrouper dans un ou
+plusieurs fichiers, à la condition que le référencement de ces fichiers ainsi que l'ordre de présentation, au sein de chacun
+d'eux, des pièces qu'ils regroupent soient conformes à l'énumération, figurant à l'inventaire, de toutes les pièces jointes à
+la requête. Le requérant ne peut alors bénéficier de la dispense de transmission de l'inventaire détaillé prévue au premier
+alinéa. Ces obligations sont prescrites au requérant sous peine de voir les pièces écartées des débats après invitation à
+régulariser non suivie d'effet.
+
+Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie électronique, ils sont
+transmis à la juridiction sur support matériel, accompagnés de copies en nombre égal à celui des autres parties augmenté de
+deux. Leur production doit être annoncée par le requérant dans la rubrique correspondante de l'application ou du téléservice.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+Par dérogation au I, les dispositions des premier et troisième alinéas de l'article R. 414-5 du code de justice
+administrative, dans leur rédaction résultant du présent décret, qui dispensent les parties de transmettre un inventaire
+détaillé lorsqu'elles recourent à la génération automatique de l'inventaire permise par l'application mentionnée à l'article
+R. 414-1 du même code et qui fixent les modalités de désignation du fichier dans cette hypothèse, entrent en vigueur le 1er
+juin 2021.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 11 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
+
+
+###### Article R414-6
+
+Si la requête relève d'une procédure qui impose au juge de statuer dans un délai contraint, son auteur le signale dans la
+rubrique correspondante.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -21796,7 +21790,7 @@ _Cité par_:
   - Arrêté du 2 mai 2018 - art. 1 (V)
   - Décret n°2018-1280 du 27 décembre 2018 - art. 1
   - Ordonnance n°2020-305 du 25 mars 2020 - art. 13 (V)
-  - Code de justice administrative - art. R411-5 (V)
+  - Code de justice administrative - art. R411-5 (VD)
   - Code de justice administrative - art. R412-2-1 (VD)
   - Code de justice administrative - art. R414-7 (VD)
   - Code de justice administrative - art. R522-10-1 (VD)
@@ -21815,37 +21809,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-82 du 7 février 2019 - art. 22
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
 
 
 ###### Article R414-7
 
-Les caractéristiques techniques du téléservice mentionné à l'article R. 414-6 garantissent la fiabilité de l'identification
-des parties, l'intégrité des documents adressés ainsi que la sécurité et la confidentialité des échanges entre les parties et
-la juridiction. Elles permettent également d'établir de manière certaine la date et l'heure de la mise à disposition d'un
-document ainsi que celles de sa première consultation par son destinataire. Un arrêté du garde des sceaux, ministre de la
-justice, définit ces caractéristiques, les exigences techniques qui doivent être respectées par les utilisateurs du
-téléservice et les modalités de leur inscription dans cette application.
+Les formalités prévues par les articles R. 413-5 et R. 413-6 sont réalisées par voie électronique. L'arrivée de la requête et
+des différents mémoires est certifiée par l'accusé de réception délivré par voie électronique.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 6° de l'article 3 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
 
 _Cite_:
 
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 _Cité par_:
 
@@ -21853,137 +21838,7 @@ _Cité par_:
   - Code de justice administrative - art. R611-8-8 (V)
 
 
-###### Article R414-8
-
-L'identification de l'auteur de la requête, selon les modalités prévues par l'arrêté mentionné à l'article R. 414-7, vaut
-signature pour l'application des dispositions du présent code. 
-
-Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du
-code civil, le requérant peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête revêtu de sa signature
-manuscrite. 
-
-Lorsqu'un requérant introduit une requête présentée par plusieurs personnes physiques ou morales, cette requête doit être
-revêtue de la signature des autres requérants.
-
-**Nota:**
-
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 6° de l'article 3 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
-
-_Cite_:
-
-  - Code civil - art. 1367
-  - Code de justice administrative - art. R414-7
-
-
-###### Article R414-9
-
-Par dérogation aux dispositions des articles R. 411-3, R. 411-4, R. 412-1, R. 412-2 et R. 611-1-1, les requérants sont
-dispensés de produire des copies de leur requête, de leurs mémoires complémentaires et des pièces qui y sont jointes, ainsi
-qu'un inventaire détaillé de ces pièces.
-
-Chacune des pièces transmises par le requérant doit l'être par un fichier distinct à peine d'irrecevabilité de la requête.
-Toutes les pièces doivent porter un intitulé décrivant leur contenu de manière suffisamment explicite sous peine, après
-invitation à régulariser non suivie d'effet, d'être écartées des débats.
-
-Les mêmes obligations sont applicables aux autres mémoires du requérant, sous peine pour celui-ci, après invitation à
-régulariser non suivie d'effet, de voir ses écritures écartées des débats.
-
-Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie électronique, ils sont
-transmis sur support matériel, accompagnés de copies en nombre égal à celui des autres parties augmenté de deux. Leur
-production doit être annoncée dans la rubrique correspondante prévue par l'application.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-82 du 7 février 2019 - art. 23
-
-_Abrogé par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
-
-_Cite_:
-
-  - Code de justice administrative - art. R411-3
-  - Code de justice administrative - art. R411-4
-  - Code de justice administrative - art. R412-1
-  - Code de justice administrative - art. R412-2
-
-
-###### Article R414-10
-
-Si la requête relève d'une procédure qui impose au juge de statuer dans un délai contraint, son auteur le signale dans la
-rubrique correspondante.
-
-**Nota:**
-
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 6° de l'article 3 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
-
-
-###### Article R414-11
-
-Les formalités prévues par les articles R. 413-5 et R. 413-6 sont réalisées par voie électronique. L'arrivée de la requête et
-des différents mémoires est certifiée par l'accusé de réception délivré par le téléservice.
-
-**Nota:**
-
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 6° de l'article 3 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-1245 du 9 octobre 2020 - art. 4
-
-_Cite_:
-
-  - Code de justice administrative - art. R413-5
-  - Code de justice administrative - art. R413-6
-
-
-### Titre II : Les délais<a id=277></a>
+### Titre II : Les délais<a id=275></a>
 
 ###### Article R421-1
 
@@ -22188,9 +22043,9 @@ _Cite_:
   - Code de justice administrative - art. R421-1
 
 
-### Titre III : La représentation des parties<a id=278></a>
+### Titre III : La représentation des parties<a id=276></a>
 
-#### Chapitre Ier : La représentation des parties devant le tribunal administratif<a id=279></a>
+#### Chapitre Ier : La représentation des parties devant le tribunal administratif<a id=277></a>
 
 ###### Article R431-1
 
@@ -22554,7 +22409,7 @@ _Créé par_:
   - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 
-#### Chapitre Ier bis : La représentation des parties  devant la cour administrative d'appel<a id=280></a>
+#### Chapitre Ier bis : La représentation des parties  devant la cour administrative d'appel<a id=278></a>
 
 ###### Article R431-11
 
@@ -22610,7 +22465,7 @@ _Cite_:
   - Code de justice administrative - art. R431-8
 
 
-#### Chapitre II : La représentation des parties devant le Conseil d'Etat<a id=281></a>
+#### Chapitre II : La représentation des parties devant le Conseil d'Etat<a id=279></a>
 
 ###### Article R432-1
 
@@ -22744,7 +22599,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2331-5 (V)
 
 
-### Titre IV : L'aide juridictionnelle<a id=282></a>
+### Titre IV : L'aide juridictionnelle<a id=280></a>
 
 ###### Article R441-1
 
@@ -22770,9 +22625,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R112 (M)
 
 
-## Livre V : Le référé<a id=283></a>
+## Livre V : Le référé<a id=281></a>
 
-### Titre Ier : Le juge des référés<a id=284></a>
+### Titre Ier : Le juge des référés<a id=282></a>
 
 ###### Article R511-1
 
@@ -22795,9 +22650,9 @@ _Cite_:
   - Code de justice administrative - art. L511-2
 
 
-### Titre II : Le juge des référés statuant en urgence<a id=285></a>
+### Titre II : Le juge des référés statuant en urgence<a id=283></a>
 
-#### Chapitre II : Procédure<a id=286></a>
+#### Chapitre II : Procédure<a id=284></a>
 
 ###### Article R522-1
 
@@ -22853,24 +22708,19 @@ _Cité par_:
 ###### Article R522-3
 
 La requête ainsi que, le cas échéant, l'enveloppe qui la contient porte la mention " référé ". Lorsqu'elle est adressée par
-voie postale, elle l'est par lettre recommandée. 
+voie postale, elle l'est par lettre recommandée.
 
 Par dérogation aux dispositions de l'article R. 414-1, les parties et mandataires mentionnés au premier alinéa de cet article
-non encore inscrits dans l'application informatique peuvent adresser leur requête à la juridiction par tous moyens. 
+non encore inscrits dans l'application informatique peuvent adresser leur requête à la juridiction par tous moyens.
 
 Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou du téléservice
-mentionné à l'article R. 414-6, son auteur signale son urgence en sélectionnant la mention " référé " dans la rubrique
+mentionné à l'article R. 414-2, son auteur signale son urgence en sélectionnant la mention " référé " dans la rubrique
 correspondante.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions de l'article 4 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -22880,12 +22730,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 4
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 5
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
 
 
 ###### Article R522-4
@@ -23112,29 +22961,24 @@ _Cite_:
 ###### Article R522-10-1
 
 Lorsqu'elles sont faites par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou du téléservice
-mentionné à l'article R. 414-6, les notifications et communications des mémoires, des mesures d'instruction, des convocations
+mentionné à l'article R. 414-2, les notifications et communications des mémoires, des mesures d'instruction, des convocations
 et des avis sont réputées reçues dès leur mise à disposition dans l'application.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions de l'article 4 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 4
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 5
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 
 ###### Article R522-11
@@ -23256,7 +23100,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Chapitre III : Voies de recours<a id=287></a>
+#### Chapitre III : Voies de recours<a id=285></a>
 
 ###### Article R523-1
 
@@ -23335,9 +23179,9 @@ _Cite_:
   - Code de justice administrative - art. L521-2 (V)
 
 
-### Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction<a id=288></a>
+### Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction<a id=286></a>
 
-#### Chapitre Ier : Le constat<a id=289></a>
+#### Chapitre Ier : Le constat<a id=287></a>
 
 ###### Article R531-1
 
@@ -23395,7 +23239,7 @@ _Cite_:
   - Code de justice administrative - art. R621-9
 
 
-#### Chapitre II : Le référé instruction<a id=290></a>
+#### Chapitre II : Le référé instruction<a id=288></a>
 
 ###### Article R532-1
 
@@ -23523,7 +23367,7 @@ _Cite_:
   - Code de justice administrative - art. R621-9
 
 
-#### Chapitre III : Voies de recours<a id=291></a>
+#### Chapitre III : Voies de recours<a id=289></a>
 
 ###### Article R533-1
 
@@ -23607,9 +23451,9 @@ _Cite_:
   - Code de justice administrative - art. R532-1 (V)
 
 
-### Titre IV : Le juge des référés accordant une provision<a id=292></a>
+### Titre IV : Le juge des référés accordant une provision<a id=290></a>
 
-#### Chapitre unique.<a id=293></a>
+#### Chapitre unique.<a id=291></a>
 
 ###### Article R541-1
 
@@ -23757,13 +23601,13 @@ _Cité par_:
   - Code de justice administrative - art. R811-16 (V)
 
 
-### Titre V : Dispositions particulières à certains contentieux<a id=294></a>
+### Titre V : Dispositions particulières à certains contentieux<a id=292></a>
 
-#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=295></a>
+#### Chapitre Ier : Le référé en matière de passation de contrats et marchés<a id=293></a>
 
-##### Section 1 : Référé précontractuel<a id=296></a>
+##### Section 1 : Référé précontractuel<a id=294></a>
 
-##### Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs<a id=297></a>
+##### Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs<a id=295></a>
 
 ###### Article R551-1
 
@@ -23784,7 +23628,7 @@ _Modifié par_:
   - Décret n°2016-1481 du 2 novembre 2016 - art. 4
 
 
-##### Sous-section 2 : Contrats passés par les entités adjudicatrices<a id=298></a>
+##### Sous-section 2 : Contrats passés par les entités adjudicatrices<a id=296></a>
 
 ###### Article R551-2
 
@@ -23805,7 +23649,7 @@ _Modifié par_:
   - Décret n°2016-1481 du 2 novembre 2016 - art. 4
 
 
-##### Sous-section 3 : Dispositions communes<a id=299></a>
+##### Sous-section 3 : Dispositions communes<a id=297></a>
 
 ###### Article R551-3
 
@@ -23892,9 +23736,9 @@ _Cite_:
   - Code de justice administrative - art. L551-6
 
 
-##### Section 2 : Référé contractuel<a id=300></a>
+##### Section 2 : Référé contractuel<a id=298></a>
 
-##### Sous-section 1 : Nature et présentation du recours<a id=301></a>
+##### Sous-section 1 : Nature et présentation du recours<a id=299></a>
 
 ###### Article R551-7
 
@@ -24017,7 +23861,7 @@ _Cite_:
   - Code de justice administrative - art. L551-17 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer<a id=302></a>
+##### Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer<a id=300></a>
 
 ###### Article R551-11
 
@@ -24062,7 +23906,7 @@ _Cite_:
   - Code de justice administrative - art. R551-7-1 (V)
 
 
-#### Chapitre IV : Les régimes spéciaux de suspension<a id=303></a>
+#### Chapitre IV : Les régimes spéciaux de suspension<a id=301></a>
 
 ###### Article R554-1
 
@@ -24088,7 +23932,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Le référé en matière d'informatique et libertés<a id=304></a>
+#### Chapitre V : Le référé en matière d'informatique et libertés<a id=302></a>
 
 ###### Article R555-1
 
@@ -24152,7 +23996,7 @@ _Modifié par_:
   - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 
-#### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation<a id=305></a>
+#### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation<a id=303></a>
 
 ###### Article R556-1
 
@@ -24177,7 +24021,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L511-3 (V)
 
 
-#### Chapitre VII : Le référé sur saisine du Défenseur des droits<a id=306></a>
+#### Chapitre VII : Le référé sur saisine du Défenseur des droits<a id=304></a>
 
 ###### Article R557-1
 
@@ -24220,7 +24064,7 @@ _Créé par_:
   - Décret n°2011-904 du 29 juillet 2011 - art. 10
 
 
-#### Chapitre VIII : Le référé en matière de secret des affaires<a id=307></a>
+#### Chapitre VIII : Le référé en matière de secret des affaires<a id=305></a>
 
 ###### Article R557-3
 
@@ -24243,13 +24087,13 @@ _Cité par_:
   - Code de justice administrative - art. R77-13-2 (V)
 
 
-## Livre VI : L'instruction<a id=308></a>
+## Livre VI : L'instruction<a id=306></a>
 
-### Titre Ier : La procédure ordinaire<a id=309></a>
+### Titre Ier : La procédure ordinaire<a id=307></a>
 
-#### Chapitre Ier : La communication de la requête et des mémoires<a id=310></a>
+#### Chapitre Ier : La communication de la requête et des mémoires<a id=308></a>
 
-##### Section 1 : Dispositions générales<a id=311></a>
+##### Section 1 : Dispositions générales<a id=309></a>
 
 ###### Article R611-1
 
@@ -24302,20 +24146,25 @@ _Créé par_:
 
 Sauf s'il est signé par l'un des mandataires mentionnés à l'article R. 431-2, le mémoire en défense ou en intervention
 présenté par plusieurs personnes physiques ou morales doit comporter, parmi les signataires, la désignation d'un représentant
-unique. 
+unique.
 
 A défaut, le premier dénommé est avisé par le greffe qu'il est considéré comme le représentant mentionné à l'alinéa
 précédent, sauf à provoquer de la part des autres signataires, qui en informent la juridiction, la désignation d'un autre
-représentant unique choisi parmi eux. 
+représentant unique choisi parmi eux.
 
-La production d'un mémoire en défense ou en intervention au moyen d'une des applications mentionnées aux articles R. 414-1 et
-R. 414-6, emporte désignation de la personne qui l'a produit comme représentant unique. 
+La production d'un mémoire en défense ou en intervention au moyen de l'application mentionnée à l'article R. 414-1 ou du
+téléservice mentionné à l'article R. 414-2, emporte désignation de la personne qui l'a produit comme représentant unique.
 
 Lorsqu'un mémoire en défense ou en intervention est signé par un mandataire, les actes de procédure sont accomplis à son
-égard à l'exception de la notification de la décision prévue aux articles R. 751-1 à R. 751-4. 
+égard à l'exception de la notification de la décision prévue aux articles R. 751-1 à R. 751-4.
 
 Lorsqu'un mémoire en défense ou en intervention est présenté par plusieurs personnes physiques ou morales, tous les actes de
 la procédure sont accomplis à l'égard du représentant unique mentionné premier, deuxième et troisième alinéas.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -24333,11 +24182,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 _Cite_:
 
-  - Code de justice administrative - art. R414-1 (V)
+  - Code de justice administrative - art. R414-1
   - Code de justice administrative - art. R431-2
   - Code de justice administrative - art. R751-1
 
@@ -24673,50 +24522,44 @@ _Cité par_:
   - Code de la santé publique - art. R4126-16 (V)
 
 
-##### Section 2 : Dispositions propres à la communication électronique<a id=312></a>
-
-##### Sous-section 1 : Dispositions applicables aux personnes publiques, aux avocats et aux organismes de droit privé chargés de la gestion permanente d'un service public<a id=313></a>
+##### Section 2 : Dispositions propres à la communication électronique<a id=310></a>
 
 ###### Article R611-8-2
 
 Toute juridiction peut adresser par le moyen de l'application informatique mentionnée à l'article R. 414-1, à une partie ou à
 un mandataire qui y est inscrit, toutes les communications et notifications prévues par le présent livre pour tout dossier.
 
-Les parties ou leur mandataire sont réputés avoir reçu la communication ou la notification à la date de première consultation
-du document qui leur a été ainsi adressé, certifiée par l'accusé de réception délivré par l'application informatique, ou, à
-défaut de consultation dans un délai de deux jours ouvrés à compter de la date de mise à disposition du document dans
-l'application, à l'issue de ce délai. Sauf demande contraire de leur part, les parties ou leur mandataire sont alertés de
-toute nouvelle communication ou notification par un message électronique envoyé à l'adresse choisie par eux.
+Les personnes mentionnées au premier alinéa de l'article R. 414-1 doivent s'inscrire dans l'application mentionnée à cet
+article et adresser à la juridiction leurs mémoires en défense et les pièces qui y sont jointes au moyen de cette
+application, sous peine de voir leurs écritures écartées des débats à défaut de régularisation dans un délai imparti par la
+juridiction. Les communes de moins de 3 500 habitants peuvent être invitées par le greffe à s'inscrire dans cette application
+et à produire leurs mémoires en défense et les pièces qui y sont jointes par ce moyen.
 
-Lorsque le juge est tenu, en application d'une disposition législative ou réglementaire, de statuer dans un délai inférieur
-ou égal à un mois, la communication ou la notification est réputée reçue dès sa mise à disposition dans l'application.
+Toute juridiction peut adresser par le moyen de l'application informatique mentionnée à l'article R. 414-1, aux personnes
+mentionnées par le même article et non encore inscrites dans cette application, toutes les communications et notifications
+prévues par le présent livre, sous réserve de les en avertir à chaque fois par un courrier leur indiquant les modalités de
+connexion à l'application. Ce courrier est adressé par lettre remise contre signature ou par tout autre dispositif permettant
+d'attester la date de sa réception, lorsqu'il avertit son destinataire d'une communication ou d'une des notifications
+mentionnées au deuxième alinéa de l'article R. 611-3. La partie est réputée avoir reçu la communication ou la notification à
+la date de première consultation du document, certifiée par l'accusé de réception délivré par l'application informatique, ou,
+à défaut de consultation dans un délai de quinze jours à compter de la date de réception du courrier, à l'issue de ce délai.
+Toutefois, les communes de moins de 3 500 habitants peuvent demander, dans ce même délai, à recevoir communication ou
+notification du document par voie postale.
 
-Les parties et mandataires inscrits dans l'application doivent adresser tous leurs mémoires et pièces au moyen de celle-ci,
-sous peine de voir leurs écritures écartées des débats à défaut de régularisation dans un délai imparti par la juridiction.
-Par dérogation aux dispositions de l'article R. 611-1-1, ils sont dispensés de produire des copies de leurs mémoires et des
-pièces qui y sont jointes. Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie
-électronique, ils sont transmis sur support matériel, accompagnés de copies en nombre égal à celui des autres parties
-augmenté de deux. L'inventaire des pièces transmis par voie électronique en fait mention.
+**Nota:**
 
-Lorsque les parties et mandataires inscrits dans l'application transmettent, à l'appui de leur mémoire, un fichier unique
-comprenant plusieurs pièces, chacune d'entre elles doit être répertoriée par un signet la désignant conformément à
-l'inventaire qui en est dressé. S'ils transmettent un fichier par pièce, l'intitulé de chacun d'entre eux doit être conforme
-à cet inventaire. Ces obligations sont prescrites aux parties et mandataires inscrits dans l'application sous peine de voir
-leurs écritures écartées des débats à défaut de régularisation dans un délai imparti par la juridiction.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-82 du 7 février 2019 - art. 32
-
-_Cite_:
-
-  - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-2
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 _Cité par_:
 
+  - Code de justice administrative - art. R611-8-3 (VD)
   - Code de justice administrative - art. R626-4 (VD)
   - Code de justice administrative - art. R711-2-1 (V)
   - Code de justice administrative - art. R776-20-1 (VD)
@@ -24726,119 +24569,124 @@ _Cité par_:
 
 ###### Article R611-8-3
 
-Le greffe peut adresser par le moyen de l'application informatique mentionnée à l'article R. 414-1, aux parties visées par le
-même article et non encore inscrites dans cette application, toutes les communications et notifications prévues par le
-présent livre, sous réserve de les en avertir à chaque fois par un courrier leur indiquant les modalités de connexion à
-l'application. Ce courrier est adressé par lettre remise contre signature ou par tout autre dispositif permettant d'attester
-la date de sa réception lorsqu'il avertit son destinataire d'une communication ou d'une notification mentionnée au deuxième
-alinéa de l'article R. 611-3.
+La juridiction peut proposer aux personnes physiques et morales de droit privé non représentées par un avocat, autres que les
+organismes de droit privé chargés de la gestion permanente d'un service public, d'utiliser le téléservice mentionné à
+l'article R. 414-2.
 
-La partie est réputée avoir reçu la communication ou la notification à la date de première consultation du document,
-certifiée par l'accusé de réception délivré par l'application informatique, ou, à défaut de consultation dans un délai de
-quinze jours à compter de la date de réception du courrier, à l'issue de ce délai. Toutefois, les communes de moins de 3 500
-habitants peuvent demander, dans ce même délai, à recevoir communication ou notification du document par voie postale.
+Lorsque les personnes concernées acceptent, pour une instance donnée, l'usage de cette application, elles doivent, pour
+l'instance considérée, communiquer leurs mémoires et les pièces qui y sont jointes à la juridiction au moyen du téléservice,
+sous peine de voir leurs écritures écartées des débats à défaut de régularisation dans un délai imparti par la juridiction.
+La juridiction peut leur adresser par cette application et pour cette instance, toutes les communications et notifications
+prévues par le présent livre.
 
-Les personnes mentionnées au premier alinéa de l'article R. 414-1 doivent s'inscrire dans l'application et adresser leurs
-mémoires et pièces selon les modalités prévues par les deux derniers alinéas de l'article R. 611-8-2.
+**Nota:**
 
-Les communes de moins de 3 500 habitants peuvent être invitées par le greffe à s'inscrire dans l'application et à produire
-leurs mémoires et leurs pièces par ce moyen. Elles peuvent également être invitées à transmettre leurs mémoires et pièces par
-voie de télécopie.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
   - Code de justice administrative - art. R611-3
-  - Code de justice administrative - art. R611-8-2 (M)
+  - Code de justice administrative - art. R611-8-2 (VD)
 
 _Cité par_:
 
-  - Code de justice administrative - art. R611-8-4 (V)
+  - Code de justice administrative - art. R611-8-4 (VD)
 
 
 ###### Article R611-8-4
 
-Lorsqu'une partie ou son mandataire adresse un mémoire ou des pièces par l'application informatique mentionnée à l'article R.
-414-1, son identification selon les modalités prévues par l'arrêté mentionné à l'article R. 414-1-1 vaut signature pour
-l'application des dispositions du présent code. 
+Les dispositions de l'article R. 414-4 sont applicables à l'identification de l'auteur d'un mémoire en défense.
 
-Toutefois, lorsque le mémoire n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du
-code civil, la partie ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire du mémoire revêtu de
-sa signature manuscrite. Il en va de même pour les mémoires produits par voie de télécopie, dans les conditions prévues par
-le dernier alinéa de l'article R. 611-8-3. 
+**Nota:**
 
-Lorsqu'une personne morale mentionnée à l'article R. 414-1 produit un mémoire en défense présenté par plusieurs personnes
-physiques ou morales, ce mémoire doit être revêtu de la signature des autres défendeurs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code civil - art. 1367 (V)
-  - Code de justice administrative - art. R414-1 (V)
-  - Code de justice administrative - art. R414-1-1 (V)
-  - Code de justice administrative - art. R611-8-3 (V)
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 
 ###### Article R611-8-5
 
-Lorsque l'original d'une pièce communiquée par l'application informatique mentionnée à l'article R. 414-1 a été établi sur
-support papier, le président de la formation de jugement ou, le président de la chambre chargée de l'instruction peut en
-ordonner la production à tout moment et, au plus tard, à l'audience. Si cette pièce doit être produite à l'audience, la
-partie intéressée en est préalablement avisée.
+Par dérogation aux dispositions de l'article R. 611-1-1, le défendeur est dispensé de produire des copies de ses mémoires et
+des pièces qui y sont jointes. Il est également dispensé de transmettre l'inventaire détaillé des pièces lorsqu'il utilise le
+téléservice mentionné à l'article R. 414-2 ou recourt à la génération automatique de l'inventaire permise par l'application
+mentionnée à l'article R. 414-1.
+
+Le défendeur transmet chaque pièce par un fichier distinct sous peine de voir ces pièces écartées des débats après invitation
+à régulariser non suivie d'effet.
+
+Chaque fichier transmis au moyen de l'application mentionnée à l'article R. 414-1 porte un intitulé commençant par le numéro
+d'ordre affecté à la pièce qu'il contient par l'inventaire détaillé. Lorsque le défendeur recourt à la génération automatique
+de l'inventaire permise par l'application, l'intitulé de ce fichier décrit également le contenu de cette pièce de manière
+suffisamment explicite. Chaque pièce transmise au moyen du téléservice mentionné à l'article R. 414-2 porte un intitulé
+décrivant son contenu de manière suffisamment explicite.
+
+Les obligations fixées au précédent alinéa sont prescrites au défendeur sous peine de voir la pièce écartée des débats après
+invitation à régulariser non suivie d'effet.
+
+Par dérogation aux dispositions des deuxième et troisième alinéas, lorsque le défendeur entend transmettre un nombre
+important de pièces jointes constituant une série homogène eu égard à l'objet du litige, il peut les regrouper dans un ou
+plusieurs fichiers, à la condition que le référencement de ces fichiers ainsi que l'ordre de présentation, au sein de chacun
+d'eux, des pièces qu'ils regroupent soient conformes à l'énumération, figurant à l'inventaire, de toutes les pièces jointes à
+la requête. Le défendeur ne peut alors bénéficier de la dispense de transmission de l'inventaire détaillé prévue au premier
+alinéa. Ces obligations sont prescrites au défendeur sous peine de voir les pièces écartées des débats après invitation à
+régulariser non suivie d'effet.
+
+Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie électronique, ils sont
+transmis à la juridiction sur support matériel, accompagnés de copies en nombre égal à celui des autres parties augmenté de
+deux. Leur production doit être annoncée par le requérant dans la rubrique correspondante de l'application ou du téléservice.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+Par dérogation au I, les dispositions des premier et troisième alinéas de l'article R. 611-8-5 du code de justice
+administrative, dans leur rédaction résultant du présent décret, qui dispensent les parties de transmettre un inventaire
+détaillé lorsqu'elles recourent à la génération automatique de l'inventaire permise par l'application mentionnée à l'article
+R. 414-1 du même code et qui fixent les modalités de désignation du fichier dans cette hypothèse, entrent en vigueur le 1er
+juin 2021.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
 
 _Cité par_:
 
   - Décret n°2020-1245 du 9 octobre 2020 - art. 11 (VD)
-  - Code de justice administrative - art. R611-10 (V)
+  - Code de justice administrative - art. R611-10 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de justice administrative - art. R414-1 (V)
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
-
-##### Sous-section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public<a id=314></a>
 
 ###### Article R611-8-6
 
-Lorsqu'une partie a accepté, pour une instance donnée, l'utilisation du téléservice mentionné à l'article R. 414-6, la
-juridiction peut lui adresser par cette application, et pour cette instance, toutes les communications et notifications
-prévues par le présent livre. 
-
 Les parties sont réputées avoir reçu la communication ou la notification à la date de première consultation du document qui
-leur a été ainsi adressé, certifiée par l'accusé de réception délivré par l'application informatique, ou, à défaut de
-consultation dans un délai de deux jours ouvrés à compter de la date de mise à disposition du document dans l'application, à
-l'issue de ce délai. Sauf demande contraire de leur part, les parties sont alertées de toute nouvelle communication ou
-notification par un message électronique envoyé à l'adresse choisie par elles. 
+leur a été adressé par voie électronique, certifiée par l'accusé de réception délivré par l'application informatique, ou, à
+défaut de consultation dans un délai de deux jours ouvrés à compter de la date de mise à disposition du document dans
+l'application, à l'issue de ce délai. Sauf demande contraire de leur part, les parties sont alertées de toute nouvelle
+communication ou notification par un message électronique envoyé à l'adresse choisie par elles.
 
 Lorsque le juge est tenu, en application d'une disposition législative ou réglementaire, de statuer dans un délai inférieur
-ou égal à un mois, la communication ou la notification est réputée reçue dès sa mise à disposition dans l'application.
+ou égal à un mois, la communication ou la notification est réputée reçue dès sa mise à disposition dans l'application ou le
+téléservice.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 13° de l'article 5 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour
-les instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -24848,51 +24696,32 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de justice administrative - art. R414-6 (VD)
-
-
-###### Article R611-8-7
-
-La juridiction peut, dans les instances en cours, proposer aux personnes physiques et morales de droit privé non représentées
-par un avocat, autres que les organismes de droit privé chargés de la gestion permanente d'un service public, d'utiliser le
-téléservice mentionné à l'article R. 414-6.
-
-Si les personnes concernées acceptent, pour une instance donnée, l'usage de cette application, elles doivent, pour l'instance
-considérée, communiquer leurs mémoires et pièces à la juridiction au moyen du téléservice. Chacune des pièces transmises doit
-l'être par un fichier distinct et doit porter un intitulé décrivant son contenu de manière suffisamment explicite. Le respect
-de ces obligations est prescrit à ces personnes sous peine de voir leurs écritures écartées des débats à défaut de
-régularisation dans un délai imparti par la juridiction.
-
-Par dérogation aux dispositions de l'article R. 611-1-1, les personnes utilisant le téléservice mentionné à l'article R.
-414-6 sont dispensées de produire des copies de leurs mémoires et des pièces qui y sont jointes, ainsi qu'un inventaire
-détaillé de ces pièces. Si les caractéristiques de certains mémoires ou pièces font obstacle à leur communication par voie
-électronique, ils sont transmis sur support matériel, accompagnés de copies en nombre égal à celui des autres parties
-augmenté de deux. Leur production doit être annoncée dans la rubrique correspondante prévue par l'application.
-
-**Nota:**
-
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 14° de l'article 5 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour
-les instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-82 du 7 février 2019 - art. 33
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 _Cite_:
 
   - Code de justice administrative - art. R414-6
 
+
+###### Article R611-8-7
+
+Lorsque l'original d'une pièce communiquée par voie électronique a été établi sur support matériel, le président de la
+formation de jugement ou le président de la chambre chargée de l'instruction peut en ordonner la production à tout moment et,
+au plus tard, à l'audience. Si cette pièce doit être produite à l'audience, la partie intéressée en est préalablement avisée.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
+
+
+##### Sous-section 2 : Dispositions applicables aux personnes de droit privé autres que celles chargées de la gestion permanente d'un service public<a id=311></a>
 
 ###### Article R611-8-8
 
@@ -24962,7 +24791,7 @@ _Cité par_:
   - Code de justice administrative - art. R611-10 (VD)
 
 
-##### Section 3 : Dispositions applicables devant les tribunaux administratifs<a id=315></a>
+##### Section 3 : Dispositions applicables devant les tribunaux administratifs<a id=312></a>
 
 ###### Article R611-9
 
@@ -24998,38 +24827,33 @@ _Cité par_:
 Sous l'autorité du président de la chambre à laquelle il appartient et avec le concours du greffier de cette chambre, le
 rapporteur fixe, eu égard aux circonstances de l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut
 demander aux parties, pour être jointes à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution
-du litige. 
+du litige.
 
 Le président de la formation de jugement peut déléguer au rapporteur les pouvoirs qui lui sont conférés par les articles R.
-611-7, R. 611-7-1, R. 611-8-1, R. 611-8-5, R. 611-8-9, R. 611-11, R. 612-3, R. 612-5, R. 613-1, R. 613-1-1 et R. 613-4.
+611-7, R. 611-7-1, R. 611-8-1, R. 611-8-7, R. 611-11, R. 612-3, R. 612-5, R. 613-1, R. 613-1-1 et R. 613-4.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 15° de l'article 5 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour
-les instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 5
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 6
 
 _Cite_:
 
   - Code de justice administrative - art. R611-11
   - Code de justice administrative - art. R611-7
-  - Code de justice administrative - art. R611-7-1 (V)
+  - Code de justice administrative - art. R611-7-1
   - Code de justice administrative - art. R611-8-1
-  - Code de justice administrative - art. R611-8-5
-  - Code de justice administrative - art. R611-8-9 (V)
+  - Code de justice administrative - art. R611-8-5 (VD)
+  - Code de justice administrative - art. R611-8-9
   - Code de justice administrative - art. R612-5
   - Code de justice administrative - art. R613-1
-  - Code de justice administrative - art. R613-1-1 (V)
+  - Code de justice administrative - art. R613-1-1
   - Code de justice administrative - art. R613-4
 
 _Cité par_:
@@ -25205,7 +25029,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R144 (M)
 
 
-##### Section  4 : Dispositions applicables devant les cours administratives d'appel<a id=316></a>
+##### Section  4 : Dispositions applicables devant les cours administratives d'appel<a id=313></a>
 
 ###### Article R611-16
 
@@ -25303,7 +25127,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R148 (M)
 
 
-##### Section 5 : Dispositions applicables devant le Conseil d'Etat<a id=317></a>
+##### Section 5 : Dispositions applicables devant le Conseil d'Etat<a id=314></a>
 
 ###### Article R611-20
 
@@ -25554,7 +25378,7 @@ _Cite_:
   - Code de justice administrative - art. R611-1 (V)
 
 
-##### Section 6 : De la protection des pièces couvertes par le secret des affaires<a id=318></a>
+##### Section 6 : De la protection des pièces couvertes par le secret des affaires<a id=315></a>
 
 ###### Article R611-30
 
@@ -25572,7 +25396,7 @@ _Cite_:
   - Code de justice administrative - art. R412-2-1
 
 
-#### Chapitre II : La confirmation de la requête, la régularisation et la mise en demeure<a id=319></a>
+#### Chapitre II : La confirmation de la requête, la régularisation et la mise en demeure<a id=316></a>
 
 ###### Article R612-1
 
@@ -25782,9 +25606,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R153 (M)
 
 
-#### Chapitre III : La clôture de l'instruction<a id=320></a>
+#### Chapitre III : La clôture de l'instruction<a id=317></a>
 
-##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=321></a>
+##### Section 1 : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=318></a>
 
 ###### Article R613-1
 
@@ -25937,7 +25761,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R157 (M)
 
 
-##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=322></a>
+##### Section 2 : Dispositions applicables au Conseil d'Etat<a id=319></a>
 
 ###### Article R613-5
 
@@ -25966,9 +25790,9 @@ _Modifié par_:
   - Décret n°2019-82 du 7 février 2019 - art. 38
 
 
-### Titre II : Les différents moyens d'investigation<a id=323></a>
+### Titre II : Les différents moyens d'investigation<a id=320></a>
 
-#### Chapitre Ier : L'expertise<a id=324></a>
+#### Chapitre Ier : L'expertise<a id=321></a>
 
 ###### Article R621-1
 
@@ -26029,7 +25853,7 @@ _Cite_:
   - Code de justice administrative - art. R621-8-1
 
 
-##### Section 1 : Nombre et désignation des experts<a id=325></a>
+##### Section 1 : Nombre et désignation des experts<a id=322></a>
 
 ###### Article R621-2
 
@@ -26211,7 +26035,7 @@ _Créé par_:
   - Décret n°2010-164 du 22 février 2010 - art. 39
 
 
-##### Section 2 : Opérations d'expertise<a id=326></a>
+##### Section 2 : Opérations d'expertise<a id=323></a>
 
 ###### Article R621-7
 
@@ -26332,7 +26156,7 @@ _Cite_:
   - Code de justice administrative - art. R711-2
 
 
-##### Section 3 : Rapport d'expertise<a id=327></a>
+##### Section 3 : Rapport d'expertise<a id=324></a>
 
 ###### Article R621-9
 
@@ -26397,7 +26221,7 @@ _Cité par_:
   - Code de justice administrative - art. R625-2 (VD)
 
 
-##### Section 4 : Frais d'expertise<a id=328></a>
+##### Section 4 : Frais d'expertise<a id=325></a>
 
 ###### Article R621-11
 
@@ -26576,7 +26400,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R170 (Ab)
 
 
-#### Chapitre II : La visite des lieux<a id=329></a>
+#### Chapitre II : La visite des lieux<a id=326></a>
 
 ###### Article R622-1
 
@@ -26608,9 +26432,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R171 (M)
 
 
-#### Chapitre III : L'enquête<a id=330></a>
+#### Chapitre III : L'enquête<a id=327></a>
 
-##### Section 1 : Procédure de l'enquête<a id=331></a>
+##### Section 1 : Procédure de l'enquête<a id=328></a>
 
 ###### Article R623-1
 
@@ -26736,7 +26560,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R176 (Ab)
 
 
-##### Section 2 : Procès-verbal de l'enquête<a id=332></a>
+##### Section 2 : Procès-verbal de l'enquête<a id=329></a>
 
 ###### Article R623-6
 
@@ -26787,7 +26611,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R178 (Ab)
 
 
-##### Section 3 : Frais de l'enquête<a id=333></a>
+##### Section 3 : Frais de l'enquête<a id=330></a>
 
 ###### Article R623-8
 
@@ -26813,7 +26637,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R179 (Ab)
 
 
-#### Chapitre IV : Les vérifications d'écritures<a id=334></a>
+#### Chapitre IV : Les vérifications d'écritures<a id=331></a>
 
 ###### Article R624-1
 
@@ -26863,7 +26687,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R181 (Ab)
 
 
-#### Chapitre V : Les autres mesures d'instruction<a id=335></a>
+#### Chapitre V : Les autres mesures d'instruction<a id=332></a>
 
 ###### Article R625-1
 
@@ -26934,7 +26758,7 @@ _Créé par_:
   - Décret n°2010-164 du 22 février 2010 - art. 46
 
 
-#### Chapitre VI : Dispositions diverses<a id=336></a>
+#### Chapitre VI : Dispositions diverses<a id=333></a>
 
 ###### Article R626-1
 
@@ -26997,25 +26821,12 @@ _Cite_:
 
 Les notifications auxquelles donnent lieu les mesures d'instruction ordonnées par la juridiction ou l'un de ses membres, par
 application des articles R. 621-1 à R. 626-3, sont faites conformément aux dispositions des articles R. 611-3, R. 611-4, R.
-611-8-2 et R. 611-8-4.
+611-8-2 et      R. 611-8-3.
 
 **Nota:**
 
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
-2012-1437 pour le Conseil d'Etat.
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -27025,13 +26836,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 7
 
 _Cite_:
 
-  - Code de justice administrative - art. R611-3 (V)
-  - Code de justice administrative - art. R611-8-2 (VD)
-  - Code de justice administrative - art. R621-1 (V)
+  - Code de justice administrative - art. R611-3
+  - Code de justice administrative - art. R611-8-2
+  - Code de justice administrative - art. R621-1
 
 _Cité par_:
 
@@ -27043,9 +26854,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R185 (Ab)
 
 
-### Titre III : Les incidents de l'instruction<a id=337></a>
+### Titre III : Les incidents de l'instruction<a id=334></a>
 
-#### Chapitre Ier : La demande incidente<a id=338></a>
+#### Chapitre Ier : La demande incidente<a id=335></a>
 
 ###### Article R631-1
 
@@ -27069,17 +26880,14 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : L'intervention<a id=339></a>
+#### Chapitre II : L'intervention<a id=336></a>
 
 ###### Article R632-1
 
 L'intervention est formée par mémoire distinct.
 
-Lorsque l'intervention est formée par une personne mentionnée au premier alinéa de l'article R. 414-1, elle est présentée
-dans les conditions prévues par cet article et par l'article R. 414-3.
-
-Lorsque l'intervention est formée au moyen du téléservice mentionné à l'article R. 414-6, elle est présentée dans les
-conditions prévues par cet article.
+Les dispositions du chapitre IV du titre Ier du livre IV relatif à la transmission des requêtes par voie électronique sont
+applicables aux interventions.
 
 Le président de la formation de jugement ou le président de la chambre chargée de l'instruction ordonne, s'il y a lieu, que
 ce mémoire en intervention soit communiqué aux parties et fixe le délai imparti à celles-ci pour y répondre.
@@ -27088,11 +26896,8 @@ Néanmoins, le jugement de l'affaire principale qui est instruite ne peut être 
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -27107,17 +26912,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 6
-  - Décret n°2019-82 du 7 février 2019 - art. 42
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 8
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
   - Code de justice administrative - art. R414-3
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 
-#### Chapitre III : L'inscription de faux<a id=340></a>
+#### Chapitre III : L'inscription de faux<a id=337></a>
 
 ###### Article R633-1
 
@@ -27145,7 +26949,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=341></a>
+#### Chapitre IV : Les reprises d'instance et constitution de nouvel avocat<a id=338></a>
 
 ###### Article R634-1
 
@@ -27188,7 +26992,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre V : Le désaveu<a id=342></a>
+#### Chapitre V : Le désaveu<a id=339></a>
 
 ###### Article R635-1
 
@@ -27249,7 +27053,7 @@ _Modifié par_:
   - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
-#### Chapitre VI : Le désistement<a id=343></a>
+#### Chapitre VI : Le désistement<a id=340></a>
 
 ###### Article R636-1
 
@@ -27278,11 +27082,11 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R189 (Ab)
 
 
-## Livre VII : Le jugement<a id=344></a>
+## Livre VII : Le jugement<a id=341></a>
 
-### Titre Ier : L'inscription au rôle<a id=345></a>
+### Titre Ier : L'inscription au rôle<a id=342></a>
 
-#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=346></a>
+#### Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=343></a>
 
 ###### Article R711-1
 
@@ -27346,34 +27150,27 @@ _Anciens textes_:
 ###### Article R711-2-1
 
 Les parties ou leur mandataire inscrits dans l'application informatique mentionnée à l'article R. 414-1 peuvent être
-convoqués à l'audience par le moyen de cette application. 
+convoqués à l'audience par le moyen de cette application.
 
-Les parties qui ont accepté l'usage du téléservice mentionné à l'article R. 414-6 pour une affaire peuvent être convoquées au
-moyen de ce téléservice à l'audience à laquelle elle sera appelée. 
+Les parties qui ont accepté l'usage du téléservice mentionné à l'article R. 414-2 pour une affaire peuvent être convoquées au
+moyen de ce téléservice à l'audience à laquelle elle sera appelée.
 
-Les dispositions des deuxième et troisième alinéas de l'article R. 611-8-2 sont applicables.
+Les dispositions de l'article R. 611-8-6 sont applicables.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 1° de l'article 7 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 7
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
-  - Code de justice administrative - art. R611-8-2
 
 _Cité par_:
 
@@ -27422,7 +27219,7 @@ _Anciens textes_:
   - Code de justice administrative. - art. R711-3 (VT)
 
 
-#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=347></a>
+#### Chapitre II : Dispositions applicables au Conseil d'Etat<a id=344></a>
 
 ###### Article R712-1
 
@@ -27473,34 +27270,29 @@ _Cite_:
 ###### Article R712-2
 
 Les parties ou leur mandataire inscrits dans l'application informatique mentionnée à l'article R. 414-1 peuvent être avisés
-ou informés de l'inscription d'une affaire au rôle par le moyen de cette application. 
+ou informés de l'inscription d'une affaire au rôle par le moyen de cette application.
 
-Les parties qui ont accepté l'usage du téléservice mentionné à l'article R. 414-6 pour une affaire peuvent être avisées ou
+Les parties qui ont accepté l'usage du téléservice mentionné à l'article R. 414-2 pour une affaire peuvent être avisées ou
 informées au moyen de ce téléservice de son inscription au rôle.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 2° de l'article 7 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 7
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 
-### Titre II : L'abstention et la récusation<a id=348></a>
+### Titre II : L'abstention et la récusation<a id=345></a>
 
 ###### Article R721-1
 
@@ -27678,9 +27470,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R194 (Ab)
 
 
-### Titre III : La tenue de l'audience et le délibéré<a id=349></a>
+### Titre III : La tenue de l'audience et le délibéré<a id=346></a>
 
-#### Chapitre Ier : Dispositions générales<a id=350></a>
+#### Chapitre Ier : Dispositions générales<a id=347></a>
 
 ###### Article R731-1
 
@@ -27818,7 +27610,7 @@ _Anciens textes_:
   - Code de justice administrative. - art. R731-9 (T)
 
 
-#### Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=351></a>
+#### Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel<a id=348></a>
 
 ###### Article R732-1
 
@@ -27917,7 +27709,7 @@ _Cité par_:
   - Code de justice administrative. - art. R778-4 (VD)
 
 
-#### Chapitre III : Dispositions applicables au Conseil d'Etat<a id=352></a>
+#### Chapitre III : Dispositions applicables au Conseil d'Etat<a id=349></a>
 
 ###### Article R733-1
 
@@ -27976,11 +27768,11 @@ _Cité par_:
   - Code de justice administrative. - art. R712-1 (V)
 
 
-### Titre IV : La décision<a id=353></a>
+### Titre IV : La décision<a id=350></a>
 
-#### Chapitre Ier : Dispositions générales<a id=354></a>
+#### Chapitre Ier : Dispositions générales<a id=351></a>
 
-##### Section 1 : Le prononcé de la décision<a id=355></a>
+##### Section 1 : Le prononcé de la décision<a id=352></a>
 
 ###### Article R741-1
 
@@ -28001,7 +27793,7 @@ _Cité par_:
   - Ordonnance n°2020-305 du 25 mars 2020 - art. 11 (V)
 
 
-##### Section 2 : Les mentions obligatoires de la décision<a id=356></a>
+##### Section 2 : Les mentions obligatoires de la décision<a id=353></a>
 
 ###### Article R741-2
 
@@ -28165,7 +27957,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R203 (Ab)
 
 
-##### Section 3 : La minute de la décision<a id=357></a>
+##### Section 3 : La minute de la décision<a id=354></a>
 
 ###### Article R741-7
 
@@ -28273,7 +28065,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R206 (Ab)
 
 
-##### Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire<a id=358></a>
+##### Section 4 :  La rectification des erreurs matérielles non susceptibles d'avoir exercé une influence sur le jugement de l'affaire<a id=355></a>
 
 ###### Article R741-11
 
@@ -28307,7 +28099,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R205 (M)
 
 
-##### Section 5 : L'amende pour recours abusif<a id=359></a>
+##### Section 5 : L'amende pour recours abusif<a id=356></a>
 
 ###### Article R741-12
 
@@ -28334,7 +28126,7 @@ _Cité par_:
   - Code de la santé publique - art. R4234-33 (V)
 
 
-##### Section 6 : Mise à disposition du public, sous forme électronique, des décisions rendues par les juridictions administratives<a id=360></a>
+##### Section 6 : Mise à disposition du public, sous forme électronique, des décisions rendues par les juridictions administratives<a id=357></a>
 
 ###### Article R741-13
 
@@ -28387,7 +28179,7 @@ _Créé par_:
   - Décret n°2020-797 du 29 juin 2020 - art. 1
 
 
-#### Chapitre II : Dispositions propres aux ordonnances<a id=361></a>
+#### Chapitre II : Dispositions propres aux ordonnances<a id=358></a>
 
 ###### Article R742-1
 
@@ -28518,7 +28310,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-### Titre V : La notification de la décision<a id=362></a>
+### Titre V : La notification de la décision<a id=359></a>
 
 ###### Article R751-1
 
@@ -28661,36 +28453,28 @@ _Anciens textes_:
 
 Par dérogation aux articles R. 751-2, R. 751-3 et R. 751-4, la décision peut être notifiée par le moyen de l'application
 informatique mentionnée à l'article R. 414-1 aux parties qui sont inscrites dans cette application ou du téléservice
-mentionné à l'article R. 414-6 aux parties qui en ont accepté l'usage pour l'instance considérée. 
+mentionné à l'article R. 414-2 aux parties qui en ont accepté l'usage pour l'instance considérée.
 
 Ces parties sont réputées avoir reçu la notification à la date de première consultation de la décision, certifiée par
 l'accusé de réception délivré par l'application informatique, ou, à défaut de consultation dans un délai de deux jours ouvrés
 à compter de la date de mise à disposition de la décision dans l'application, à l'issue de ce délai. Sauf demande contraire
-de leur part, les parties sont alertées de la notification par un message électronique envoyé à l'adresse choisie par elles. 
-
-Cette notification ne fait pas obstacle au droit de la partie intéressée de demander ultérieurement la délivrance d'une
-expédition de la décision, en application de l'article R. 751-7.
+de leur part, les parties sont alertées de la notification par un message électronique envoyé à l'adresse choisie par elles.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 3° de l'article 7 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 7
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
   - Code de justice administrative - art. R751-2
   - Code de justice administrative - art. R751-7
 
@@ -28977,7 +28761,7 @@ _Créé par_:
   - Décret n°2008-452 du 13 mai 2008 - art. 17
 
 
-### Titre VI : Les frais et dépens<a id=363></a>
+### Titre VI : Les frais et dépens<a id=360></a>
 
 ###### Article R761-1
 
@@ -29111,11 +28895,11 @@ _Cite_:
   - Code de justice administrative - art. R761-4
 
 
-### Titre VII : Dispositions spéciales<a id=364></a>
+### Titre VII : Dispositions spéciales<a id=361></a>
 
-#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires<a id=365></a>
+#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires<a id=362></a>
 
-##### Section 1 : La saisine du Tribunal des conflits<a id=366></a>
+##### Section 1 : La saisine du Tribunal des conflits<a id=363></a>
 
 ###### Article R771-1
 
@@ -29139,7 +28923,7 @@ _Modifié par_:
   - Décret n°2015-233 du 27 février 2015 - art. 45
 
 
-##### Section 2 :  La question préjudicielle<a id=367></a>
+##### Section 2 :  La question préjudicielle<a id=364></a>
 
 ###### Article R771-2
 
@@ -29189,9 +28973,9 @@ _Créé par_:
   - Décret n°2015-233 du 27 février 2015 - art. 47
 
 
-#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=368></a>
+#### Chapitre Ier bis : La question prioritaire de constitutionnalité<a id=365></a>
 
-##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=369></a>
+##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel<a id=366></a>
 
 ###### Article R*771-3
 
@@ -29377,7 +29161,7 @@ _Créé par_:
   - Décret n°2010-148 du 16 février 2010 - art. 1
 
 
-##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=370></a>
+##### Section 2 : Dispositions applicables devant le Conseil d'Etat<a id=367></a>
 
 ###### Article R*771-13
 
@@ -29532,7 +29316,7 @@ _Cite_:
   - Code de justice administrative - art. R751-2
 
 
-#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=371></a>
+#### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées<a id=368></a>
 
 ###### Article R772-1
 
@@ -29624,7 +29408,7 @@ _Modifié par_:
   - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
-#### Chapitre II bis : Les contentieux sociaux<a id=372></a>
+#### Chapitre II bis : Les contentieux sociaux<a id=369></a>
 
 ###### Article R772-5
 
@@ -29779,7 +29563,7 @@ _Cité par_:
   - Arrêté du 16 janvier 2019 - art. 1 (V)
 
 
-#### Chapitre III : Le contentieux des élections<a id=373></a>
+#### Chapitre III : Le contentieux des élections<a id=370></a>
 
 ###### Article R773-1
 
@@ -29906,7 +29690,7 @@ _Cité par_:
   - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
-#### Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=374></a>
+#### Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=371></a>
 
 ###### Article R773-7
 
@@ -29928,9 +29712,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L854-9 (V)
 
 
-##### Section 1 : Dispositions générales<a id=375></a>
+##### Section 1 : Dispositions générales<a id=372></a>
 
-##### Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=376></a>
+##### Sous-section 1 : Composition de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat<a id=373></a>
 
 ###### Article R773-8
 
@@ -30012,7 +29796,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte<a id=377></a>
+##### Sous-section 2 : Renvoi de l'affaire à la section du contentieux ou à l'assemblée du contentieux siégeant en formation restreinte<a id=374></a>
 
 ###### Article R773-12
 
@@ -30033,7 +29817,7 @@ _Cité par_:
   - Code de justice administrative - art. R122-20 (V)
 
 
-##### Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux<a id=378></a>
+##### Sous-section 3 : Renvoi préalable d'une question de droit à la section du contentieux ou à l'assemblée du contentieux<a id=375></a>
 
 ###### Article R773-13
 
@@ -30049,7 +29833,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte<a id=379></a>
+##### Sous-section 4 : Composition de la section du contentieux et de l'assemblée du contentieux siégeant en formation restreinte<a id=376></a>
 
 ###### Article R773-14
 
@@ -30156,7 +29940,7 @@ _Modifié par_:
   - Décret n°2016-899 du 1er juillet 2016 - art. 1
 
 
-##### Sous-section 5 : Juge des référés<a id=380></a>
+##### Sous-section 5 : Juge des référés<a id=377></a>
 
 ###### Article R773-18
 
@@ -30177,7 +29961,7 @@ _Cite_:
   - Code de justice administrative - art. L311-4-1 (V)
 
 
-##### Sous-section 6 : Pouvoirs du président de la formation spécialisée<a id=381></a>
+##### Sous-section 6 : Pouvoirs du président de la formation spécialisée<a id=378></a>
 
 ###### Article R773-19
 
@@ -30194,7 +29978,7 @@ _Cite_:
   - Code de justice administrative - art. R122-12
 
 
-##### Sous-section 7 : Instruction<a id=382></a>
+##### Sous-section 7 : Instruction<a id=379></a>
 
 ###### Article R773-20
 
@@ -30260,7 +30044,7 @@ _Cite_:
   - Code de justice administrative - art. L773-3 (V)
 
 
-##### Sous-section 8 : Jugement<a id=383></a>
+##### Sous-section 8 : Jugement<a id=380></a>
 
 ###### Article R773-23
 
@@ -30390,7 +30174,7 @@ _Cite_:
   - Code de justice administrative - art. R731-4 (V)
 
 
-##### Sous-section 9 : Le secrétariat<a id=384></a>
+##### Sous-section 9 : Le secrétariat<a id=381></a>
 
 ###### Article R773-29
 
@@ -30409,9 +30193,9 @@ _Cite_:
   - Code de justice administrative - art. L773-2 (V)
 
 
-##### Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation<a id=385></a>
+##### Section 2 : Dispositions sur les recours relatifs à la mise en œuvre des techniques de renseignement soumises à autorisation<a id=382></a>
 
-##### Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure<a id=386></a>
+##### Sous-section 1 : Les recours formés en application du 1° de l'article L. 841-1 du code de la sécurité intérieure<a id=383></a>
 
 ###### Article R773-30
 
@@ -30452,7 +30236,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L833-4 (V)
 
 
-##### Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure<a id=387></a>
+##### Sous-section 2 : Les recours formés en application du 2° de l'article L. 841-1 du code de la sécurité intérieure<a id=384></a>
 
 ###### Article R773-32
 
@@ -30507,7 +30291,7 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure<a id=388></a>
+##### Sous-section 3 : Les recours formés en application de l'article L. 854-9 du code de la sécurité intérieure<a id=385></a>
 
 ###### Article R773-34-1
 
@@ -30540,7 +30324,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 7
 
 
-##### Section 3 : Saisine à titre préjudiciel<a id=389></a>
+##### Section 3 : Saisine à titre préjudiciel<a id=386></a>
 
 ###### Article R773-35
 
@@ -30567,9 +30351,9 @@ _Créé par_:
   - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-#### Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme<a id=390></a>
+#### Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme<a id=387></a>
 
-##### Section 1 : Dispositions applicables aux recours formés contre les décisions portant renouvellement des mesures prises sur le fondement des 1° à 3° de l'article L. 228-2 et du premier alinéa de l'article L. 228-5 du même code<a id=391></a>
+##### Section 1 : Dispositions applicables aux recours formés contre les décisions portant renouvellement des mesures prises sur le fondement des 1° à 3° de l'article L. 228-2 et du premier alinéa de l'article L. 228-5 du même code<a id=388></a>
 
 ###### Article R773-37
 
@@ -30790,7 +30574,7 @@ _Cité par_:
   - Code de justice administrative - art. R773-44 (V)
 
 
-##### Section 2 : Dispositions applicables aux recours prévus au dernier alinéa des articles L. 228-2 et L. 228-5 du code de la sécurité intérieure<a id=392></a>
+##### Section 2 : Dispositions applicables aux recours prévus au dernier alinéa des articles L. 228-2 et L. 228-5 du code de la sécurité intérieure<a id=389></a>
 
 ###### Article R773-48
 
@@ -30873,9 +30657,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L228-5
 
 
-#### Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles<a id=393></a>
+#### Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles<a id=390></a>
 
-##### Section 1 : Dispositions générales<a id=394></a>
+##### Section 1 : Dispositions générales<a id=391></a>
 
 ###### Article R775-1
 
@@ -30938,7 +30722,7 @@ _Modifié par_:
   - Décret n°2017-305 du 9 mars 2017 - art. 4
 
 
-##### Section 2 : De la protection des pièces couvertes par le secret des affaires<a id=395></a>
+##### Section 2 : De la protection des pièces couvertes par le secret des affaires<a id=392></a>
 
 ###### Article R775-5
 
@@ -30964,7 +30748,7 @@ _Cité par_:
   - Code de justice administrative - art. R775-10 (Ab)
 
 
-##### Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence<a id=396></a>
+##### Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence<a id=393></a>
 
 ###### Article R775-12
 
@@ -31010,7 +30794,7 @@ _Cite_:
   - Code de commerce - art. L483-5 (V)
 
 
-##### Section 4 : Des sanctions<a id=397></a>
+##### Section 4 : Des sanctions<a id=394></a>
 
 ###### Article R775-15
 
@@ -31035,9 +30819,9 @@ _Créé par_:
   - Décret n°2017-305 du 9 mars 2017 - art. 4
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire français<a id=398></a>
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire français<a id=395></a>
 
-##### Section 1 : Dispositions communes<a id=399></a>
+##### Section 1 : Dispositions communes<a id=396></a>
 
 ###### Article R776-1
 
@@ -31431,9 +31215,9 @@ _Créé par_:
   - Décret n°2016-1458 du 28 octobre 2016 - art. 8
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence<a id=400></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention, ou d'assignation à résidence<a id=397></a>
 
-##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile<a id=401></a>
+##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile<a id=398></a>
 
 ###### Article R776-10
 
@@ -31574,7 +31358,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R241-13 (Ab)
 
 
-##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile<a id=402></a>
+##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile<a id=399></a>
 
 ###### Article R776-13-1
 
@@ -31649,7 +31433,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=403></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=400></a>
 
 ###### Article R776-14
 
@@ -31846,23 +31630,18 @@ _Anciens textes_:
 
 ###### Article R776-18
 
-La requête est présentée en un seul exemplaire. 
+La requête est présentée en un seul exemplaire.
 
 Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou par le téléservice
-mentionné à l'article R. 414-6, son auteur signale son urgence en sélectionnant le type de procédure dans la rubrique
-correspondante. 
+mentionné à l'article R. 414-2, son auteur signale son urgence en sélectionnant le type de procédure dans la rubrique
+correspondante.
 
 Les décisions attaquées sont produites par l'administration.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 5° de l'article 7 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -31872,12 +31651,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 7
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 _Cité par_:
 
@@ -31977,34 +31756,20 @@ _Anciens textes_:
 
 ###### Article R776-20-1
 
-Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
-convocations sont réputées reçues dès leur mise à disposition dans l'application.
+Conformément au second alinéa de l'article R. 611-8-6, lorsqu'elles sont faites par voie électronique sur le fondement des
+articles R. 611-8-2, R. 611-8-3 et R. 711-2-1, les communications et convocations sont réputées reçues dès leur mise à
+disposition dans l'application ou le téléservice.
 
 **Nota:**
 
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
-
-_Cite_:
-
-  - Code de justice administrative - art. R611-8-2 (VD)
-  - Code de justice administrative - art. R711-2-1 (VD)
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cité par_:
 
@@ -32185,7 +31950,7 @@ _Cité par_:
   - Code de justice administrative - art. R776-13-2 (V)
 
 
-##### Section 4 : Dispositions applicables en cas de détention<a id=404></a>
+##### Section 4 : Dispositions applicables en cas de détention<a id=401></a>
 
 ###### Article R776-29
 
@@ -32307,7 +32072,7 @@ _Créé par_:
   - Décret n°2018-1142 du 12 décembre 2018 - art. 7
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=405></a>
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière<a id=402></a>
 
 ###### Article R777-1
 
@@ -32514,7 +32279,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 1
 
 
-#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=406></a>
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile<a id=403></a>
 
 ###### Article R777-2
 
@@ -32690,9 +32455,9 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 2
 
 
-#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=407></a>
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile<a id=404></a>
 
-##### Section 1 : Dispositions communes<a id=408></a>
+##### Section 1 : Dispositions communes<a id=405></a>
 
 ###### Article R777-3
 
@@ -32794,7 +32559,7 @@ _Créé par_:
   - Décret n°2015-1364 du 28 octobre 2015 - art. 3
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=409></a>
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence<a id=406></a>
 
 ###### Article R777-3-5
 
@@ -32851,7 +32616,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
 
 
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=410></a>
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence<a id=407></a>
 
 ###### Article R777-3-8
 
@@ -32894,7 +32659,7 @@ _Cite_:
   - Code de justice administrative - art. R776-6
 
 
-#### Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile<a id=411></a>
+#### Chapitre VII quater : Le sursis à exécution des mesures d'éloignement visant les demandeurs d'asile<a id=408></a>
 
 ###### Article R777-4
 
@@ -32975,7 +32740,7 @@ _Créé par_:
   - Décret n°2018-1142 du 12 décembre 2018 - art. 8
 
 
-#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=412></a>
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme<a id=409></a>
 
 ###### Article R778-1
 
@@ -33192,9 +32957,9 @@ _Créé par_:
   - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
-#### Chapitre IX : Autres dispositions<a id=413></a>
+#### Chapitre IX : Autres dispositions<a id=410></a>
 
-##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=414></a>
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.<a id=411></a>
 
 ###### Article R779-1
 
@@ -33221,21 +32986,16 @@ _Créé par_:
 ###### Article R779-2
 
 Les requêtes sont présentées dans le délai d'exécution fixé par la décision de mise en demeure. Le délai de recours n'est pas
-prorogé par l'exercice d'un recours administratif préalable. 
+prorogé par l'exercice d'un recours administratif préalable.
 
 Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou par le téléservice
-mentionné à l'article R. 414-6, son auteur signale son urgence en sélectionnant le type de procédure dans la rubrique
+mentionné à l'article R. 414-2, son auteur signale son urgence en sélectionnant le type de procédure dans la rubrique
 correspondante.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-Les dispositions du 6° de l'article 7 du décret n° 2018-251 du 6 avril 2018 susvisé entrent en vigueur le 7 mai 2018 pour les
-instances relevant du Conseil d'Etat et des tribunaux administratifs de Cergy-Pontoise et de Melun et le 30 novembre 2018
-pour les instances relevant des cours administratives d'appel et des autres tribunaux administratifs.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -33245,12 +33005,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 7
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 
 ###### Article R779-3
@@ -33258,8 +33018,14 @@ _Cite_:
 Le délai de quarante-huit heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
 de l'heure d'enregistrement de la requête au greffe du tribunal.
 
-Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
-convocations sont réputées reçues dès leur mise à disposition dans l'application.
+Conformément au second alinéa de l'article R. 611-8-6, lorsqu'elles sont faites par voie électronique sur le fondement des
+articles R. 611-8-2, R. 611-8-3 et R. 711-2-1, les communications et convocations sont réputées reçues dès leur mise à
+disposition dans l'application ou le téléservice.
+
+**Nota:**
+
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -33269,12 +33035,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1522 du 2 novembre 2017 - art. 16
-
-_Cite_:
-
-  - Code de justice administrative - art. R611-8-2
-  - Code de justice administrative - art. R711-2-1
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 9
 
 
 ###### Article R779-4
@@ -33371,7 +33132,7 @@ _Cite_:
   - Code de justice administrative - art. R222-13 (V)
 
 
-##### Section 2 : Les actions en matière de discriminations.<a id=415></a>
+##### Section 2 : Les actions en matière de discriminations.<a id=412></a>
 
 ###### Article R779-9
 
@@ -33399,7 +33160,7 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=416></a>
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales<a id=413></a>
 
 ###### Article R779-10
 
@@ -33418,7 +33179,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1112-3
 
 
-#### Chapitre X : L'action de groupe<a id=417></a>
+#### Chapitre X : L'action de groupe<a id=414></a>
 
 ###### Article R77-10-1
 
@@ -33432,9 +33193,9 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Section 1 : Dispositions générales<a id=418></a>
+##### Section 1 : Dispositions générales<a id=415></a>
 
-##### Sous-section 1 : Détermination de la juridiction compétente<a id=419></a>
+##### Sous-section 1 : Détermination de la juridiction compétente<a id=416></a>
 
 ###### Article R77-10-2
 
@@ -33460,7 +33221,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 2 : Concours entre actions de groupe et actions individuelles<a id=420></a>
+##### Sous-section 2 : Concours entre actions de groupe et actions individuelles<a id=417></a>
 
 ###### Article R77-10-3
 
@@ -33493,7 +33254,7 @@ _Cite_:
   - Code de justice administrative - art. R77-10-11
 
 
-##### Sous-section 3 : Présentation de la requête<a id=421></a>
+##### Sous-section 3 : Présentation de la requête<a id=418></a>
 
 ###### Article R77-10-4
 
@@ -33523,7 +33284,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 4 : Représentation des parties<a id=422></a>
+##### Sous-section 4 : Représentation des parties<a id=419></a>
 
 ###### Article R77-10-6
 
@@ -33563,7 +33324,7 @@ _Cite_:
   - Code de justice administrative - art. R432-4
 
 
-##### Sous-section 5 : Jugement<a id=423></a>
+##### Sous-section 5 : Jugement<a id=420></a>
 
 ###### Article R77-10-8
 
@@ -33581,7 +33342,7 @@ _Cite_:
   - Code de justice administrative - art. R732-1-1
 
 
-##### Sous-section 6 : Voies de recours<a id=424></a>
+##### Sous-section 6 : Voies de recours<a id=421></a>
 
 ###### Article R77-10-9
 
@@ -33599,7 +33360,7 @@ _Cite_:
   - Code de justice administrative - art. R811-1
 
 
-##### Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues<a id=425></a>
+##### Sous-section 7 : Publicité des actions de groupe en cours et des décisions rendues<a id=422></a>
 
 ###### Article R77-10-10
 
@@ -33631,7 +33392,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-10-3 (V)
 
 
-##### Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué<a id=426></a>
+##### Sous-section 8 : Actions tendant aux mêmes fins qu'une action de groupe sur laquelle il a été statué<a id=423></a>
 
 ###### Article R77-10-12
 
@@ -33657,9 +33418,9 @@ _Cite_:
   - Code de justice administrative - art. R222-1
 
 
-##### Section 3 : Réparation des préjudices<a id=427></a>
+##### Section 3 : Réparation des préjudices<a id=424></a>
 
-##### Sous-section 1 : Jugement sur la responsabilité<a id=428></a>
+##### Sous-section 1 : Jugement sur la responsabilité<a id=425></a>
 
 ###### Article R77-10-13
 
@@ -33736,7 +33497,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-10-21 (V)
 
 
-##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=429></a>
+##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=426></a>
 
 ###### Article R77-10-16
 
@@ -33823,7 +33584,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=430></a>
+##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=427></a>
 
 ###### Article R77-10-21
 
@@ -33852,7 +33613,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 3
 
 
-##### Section 5 : Dispositions diverses<a id=431></a>
+##### Section 5 : Dispositions diverses<a id=428></a>
 
 ###### Article R77-10-22
 
@@ -33878,7 +33639,7 @@ _Cite_:
   - Code de justice administrative - art. L77-10-9
 
 
-#### Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur<a id=432></a>
+#### Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur<a id=429></a>
 
 ###### Article R77-11-1
 
@@ -33917,7 +33678,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 5
 
 
-#### Chapitre XII : L'action en reconnaissance de droits<a id=433></a>
+#### Chapitre XII : L'action en reconnaissance de droits<a id=430></a>
 
 ###### Article R77-12-1
 
@@ -33931,7 +33692,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 1 : Détermination de la juridiction compétente<a id=434></a>
+##### Section 1 : Détermination de la juridiction compétente<a id=431></a>
 
 ###### Article R77-12-2
 
@@ -33958,7 +33719,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles<a id=435></a>
+##### Section 2 : Concours entre actions en reconnaissance de droits et actions individuelles<a id=432></a>
 
 ###### Article R77-12-3
 
@@ -33991,7 +33752,7 @@ _Cite_:
   - Code de justice administrative - art. R77-12-12
 
 
-##### Section 3 : Présentation de la requête<a id=436></a>
+##### Section 3 : Présentation de la requête<a id=433></a>
 
 ###### Article R77-12-4
 
@@ -34041,7 +33802,7 @@ _Créé par_:
   - Décret n°2017-888 du 6 mai 2017 - art. 8
 
 
-##### Section 4 : Représentation des parties<a id=437></a>
+##### Section 4 : Représentation des parties<a id=434></a>
 
 ###### Article R77-12-7
 
@@ -34081,7 +33842,7 @@ _Cite_:
   - Code de justice administrative - art. R432-4
 
 
-##### Section 5 : Jugement<a id=438></a>
+##### Section 5 : Jugement<a id=435></a>
 
 ###### Article R77-12-9
 
@@ -34101,7 +33862,7 @@ _Cite_:
   - Code de justice administrative - art. R77-12-16
 
 
-##### Section 6 : Voies de recours<a id=439></a>
+##### Section 6 : Voies de recours<a id=436></a>
 
 ###### Article R77-12-10
 
@@ -34119,7 +33880,7 @@ _Cite_:
   - Code de justice administrative - art. R811-1
 
 
-##### Section 7 : Publicité des actions en cours et des décisions rendues<a id=440></a>
+##### Section 7 : Publicité des actions en cours et des décisions rendues<a id=437></a>
 
 ###### Article R77-12-11
 
@@ -34159,7 +33920,7 @@ _Cité par_:
   - Code de justice administrative - art. R77-12-3 (V)
 
 
-##### Section 8 : Exécution des décisions<a id=441></a>
+##### Section 8 : Exécution des décisions<a id=438></a>
 
 ###### Article R77-12-13
 
@@ -34262,7 +34023,7 @@ _Cite_:
   - Code de justice administrative - art. L77-12-5
 
 
-##### Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué<a id=442></a>
+##### Section 9 : Actions tendant aux mêmes fins qu'une action en reconnaissance de droits sur laquelle il a été statué<a id=439></a>
 
 ###### Article R77-12-19
 
@@ -34300,7 +34061,7 @@ _Cite_:
   - Code de justice administrative - art. R222-1
 
 
-#### Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires<a id=443></a>
+#### Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires<a id=440></a>
 
 ###### Article R77-13-1
 
@@ -34334,7 +34095,7 @@ _Cite_:
   - Code de justice administrative - art. R557-3
 
 
-### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=444></a>
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.<a id=441></a>
 
 ###### Article R781-1
 
@@ -34391,9 +34152,9 @@ _Créé par_:
   - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
-## Livre VIII : Les voies de recours.<a id=445></a>
+## Livre VIII : Les voies de recours.<a id=442></a>
 
-### Titre Ier : L'appel<a id=446></a>
+### Titre Ier : L'appel<a id=443></a>
 
 ###### Article R811-1
 
@@ -35149,9 +34910,9 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R127 (Ab)
 
 
-### Titre II : Le recours en cassation<a id=447></a>
+### Titre II : Le recours en cassation<a id=444></a>
 
-#### Chapitre Ier : Dispositions générales<a id=448></a>
+#### Chapitre Ier : Dispositions générales<a id=445></a>
 
 ###### Article R821-1
 
@@ -35327,7 +35088,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre II : Procédure d'admission<a id=449></a>
+#### Chapitre II : Procédure d'admission<a id=446></a>
 
 ###### Article R822-1
 
@@ -35515,9 +35276,9 @@ _Cite_:
   - Code de justice administrative - art. R611-7 (V)
 
 
-### Titre III : Autres voies de recours<a id=450></a>
+### Titre III : Autres voies de recours<a id=447></a>
 
-#### Chapitre Ier : L'opposition<a id=451></a>
+#### Chapitre Ier : L'opposition<a id=448></a>
 
 ###### Article R831-1
 
@@ -35648,7 +35409,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R223 (Ab)
 
 
-#### Chapitre II : La tierce opposition<a id=452></a>
+#### Chapitre II : La tierce opposition<a id=449></a>
 
 ###### Article R832-1
 
@@ -35751,7 +35512,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=453></a>
+#### Chapitre III : Le recours en rectification d'erreur matérielle<a id=450></a>
 
 ###### Article R833-1
 
@@ -35806,7 +35567,7 @@ _Cite_:
   - Code de justice administrative - art. R811-5 (V)
 
 
-#### Chapitre IV : Le recours en révision<a id=454></a>
+#### Chapitre IV : Le recours en révision<a id=451></a>
 
 ###### Article R834-1
 
@@ -35896,9 +35657,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
-## Livre IX : L'exécution des décisions<a id=455></a>
+## Livre IX : L'exécution des décisions<a id=452></a>
 
-### Titre Ier : Principes<a id=456></a>
+### Titre Ier : Principes<a id=453></a>
 
 ###### Article R911-1
 
@@ -35961,7 +35722,7 @@ _Créé par_:
 
 Les demandes d'exécution des décisions rendues par les tribunaux administratifs, les cours administratives d'appel ou le
 Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1 ou par le
-téléservice mentionné à l'article R. 414-6. 
+téléservice mentionné à l'article R. 414-2.
 
 La juridiction compétente ou la section du rapport et des études du Conseil d'Etat peut, par le moyen de la même application,
 adresser à l'autorité administrative les communications et notifications nécessaires à l'exécution de la décision et informer
@@ -35969,25 +35730,22 @@ le demandeur de la suite donnée à sa demande.
 
 **Nota:**
 
-Conformément à l'article 10 du décret n° 2018-251 du 6 avril 2018, les présentes dispositions entrent en vigueur aux dates
-fixées, selon les juridictions, par arrêté du garde des sceaux, ministre de la justice, et au plus tard dans un délai d'un an
-suivant la publication du présent décret.
-
-L'article 1er de l'arrêté du 2 mai 2018 a fixé l'entrée en vigueur de ces dispositions le 1er mars 2019.
+Conformément au I de l'article 11 du décret n° 2020-1245 du 9 octobre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-251 du 6 avril 2018 - art. 8
+  - Décret n°2020-1245 du 9 octobre 2020 - art. 10
 
 _Cite_:
 
   - Code de justice administrative - art. R414-1
-  - Code de justice administrative - art. R414-6 (VD)
+  - Code de justice administrative - art. R414-6
 
 
-### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=457></a>
+### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel<a id=454></a>
 
 ###### Article R921-1
 
@@ -36217,7 +35975,7 @@ _Anciens textes_:
   - Code des tribunaux administratifs et des cours adm - art. R222-5 (Ab)
 
 
-### Titre III : Dispositions applicables au Conseil d'Etat<a id=458></a>
+### Titre III : Dispositions applicables au Conseil d'Etat<a id=455></a>
 
 ###### Article R931-1
 
